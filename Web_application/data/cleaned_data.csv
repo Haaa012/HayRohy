@@ -1,0 +1,3001 @@
+Age,Gender,Total_Spent,Quantity,Channel,Category,Cluster,Avg_Price,Loyal_Customer
+47,Male,687.88,1,Phone,Bags,0,687.88,1
+48,Female,1799.09,1,Mobile App,Outerwear,3,1799.09,1
+30,Female,470.26,1,In-Store,Accessories,1,470.26,0
+22,Female,144.24,1,In-Store,Accessories,1,144.24,0
+18,Male,686.13,1,Phone,Electronics,0,686.13,1
+26,Female,317.52,1,In-Store,Accessories,1,317.52,0
+28,Male,59.37,1,Online,Electronics,1,59.37,0
+29,Male,386.84,2,In-Store,Footwear,1,193.42,0
+36,Female,616.93,5,Online,Electronics,2,123.386,1
+20,Male,593.59,1,Mobile App,Clothing,1,593.59,0
+30,Female,521.03,2,Phone,Outerwear,1,260.515,0
+28,Female,395.68,4,Online,Accessories,2,98.92,0
+25,Female,1155.22,3,Mobile App,Accessories,0,385.0733333333333,1
+27,Male,59.92,1,Phone,Footwear,1,59.92,0
+23,Male,169.85,2,Mobile App,Bags,1,84.925,0
+27,Female,166.86,1,Phone,Electronics,1,166.86,0
+22,Male,421.41,2,Online,Accessories,1,210.705,0
+39,Female,264.81,1,Online,Outerwear,4,264.81,0
+31,Male,961.06,1,Phone,Footwear,0,961.06,1
+49,Female,956.97,1,Phone,Accessories,0,956.97,1
+21,Male,67.86,1,Online,Footwear,1,67.86,0
+46,Male,864.6,2,Phone,Footwear,0,432.3,1
+38,Female,376.59,1,Online,Accessories,4,376.59,0
+38,Male,966.23,2,Phone,Electronics,0,483.115,1
+49,Female,416.84,1,Online,Accessories,4,416.84,0
+31,Female,632.39,1,In-Store,Footwear,0,632.39,1
+34,Male,337.18,2,Online,Outerwear,1,168.59,0
+40,Male,479.0,5,Online,Electronics,2,95.8,1
+32,Female,454.46,1,Phone,Accessories,1,454.46,0
+37,Female,285.22,1,Online,Footwear,4,285.22,0
+18,Female,317.87,3,Online,Electronics,2,105.95666666666666,0
+33,Female,111.63,1,Phone,Bags,1,111.63,0
+43,Female,575.04,3,Mobile App,Accessories,2,191.67999999999998,1
+41,Female,189.64,2,Online,Outerwear,4,94.82,0
+26,Female,1173.46,1,Online,Electronics,3,1173.46,1
+31,Male,240.86,1,Mobile App,Clothing,1,240.86,0
+37,Female,511.74,1,In-Store,Electronics,0,511.74,0
+40,Male,442.88,1,In-Store,Clothing,4,442.88,0
+43,Male,1008.77,3,Mobile App,Beauty,0,336.25666666666666,1
+43,Male,225.1,2,Online,Media,4,112.55,0
+35,Female,435.87,2,Phone,Footwear,4,217.935,0
+44,Female,259.58,3,Online,Footwear,2,86.52666666666666,0
+18,Female,799.75,1,Online,Accessories,0,799.75,1
+42,Male,131.81,2,Phone,Outerwear,4,65.905,0
+43,Female,99.71,1,Phone,Electronics,4,99.71,0
+18,Female,237.34,3,Online,Electronics,2,79.11333333333333,0
+45,Female,282.69,1,In-Store,Clothing,4,282.69,0
+35,Male,294.02,2,Online,Clothing,4,147.01,0
+52,Male,253.65,3,Phone,Electronics,4,84.55,0
+29,Male,710.0,1,Phone,Electronics,0,710.0,1
+39,Male,247.15,1,Phone,Footwear,4,247.15,0
+38,Male,173.07,2,Mobile App,Accessories,4,86.535,0
+25,Female,50.0,1,In-Store,Electronics,1,50.0,0
+41,Female,538.36,2,Phone,Electronics,4,269.18,0
+41,Male,145.89,4,Mobile App,Electronics,2,36.4725,0
+18,Male,279.07,1,Phone,Electronics,1,279.07,0
+24,Female,106.2,1,In-Store,Accessories,1,106.2,0
+35,Male,730.19,2,Mobile App,Electronics,0,365.095,1
+40,Male,348.46,1,Mobile App,Electronics,4,348.46,0
+54,Male,716.91,1,In-Store,Clothing,0,716.91,1
+23,Male,122.2,4,Mobile App,Accessories,2,30.55,0
+43,Male,836.7,2,Mobile App,Accessories,0,418.35,1
+46,Male,358.43,1,In-Store,Media,4,358.43,0
+40,Female,344.04,1,Mobile App,Accessories,4,344.04,0
+31,Male,90.72,2,Phone,Media,1,45.36,0
+42,Male,108.04,3,In-Store,Footwear,2,36.013333333333335,0
+28,Female,456.37,3,In-Store,Beauty,2,152.12333333333333,0
+40,Female,102.22,1,Mobile App,Footwear,4,102.22,0
+18,Female,769.96,4,Online,Accessories,2,192.49,1
+47,Male,495.81,2,In-Store,Accessories,4,247.905,0
+22,Male,421.95,2,Phone,Accessories,1,210.975,0
+30,Female,171.76,2,Mobile App,Electronics,1,85.88,0
+23,Male,516.6,1,Mobile App,Electronics,1,516.6,0
+33,Male,490.84,4,Phone,Electronics,2,122.71,0
+31,Female,364.53,1,Mobile App,Accessories,1,364.53,0
+34,Male,218.74,1,Mobile App,Outerwear,1,218.74,0
+52,Male,833.9,3,Phone,Accessories,4,277.96666666666664,1
+49,Female,525.48,2,Mobile App,Accessories,4,262.74,0
+34,Male,1002.46,3,Online,Beauty,2,334.15333333333336,1
+32,Female,1113.32,2,In-Store,Electronics,0,556.66,1
+25,Female,349.7,1,Online,Clothing,1,349.7,0
+31,Female,820.59,4,Mobile App,Accessories,2,205.1475,1
+27,Female,436.83,1,Mobile App,Accessories,1,436.83,0
+31,Male,50.0,3,Mobile App,Media,2,16.666666666666668,0
+42,Male,140.79,1,Online,Accessories,4,140.79,0
+18,Female,226.59,3,Mobile App,Accessories,2,75.53,0
+18,Male,695.36,1,Phone,Accessories,0,695.36,1
+46,Male,727.13,2,In-Store,Accessories,4,363.565,1
+21,Female,494.23,3,Phone,Accessories,2,164.74333333333334,0
+53,Female,772.75,1,In-Store,Electronics,0,772.75,1
+52,Female,917.42,2,Phone,Clothing,0,458.71,1
+42,Female,573.72,3,Online,Accessories,2,191.24,1
+24,Male,181.8,2,Phone,Electronics,1,90.9,0
+41,Female,559.32,4,Phone,Electronics,2,139.83,1
+40,Male,728.89,1,In-Store,Footwear,0,728.89,1
+52,Male,576.11,1,Phone,Clothing,4,576.11,0
+46,Male,360.19,1,Mobile App,Electronics,4,360.19,0
+20,Female,167.66,1,In-Store,Accessories,1,167.66,0
+27,Male,170.06,1,In-Store,Beauty,1,170.06,0
+26,Male,340.41,2,Online,Media,1,170.205,0
+45,Female,617.02,1,Online,Media,0,617.02,0
+29,Female,527.59,1,Phone,Electronics,0,527.59,0
+47,Male,828.7,1,Mobile App,Clothing,0,828.7,1
+21,Male,404.09,3,In-Store,Footwear,2,134.69666666666666,0
+41,Female,230.39,2,In-Store,Electronics,4,115.195,0
+27,Female,513.44,1,Mobile App,Clothing,1,513.44,0
+18,Male,795.56,3,Mobile App,Accessories,2,265.18666666666667,1
+41,Male,246.32,1,In-Store,Outerwear,4,246.32,0
+41,Male,190.98,5,Online,Beauty,2,38.196,0
+52,Male,536.01,2,In-Store,Clothing,4,268.005,0
+18,Male,96.87,1,In-Store,Accessories,1,96.87,0
+48,Male,382.44,2,Online,Electronics,4,191.22,0
+43,Male,302.49,3,In-Store,Accessories,2,100.83,0
+42,Male,829.37,1,Mobile App,Electronics,0,829.37,1
+42,Male,356.96,3,In-Store,Electronics,2,118.98666666666666,0
+28,Female,331.87,1,Mobile App,Clothing,1,331.87,0
+33,Female,65.0,1,Online,Accessories,1,65.0,0
+42,Male,660.71,1,In-Store,Accessories,0,660.71,1
+50,Female,951.28,1,Mobile App,Accessories,0,951.28,1
+59,Male,679.23,1,In-Store,Clothing,0,679.23,1
+47,Female,1310.39,4,Online,Electronics,2,327.5975,1
+29,Female,555.01,1,Phone,Outerwear,0,555.01,0
+18,Male,269.03,1,Phone,Electronics,1,269.03,0
+41,Male,679.51,2,Mobile App,Bags,0,339.755,1
+45,Female,497.08,3,Phone,Beauty,2,165.69333333333333,0
+27,Male,154.73,5,In-Store,Accessories,2,30.945999999999998,0
+52,Female,553.05,3,Mobile App,Electronics,4,184.35,1
+19,Male,610.56,5,Phone,Footwear,2,122.112,1
+51,Male,567.39,3,Online,Footwear,4,189.13,1
+22,Female,489.32,4,In-Store,Clothing,2,122.33,0
+24,Male,759.7,2,Mobile App,Clothing,1,379.85,1
+40,Female,1356.47,1,Phone,Outerwear,3,1356.47,1
+45,Male,166.91,1,Phone,Outerwear,4,166.91,0
+71,Female,574.43,2,In-Store,Footwear,4,287.215,0
+21,Female,454.05,1,Online,Electronics,1,454.05,0
+44,Male,307.36,1,Phone,Bags,4,307.36,0
+33,Male,228.23,2,Phone,Accessories,1,114.115,0
+33,Female,132.55,4,In-Store,Media,2,33.1375,0
+42,Female,355.37,1,Mobile App,Accessories,4,355.37,0
+37,Male,275.78,3,Mobile App,Accessories,2,91.92666666666666,0
+38,Male,763.63,2,Phone,Footwear,0,381.815,1
+49,Female,420.44,4,Online,Accessories,2,105.11,0
+28,Male,354.6,4,Phone,Footwear,2,88.65,0
+39,Female,478.73,3,Online,Beauty,2,159.57666666666668,0
+32,Female,216.58,2,Phone,Accessories,1,108.29,0
+27,Female,228.03,1,In-Store,Clothing,1,228.03,0
+29,Male,306.62,2,Phone,Accessories,1,153.31,0
+18,Female,220.06,3,In-Store,Accessories,2,73.35333333333334,0
+20,Female,151.37,3,In-Store,Bags,2,50.45666666666667,0
+30,Male,256.48,3,In-Store,Footwear,2,85.49333333333334,0
+29,Female,379.34,1,Mobile App,Media,1,379.34,0
+30,Male,481.24,2,In-Store,Electronics,1,240.62,0
+34,Male,199.03,1,Mobile App,Electronics,1,199.03,0
+51,Female,585.98,1,Mobile App,Bags,0,585.98,0
+37,Male,2296.67,1,Mobile App,Beauty,3,2296.67,1
+18,Female,653.43,1,Mobile App,Accessories,0,653.43,1
+34,Female,208.2,3,Phone,Electronics,2,69.39999999999999,0
+20,Male,50.0,1,Mobile App,Electronics,1,50.0,0
+56,Female,954.01,1,Mobile App,Footwear,0,954.01,1
+30,Male,755.51,4,In-Store,Beauty,2,188.8775,1
+31,Male,815.61,1,Mobile App,Beauty,0,815.61,1
+55,Male,446.06,1,Mobile App,Electronics,4,446.06,0
+49,Female,484.49,1,Online,Electronics,4,484.49,0
+31,Female,717.56,1,Phone,Electronics,0,717.56,1
+53,Female,345.94,1,Mobile App,Accessories,4,345.94,0
+38,Female,148.98,1,Phone,Clothing,4,148.98,0
+61,Male,492.48,2,In-Store,Outerwear,4,246.24,0
+18,Female,601.56,1,Mobile App,Clothing,1,601.56,0
+37,Female,169.04,1,Online,Accessories,4,169.04,0
+24,Female,223.78,3,Online,Accessories,2,74.59333333333333,0
+28,Female,600.22,1,Online,Clothing,0,600.22,0
+35,Female,561.22,4,Online,Footwear,2,140.305,1
+49,Female,308.93,1,Mobile App,Footwear,4,308.93,0
+36,Female,182.21,1,Online,Electronics,4,182.21,0
+28,Female,497.82,3,Online,Media,2,165.94,0
+26,Male,233.08,1,In-Store,Accessories,1,233.08,0
+24,Male,191.11,1,Online,Beauty,1,191.11,0
+38,Male,573.91,2,Mobile App,Accessories,4,286.955,0
+27,Male,547.69,1,Online,Beauty,0,547.69,0
+26,Female,310.0,3,Online,Accessories,2,103.33333333333333,0
+23,Male,193.19,4,Phone,Electronics,2,48.2975,0
+34,Male,721.83,1,Phone,Accessories,0,721.83,1
+27,Female,454.75,2,In-Store,Electronics,1,227.375,0
+58,Male,366.16,2,Online,Bags,4,183.08,0
+51,Male,296.78,5,In-Store,Accessories,2,59.355999999999995,0
+21,Female,648.06,3,Mobile App,Electronics,2,216.01999999999998,1
+37,Male,215.86,4,Phone,Electronics,2,53.965,0
+35,Male,1347.3,1,Mobile App,Electronics,3,1347.3,1
+34,Male,317.22,3,Mobile App,Clothing,2,105.74000000000001,0
+37,Female,195.19,1,Online,Bags,4,195.19,0
+30,Female,143.45,1,Phone,Outerwear,1,143.45,0
+52,Male,306.0,4,Phone,Clothing,2,76.5,0
+26,Female,697.19,1,In-Store,Clothing,0,697.19,1
+43,Male,422.59,4,Phone,Outerwear,2,105.6475,0
+36,Female,1011.25,1,In-Store,Electronics,0,1011.25,1
+26,Male,109.98,3,In-Store,Footwear,2,36.660000000000004,0
+36,Female,497.2,1,Mobile App,Accessories,0,497.2,0
+43,Male,122.41,1,Online,Accessories,4,122.41,0
+45,Male,263.49,1,In-Store,Electronics,4,263.49,0
+38,Female,561.98,2,Mobile App,Bags,4,280.99,0
+45,Male,144.12,1,In-Store,Electronics,4,144.12,0
+19,Female,58.43,2,Mobile App,Accessories,1,29.215,0
+30,Female,238.99,1,Online,Electronics,1,238.99,0
+21,Female,503.76,1,Online,Accessories,1,503.76,0
+21,Male,345.17,1,In-Store,Accessories,1,345.17,0
+40,Female,406.99,1,Mobile App,Electronics,4,406.99,0
+18,Male,638.11,3,Mobile App,Electronics,2,212.70333333333335,1
+44,Male,219.87,3,Online,Electronics,2,73.29,0
+55,Female,411.55,1,Phone,Electronics,4,411.55,0
+42,Female,183.06,2,Phone,Electronics,4,91.53,0
+27,Female,197.81,3,Mobile App,Electronics,2,65.93666666666667,0
+18,Male,411.03,1,In-Store,Electronics,1,411.03,0
+28,Female,373.12,1,Online,Electronics,1,373.12,0
+18,Female,96.08,2,In-Store,Electronics,1,48.04,0
+58,Female,476.06,1,Mobile App,Electronics,4,476.06,0
+22,Male,716.88,1,Mobile App,Clothing,0,716.88,1
+24,Female,1212.24,1,Phone,Beauty,3,1212.24,1
+44,Male,78.73,2,Mobile App,Outerwear,4,39.365,0
+23,Female,570.88,1,Online,Clothing,1,570.88,0
+41,Male,165.25,1,Online,Clothing,4,165.25,0
+63,Female,502.17,1,Mobile App,Accessories,4,502.17,0
+26,Male,390.27,1,Online,Electronics,1,390.27,0
+32,Female,604.24,1,Phone,Accessories,0,604.24,0
+34,Female,526.92,4,Mobile App,Electronics,2,131.73,1
+30,Male,1475.31,1,In-Store,Electronics,3,1475.31,1
+18,Female,539.35,2,Online,Clothing,1,269.675,0
+47,Female,312.39,1,In-Store,Footwear,4,312.39,0
+18,Female,236.97,2,Phone,Footwear,1,118.485,0
+27,Male,862.44,2,In-Store,Electronics,0,431.22,1
+34,Female,167.01,1,Online,Clothing,1,167.01,0
+29,Male,657.66,3,Phone,Accessories,2,219.22,1
+40,Male,667.22,1,Online,Electronics,0,667.22,1
+18,Male,245.34,3,Mobile App,Electronics,2,81.78,0
+39,Female,1386.88,1,Online,Footwear,3,1386.88,1
+18,Male,214.72,5,Online,Electronics,2,42.944,0
+36,Male,486.66,3,Mobile App,Beauty,2,162.22,0
+30,Female,394.67,4,Mobile App,Footwear,2,98.6675,0
+38,Male,206.31,2,Mobile App,Clothing,4,103.155,0
+27,Female,439.65,1,In-Store,Media,1,439.65,0
+18,Male,726.48,3,Mobile App,Accessories,2,242.16,1
+40,Female,997.47,3,Mobile App,Media,0,332.49,1
+29,Female,301.43,4,Phone,Accessories,2,75.3575,0
+55,Male,231.15,1,Online,Media,4,231.15,0
+33,Male,197.12,3,Online,Electronics,2,65.70666666666666,0
+38,Female,354.93,1,Mobile App,Clothing,4,354.93,0
+20,Female,261.74,2,Online,Accessories,1,130.87,0
+18,Male,476.42,1,Online,Clothing,1,476.42,0
+39,Male,361.37,1,Mobile App,Accessories,4,361.37,0
+37,Male,654.44,4,Online,Electronics,2,163.61,1
+52,Female,319.25,1,Mobile App,Clothing,4,319.25,0
+26,Female,1269.11,2,Online,Accessories,0,634.555,1
+31,Male,450.91,2,Mobile App,Electronics,1,225.455,0
+49,Female,591.0,1,In-Store,Accessories,0,591.0,0
+43,Male,380.69,1,Online,Electronics,4,380.69,0
+34,Male,788.61,2,In-Store,Electronics,0,394.305,1
+43,Female,60.86,1,Phone,Accessories,4,60.86,0
+33,Female,625.92,3,In-Store,Media,2,208.64,1
+50,Male,173.43,5,Phone,Accessories,2,34.686,0
+33,Female,662.14,1,Phone,Electronics,0,662.14,1
+35,Female,273.03,1,In-Store,Electronics,1,273.03,0
+26,Male,436.61,1,Phone,Electronics,1,436.61,0
+40,Male,132.83,2,Mobile App,Media,4,66.415,0
+40,Male,62.43,1,Online,Accessories,4,62.43,0
+31,Male,334.7,1,In-Store,Beauty,1,334.7,0
+39,Female,465.57,2,In-Store,Electronics,4,232.785,0
+24,Male,290.31,4,Online,Accessories,2,72.5775,0
+47,Female,1295.36,1,In-Store,Accessories,3,1295.36,1
+30,Female,219.86,1,Mobile App,Beauty,1,219.86,0
+33,Male,653.37,4,Mobile App,Electronics,2,163.3425,1
+36,Male,312.5,2,In-Store,Accessories,4,156.25,0
+35,Male,266.62,2,In-Store,Electronics,4,133.31,0
+26,Female,803.13,2,Mobile App,Accessories,0,401.565,1
+18,Male,877.44,5,Online,Electronics,2,175.488,1
+18,Male,386.32,2,Online,Accessories,1,193.16,0
+40,Female,389.4,3,Phone,Outerwear,2,129.79999999999998,0
+27,Male,451.53,2,Phone,Accessories,1,225.765,0
+40,Female,685.83,2,In-Store,Electronics,0,342.915,1
+42,Male,274.66,1,Mobile App,Outerwear,4,274.66,0
+33,Male,197.27,1,In-Store,Electronics,1,197.27,0
+43,Female,220.63,3,In-Store,Clothing,2,73.54333333333334,0
+18,Female,238.52,1,Online,Accessories,1,238.52,0
+43,Female,50.0,2,Online,Accessories,4,25.0,0
+50,Male,572.78,1,Phone,Accessories,0,572.78,0
+32,Male,377.35,3,Online,Clothing,2,125.78333333333335,0
+21,Male,59.15,1,In-Store,Electronics,1,59.15,0
+53,Female,199.89,3,Mobile App,Bags,4,66.63,0
+19,Male,542.1,2,Online,Accessories,1,271.05,0
+31,Male,695.47,1,Phone,Media,0,695.47,1
+18,Male,234.35,2,Phone,Beauty,1,117.175,0
+41,Male,916.49,1,Online,Accessories,0,916.49,1
+21,Female,316.65,1,Online,Accessories,1,316.65,0
+51,Male,153.35,1,Mobile App,Beauty,4,153.35,0
+45,Female,1386.4,1,Online,Accessories,3,1386.4,1
+31,Female,63.13,5,In-Store,Outerwear,2,12.626000000000001,0
+18,Female,50.0,1,Phone,Accessories,1,50.0,0
+48,Female,536.31,2,Phone,Beauty,4,268.155,0
+37,Female,589.74,1,In-Store,Accessories,0,589.74,0
+52,Female,690.54,2,Phone,Clothing,4,345.27,1
+23,Male,233.08,1,Phone,Footwear,1,233.08,0
+42,Male,281.71,2,Online,Clothing,4,140.855,0
+45,Female,552.47,2,In-Store,Electronics,4,276.235,0
+45,Male,1323.98,2,In-Store,Accessories,0,661.99,1
+43,Female,1243.31,1,In-Store,Outerwear,3,1243.31,1
+46,Male,230.2,2,Mobile App,Outerwear,4,115.1,0
+22,Male,687.35,1,Mobile App,Outerwear,0,687.35,1
+25,Male,692.05,1,Online,Accessories,0,692.05,1
+38,Female,186.47,1,Online,Accessories,4,186.47,0
+31,Female,247.86,1,Online,Accessories,1,247.86,0
+18,Male,272.13,1,Online,Outerwear,1,272.13,0
+31,Female,134.01,2,Mobile App,Clothing,1,67.005,0
+57,Female,278.32,1,In-Store,Accessories,4,278.32,0
+24,Female,464.47,1,In-Store,Accessories,1,464.47,0
+46,Female,252.69,1,Online,Accessories,4,252.69,0
+35,Female,85.7,2,In-Store,Clothing,1,42.85,0
+47,Male,160.14,2,Mobile App,Footwear,4,80.07,0
+31,Male,416.98,1,In-Store,Electronics,1,416.98,0
+18,Female,388.65,2,Phone,Accessories,1,194.325,0
+36,Female,528.27,2,Online,Accessories,4,264.135,0
+36,Male,738.23,1,Phone,Electronics,0,738.23,1
+21,Male,257.28,2,In-Store,Accessories,1,128.64,0
+35,Female,808.52,2,Online,Accessories,0,404.26,1
+20,Female,139.93,2,In-Store,Accessories,1,69.965,0
+30,Male,185.09,1,In-Store,Clothing,1,185.09,0
+38,Male,694.93,1,Online,Accessories,0,694.93,1
+43,Male,150.25,1,Online,Electronics,4,150.25,0
+25,Male,766.63,2,In-Store,Media,1,383.315,1
+36,Male,681.21,3,In-Store,Accessories,2,227.07000000000002,1
+68,Male,50.0,1,In-Store,Accessories,4,50.0,0
+45,Female,108.48,1,Online,Clothing,4,108.48,0
+27,Female,199.73,3,Mobile App,Media,2,66.57666666666667,0
+31,Female,351.35,3,Online,Accessories,2,117.11666666666667,0
+38,Male,1073.23,3,Online,Electronics,0,357.74333333333334,1
+39,Male,192.28,2,Online,Electronics,4,96.14,0
+18,Male,134.68,3,Online,Accessories,2,44.89333333333334,0
+48,Female,183.11,1,Online,Clothing,4,183.11,0
+38,Male,802.14,1,Mobile App,Electronics,0,802.14,1
+47,Male,500.91,1,Phone,Accessories,4,500.91,0
+48,Female,140.86,2,Online,Outerwear,4,70.43,0
+40,Male,300.6,1,Online,Accessories,4,300.6,0
+18,Female,274.16,1,Online,Bags,1,274.16,0
+39,Male,1785.41,1,In-Store,Accessories,3,1785.41,1
+27,Male,480.92,1,Mobile App,Footwear,1,480.92,0
+24,Male,680.53,3,Phone,Clothing,2,226.84333333333333,1
+19,Male,383.47,1,In-Store,Footwear,1,383.47,0
+27,Male,193.92,1,Mobile App,Accessories,1,193.92,0
+22,Female,903.59,3,In-Store,Clothing,2,301.19666666666666,1
+41,Female,243.27,1,Phone,Electronics,4,243.27,0
+60,Female,789.63,2,Phone,Electronics,4,394.815,1
+56,Female,350.37,3,In-Store,Outerwear,4,116.79,0
+33,Female,166.24,4,Online,Footwear,2,41.56,0
+49,Male,1022.99,3,Online,Electronics,0,340.99666666666667,1
+28,Female,620.49,1,Mobile App,Accessories,0,620.49,1
+33,Male,413.75,2,Phone,Clothing,1,206.875,0
+23,Female,249.02,1,In-Store,Electronics,1,249.02,0
+33,Male,107.74,1,In-Store,Bags,1,107.74,0
+35,Male,157.61,1,Mobile App,Accessories,1,157.61,0
+18,Female,250.95,1,Mobile App,Accessories,1,250.95,0
+46,Female,267.41,3,In-Store,Clothing,4,89.13666666666667,0
+58,Male,644.79,1,Phone,Clothing,0,644.79,1
+41,Male,420.33,2,Mobile App,Accessories,4,210.165,0
+20,Male,50.82,1,Mobile App,Media,1,50.82,0
+52,Male,406.25,1,Mobile App,Clothing,4,406.25,0
+23,Female,170.25,4,In-Store,Accessories,2,42.5625,0
+43,Male,1682.76,1,In-Store,Accessories,3,1682.76,1
+49,Male,69.65,2,Phone,Electronics,4,34.825,0
+46,Female,219.57,1,Online,Accessories,4,219.57,0
+35,Male,378.55,1,In-Store,Beauty,1,378.55,0
+44,Female,396.83,1,Phone,Electronics,4,396.83,0
+34,Female,246.59,3,Mobile App,Beauty,2,82.19666666666667,0
+37,Male,529.55,1,Mobile App,Clothing,0,529.55,0
+52,Male,458.7,1,Mobile App,Accessories,4,458.7,0
+25,Female,499.83,1,Online,Electronics,1,499.83,0
+41,Male,607.08,3,Online,Bags,2,202.36,1
+25,Female,488.65,2,Phone,Electronics,1,244.325,0
+18,Female,416.4,2,In-Store,Outerwear,1,208.2,0
+40,Female,276.63,1,Phone,Accessories,4,276.63,0
+30,Female,114.34,3,In-Store,Footwear,2,38.11333333333334,0
+53,Female,920.25,3,Online,Bags,4,306.75,1
+37,Female,352.27,3,Mobile App,Accessories,2,117.42333333333333,0
+18,Male,423.58,3,Phone,Accessories,2,141.19333333333333,0
+40,Female,877.37,2,Online,Media,0,438.685,1
+28,Female,568.27,1,Online,Beauty,0,568.27,0
+48,Female,1505.03,3,Online,Electronics,0,501.6766666666667,1
+18,Male,515.53,4,Online,Accessories,2,128.8825,1
+19,Female,449.8,1,Phone,Accessories,1,449.8,0
+51,Male,757.57,1,Online,Accessories,0,757.57,1
+43,Female,174.38,4,In-Store,Outerwear,2,43.595,0
+20,Female,307.56,1,In-Store,Bags,1,307.56,0
+29,Male,104.15,3,Online,Media,2,34.71666666666667,0
+38,Male,50.0,1,Online,Accessories,4,50.0,0
+48,Female,299.88,1,Phone,Accessories,4,299.88,0
+26,Male,367.8,1,In-Store,Bags,1,367.8,0
+55,Female,1730.73,1,In-Store,Accessories,3,1730.73,1
+41,Male,454.64,1,Mobile App,Clothing,4,454.64,0
+37,Female,136.77,1,Online,Outerwear,4,136.77,0
+29,Male,740.81,2,Online,Bags,0,370.405,1
+33,Female,389.46,5,Mobile App,Outerwear,2,77.892,0
+18,Male,370.84,1,Online,Clothing,1,370.84,0
+46,Female,50.0,2,Online,Accessories,4,25.0,0
+21,Male,1122.22,2,In-Store,Accessories,0,561.11,1
+30,Female,381.71,2,Online,Media,1,190.855,0
+36,Female,658.17,2,Online,Electronics,0,329.085,1
+23,Female,74.99,1,In-Store,Footwear,1,74.99,0
+42,Male,789.98,1,In-Store,Clothing,0,789.98,1
+44,Male,393.47,1,Phone,Accessories,4,393.47,0
+24,Male,118.06,1,In-Store,Accessories,1,118.06,0
+35,Female,486.03,2,Online,Beauty,4,243.015,0
+18,Male,497.27,1,Online,Accessories,1,497.27,0
+28,Female,233.22,3,Phone,Accessories,2,77.74,0
+54,Male,706.95,4,In-Store,Electronics,2,176.7375,1
+40,Male,441.45,5,Mobile App,Accessories,2,88.28999999999999,0
+30,Male,856.29,4,Phone,Accessories,2,214.0725,1
+18,Female,370.2,1,Online,Media,1,370.2,0
+35,Female,190.02,2,Online,Footwear,4,95.01,0
+54,Male,1324.42,1,Phone,Electronics,3,1324.42,1
+20,Female,59.61,3,Phone,Electronics,2,19.87,0
+22,Male,131.56,3,Mobile App,Electronics,2,43.85333333333333,0
+38,Female,1570.76,3,Phone,Media,0,523.5866666666667,1
+54,Female,982.67,1,Phone,Electronics,0,982.67,1
+27,Male,799.9,3,Mobile App,Beauty,2,266.6333333333333,1
+22,Female,595.94,1,In-Store,Beauty,1,595.94,0
+44,Female,156.4,1,In-Store,Footwear,4,156.4,0
+34,Male,1417.41,3,Phone,Beauty,0,472.47,1
+18,Male,50.0,1,Online,Electronics,1,50.0,0
+34,Male,431.56,5,Online,Electronics,2,86.312,0
+30,Male,389.29,1,In-Store,Footwear,1,389.29,0
+19,Male,606.79,3,In-Store,Accessories,2,202.26333333333332,1
+60,Male,1146.97,1,Mobile App,Clothing,3,1146.97,1
+35,Female,731.43,3,Online,Electronics,2,243.80999999999997,1
+37,Female,304.34,3,Online,Clothing,2,101.44666666666666,0
+50,Male,592.39,4,Mobile App,Bags,2,148.0975,1
+44,Male,222.68,1,Mobile App,Accessories,4,222.68,0
+27,Male,615.17,4,Mobile App,Accessories,2,153.7925,1
+18,Male,997.0,1,Mobile App,Media,0,997.0,1
+20,Male,82.3,1,In-Store,Accessories,1,82.3,0
+36,Female,1095.2,1,Online,Electronics,3,1095.2,1
+30,Male,1034.12,3,Mobile App,Electronics,2,344.70666666666665,1
+49,Female,1698.24,1,Mobile App,Beauty,3,1698.24,1
+18,Male,499.24,3,Mobile App,Electronics,2,166.41333333333333,0
+37,Female,160.6,2,Online,Accessories,4,80.3,0
+47,Male,350.35,1,Online,Clothing,4,350.35,0
+40,Female,1317.24,4,Phone,Electronics,2,329.31,1
+35,Male,702.05,1,Phone,Electronics,0,702.05,1
+44,Female,275.42,3,Mobile App,Clothing,2,91.80666666666667,0
+32,Female,473.47,1,Online,Beauty,1,473.47,0
+44,Female,893.65,2,Online,Accessories,0,446.825,1
+23,Male,272.06,1,In-Store,Clothing,1,272.06,0
+41,Male,1248.87,1,Phone,Electronics,3,1248.87,1
+18,Female,322.98,1,In-Store,Accessories,1,322.98,0
+50,Male,800.15,1,Phone,Electronics,0,800.15,1
+18,Female,178.3,1,Phone,Accessories,1,178.3,0
+36,Male,409.68,1,Phone,Accessories,4,409.68,0
+40,Male,533.99,1,Online,Electronics,0,533.99,0
+18,Male,128.58,3,Phone,Bags,2,42.86000000000001,0
+23,Male,384.78,2,Online,Electronics,1,192.39,0
+46,Female,267.45,3,Mobile App,Electronics,2,89.14999999999999,0
+44,Male,289.64,2,In-Store,Accessories,4,144.82,0
+28,Male,523.91,2,In-Store,Footwear,1,261.955,0
+36,Male,525.81,2,Online,Electronics,4,262.905,0
+61,Male,556.39,1,In-Store,Clothing,4,556.39,0
+30,Female,238.7,2,Online,Electronics,1,119.35,0
+33,Male,557.75,1,In-Store,Accessories,0,557.75,0
+43,Female,730.17,3,Mobile App,Accessories,2,243.39,1
+44,Female,334.52,3,Online,Bags,2,111.50666666666666,0
+47,Male,838.2,1,Online,Clothing,0,838.2,1
+41,Male,360.8,3,In-Store,Accessories,2,120.26666666666667,0
+35,Male,398.17,1,Phone,Beauty,1,398.17,0
+30,Female,761.26,1,In-Store,Electronics,0,761.26,1
+37,Male,903.11,1,Online,Outerwear,0,903.11,1
+36,Male,1495.88,3,In-Store,Outerwear,0,498.6266666666667,1
+50,Female,431.8,3,Online,Accessories,4,143.93333333333334,0
+27,Female,477.19,3,Online,Accessories,2,159.06333333333333,0
+49,Male,993.44,1,Phone,Clothing,0,993.44,1
+39,Female,726.01,2,Phone,Footwear,0,363.005,1
+46,Male,392.35,2,Phone,Electronics,4,196.175,0
+35,Female,417.39,1,In-Store,Clothing,1,417.39,0
+24,Female,173.96,2,Mobile App,Outerwear,1,86.98,0
+46,Female,229.76,1,Online,Accessories,4,229.76,0
+40,Male,397.83,1,Phone,Electronics,4,397.83,0
+18,Female,98.58,1,Online,Footwear,1,98.58,0
+47,Male,422.1,2,In-Store,Footwear,4,211.05,0
+21,Male,421.46,1,Online,Accessories,1,421.46,0
+32,Male,386.88,1,Mobile App,Media,1,386.88,0
+18,Male,976.77,1,Mobile App,Accessories,0,976.77,1
+27,Male,518.93,1,Online,Electronics,1,518.93,0
+23,Male,1005.63,1,Online,Accessories,0,1005.63,1
+45,Female,225.84,1,Online,Clothing,4,225.84,0
+45,Female,732.39,2,Phone,Media,0,366.195,1
+33,Female,103.07,1,Mobile App,Clothing,1,103.07,0
+30,Female,207.06,3,Mobile App,Footwear,2,69.02,0
+41,Female,532.63,2,Mobile App,Accessories,4,266.315,0
+31,Male,177.56,1,Phone,Accessories,1,177.56,0
+32,Male,129.85,1,Mobile App,Clothing,1,129.85,0
+18,Female,242.99,3,Mobile App,Accessories,2,80.99666666666667,0
+38,Female,411.58,1,Online,Clothing,4,411.58,0
+29,Male,204.27,1,Phone,Accessories,1,204.27,0
+18,Male,774.01,1,Mobile App,Electronics,0,774.01,1
+35,Female,562.29,2,Phone,Electronics,4,281.145,0
+34,Female,499.15,2,In-Store,Electronics,1,249.575,0
+18,Male,162.03,5,Online,Outerwear,2,32.406,0
+50,Female,115.54,3,Phone,Accessories,4,38.513333333333335,0
+28,Female,883.28,1,In-Store,Outerwear,0,883.28,1
+29,Female,153.82,1,In-Store,Footwear,1,153.82,0
+25,Female,58.69,1,Phone,Electronics,1,58.69,0
+40,Female,942.36,1,Online,Media,0,942.36,1
+31,Female,50.0,1,In-Store,Electronics,1,50.0,0
+33,Male,173.79,1,Online,Media,1,173.79,0
+22,Male,515.58,1,Phone,Clothing,1,515.58,0
+28,Female,200.87,1,Online,Clothing,1,200.87,0
+38,Female,506.61,1,In-Store,Clothing,0,506.61,0
+50,Female,438.56,4,Phone,Electronics,2,109.64,0
+37,Male,447.3,2,Mobile App,Accessories,4,223.65,0
+31,Male,213.11,5,In-Store,Electronics,2,42.622,0
+24,Female,101.48,1,Mobile App,Accessories,1,101.48,0
+18,Female,456.91,1,Online,Accessories,1,456.91,0
+24,Male,341.63,1,Mobile App,Footwear,1,341.63,0
+18,Female,652.11,1,Phone,Accessories,0,652.11,1
+50,Female,252.48,1,Phone,Electronics,4,252.48,0
+36,Male,316.08,4,Mobile App,Electronics,2,79.02,0
+33,Male,293.59,5,Mobile App,Footwear,2,58.717999999999996,0
+33,Male,514.15,1,Mobile App,Accessories,0,514.15,0
+33,Male,306.51,1,Phone,Outerwear,1,306.51,0
+38,Female,975.92,1,In-Store,Electronics,0,975.92,1
+28,Male,119.11,1,Online,Electronics,1,119.11,0
+40,Male,509.35,1,Online,Electronics,0,509.35,0
+45,Male,355.65,1,In-Store,Electronics,4,355.65,0
+28,Male,86.41,1,In-Store,Outerwear,1,86.41,0
+50,Male,1188.36,1,Phone,Footwear,3,1188.36,1
+39,Female,394.71,1,In-Store,Accessories,4,394.71,0
+30,Female,858.5,1,In-Store,Clothing,0,858.5,1
+18,Female,160.45,1,Online,Accessories,1,160.45,0
+51,Female,401.63,5,Online,Accessories,2,80.326,0
+18,Male,260.83,1,In-Store,Clothing,1,260.83,0
+44,Male,362.97,3,Online,Electronics,2,120.99000000000001,0
+33,Male,229.13,3,Online,Accessories,2,76.37666666666667,0
+18,Female,219.45,4,Online,Accessories,2,54.8625,0
+25,Male,158.06,3,Mobile App,Accessories,2,52.68666666666667,0
+34,Male,503.06,2,Mobile App,Accessories,1,251.53,0
+54,Female,1236.4,3,Phone,Accessories,0,412.1333333333334,1
+63,Female,216.05,1,Phone,Clothing,4,216.05,0
+18,Female,414.62,1,In-Store,Clothing,1,414.62,0
+33,Male,671.65,5,Mobile App,Accessories,2,134.32999999999998,1
+37,Male,390.25,3,Phone,Footwear,2,130.08333333333334,0
+18,Male,498.33,4,Mobile App,Electronics,2,124.5825,1
+37,Male,557.29,3,Online,Electronics,2,185.76333333333332,1
+33,Male,337.63,3,Online,Outerwear,2,112.54333333333334,0
+43,Female,582.38,2,Mobile App,Clothing,4,291.19,1
+48,Female,403.3,3,In-Store,Beauty,4,134.43333333333334,0
+51,Male,738.4,2,Online,Electronics,4,369.2,1
+31,Female,949.99,4,Mobile App,Beauty,2,237.4975,1
+55,Male,200.97,3,Phone,Media,4,66.99,0
+26,Male,862.38,3,Phone,Accessories,2,287.46,1
+42,Male,263.35,2,Phone,Accessories,4,131.675,0
+27,Male,153.61,1,In-Store,Electronics,1,153.61,0
+18,Female,287.97,1,Mobile App,Footwear,1,287.97,0
+24,Female,1162.42,4,In-Store,Accessories,2,290.605,1
+37,Female,185.27,2,Mobile App,Accessories,4,92.635,0
+33,Male,671.28,1,In-Store,Clothing,0,671.28,1
+40,Male,559.63,1,In-Store,Accessories,0,559.63,0
+26,Female,736.27,3,Online,Accessories,2,245.42333333333332,1
+44,Female,64.46,3,Online,Clothing,2,21.486666666666665,0
+45,Male,355.19,3,Phone,Electronics,2,118.39666666666666,0
+25,Male,71.14,2,Mobile App,Footwear,1,35.57,0
+53,Male,363.02,1,Phone,Clothing,4,363.02,0
+45,Male,435.56,1,In-Store,Accessories,4,435.56,0
+33,Female,291.94,1,Mobile App,Media,1,291.94,0
+19,Male,497.57,3,In-Store,Footwear,2,165.85666666666665,0
+57,Male,263.82,1,Mobile App,Accessories,4,263.82,0
+27,Female,576.08,2,Phone,Bags,1,288.04,0
+18,Male,166.38,2,Online,Media,1,83.19,0
+57,Male,600.3,2,Phone,Footwear,4,300.15,1
+37,Male,257.75,4,In-Store,Clothing,2,64.4375,0
+39,Male,1764.11,1,In-Store,Accessories,3,1764.11,1
+50,Male,292.88,3,In-Store,Clothing,4,97.62666666666667,0
+21,Female,407.7,1,Mobile App,Accessories,1,407.7,0
+36,Male,570.3,1,In-Store,Outerwear,0,570.3,0
+22,Female,293.61,1,In-Store,Clothing,1,293.61,0
+65,Male,642.16,1,In-Store,Electronics,4,642.16,1
+18,Male,229.25,3,Mobile App,Electronics,2,76.41666666666667,0
+41,Female,1362.53,2,Phone,Accessories,0,681.265,1
+25,Female,555.66,1,Mobile App,Accessories,0,555.66,0
+18,Female,50.0,1,Mobile App,Electronics,1,50.0,0
+35,Female,363.2,2,Online,Electronics,4,181.6,0
+28,Male,1259.16,3,Phone,Electronics,0,419.72,1
+39,Female,1603.85,1,Online,Clothing,3,1603.85,1
+39,Male,50.0,2,Phone,Electronics,4,25.0,0
+27,Female,209.63,3,Mobile App,Clothing,2,69.87666666666667,0
+27,Male,153.16,2,In-Store,Accessories,1,76.58,0
+37,Male,970.47,1,Online,Footwear,0,970.47,1
+32,Female,299.66,2,Online,Footwear,1,149.83,0
+33,Male,1069.74,2,Phone,Footwear,0,534.87,1
+57,Male,308.65,2,Phone,Outerwear,4,154.325,0
+31,Female,510.83,2,Mobile App,Electronics,1,255.415,0
+31,Male,1019.51,4,Phone,Accessories,2,254.8775,1
+44,Female,252.45,1,In-Store,Footwear,4,252.45,0
+60,Female,223.91,4,Mobile App,Electronics,2,55.9775,0
+46,Male,789.73,2,In-Store,Beauty,0,394.865,1
+34,Male,86.8,2,Online,Electronics,1,43.4,0
+38,Male,567.15,1,Mobile App,Media,0,567.15,0
+48,Female,369.28,1,Phone,Accessories,4,369.28,0
+39,Male,578.73,3,Online,Accessories,2,192.91,1
+28,Female,144.01,2,Phone,Accessories,1,72.005,0
+37,Female,279.34,1,Online,Electronics,4,279.34,0
+52,Male,752.78,2,In-Store,Electronics,4,376.39,1
+38,Female,290.01,1,Online,Clothing,4,290.01,0
+25,Female,412.74,5,In-Store,Electronics,2,82.548,0
+38,Female,190.43,3,Online,Footwear,2,63.47666666666667,0
+28,Female,77.07,1,In-Store,Accessories,1,77.07,0
+33,Male,425.01,3,Online,Media,2,141.67,0
+32,Female,318.21,4,Phone,Electronics,2,79.5525,0
+31,Female,268.47,1,In-Store,Beauty,1,268.47,0
+52,Female,1223.02,2,In-Store,Media,0,611.51,1
+32,Male,416.74,1,Mobile App,Footwear,1,416.74,0
+24,Male,810.37,2,Mobile App,Electronics,0,405.185,1
+30,Male,443.24,1,Phone,Electronics,1,443.24,0
+40,Female,405.8,1,Online,Media,4,405.8,0
+37,Male,784.97,1,In-Store,Electronics,0,784.97,1
+44,Female,726.6,1,In-Store,Electronics,0,726.6,1
+27,Female,315.55,3,Online,Accessories,2,105.18333333333334,0
+27,Male,1004.95,1,Mobile App,Footwear,0,1004.95,1
+45,Female,1105.4,1,Online,Footwear,3,1105.4,1
+29,Female,371.86,3,Phone,Clothing,2,123.95333333333333,0
+37,Male,259.83,1,Phone,Electronics,4,259.83,0
+21,Female,1106.21,2,Mobile App,Accessories,0,553.105,1
+18,Female,164.72,4,Online,Accessories,2,41.18,0
+43,Male,337.19,3,Phone,Accessories,2,112.39666666666666,0
+18,Female,131.12,1,In-Store,Electronics,1,131.12,0
+18,Female,732.29,1,Online,Electronics,0,732.29,1
+37,Male,1252.87,5,In-Store,Accessories,2,250.57399999999998,1
+47,Female,228.34,1,Online,Electronics,4,228.34,0
+54,Male,332.48,1,In-Store,Clothing,4,332.48,0
+36,Female,397.1,1,Mobile App,Accessories,4,397.1,0
+39,Female,555.9,1,Phone,Footwear,0,555.9,0
+40,Female,645.86,2,Mobile App,Accessories,4,322.93,1
+38,Female,303.87,3,Mobile App,Accessories,2,101.29,0
+25,Female,395.36,4,In-Store,Electronics,2,98.84,0
+46,Female,422.77,3,Phone,Accessories,2,140.92333333333332,0
+37,Female,1131.27,1,Online,Clothing,3,1131.27,1
+35,Male,581.58,1,Phone,Accessories,0,581.58,0
+48,Male,460.93,5,Mobile App,Electronics,2,92.186,1
+31,Male,279.04,1,Online,Electronics,1,279.04,0
+33,Male,1071.5,1,Mobile App,Accessories,3,1071.5,1
+29,Male,154.99,4,Online,Accessories,2,38.7475,0
+19,Male,373.19,2,In-Store,Electronics,1,186.595,0
+56,Male,333.46,1,In-Store,Footwear,4,333.46,0
+23,Female,724.67,3,Online,Accessories,2,241.55666666666664,1
+29,Female,450.92,5,Mobile App,Electronics,2,90.184,1
+19,Male,1156.19,1,In-Store,Bags,3,1156.19,1
+39,Female,528.55,3,In-Store,Footwear,2,176.1833333333333,0
+18,Male,1679.15,1,Phone,Accessories,3,1679.15,1
+48,Female,107.99,2,Phone,Media,4,53.995,0
+35,Female,707.46,4,Mobile App,Clothing,2,176.865,1
+37,Male,135.21,5,Phone,Accessories,2,27.042,0
+26,Male,414.69,1,Phone,Bags,1,414.69,0
+27,Female,292.6,1,Online,Electronics,1,292.6,0
+20,Male,172.79,1,Phone,Beauty,1,172.79,0
+21,Male,357.83,2,Phone,Electronics,1,178.915,0
+40,Female,431.19,1,Mobile App,Accessories,4,431.19,0
+41,Male,378.28,1,Online,Clothing,4,378.28,0
+18,Male,489.53,1,Phone,Clothing,1,489.53,0
+18,Male,114.9,1,In-Store,Electronics,1,114.9,0
+30,Female,416.37,1,Mobile App,Beauty,1,416.37,0
+49,Female,477.72,3,Online,Electronics,4,159.24,0
+18,Male,477.12,1,Online,Accessories,1,477.12,0
+35,Male,899.11,1,Phone,Footwear,0,899.11,1
+27,Male,78.48,3,In-Store,Electronics,2,26.16,0
+20,Female,302.19,2,Phone,Accessories,1,151.095,0
+53,Female,75.9,1,Mobile App,Accessories,4,75.9,0
+45,Male,233.9,1,In-Store,Footwear,4,233.9,0
+26,Male,435.33,2,Phone,Electronics,1,217.665,0
+61,Male,555.57,1,In-Store,Accessories,4,555.57,0
+40,Male,451.57,3,Mobile App,Accessories,2,150.52333333333334,0
+21,Female,874.35,1,Phone,Accessories,0,874.35,1
+42,Male,435.69,1,Mobile App,Electronics,4,435.69,0
+24,Female,261.58,1,Online,Electronics,1,261.58,0
+41,Male,723.7,2,Online,Clothing,0,361.85,1
+31,Male,50.0,4,Online,Accessories,2,12.5,0
+27,Male,118.23,1,Online,Electronics,1,118.23,0
+46,Female,104.4,2,Phone,Footwear,4,52.2,0
+20,Female,50.0,1,Online,Clothing,1,50.0,0
+33,Female,110.46,1,Mobile App,Electronics,1,110.46,0
+18,Male,842.0,3,Online,Footwear,2,280.6666666666667,1
+46,Female,612.77,1,In-Store,Clothing,0,612.77,0
+27,Female,1161.42,4,Mobile App,Media,2,290.355,1
+42,Male,456.66,2,Phone,Electronics,4,228.33,0
+49,Female,1074.78,4,In-Store,Electronics,2,268.695,1
+18,Female,246.67,3,Phone,Clothing,2,82.22333333333333,0
+26,Male,284.73,1,In-Store,Media,1,284.73,0
+18,Female,229.86,1,Online,Electronics,1,229.86,0
+20,Male,195.05,1,Phone,Accessories,1,195.05,0
+43,Male,147.23,1,Phone,Accessories,4,147.23,0
+24,Female,539.27,1,Phone,Footwear,1,539.27,0
+39,Male,1018.8,1,Online,Electronics,3,1018.8,1
+22,Female,354.5,4,Online,Electronics,2,88.625,0
+30,Female,61.63,1,Mobile App,Electronics,1,61.63,0
+24,Male,184.63,3,In-Store,Accessories,2,61.54333333333333,0
+47,Female,298.48,4,In-Store,Electronics,2,74.62,0
+18,Male,488.67,3,Phone,Footwear,2,162.89000000000001,0
+21,Female,500.8,1,In-Store,Accessories,1,500.8,0
+53,Male,50.0,1,Phone,Beauty,4,50.0,0
+31,Female,432.44,1,Phone,Electronics,1,432.44,0
+46,Male,229.46,1,Phone,Electronics,4,229.46,0
+35,Female,50.0,1,In-Store,Beauty,1,50.0,0
+34,Male,50.0,3,Phone,Accessories,2,16.666666666666668,0
+35,Male,167.71,1,In-Store,Bags,1,167.71,0
+33,Female,579.67,2,In-Store,Bags,1,289.835,1
+43,Male,654.87,5,In-Store,Accessories,2,130.974,1
+41,Male,538.56,1,In-Store,Clothing,0,538.56,0
+25,Female,1293.95,1,Phone,Accessories,3,1293.95,1
+46,Female,329.64,3,Online,Clothing,2,109.88,0
+35,Male,353.36,1,Online,Media,1,353.36,0
+25,Female,130.11,2,Online,Clothing,1,65.055,0
+36,Female,238.21,1,In-Store,Electronics,1,238.21,0
+40,Female,50.0,3,Phone,Accessories,2,16.666666666666668,0
+59,Female,947.4,1,Online,Accessories,0,947.4,1
+39,Female,275.48,1,Phone,Electronics,4,275.48,0
+37,Male,345.58,2,Mobile App,Outerwear,4,172.79,0
+27,Male,436.39,1,Online,Footwear,1,436.39,0
+42,Male,275.22,1,Mobile App,Outerwear,4,275.22,0
+39,Female,833.94,1,Online,Accessories,0,833.94,1
+18,Male,496.29,1,Mobile App,Electronics,1,496.29,0
+33,Female,728.17,2,Online,Media,0,364.085,1
+46,Male,993.94,2,In-Store,Accessories,0,496.97,1
+50,Male,418.82,2,Phone,Electronics,4,209.41,0
+45,Female,817.04,2,In-Store,Footwear,0,408.52,1
+29,Female,187.04,1,Phone,Footwear,1,187.04,0
+34,Male,671.81,1,In-Store,Accessories,0,671.81,1
+34,Male,534.56,3,Phone,Electronics,2,178.18666666666664,0
+18,Male,375.74,3,Online,Accessories,2,125.24666666666667,0
+37,Female,963.86,1,Mobile App,Electronics,0,963.86,1
+21,Male,149.19,1,In-Store,Clothing,1,149.19,0
+46,Male,565.31,1,Mobile App,Clothing,0,565.31,0
+24,Male,643.99,2,Online,Accessories,1,321.995,1
+38,Female,73.71,2,Phone,Electronics,4,36.855,0
+18,Male,671.33,1,Phone,Beauty,0,671.33,1
+41,Male,927.77,2,In-Store,Media,0,463.885,1
+31,Female,503.35,1,Mobile App,Accessories,0,503.35,0
+18,Female,582.9,1,Online,Outerwear,1,582.9,0
+43,Female,393.85,3,Mobile App,Media,2,131.28333333333333,0
+49,Male,228.13,1,Mobile App,Beauty,4,228.13,0
+36,Male,119.73,1,Phone,Footwear,4,119.73,0
+39,Male,833.65,5,Phone,Outerwear,2,166.73,1
+38,Female,482.27,3,Mobile App,Accessories,2,160.75666666666666,0
+27,Female,123.98,3,Mobile App,Outerwear,2,41.32666666666667,0
+19,Female,634.77,1,Online,Accessories,0,634.77,1
+51,Female,743.17,1,Mobile App,Electronics,0,743.17,1
+48,Male,196.06,4,Online,Accessories,2,49.015,0
+30,Female,703.97,2,Mobile App,Beauty,0,351.985,1
+40,Male,153.46,3,In-Store,Clothing,2,51.153333333333336,0
+40,Male,583.38,1,Online,Accessories,0,583.38,0
+50,Male,825.29,1,Mobile App,Accessories,0,825.29,1
+46,Female,267.24,5,Phone,Accessories,2,53.448,0
+44,Female,538.11,2,Phone,Accessories,4,269.055,0
+34,Female,135.02,1,Mobile App,Electronics,1,135.02,0
+38,Male,231.75,1,Online,Clothing,4,231.75,0
+27,Female,495.85,1,Online,Media,1,495.85,0
+28,Male,120.31,1,Mobile App,Clothing,1,120.31,0
+43,Female,833.13,1,Online,Beauty,0,833.13,1
+55,Female,354.52,1,Phone,Electronics,4,354.52,0
+18,Female,154.14,3,In-Store,Media,2,51.379999999999995,0
+18,Female,403.87,1,Mobile App,Electronics,1,403.87,0
+32,Female,632.39,5,Phone,Accessories,2,126.478,1
+38,Female,376.94,1,Online,Electronics,4,376.94,0
+40,Female,157.96,2,Online,Electronics,4,78.98,0
+47,Male,280.97,1,Phone,Accessories,4,280.97,0
+31,Male,300.12,2,Phone,Media,1,150.06,0
+24,Female,132.21,5,In-Store,Accessories,2,26.442,0
+41,Female,274.39,3,In-Store,Accessories,2,91.46333333333332,0
+47,Female,1772.25,2,Mobile App,Bags,3,886.125,1
+39,Female,96.95,1,Mobile App,Outerwear,4,96.95,0
+44,Male,850.62,3,Phone,Footwear,2,283.54,1
+33,Male,632.21,4,Online,Accessories,2,158.0525,1
+24,Female,151.91,5,Phone,Accessories,2,30.381999999999998,0
+44,Female,521.01,1,Phone,Clothing,0,521.01,0
+31,Female,1060.12,5,Online,Beauty,2,212.02399999999997,1
+18,Male,58.08,1,In-Store,Electronics,1,58.08,0
+27,Male,358.66,1,In-Store,Electronics,1,358.66,0
+33,Male,327.45,1,Phone,Footwear,1,327.45,0
+34,Male,494.4,1,Mobile App,Accessories,0,494.4,0
+43,Female,916.88,3,Online,Accessories,2,305.62666666666667,1
+23,Male,854.23,3,Mobile App,Accessories,2,284.74333333333334,1
+18,Male,221.72,3,In-Store,Media,2,73.90666666666667,0
+42,Female,1181.6,2,In-Store,Electronics,0,590.8,1
+18,Male,214.57,2,In-Store,Accessories,1,107.285,0
+45,Female,154.37,2,Online,Footwear,4,77.185,0
+35,Female,676.84,1,Phone,Electronics,0,676.84,1
+27,Male,255.95,3,Online,Media,2,85.31666666666666,0
+29,Female,927.37,2,Mobile App,Media,0,463.685,1
+20,Male,1109.86,2,Online,Bags,0,554.93,1
+30,Male,356.41,2,Online,Accessories,1,178.205,0
+37,Female,152.24,3,Online,Clothing,2,50.74666666666667,0
+49,Male,463.85,1,Mobile App,Accessories,4,463.85,0
+47,Male,771.54,1,Mobile App,Footwear,0,771.54,1
+51,Female,113.11,3,Phone,Bags,4,37.70333333333333,0
+41,Female,1144.88,1,Online,Clothing,3,1144.88,1
+33,Male,504.21,3,In-Store,Accessories,2,168.07,0
+50,Male,1470.19,1,In-Store,Electronics,3,1470.19,1
+18,Male,111.24,1,Phone,Beauty,1,111.24,0
+31,Female,211.65,3,In-Store,Bags,2,70.55,0
+26,Male,359.36,1,In-Store,Clothing,1,359.36,0
+18,Male,299.24,2,Online,Outerwear,1,149.62,0
+47,Female,511.55,1,Phone,Accessories,4,511.55,0
+31,Male,319.94,1,In-Store,Electronics,1,319.94,0
+35,Male,240.98,2,In-Store,Footwear,1,120.49,0
+55,Female,799.12,1,In-Store,Accessories,0,799.12,1
+28,Female,242.96,3,Phone,Clothing,2,80.98666666666666,0
+26,Male,291.97,3,Phone,Electronics,2,97.32333333333334,0
+49,Male,653.99,1,Mobile App,Electronics,0,653.99,1
+45,Male,109.67,2,Mobile App,Electronics,4,54.835,0
+34,Female,50.0,2,Mobile App,Clothing,1,25.0,0
+18,Male,1075.96,1,Online,Electronics,3,1075.96,1
+30,Female,109.26,1,Phone,Footwear,1,109.26,0
+34,Female,555.13,1,Mobile App,Accessories,0,555.13,0
+32,Male,391.23,2,Online,Electronics,1,195.615,0
+42,Female,162.87,2,Mobile App,Footwear,4,81.435,0
+36,Female,544.28,2,Online,Accessories,4,272.14,0
+25,Female,190.03,3,Phone,Accessories,2,63.343333333333334,0
+43,Female,847.21,3,Phone,Clothing,2,282.40333333333336,1
+33,Male,562.45,2,In-Store,Clothing,1,281.225,0
+18,Female,518.45,3,Online,Accessories,2,172.8166666666667,0
+18,Male,96.52,1,Phone,Media,1,96.52,0
+43,Male,755.64,3,In-Store,Clothing,2,251.88,1
+48,Male,223.09,2,In-Store,Footwear,4,111.545,0
+45,Female,880.93,3,Phone,Footwear,2,293.6433333333333,1
+25,Female,137.14,2,Online,Accessories,1,68.57,0
+19,Male,109.5,1,Online,Accessories,1,109.5,0
+46,Female,766.48,2,Phone,Electronics,0,383.24,1
+40,Female,284.11,1,Phone,Electronics,4,284.11,0
+36,Female,275.84,2,Phone,Electronics,4,137.92,0
+50,Male,247.11,1,In-Store,Clothing,4,247.11,0
+41,Male,349.72,3,Mobile App,Footwear,2,116.57333333333334,0
+33,Female,1139.71,2,In-Store,Outerwear,0,569.855,1
+27,Male,581.58,2,Online,Accessories,1,290.79,1
+29,Female,681.07,1,Phone,Beauty,0,681.07,1
+63,Female,1087.22,5,Online,Media,2,217.44400000000002,1
+35,Male,341.65,3,Online,Accessories,2,113.88333333333333,0
+47,Female,640.24,3,In-Store,Beauty,2,213.41333333333333,1
+18,Male,1417.73,1,In-Store,Accessories,3,1417.73,1
+37,Male,284.19,2,Phone,Clothing,4,142.095,0
+33,Female,973.82,1,Phone,Electronics,0,973.82,1
+22,Female,538.32,2,Mobile App,Accessories,1,269.16,0
+21,Female,439.87,1,In-Store,Accessories,1,439.87,0
+25,Female,366.69,2,Mobile App,Clothing,1,183.345,0
+44,Female,236.47,2,In-Store,Accessories,4,118.235,0
+35,Female,500.57,1,Phone,Clothing,0,500.57,0
+28,Female,455.52,1,Online,Outerwear,1,455.52,0
+24,Male,414.33,3,Mobile App,Bags,2,138.10999999999999,0
+42,Male,345.22,1,In-Store,Electronics,4,345.22,0
+28,Female,449.07,3,In-Store,Clothing,2,149.69,0
+49,Female,262.86,1,Mobile App,Clothing,4,262.86,0
+19,Female,500.92,1,In-Store,Accessories,1,500.92,0
+38,Male,983.73,1,In-Store,Bags,0,983.73,1
+20,Male,328.44,3,Mobile App,Accessories,2,109.48,0
+30,Male,461.58,1,Online,Electronics,1,461.58,0
+42,Female,389.96,3,Online,Media,2,129.98666666666665,0
+47,Male,299.43,2,Online,Electronics,4,149.715,0
+21,Male,251.85,1,Online,Electronics,1,251.85,0
+49,Male,2399.84,2,In-Store,Accessories,3,1199.92,1
+31,Female,424.96,1,Mobile App,Bags,1,424.96,0
+52,Male,372.64,3,Mobile App,Electronics,4,124.21333333333332,0
+30,Male,160.34,1,Mobile App,Accessories,1,160.34,0
+28,Male,560.56,1,In-Store,Outerwear,0,560.56,0
+18,Female,170.87,3,Phone,Accessories,2,56.95666666666667,0
+18,Female,79.51,4,Phone,Electronics,2,19.8775,0
+26,Male,1206.53,1,Phone,Media,3,1206.53,1
+31,Male,927.62,3,In-Store,Clothing,2,309.20666666666665,1
+29,Female,109.58,1,Online,Media,1,109.58,0
+38,Female,556.12,3,Online,Electronics,2,185.37333333333333,1
+32,Female,193.87,2,Phone,Clothing,1,96.935,0
+48,Male,406.56,1,In-Store,Electronics,4,406.56,0
+32,Female,640.29,1,In-Store,Footwear,0,640.29,1
+32,Female,694.91,1,Phone,Bags,0,694.91,1
+22,Male,293.66,1,In-Store,Outerwear,1,293.66,0
+36,Male,721.82,1,Mobile App,Electronics,0,721.82,1
+42,Female,193.35,2,In-Store,Accessories,4,96.675,0
+29,Male,922.29,5,Mobile App,Electronics,2,184.458,1
+27,Male,352.75,1,Phone,Accessories,1,352.75,0
+24,Male,712.32,2,Mobile App,Electronics,1,356.16,1
+41,Male,239.84,2,In-Store,Electronics,4,119.92,0
+31,Female,251.82,4,Online,Electronics,2,62.955,0
+40,Female,386.54,2,Mobile App,Clothing,4,193.27,0
+27,Male,429.85,2,Mobile App,Electronics,1,214.925,0
+45,Male,1007.87,1,Online,Footwear,3,1007.87,1
+31,Female,441.16,1,Phone,Clothing,1,441.16,0
+26,Male,91.63,1,Online,Footwear,1,91.63,0
+18,Female,255.96,1,Phone,Electronics,1,255.96,0
+36,Female,299.31,1,In-Store,Outerwear,1,299.31,0
+35,Female,979.73,2,Mobile App,Clothing,0,489.865,1
+20,Male,443.04,1,Online,Clothing,1,443.04,0
+45,Female,79.73,2,In-Store,Outerwear,4,39.865,0
+26,Female,707.32,1,Mobile App,Footwear,0,707.32,1
+40,Male,221.94,4,Online,Accessories,2,55.485,0
+24,Male,565.17,3,In-Store,Clothing,2,188.39,1
+29,Female,502.08,1,Mobile App,Accessories,1,502.08,0
+25,Male,1161.45,1,Phone,Accessories,3,1161.45,1
+26,Female,474.41,2,In-Store,Electronics,1,237.205,0
+25,Male,121.12,1,Mobile App,Electronics,1,121.12,0
+34,Female,253.76,1,Online,Clothing,1,253.76,0
+18,Male,121.83,1,Online,Media,1,121.83,0
+29,Male,504.17,4,In-Store,Footwear,2,126.0425,1
+22,Female,226.95,3,Online,Accessories,2,75.64999999999999,0
+24,Male,608.59,2,In-Store,Electronics,1,304.295,1
+38,Male,177.22,2,Mobile App,Accessories,4,88.61,0
+50,Female,136.31,4,Online,Clothing,2,34.0775,0
+37,Male,615.12,4,In-Store,Accessories,2,153.78,1
+47,Female,1320.59,4,In-Store,Outerwear,2,330.1475,1
+38,Male,141.34,1,Online,Accessories,4,141.34,0
+39,Female,274.64,1,Phone,Accessories,4,274.64,0
+37,Female,316.99,2,Phone,Accessories,4,158.495,0
+22,Female,741.14,2,Phone,Electronics,1,370.57,1
+18,Male,678.88,1,In-Store,Accessories,0,678.88,1
+40,Male,380.61,1,In-Store,Beauty,4,380.61,0
+49,Female,395.84,3,Mobile App,Electronics,4,131.94666666666666,0
+27,Male,530.39,3,Online,Accessories,2,176.79666666666665,0
+32,Male,1503.7,1,In-Store,Clothing,3,1503.7,1
+49,Male,259.79,3,Mobile App,Accessories,4,86.59666666666668,0
+18,Male,474.77,2,Phone,Footwear,1,237.385,0
+29,Male,655.95,3,In-Store,Accessories,2,218.65,1
+46,Male,892.58,1,In-Store,Electronics,0,892.58,1
+37,Female,377.74,1,In-Store,Clothing,4,377.74,0
+41,Female,608.69,1,Online,Footwear,0,608.69,0
+33,Female,208.52,1,Online,Bags,1,208.52,0
+32,Female,785.44,2,Phone,Accessories,0,392.72,1
+26,Female,899.0,1,Online,Electronics,0,899.0,1
+34,Male,50.0,5,In-Store,Electronics,2,10.0,0
+23,Male,968.31,1,Mobile App,Electronics,0,968.31,1
+36,Male,1516.84,1,Phone,Electronics,3,1516.84,1
+38,Female,514.73,2,Phone,Accessories,4,257.365,0
+33,Female,1221.39,2,In-Store,Accessories,0,610.695,1
+46,Female,596.21,1,In-Store,Beauty,0,596.21,0
+63,Male,315.82,3,Online,Footwear,4,105.27333333333333,0
+32,Male,339.39,2,In-Store,Bags,1,169.695,0
+41,Male,607.85,2,In-Store,Electronics,4,303.925,1
+56,Female,976.98,2,In-Store,Accessories,0,488.49,1
+24,Female,319.4,1,Online,Outerwear,1,319.4,0
+18,Female,498.52,2,Online,Accessories,1,249.26,0
+19,Male,270.29,3,Phone,Clothing,2,90.09666666666668,0
+49,Female,1154.09,1,Online,Accessories,3,1154.09,1
+43,Female,251.42,1,Mobile App,Accessories,4,251.42,0
+35,Female,1586.05,4,Mobile App,Outerwear,0,396.5125,1
+34,Male,196.26,1,In-Store,Footwear,1,196.26,0
+18,Male,63.71,1,Online,Accessories,1,63.71,0
+22,Female,228.68,5,Mobile App,Accessories,2,45.736000000000004,0
+40,Male,792.69,1,In-Store,Clothing,0,792.69,1
+43,Female,691.32,1,In-Store,Accessories,0,691.32,1
+37,Male,884.36,3,Mobile App,Footwear,2,294.7866666666667,1
+61,Male,246.55,3,In-Store,Clothing,4,82.18333333333334,0
+24,Male,801.68,1,Online,Clothing,0,801.68,1
+32,Female,169.81,2,Mobile App,Media,1,84.905,0
+34,Female,55.77,3,In-Store,Footwear,2,18.59,0
+48,Male,373.41,2,Mobile App,Beauty,4,186.705,0
+32,Male,424.14,1,In-Store,Electronics,1,424.14,0
+20,Male,108.86,1,Mobile App,Accessories,1,108.86,0
+46,Female,301.45,1,In-Store,Outerwear,4,301.45,0
+30,Male,114.74,3,Online,Accessories,2,38.24666666666666,0
+36,Male,451.35,3,In-Store,Media,2,150.45000000000002,0
+34,Female,585.37,4,In-Store,Footwear,2,146.3425,1
+29,Male,75.39,3,In-Store,Bags,2,25.13,0
+42,Female,95.96,2,Online,Accessories,4,47.98,0
+53,Female,490.25,1,Online,Accessories,4,490.25,0
+23,Female,385.05,3,Phone,Electronics,2,128.35,0
+18,Male,399.28,2,Online,Footwear,1,199.64,0
+46,Female,218.93,2,Online,Accessories,4,109.465,0
+34,Female,193.76,1,Online,Footwear,1,193.76,0
+18,Male,1161.42,4,Online,Electronics,2,290.355,1
+19,Male,184.21,1,In-Store,Clothing,1,184.21,0
+25,Female,452.61,1,Mobile App,Accessories,1,452.61,0
+43,Female,877.62,2,In-Store,Footwear,0,438.81,1
+37,Female,439.47,2,Phone,Accessories,4,219.735,0
+35,Male,636.11,1,Mobile App,Electronics,0,636.11,1
+22,Female,419.34,3,Online,Accessories,2,139.78,0
+63,Male,454.06,1,In-Store,Accessories,4,454.06,0
+34,Female,95.58,1,Mobile App,Electronics,1,95.58,0
+20,Female,50.0,1,Mobile App,Electronics,1,50.0,0
+18,Male,653.9,2,Phone,Outerwear,1,326.95,1
+31,Male,178.4,4,In-Store,Accessories,2,44.6,0
+43,Male,276.49,3,Online,Accessories,2,92.16333333333334,0
+34,Female,171.59,4,Phone,Accessories,2,42.8975,0
+36,Male,477.7,1,Phone,Media,0,477.7,0
+30,Male,438.9,1,Mobile App,Accessories,1,438.9,0
+39,Male,673.68,2,Mobile App,Accessories,0,336.84,1
+41,Female,265.88,1,In-Store,Accessories,4,265.88,0
+26,Male,240.65,3,Online,Electronics,2,80.21666666666667,0
+29,Female,817.27,2,Online,Clothing,0,408.635,1
+45,Male,471.93,5,Mobile App,Clothing,2,94.386,1
+44,Female,140.27,1,Phone,Accessories,4,140.27,0
+62,Male,212.94,1,In-Store,Electronics,4,212.94,0
+34,Male,68.76,2,In-Store,Clothing,1,34.38,0
+36,Female,2084.95,1,In-Store,Clothing,3,2084.95,1
+18,Female,216.4,2,Online,Footwear,1,108.2,0
+33,Female,422.0,1,Phone,Accessories,1,422.0,0
+24,Female,1053.8,1,Mobile App,Outerwear,3,1053.8,1
+25,Male,133.82,1,Mobile App,Electronics,1,133.82,0
+21,Female,447.15,1,Mobile App,Accessories,1,447.15,0
+41,Female,1184.61,2,Mobile App,Electronics,0,592.305,1
+53,Female,63.28,1,Mobile App,Accessories,4,63.28,0
+37,Female,303.96,1,Phone,Accessories,4,303.96,0
+25,Male,99.9,1,In-Store,Media,1,99.9,0
+30,Female,398.89,1,Online,Clothing,1,398.89,0
+25,Female,50.0,1,Mobile App,Electronics,1,50.0,0
+41,Male,299.26,1,In-Store,Beauty,4,299.26,0
+24,Male,78.1,2,Mobile App,Media,1,39.05,0
+24,Male,695.21,2,In-Store,Electronics,1,347.605,1
+38,Female,321.05,2,Online,Clothing,4,160.525,0
+63,Male,978.23,3,Online,Accessories,4,326.07666666666665,1
+36,Female,1080.58,1,In-Store,Electronics,3,1080.58,1
+36,Female,172.08,2,Mobile App,Clothing,4,86.04,0
+44,Female,363.79,3,Online,Accessories,2,121.26333333333334,0
+38,Female,249.55,1,Phone,Accessories,4,249.55,0
+35,Female,350.87,2,Online,Beauty,4,175.435,0
+23,Male,839.92,1,Phone,Electronics,0,839.92,1
+37,Female,621.5,1,Mobile App,Electronics,0,621.5,1
+46,Male,235.98,3,Mobile App,Accessories,4,78.66,0
+55,Male,711.76,1,Mobile App,Accessories,0,711.76,1
+59,Female,751.33,1,Mobile App,Electronics,0,751.33,1
+31,Male,396.69,1,Phone,Accessories,1,396.69,0
+24,Female,404.94,1,Online,Accessories,1,404.94,0
+52,Male,284.63,1,In-Store,Outerwear,4,284.63,0
+18,Female,495.34,2,Phone,Accessories,1,247.67,0
+42,Female,171.48,3,In-Store,Electronics,2,57.16,0
+28,Female,93.65,3,Online,Outerwear,2,31.21666666666667,0
+28,Female,299.89,1,Mobile App,Electronics,1,299.89,0
+26,Female,50.0,5,Mobile App,Clothing,2,10.0,0
+26,Male,488.72,2,Online,Bags,1,244.36,0
+40,Male,275.07,1,In-Store,Electronics,4,275.07,0
+40,Female,800.73,3,Mobile App,Outerwear,2,266.91,1
+28,Male,582.37,2,Mobile App,Clothing,1,291.185,1
+46,Female,964.07,2,In-Store,Accessories,0,482.035,1
+66,Male,865.45,1,Phone,Footwear,0,865.45,1
+30,Male,104.87,1,Mobile App,Footwear,1,104.87,0
+19,Male,612.9,3,Phone,Electronics,2,204.29999999999998,1
+22,Female,1138.36,2,In-Store,Accessories,0,569.18,1
+39,Male,875.46,2,In-Store,Accessories,0,437.73,1
+28,Male,1232.52,2,Mobile App,Clothing,0,616.26,1
+40,Male,364.37,3,In-Store,Accessories,2,121.45666666666666,0
+18,Female,335.8,1,Phone,Beauty,1,335.8,0
+44,Male,834.37,2,In-Store,Accessories,0,417.185,1
+23,Female,314.66,1,In-Store,Media,1,314.66,0
+47,Male,116.73,2,Phone,Accessories,4,58.365,0
+30,Male,360.63,2,Phone,Accessories,1,180.315,0
+49,Male,352.4,1,Phone,Clothing,4,352.4,0
+27,Female,86.17,2,Phone,Beauty,1,43.085,0
+32,Male,154.17,1,In-Store,Electronics,1,154.17,0
+29,Female,824.47,1,Phone,Accessories,0,824.47,1
+37,Male,77.0,1,In-Store,Accessories,4,77.0,0
+26,Female,240.51,1,In-Store,Clothing,1,240.51,0
+31,Male,1018.41,1,Phone,Clothing,3,1018.41,1
+32,Female,206.24,1,Phone,Electronics,1,206.24,0
+29,Male,634.71,2,Mobile App,Electronics,1,317.355,1
+26,Female,325.93,3,In-Store,Accessories,2,108.64333333333333,0
+44,Male,526.71,2,Online,Electronics,4,263.355,0
+45,Male,70.83,1,Mobile App,Clothing,4,70.83,0
+28,Female,466.72,4,In-Store,Accessories,2,116.68,0
+34,Female,333.17,2,In-Store,Footwear,1,166.585,0
+18,Female,643.31,1,Mobile App,Media,0,643.31,1
+24,Female,478.0,3,Phone,Bags,2,159.33333333333334,0
+48,Male,227.32,1,Phone,Clothing,4,227.32,0
+18,Female,286.72,2,Phone,Accessories,1,143.36,0
+35,Female,171.65,1,Mobile App,Electronics,1,171.65,0
+32,Male,309.43,1,Online,Media,1,309.43,0
+51,Male,326.29,3,In-Store,Outerwear,4,108.76333333333334,0
+18,Female,193.39,1,Mobile App,Clothing,1,193.39,0
+21,Male,384.32,1,Phone,Accessories,1,384.32,0
+33,Male,1268.99,4,Phone,Electronics,2,317.2475,1
+42,Male,314.29,4,Online,Outerwear,2,78.5725,0
+42,Female,178.42,2,Mobile App,Clothing,4,89.21,0
+45,Male,442.75,1,Mobile App,Accessories,4,442.75,0
+30,Female,153.64,1,Online,Electronics,1,153.64,0
+19,Female,50.0,3,In-Store,Outerwear,2,16.666666666666668,0
+48,Female,93.38,1,Mobile App,Media,4,93.38,0
+37,Male,703.13,1,In-Store,Beauty,0,703.13,1
+35,Male,207.25,2,In-Store,Bags,4,103.625,0
+20,Male,248.15,1,Phone,Accessories,1,248.15,0
+35,Male,713.21,1,In-Store,Accessories,0,713.21,1
+18,Female,709.76,1,Phone,Accessories,0,709.76,1
+18,Male,246.08,1,Phone,Clothing,1,246.08,0
+25,Female,658.6,1,Phone,Accessories,0,658.6,1
+27,Female,136.36,1,Phone,Clothing,1,136.36,0
+28,Female,121.19,1,In-Store,Accessories,1,121.19,0
+18,Male,653.78,2,Online,Media,1,326.89,1
+32,Female,652.64,3,Phone,Electronics,2,217.54666666666665,1
+18,Male,266.13,1,In-Store,Footwear,1,266.13,0
+36,Female,331.66,2,Mobile App,Beauty,4,165.83,0
+40,Female,574.27,1,Mobile App,Footwear,0,574.27,0
+39,Female,420.72,1,Mobile App,Media,4,420.72,0
+26,Male,182.33,1,Online,Clothing,1,182.33,0
+44,Male,385.21,2,Phone,Electronics,4,192.605,0
+43,Female,379.23,2,Mobile App,Electronics,4,189.615,0
+38,Female,114.21,2,Phone,Accessories,4,57.105,0
+33,Male,301.8,1,Phone,Beauty,1,301.8,0
+46,Male,1003.34,1,Phone,Accessories,3,1003.34,1
+33,Male,216.57,3,Phone,Accessories,2,72.19,0
+34,Male,589.86,1,Mobile App,Footwear,0,589.86,0
+34,Female,1293.51,2,Mobile App,Accessories,0,646.755,1
+38,Female,577.61,2,Online,Media,4,288.805,0
+36,Male,236.37,2,In-Store,Electronics,4,118.185,0
+30,Female,235.33,4,Mobile App,Electronics,2,58.8325,0
+18,Female,101.09,4,Mobile App,Electronics,2,25.2725,0
+29,Female,803.94,2,Phone,Electronics,0,401.97,1
+49,Female,937.45,2,Online,Clothing,0,468.725,1
+18,Female,619.4,1,In-Store,Electronics,1,619.4,0
+18,Female,756.37,4,Mobile App,Accessories,2,189.0925,1
+30,Female,831.93,1,Mobile App,Accessories,0,831.93,1
+18,Male,295.59,1,Phone,Clothing,1,295.59,0
+33,Male,215.63,1,Mobile App,Outerwear,1,215.63,0
+53,Male,308.19,1,Mobile App,Bags,4,308.19,0
+36,Female,103.59,2,In-Store,Accessories,4,51.795,0
+38,Female,452.12,2,Mobile App,Accessories,4,226.06,0
+22,Female,50.0,1,Mobile App,Beauty,1,50.0,0
+25,Male,198.64,1,In-Store,Electronics,1,198.64,0
+36,Male,684.13,4,Phone,Clothing,2,171.0325,1
+31,Male,700.79,3,In-Store,Footwear,2,233.59666666666666,1
+41,Female,652.99,3,Mobile App,Accessories,2,217.66333333333333,1
+42,Male,50.0,1,Phone,Accessories,4,50.0,0
+26,Female,241.91,3,Online,Electronics,2,80.63666666666667,0
+27,Male,624.68,1,Mobile App,Beauty,0,624.68,1
+48,Male,489.3,1,Phone,Electronics,4,489.3,0
+32,Male,214.04,1,In-Store,Clothing,1,214.04,0
+50,Male,541.97,1,Phone,Footwear,4,541.97,0
+40,Female,935.8,1,Online,Accessories,0,935.8,1
+22,Male,243.21,5,Online,Electronics,2,48.642,0
+42,Female,73.41,1,Phone,Clothing,4,73.41,0
+49,Male,361.54,1,Phone,Footwear,4,361.54,0
+55,Male,50.0,1,Phone,Electronics,4,50.0,0
+29,Female,903.88,1,Online,Accessories,0,903.88,1
+52,Female,292.06,2,Mobile App,Outerwear,4,146.03,0
+34,Male,86.99,1,Mobile App,Bags,1,86.99,0
+44,Female,419.23,3,Online,Clothing,2,139.74333333333334,0
+22,Male,381.0,1,Online,Media,1,381.0,0
+39,Male,385.95,2,In-Store,Footwear,4,192.975,0
+35,Female,634.79,2,Mobile App,Accessories,0,317.395,1
+29,Female,531.23,3,Online,Accessories,2,177.07666666666668,0
+34,Male,276.01,3,Phone,Clothing,2,92.00333333333333,0
+29,Female,161.12,2,Phone,Accessories,1,80.56,0
+26,Female,388.14,1,Mobile App,Footwear,1,388.14,0
+38,Female,126.03,2,Mobile App,Electronics,4,63.015,0
+54,Female,672.71,3,Online,Clothing,4,224.23666666666668,1
+30,Male,1173.24,3,Mobile App,Beauty,0,391.08,1
+49,Female,1228.8,1,In-Store,Clothing,3,1228.8,1
+37,Male,696.26,1,Mobile App,Accessories,0,696.26,1
+48,Female,71.53,3,Mobile App,Clothing,4,23.843333333333334,0
+18,Female,616.11,1,In-Store,Electronics,1,616.11,0
+32,Female,806.21,1,In-Store,Accessories,0,806.21,1
+32,Female,726.32,1,Phone,Footwear,0,726.32,1
+45,Female,485.6,2,Online,Outerwear,4,242.8,0
+37,Male,279.9,5,Phone,Outerwear,2,55.98,0
+47,Male,453.17,1,Phone,Electronics,4,453.17,0
+25,Female,357.69,1,Phone,Media,1,357.69,0
+39,Male,429.33,1,Mobile App,Accessories,4,429.33,0
+58,Female,394.72,1,Mobile App,Accessories,4,394.72,0
+55,Female,504.86,2,In-Store,Beauty,4,252.43,0
+52,Female,988.32,2,Phone,Electronics,0,494.16,1
+26,Male,655.8,1,In-Store,Accessories,0,655.8,1
+46,Male,874.74,2,Online,Electronics,0,437.37,1
+60,Male,197.18,2,In-Store,Electronics,4,98.59,0
+31,Male,592.82,1,Mobile App,Clothing,0,592.82,0
+18,Female,870.76,1,Mobile App,Clothing,0,870.76,1
+54,Female,786.37,5,Online,Clothing,2,157.274,1
+52,Male,849.97,1,Mobile App,Accessories,0,849.97,1
+18,Female,306.09,3,In-Store,Media,2,102.02999999999999,0
+47,Male,455.3,1,In-Store,Accessories,4,455.3,0
+30,Male,504.6,3,Phone,Footwear,2,168.20000000000002,0
+35,Female,92.47,3,Online,Media,2,30.823333333333334,0
+51,Male,331.56,2,Mobile App,Accessories,4,165.78,0
+18,Male,799.74,3,Mobile App,Outerwear,2,266.58,1
+49,Female,1933.39,4,In-Store,Footwear,3,483.3475,1
+19,Male,368.05,2,Online,Accessories,1,184.025,0
+21,Male,381.89,1,Online,Footwear,1,381.89,0
+23,Male,320.24,1,Phone,Electronics,1,320.24,0
+28,Female,217.52,3,Online,Accessories,2,72.50666666666667,0
+50,Male,341.15,2,Online,Outerwear,4,170.575,0
+28,Male,223.7,1,Mobile App,Accessories,1,223.7,0
+38,Female,177.93,1,Online,Accessories,4,177.93,0
+38,Male,498.98,2,Phone,Accessories,4,249.49,0
+30,Male,239.31,1,In-Store,Electronics,1,239.31,0
+33,Male,367.78,1,In-Store,Clothing,1,367.78,0
+35,Female,273.95,2,Mobile App,Accessories,4,136.975,0
+63,Female,342.94,2,In-Store,Electronics,4,171.47,0
+25,Male,1161.76,1,In-Store,Footwear,3,1161.76,1
+18,Male,423.91,1,Online,Bags,1,423.91,0
+45,Male,545.45,1,Mobile App,Electronics,0,545.45,0
+39,Female,493.71,1,Mobile App,Accessories,0,493.71,0
+40,Male,398.14,2,Mobile App,Bags,4,199.07,0
+27,Male,359.42,2,In-Store,Electronics,1,179.71,0
+29,Female,1343.71,1,In-Store,Accessories,3,1343.71,1
+41,Female,198.1,1,In-Store,Accessories,4,198.1,0
+29,Male,109.79,1,In-Store,Accessories,1,109.79,0
+18,Male,112.31,5,In-Store,Accessories,2,22.462,0
+33,Female,410.1,1,Phone,Footwear,1,410.1,0
+30,Male,641.01,3,Online,Electronics,2,213.67,1
+41,Female,1040.29,3,In-Store,Accessories,0,346.7633333333333,1
+20,Female,531.95,2,Phone,Accessories,1,265.975,0
+18,Male,509.29,2,Mobile App,Electronics,1,254.645,0
+40,Female,849.54,1,Phone,Accessories,0,849.54,1
+34,Female,180.84,2,In-Store,Accessories,1,90.42,0
+18,Male,266.42,1,Mobile App,Accessories,1,266.42,0
+32,Female,151.33,3,Online,Electronics,2,50.443333333333335,0
+46,Female,230.78,1,Online,Accessories,4,230.78,0
+35,Male,524.61,3,In-Store,Media,2,174.87,0
+27,Female,372.02,1,Online,Footwear,1,372.02,0
+36,Male,288.62,3,In-Store,Clothing,2,96.20666666666666,0
+18,Male,1944.91,1,Online,Media,3,1944.91,1
+43,Male,208.93,2,In-Store,Footwear,4,104.465,0
+18,Male,450.92,1,Online,Clothing,1,450.92,0
+35,Male,702.54,1,Phone,Accessories,0,702.54,1
+45,Male,145.0,2,Online,Accessories,4,72.5,0
+33,Female,652.73,4,Mobile App,Beauty,2,163.1825,1
+68,Male,50.0,1,Mobile App,Accessories,4,50.0,0
+18,Male,333.99,4,Phone,Accessories,2,83.4975,0
+40,Female,2521.08,2,Mobile App,Electronics,3,1260.54,1
+31,Male,589.76,3,Phone,Electronics,2,196.58666666666667,1
+43,Male,985.0,1,Phone,Bags,0,985.0,1
+36,Male,331.39,1,In-Store,Footwear,1,331.39,0
+18,Female,770.26,3,Phone,Footwear,2,256.75333333333333,1
+52,Male,193.11,1,Online,Accessories,4,193.11,0
+38,Female,50.0,2,In-Store,Beauty,4,25.0,0
+43,Female,359.74,1,Online,Accessories,4,359.74,0
+24,Male,411.47,1,Phone,Electronics,1,411.47,0
+38,Male,272.37,2,Mobile App,Electronics,4,136.185,0
+31,Female,263.57,2,In-Store,Bags,1,131.785,0
+18,Female,54.22,2,Phone,Accessories,1,27.11,0
+38,Female,143.26,1,In-Store,Bags,4,143.26,0
+44,Male,691.77,1,In-Store,Clothing,0,691.77,1
+56,Male,174.11,1,In-Store,Accessories,4,174.11,0
+27,Male,85.08,1,Mobile App,Beauty,1,85.08,0
+57,Female,837.2,3,In-Store,Clothing,4,279.06666666666666,1
+28,Male,50.0,3,In-Store,Electronics,2,16.666666666666668,0
+39,Male,474.53,1,Online,Accessories,0,474.53,0
+29,Female,178.11,3,Phone,Footwear,2,59.370000000000005,0
+53,Female,50.0,1,In-Store,Clothing,4,50.0,0
+28,Female,793.34,2,In-Store,Clothing,0,396.67,1
+19,Male,256.39,1,In-Store,Electronics,1,256.39,0
+18,Female,294.32,2,Online,Media,1,147.16,0
+37,Female,215.12,1,Phone,Footwear,4,215.12,0
+30,Male,103.49,1,Mobile App,Electronics,1,103.49,0
+49,Male,102.63,1,In-Store,Footwear,4,102.63,0
+39,Male,524.51,1,Online,Accessories,0,524.51,0
+22,Male,596.81,1,In-Store,Footwear,1,596.81,0
+18,Male,96.9,1,Online,Electronics,1,96.9,0
+29,Female,314.11,1,Online,Bags,1,314.11,0
+18,Female,88.44,2,Online,Electronics,1,44.22,0
+49,Female,1301.31,1,In-Store,Accessories,3,1301.31,1
+35,Female,923.45,2,Mobile App,Electronics,0,461.725,1
+60,Male,506.09,1,Phone,Electronics,4,506.09,0
+33,Female,954.26,4,Mobile App,Footwear,2,238.565,1
+32,Male,132.82,4,In-Store,Accessories,2,33.205,0
+55,Male,251.72,1,Phone,Footwear,4,251.72,0
+36,Female,522.97,2,In-Store,Accessories,4,261.485,0
+32,Female,163.0,1,Phone,Accessories,1,163.0,0
+48,Female,525.62,4,Online,Clothing,2,131.405,1
+42,Female,161.93,2,In-Store,Accessories,4,80.965,0
+36,Female,161.55,1,Phone,Beauty,4,161.55,0
+18,Male,160.5,1,Mobile App,Clothing,1,160.5,0
+38,Female,175.78,1,Phone,Electronics,4,175.78,0
+23,Male,161.43,1,Mobile App,Footwear,1,161.43,0
+33,Female,263.84,2,Phone,Accessories,1,131.92,0
+55,Male,616.45,1,Phone,Electronics,0,616.45,0
+51,Female,1422.87,1,Mobile App,Accessories,3,1422.87,1
+19,Female,638.46,1,Mobile App,Bags,0,638.46,1
+31,Female,288.43,1,Mobile App,Clothing,1,288.43,0
+40,Female,862.36,1,Phone,Accessories,0,862.36,1
+21,Male,70.26,3,Online,Clothing,2,23.42,0
+36,Female,478.51,1,Online,Accessories,0,478.51,0
+43,Male,251.71,2,Phone,Accessories,4,125.855,0
+33,Male,656.97,1,Online,Accessories,0,656.97,1
+61,Male,292.59,1,Online,Clothing,4,292.59,0
+35,Male,110.88,2,Online,Accessories,4,55.44,0
+42,Male,851.49,1,Mobile App,Bags,0,851.49,1
+39,Male,281.58,1,Online,Accessories,4,281.58,0
+33,Female,304.07,2,Online,Accessories,1,152.035,0
+40,Female,257.34,1,In-Store,Electronics,4,257.34,0
+38,Female,138.75,1,Online,Footwear,4,138.75,0
+37,Male,664.99,2,In-Store,Accessories,0,332.495,1
+36,Male,170.68,2,Online,Electronics,4,85.34,0
+54,Male,323.93,1,Phone,Outerwear,4,323.93,0
+40,Male,760.44,1,Mobile App,Electronics,0,760.44,1
+23,Male,561.39,1,Mobile App,Electronics,1,561.39,0
+31,Female,611.04,1,In-Store,Electronics,0,611.04,0
+40,Male,134.26,2,Mobile App,Electronics,4,67.13,0
+27,Male,144.83,3,Online,Footwear,2,48.27666666666667,0
+32,Male,820.41,3,Phone,Footwear,2,273.46999999999997,1
+18,Female,246.95,1,Phone,Clothing,1,246.95,0
+34,Male,537.68,1,Mobile App,Accessories,0,537.68,0
+20,Female,448.91,2,Online,Accessories,1,224.455,0
+61,Male,556.83,1,Phone,Electronics,4,556.83,0
+45,Female,388.25,3,Phone,Electronics,2,129.41666666666666,0
+64,Female,370.43,2,Mobile App,Outerwear,4,185.215,0
+33,Male,284.13,4,In-Store,Accessories,2,71.0325,0
+18,Female,222.84,1,In-Store,Accessories,1,222.84,0
+26,Male,241.06,1,In-Store,Electronics,1,241.06,0
+18,Female,406.51,3,Online,Footwear,2,135.50333333333333,0
+26,Male,445.1,2,Phone,Electronics,1,222.55,0
+44,Female,683.01,3,Mobile App,Accessories,2,227.67,1
+31,Female,1339.35,1,Mobile App,Accessories,3,1339.35,1
+36,Male,307.06,2,Mobile App,Accessories,4,153.53,0
+18,Male,338.37,2,Mobile App,Electronics,1,169.185,0
+51,Female,832.02,1,In-Store,Electronics,0,832.02,1
+49,Male,275.28,2,In-Store,Accessories,4,137.64,0
+35,Male,869.66,2,Online,Clothing,0,434.83,1
+53,Female,626.87,1,In-Store,Accessories,0,626.87,1
+35,Female,624.72,1,In-Store,Accessories,0,624.72,1
+24,Female,340.67,2,Mobile App,Accessories,1,170.335,0
+24,Female,703.92,1,In-Store,Electronics,0,703.92,1
+30,Male,538.19,3,Mobile App,Electronics,2,179.39666666666668,1
+37,Male,554.09,1,Mobile App,Electronics,0,554.09,0
+22,Male,858.67,1,Mobile App,Outerwear,0,858.67,1
+18,Male,806.37,5,Online,Accessories,2,161.274,1
+35,Female,285.89,4,Phone,Electronics,2,71.4725,0
+49,Female,541.83,1,In-Store,Electronics,4,541.83,0
+19,Female,209.39,3,Mobile App,Electronics,2,69.79666666666667,0
+38,Male,453.53,1,Mobile App,Accessories,4,453.53,0
+39,Female,562.47,1,In-Store,Electronics,0,562.47,0
+33,Male,162.97,1,Online,Electronics,1,162.97,0
+54,Male,2230.95,1,Phone,Accessories,3,2230.95,1
+37,Female,247.35,3,In-Store,Footwear,2,82.45,0
+42,Male,180.06,2,In-Store,Accessories,4,90.03,0
+21,Male,525.91,5,Phone,Clothing,2,105.18199999999999,1
+30,Female,50.0,2,Phone,Accessories,1,25.0,0
+41,Female,263.61,1,Phone,Beauty,4,263.61,0
+23,Male,468.37,2,In-Store,Outerwear,1,234.185,0
+32,Female,142.46,5,Online,Footwear,2,28.492,0
+24,Female,605.26,2,Mobile App,Electronics,1,302.63,1
+33,Male,519.37,3,Phone,Media,2,173.12333333333333,0
+32,Male,216.77,4,Phone,Accessories,2,54.1925,0
+49,Female,1148.43,1,Online,Electronics,3,1148.43,1
+25,Female,340.82,2,In-Store,Accessories,1,170.41,0
+57,Male,534.0,3,Phone,Accessories,4,178.0,0
+20,Female,123.07,4,Mobile App,Media,2,30.7675,0
+48,Female,258.82,1,Online,Accessories,4,258.82,0
+18,Male,697.63,2,Mobile App,Accessories,1,348.815,1
+34,Male,603.95,2,Mobile App,Accessories,1,301.975,1
+50,Female,2021.66,1,Mobile App,Footwear,3,2021.66,1
+57,Female,234.74,2,Mobile App,Outerwear,4,117.37,0
+29,Male,238.61,1,Phone,Media,1,238.61,0
+43,Male,585.26,1,Mobile App,Accessories,0,585.26,0
+18,Male,276.18,1,Mobile App,Beauty,1,276.18,0
+36,Male,781.75,2,Online,Clothing,0,390.875,1
+19,Male,59.69,1,Phone,Electronics,1,59.69,0
+48,Male,380.29,1,Online,Accessories,4,380.29,0
+43,Male,57.82,1,Phone,Clothing,4,57.82,0
+30,Female,111.69,1,Mobile App,Electronics,1,111.69,0
+61,Male,237.78,1,In-Store,Footwear,4,237.78,0
+46,Female,323.36,1,Phone,Footwear,4,323.36,0
+26,Female,352.93,2,Online,Footwear,1,176.465,0
+40,Female,856.97,3,Phone,Clothing,2,285.6566666666667,1
+22,Male,372.91,1,Phone,Footwear,1,372.91,0
+47,Female,149.69,1,Mobile App,Electronics,4,149.69,0
+34,Female,50.0,2,In-Store,Electronics,1,25.0,0
+18,Female,236.8,1,Mobile App,Clothing,1,236.8,0
+18,Female,748.2,4,Phone,Accessories,2,187.05,1
+28,Female,147.45,2,Mobile App,Bags,1,73.725,0
+36,Male,812.33,1,Online,Clothing,0,812.33,1
+21,Female,858.2,1,Mobile App,Electronics,0,858.2,1
+60,Female,64.78,2,Online,Footwear,4,32.39,0
+29,Female,103.27,1,Online,Media,1,103.27,0
+21,Male,310.51,1,Phone,Accessories,1,310.51,0
+31,Female,1064.54,1,Mobile App,Accessories,3,1064.54,1
+40,Male,724.08,3,Online,Clothing,2,241.36,1
+41,Male,296.97,2,Online,Electronics,4,148.485,0
+26,Female,172.55,1,In-Store,Electronics,1,172.55,0
+38,Male,355.82,2,Phone,Accessories,4,177.91,0
+47,Male,405.26,1,Phone,Bags,4,405.26,0
+27,Female,355.02,2,Phone,Accessories,1,177.51,0
+44,Male,172.4,1,Phone,Clothing,4,172.4,0
+32,Male,160.63,2,Online,Electronics,1,80.315,0
+24,Male,595.8,5,Mobile App,Clothing,2,119.16,1
+27,Female,480.98,1,Mobile App,Accessories,1,480.98,0
+41,Male,1229.54,1,Phone,Clothing,3,1229.54,1
+28,Female,294.54,1,In-Store,Accessories,1,294.54,0
+18,Female,630.77,1,Phone,Electronics,1,630.77,1
+51,Male,144.04,1,In-Store,Electronics,4,144.04,0
+30,Female,147.34,3,In-Store,Accessories,2,49.11333333333334,0
+51,Male,862.08,4,Phone,Accessories,2,215.52,1
+36,Female,278.61,1,Mobile App,Bags,4,278.61,0
+35,Male,920.76,2,Mobile App,Electronics,0,460.38,1
+31,Male,485.29,2,Online,Beauty,1,242.645,0
+30,Female,721.51,2,Phone,Electronics,0,360.755,1
+63,Female,229.15,1,Mobile App,Accessories,4,229.15,0
+45,Female,407.1,1,Online,Bags,4,407.1,0
+22,Female,566.55,1,Online,Clothing,1,566.55,0
+20,Female,321.37,1,Phone,Beauty,1,321.37,0
+44,Male,753.54,3,Online,Outerwear,2,251.17999999999998,1
+27,Male,216.88,3,Phone,Clothing,2,72.29333333333334,0
+31,Male,88.07,1,Mobile App,Electronics,1,88.07,0
+32,Male,1172.19,1,Online,Beauty,3,1172.19,1
+40,Female,914.01,4,Online,Outerwear,2,228.5025,1
+23,Male,116.5,2,Mobile App,Electronics,1,58.25,0
+24,Female,195.18,3,Mobile App,Media,2,65.06,0
+46,Male,1094.49,1,Mobile App,Beauty,3,1094.49,1
+36,Female,677.98,2,Online,Footwear,0,338.99,1
+25,Male,693.33,2,Online,Accessories,1,346.665,1
+59,Female,296.91,3,Online,Footwear,4,98.97000000000001,0
+48,Male,874.99,1,Online,Footwear,0,874.99,1
+25,Male,1556.17,1,Phone,Footwear,3,1556.17,1
+49,Male,418.16,1,In-Store,Electronics,4,418.16,0
+18,Female,231.23,3,Phone,Media,2,77.07666666666667,0
+28,Male,560.64,4,Online,Clothing,2,140.16,1
+28,Female,822.51,5,Mobile App,Accessories,2,164.502,1
+29,Male,346.61,4,Online,Electronics,2,86.6525,0
+31,Male,282.56,1,Mobile App,Footwear,1,282.56,0
+36,Female,428.28,1,Online,Accessories,4,428.28,0
+29,Female,1404.12,1,Online,Footwear,3,1404.12,1
+33,Male,365.3,1,In-Store,Accessories,1,365.3,0
+46,Female,650.94,3,Online,Electronics,2,216.98000000000002,1
+20,Male,193.81,3,Mobile App,Accessories,2,64.60333333333334,0
+60,Female,1022.98,1,In-Store,Accessories,3,1022.98,1
+18,Female,251.56,2,Mobile App,Outerwear,1,125.78,0
+18,Female,1115.4,4,Phone,Footwear,2,278.85,1
+45,Female,1119.81,1,Phone,Accessories,3,1119.81,1
+42,Female,110.98,1,Phone,Accessories,4,110.98,0
+32,Female,50.0,1,Phone,Footwear,1,50.0,0
+30,Male,299.58,1,Mobile App,Footwear,1,299.58,0
+48,Male,1116.39,2,Phone,Footwear,0,558.195,1
+60,Female,929.24,1,Online,Accessories,0,929.24,1
+35,Female,364.21,1,Phone,Outerwear,1,364.21,0
+18,Female,231.97,5,Phone,Accessories,2,46.394,0
+33,Female,117.47,2,In-Store,Accessories,1,58.735,0
+40,Female,883.15,1,In-Store,Outerwear,0,883.15,1
+44,Male,161.48,4,In-Store,Media,2,40.37,0
+55,Female,252.02,1,Phone,Accessories,4,252.02,0
+44,Female,65.11,1,In-Store,Accessories,4,65.11,0
+38,Female,543.18,3,Phone,Electronics,2,181.05999999999997,1
+25,Female,536.65,1,Phone,Clothing,1,536.65,0
+26,Male,348.95,3,Phone,Clothing,2,116.31666666666666,0
+38,Female,390.36,1,Online,Accessories,4,390.36,0
+27,Male,58.88,1,Mobile App,Footwear,1,58.88,0
+38,Female,795.9,2,Phone,Accessories,0,397.95,1
+51,Female,581.22,1,Online,Electronics,0,581.22,0
+32,Male,513.76,3,In-Store,Bags,2,171.25333333333333,0
+18,Male,251.84,2,Mobile App,Accessories,1,125.92,0
+41,Male,101.67,4,Online,Electronics,2,25.4175,0
+18,Male,213.72,3,Mobile App,Accessories,2,71.24,0
+18,Male,214.54,1,Online,Accessories,1,214.54,0
+33,Male,108.42,3,Phone,Accessories,2,36.14,0
+31,Female,347.25,2,In-Store,Accessories,1,173.625,0
+51,Female,117.53,2,Mobile App,Accessories,4,58.765,0
+45,Female,332.19,3,Phone,Outerwear,2,110.73,0
+27,Male,560.03,2,Mobile App,Electronics,1,280.015,0
+21,Female,209.74,1,In-Store,Accessories,1,209.74,0
+48,Female,141.36,2,Mobile App,Accessories,4,70.68,0
+26,Female,458.01,1,Online,Electronics,1,458.01,0
+42,Female,361.58,1,Online,Electronics,4,361.58,0
+20,Female,633.92,2,Mobile App,Accessories,1,316.96,1
+33,Female,288.21,1,Phone,Outerwear,1,288.21,0
+41,Male,239.0,1,Online,Electronics,4,239.0,0
+18,Female,622.02,1,Phone,Footwear,1,622.02,1
+18,Female,613.16,2,Phone,Clothing,1,306.58,1
+42,Male,536.96,1,Online,Outerwear,0,536.96,0
+43,Male,50.0,3,In-Store,Clothing,2,16.666666666666668,0
+37,Male,184.0,1,In-Store,Accessories,4,184.0,0
+32,Female,118.44,1,In-Store,Accessories,1,118.44,0
+24,Male,468.18,1,Phone,Beauty,1,468.18,0
+46,Female,839.2,2,Online,Accessories,0,419.6,1
+40,Male,191.15,1,Mobile App,Footwear,4,191.15,0
+34,Male,305.12,4,Online,Electronics,2,76.28,0
+21,Female,488.06,4,In-Store,Clothing,2,122.015,0
+47,Male,370.24,3,In-Store,Electronics,4,123.41333333333334,0
+35,Female,521.51,4,In-Store,Accessories,2,130.3775,1
+20,Male,837.24,1,Online,Accessories,0,837.24,1
+22,Female,942.87,2,Online,Accessories,0,471.435,1
+36,Male,239.2,2,Online,Clothing,4,119.6,0
+35,Female,1126.99,2,In-Store,Outerwear,0,563.495,1
+30,Male,329.92,3,Phone,Accessories,2,109.97333333333334,0
+45,Male,79.65,2,Phone,Electronics,4,39.825,0
+30,Male,426.22,5,Mobile App,Electronics,2,85.244,0
+41,Female,459.4,1,Phone,Footwear,4,459.4,0
+41,Female,539.11,3,Online,Accessories,2,179.70333333333335,1
+32,Male,391.93,2,In-Store,Outerwear,1,195.965,0
+26,Male,591.64,2,In-Store,Accessories,1,295.82,1
+28,Female,266.14,1,Online,Electronics,1,266.14,0
+38,Male,50.0,3,Mobile App,Accessories,2,16.666666666666668,0
+18,Female,962.58,4,Mobile App,Electronics,2,240.645,1
+39,Male,654.63,1,Online,Clothing,0,654.63,1
+21,Female,308.22,2,In-Store,Footwear,1,154.11,0
+31,Male,102.71,1,Mobile App,Accessories,1,102.71,0
+33,Male,404.19,5,Phone,Accessories,2,80.838,0
+33,Male,805.36,1,Online,Footwear,0,805.36,1
+49,Female,752.97,1,Online,Clothing,0,752.97,1
+32,Male,1023.47,1,Online,Clothing,3,1023.47,1
+18,Male,115.93,2,In-Store,Accessories,1,57.965,0
+37,Female,984.98,1,Mobile App,Accessories,0,984.98,1
+41,Male,449.65,2,Online,Electronics,4,224.825,0
+60,Female,392.94,4,In-Store,Accessories,2,98.235,0
+18,Male,389.4,3,In-Store,Accessories,2,129.79999999999998,0
+38,Male,69.89,1,In-Store,Clothing,4,69.89,0
+39,Male,297.79,5,Online,Electronics,2,59.55800000000001,0
+31,Male,88.65,2,Online,Clothing,1,44.325,0
+31,Female,1026.27,1,Online,Accessories,3,1026.27,1
+24,Female,474.35,1,Mobile App,Clothing,1,474.35,0
+18,Male,124.15,1,Phone,Clothing,1,124.15,0
+18,Male,744.53,3,In-Store,Electronics,2,248.17666666666665,1
+39,Male,109.71,1,Online,Accessories,4,109.71,0
+19,Female,310.61,1,In-Store,Accessories,1,310.61,0
+29,Male,665.97,3,In-Store,Clothing,2,221.99,1
+25,Female,367.74,2,Phone,Outerwear,1,183.87,0
+46,Female,643.42,3,Mobile App,Beauty,2,214.47333333333333,1
+20,Female,1545.57,2,Phone,Accessories,3,772.785,1
+34,Female,605.17,1,Mobile App,Electronics,0,605.17,0
+48,Male,2026.77,3,In-Store,Accessories,3,675.59,1
+35,Female,73.68,1,Mobile App,Accessories,1,73.68,0
+39,Female,393.83,2,Mobile App,Accessories,4,196.915,0
+21,Male,275.87,2,In-Store,Accessories,1,137.935,0
+39,Female,1242.78,1,Mobile App,Clothing,3,1242.78,1
+37,Male,144.08,5,Online,Accessories,2,28.816000000000003,0
+30,Female,186.5,1,Online,Accessories,1,186.5,0
+31,Male,346.04,1,In-Store,Electronics,1,346.04,0
+30,Female,432.79,4,Phone,Beauty,2,108.1975,0
+18,Male,192.9,2,Phone,Electronics,1,96.45,0
+23,Female,1199.28,2,Phone,Accessories,0,599.64,1
+42,Male,1446.29,2,Mobile App,Accessories,3,723.145,1
+38,Female,315.38,3,Online,Footwear,2,105.12666666666667,0
+39,Female,231.89,1,Online,Bags,4,231.89,0
+19,Female,903.16,1,Mobile App,Electronics,0,903.16,1
+37,Male,340.02,1,In-Store,Media,4,340.02,0
+44,Female,274.34,1,In-Store,Footwear,4,274.34,0
+30,Female,74.34,2,Phone,Accessories,1,37.17,0
+26,Male,163.29,1,Phone,Clothing,1,163.29,0
+36,Male,384.72,1,In-Store,Outerwear,1,384.72,0
+37,Male,247.22,1,Online,Beauty,4,247.22,0
+36,Female,373.14,2,Mobile App,Beauty,4,186.57,0
+46,Male,852.86,3,Phone,Clothing,2,284.2866666666667,1
+18,Female,413.52,1,In-Store,Electronics,1,413.52,0
+31,Male,451.44,2,In-Store,Accessories,1,225.72,0
+19,Male,411.62,1,In-Store,Bags,1,411.62,0
+18,Female,198.42,2,Phone,Clothing,1,99.21,0
+44,Male,505.05,1,Online,Footwear,4,505.05,0
+41,Female,176.32,1,In-Store,Electronics,4,176.32,0
+21,Female,847.51,2,Mobile App,Accessories,0,423.755,1
+49,Female,424.76,4,Online,Media,2,106.19,0
+21,Female,247.55,1,Phone,Footwear,1,247.55,0
+30,Male,431.14,3,Phone,Accessories,2,143.71333333333334,0
+43,Female,807.28,2,In-Store,Clothing,0,403.64,1
+52,Male,596.7,4,Online,Footwear,2,149.175,1
+25,Female,301.09,1,Mobile App,Footwear,1,301.09,0
+47,Male,385.78,1,Online,Electronics,4,385.78,0
+47,Male,717.4,3,Phone,Footwear,2,239.13333333333333,1
+39,Male,100.32,1,In-Store,Beauty,4,100.32,0
+18,Female,137.4,1,Online,Clothing,1,137.4,0
+56,Female,379.92,1,Phone,Electronics,4,379.92,0
+37,Female,619.62,3,Online,Electronics,2,206.54,1
+41,Male,485.65,1,Mobile App,Accessories,4,485.65,0
+43,Male,186.49,3,In-Store,Footwear,2,62.163333333333334,0
+18,Female,263.63,1,Phone,Clothing,1,263.63,0
+18,Male,197.33,1,Online,Accessories,1,197.33,0
+23,Male,527.51,1,Phone,Electronics,1,527.51,0
+33,Female,310.78,1,Phone,Electronics,1,310.78,0
+31,Male,465.39,2,Phone,Footwear,1,232.695,0
+47,Male,403.36,2,In-Store,Accessories,4,201.68,0
+59,Female,497.93,1,Online,Accessories,4,497.93,0
+34,Female,389.07,1,Mobile App,Electronics,1,389.07,0
+38,Female,1133.34,2,Mobile App,Electronics,0,566.67,1
+38,Female,50.0,3,In-Store,Electronics,2,16.666666666666668,0
+54,Male,320.91,2,Phone,Electronics,4,160.455,0
+32,Male,146.25,3,Phone,Bags,2,48.75,0
+21,Male,710.61,1,Phone,Accessories,0,710.61,1
+32,Male,726.2,3,Mobile App,Accessories,2,242.0666666666667,1
+49,Female,541.55,1,In-Store,Accessories,4,541.55,0
+18,Male,567.07,1,In-Store,Electronics,1,567.07,0
+46,Female,168.7,3,Phone,Clothing,4,56.23333333333333,0
+18,Female,173.27,4,Online,Footwear,2,43.3175,0
+32,Female,998.33,2,Mobile App,Footwear,0,499.165,1
+49,Female,596.58,1,Online,Bags,0,596.58,0
+23,Female,185.75,1,Mobile App,Media,1,185.75,0
+18,Female,59.56,1,Mobile App,Clothing,1,59.56,0
+24,Male,514.41,3,Online,Electronics,2,171.47,0
+18,Female,222.11,1,Online,Accessories,1,222.11,0
+24,Female,50.0,3,Phone,Clothing,2,16.666666666666668,0
+29,Male,257.16,1,In-Store,Footwear,1,257.16,0
+18,Male,73.58,3,In-Store,Beauty,2,24.526666666666667,0
+70,Male,572.53,4,Online,Electronics,4,143.1325,1
+24,Male,473.86,1,In-Store,Electronics,1,473.86,0
+34,Female,139.82,1,Online,Electronics,1,139.82,0
+32,Female,285.55,3,Mobile App,Accessories,2,95.18333333333334,0
+38,Female,1281.18,2,Phone,Accessories,0,640.59,1
+39,Female,152.02,2,Phone,Electronics,4,76.01,0
+18,Female,537.87,2,In-Store,Accessories,1,268.935,0
+27,Male,217.67,1,Phone,Clothing,1,217.67,0
+20,Female,610.6,3,In-Store,Media,2,203.53333333333333,1
+64,Male,799.69,1,Mobile App,Media,0,799.69,1
+25,Female,1402.46,4,In-Store,Accessories,2,350.615,1
+21,Female,191.14,1,Online,Electronics,1,191.14,0
+55,Female,440.72,2,Phone,Accessories,4,220.36,0
+36,Female,375.57,1,Phone,Electronics,4,375.57,0
+46,Female,158.69,1,Online,Accessories,4,158.69,0
+58,Male,677.62,1,In-Store,Accessories,0,677.62,1
+18,Male,369.61,2,Online,Footwear,1,184.805,0
+28,Male,116.45,2,In-Store,Bags,1,58.225,0
+26,Female,975.42,3,Mobile App,Media,2,325.14,1
+18,Male,164.65,1,In-Store,Media,1,164.65,0
+24,Female,579.03,2,Mobile App,Electronics,1,289.515,1
+37,Female,357.84,3,In-Store,Bags,2,119.27999999999999,0
+55,Male,1205.29,1,In-Store,Accessories,3,1205.29,1
+27,Female,381.82,1,In-Store,Accessories,1,381.82,0
+20,Male,344.31,1,Phone,Clothing,1,344.31,0
+20,Female,485.76,1,In-Store,Outerwear,1,485.76,0
+30,Male,651.54,1,Phone,Media,0,651.54,1
+34,Female,103.33,2,Online,Accessories,4,51.665,0
+38,Male,1501.9,1,In-Store,Clothing,3,1501.9,1
+40,Male,294.98,2,Mobile App,Accessories,4,147.49,0
+31,Female,182.99,4,Online,Footwear,2,45.7475,0
+24,Female,146.15,2,Phone,Electronics,1,73.075,0
+42,Male,445.81,2,Mobile App,Outerwear,4,222.905,0
+26,Male,791.62,1,Online,Footwear,0,791.62,1
+29,Female,641.66,3,Mobile App,Footwear,2,213.88666666666666,1
+21,Female,1591.25,1,Phone,Clothing,3,1591.25,1
+30,Male,419.5,2,In-Store,Accessories,1,209.75,0
+40,Female,230.0,5,Online,Electronics,2,46.0,0
+22,Female,261.68,2,In-Store,Electronics,1,130.84,0
+34,Male,177.24,2,In-Store,Accessories,1,88.62,0
+33,Male,855.47,1,Phone,Footwear,0,855.47,1
+40,Female,339.55,1,Mobile App,Footwear,4,339.55,0
+31,Female,273.42,3,Phone,Footwear,2,91.14,0
+46,Female,707.59,1,Mobile App,Beauty,0,707.59,1
+54,Female,65.03,2,Phone,Footwear,4,32.515,0
+45,Male,932.23,1,Online,Beauty,0,932.23,1
+19,Female,80.71,3,In-Store,Media,2,26.903333333333332,0
+26,Female,1067.47,1,Online,Electronics,3,1067.47,1
+27,Male,395.82,2,Mobile App,Media,1,197.91,0
+48,Male,590.14,2,Online,Accessories,4,295.07,1
+37,Male,398.15,1,Online,Electronics,4,398.15,0
+28,Female,365.56,1,Phone,Accessories,1,365.56,0
+29,Female,345.37,1,In-Store,Beauty,1,345.37,0
+22,Male,328.61,1,In-Store,Outerwear,1,328.61,0
+36,Male,245.72,1,Online,Beauty,4,245.72,0
+51,Male,550.35,1,Phone,Footwear,4,550.35,0
+26,Female,1287.73,2,Online,Electronics,0,643.865,1
+19,Male,856.48,1,Mobile App,Accessories,0,856.48,1
+39,Female,208.47,5,In-Store,Footwear,2,41.694,0
+31,Male,245.44,2,In-Store,Electronics,1,122.72,0
+39,Male,111.07,1,Online,Outerwear,4,111.07,0
+34,Male,414.67,1,Mobile App,Clothing,1,414.67,0
+48,Male,832.18,3,Phone,Accessories,2,277.3933333333333,1
+27,Male,279.12,1,In-Store,Electronics,1,279.12,0
+31,Female,352.88,2,Mobile App,Accessories,1,176.44,0
+44,Female,60.74,2,Mobile App,Accessories,4,30.37,0
+33,Male,663.65,1,Phone,Media,0,663.65,1
+43,Female,802.12,3,Mobile App,Electronics,2,267.37333333333333,1
+52,Female,1151.09,1,Online,Electronics,3,1151.09,1
+38,Female,460.94,1,Online,Electronics,0,460.94,0
+40,Male,558.44,3,Mobile App,Footwear,2,186.14666666666668,1
+34,Male,208.21,2,In-Store,Accessories,1,104.105,0
+32,Male,1004.74,3,In-Store,Bags,2,334.91333333333336,1
+28,Male,445.71,2,In-Store,Media,1,222.855,0
+31,Female,537.32,2,Mobile App,Outerwear,1,268.66,0
+21,Female,472.55,3,In-Store,Electronics,2,157.51666666666668,0
+34,Female,478.24,1,Online,Electronics,0,478.24,0
+41,Female,196.14,3,Mobile App,Beauty,2,65.38,0
+26,Female,403.09,2,In-Store,Beauty,1,201.545,0
+18,Male,167.87,1,In-Store,Accessories,1,167.87,0
+47,Female,380.42,2,Mobile App,Media,4,190.21,0
+44,Male,312.55,1,In-Store,Electronics,4,312.55,0
+18,Female,549.11,2,Phone,Accessories,1,274.555,0
+35,Female,353.73,2,In-Store,Footwear,1,176.865,0
+48,Male,125.87,4,Phone,Accessories,2,31.4675,0
+47,Female,584.66,1,Mobile App,Accessories,0,584.66,0
+18,Female,734.13,2,Phone,Electronics,1,367.065,1
+58,Male,872.53,1,Online,Footwear,0,872.53,1
+40,Male,1411.3,2,Online,Accessories,0,705.65,1
+37,Female,158.21,2,Online,Electronics,4,79.105,0
+33,Male,204.88,2,In-Store,Beauty,1,102.44,0
+49,Male,175.0,3,Mobile App,Accessories,4,58.333333333333336,0
+49,Female,262.11,3,Phone,Electronics,4,87.37,0
+44,Female,1689.67,1,In-Store,Accessories,3,1689.67,1
+23,Male,1103.46,1,Phone,Accessories,3,1103.46,1
+39,Female,992.64,2,In-Store,Footwear,0,496.32,1
+27,Male,122.79,1,In-Store,Clothing,1,122.79,0
+36,Male,53.74,1,Mobile App,Accessories,4,53.74,0
+56,Male,583.04,2,Mobile App,Media,4,291.52,1
+18,Female,766.95,1,In-Store,Accessories,0,766.95,1
+34,Female,1808.29,1,Online,Clothing,3,1808.29,1
+24,Male,97.69,3,Phone,Electronics,2,32.56333333333333,0
+19,Male,571.58,1,In-Store,Bags,1,571.58,0
+18,Female,286.76,1,In-Store,Footwear,1,286.76,0
+48,Male,50.0,1,Mobile App,Accessories,4,50.0,0
+50,Female,212.11,3,Online,Clothing,4,70.70333333333333,0
+32,Male,958.14,4,Online,Electronics,2,239.535,1
+24,Female,592.04,2,Phone,Media,1,296.02,1
+31,Female,82.14,1,In-Store,Electronics,1,82.14,0
+51,Male,1141.95,4,Phone,Accessories,2,285.4875,1
+35,Male,442.18,2,Online,Bags,4,221.09,0
+32,Male,217.72,3,Mobile App,Accessories,2,72.57333333333334,0
+26,Male,223.99,3,Mobile App,Electronics,2,74.66333333333334,0
+51,Male,96.11,1,In-Store,Accessories,4,96.11,0
+32,Female,429.98,1,Phone,Electronics,1,429.98,0
+40,Female,513.27,1,In-Store,Bags,0,513.27,0
+44,Male,959.13,1,In-Store,Media,0,959.13,1
+30,Female,50.0,3,In-Store,Accessories,2,16.666666666666668,0
+25,Female,850.02,3,Phone,Electronics,2,283.34,1
+38,Male,370.08,2,Online,Footwear,4,185.04,0
+20,Male,1291.81,1,Phone,Clothing,3,1291.81,1
+57,Female,395.81,1,Mobile App,Clothing,4,395.81,0
+30,Female,593.01,1,In-Store,Clothing,0,593.01,0
+32,Male,678.88,1,In-Store,Clothing,0,678.88,1
+27,Male,788.55,1,Phone,Clothing,0,788.55,1
+30,Male,211.89,2,In-Store,Footwear,1,105.945,0
+28,Male,695.68,1,Mobile App,Bags,0,695.68,1
+35,Male,751.4,5,In-Store,Accessories,2,150.28,1
+18,Female,253.38,1,Online,Footwear,1,253.38,0
+36,Male,432.36,3,Online,Accessories,2,144.12,0
+60,Female,366.03,2,In-Store,Electronics,4,183.015,0
+40,Male,386.46,1,Phone,Electronics,4,386.46,0
+53,Male,825.76,3,Online,Electronics,4,275.25333333333333,1
+44,Female,226.53,2,In-Store,Outerwear,4,113.265,0
+45,Male,233.06,2,Phone,Electronics,4,116.53,0
+19,Female,847.9,2,Online,Accessories,0,423.95,1
+18,Male,877.07,1,In-Store,Bags,0,877.07,1
+35,Female,576.43,2,Online,Footwear,4,288.215,0
+18,Female,137.19,4,In-Store,Electronics,2,34.2975,0
+48,Male,50.0,1,In-Store,Electronics,4,50.0,0
+21,Female,320.27,1,In-Store,Clothing,1,320.27,0
+34,Male,390.18,4,Mobile App,Accessories,2,97.545,0
+54,Female,955.83,1,Mobile App,Electronics,0,955.83,1
+37,Female,750.46,2,Mobile App,Electronics,0,375.23,1
+39,Male,354.21,2,Phone,Electronics,4,177.105,0
+31,Female,510.07,2,Online,Footwear,1,255.035,0
+23,Male,151.83,1,Mobile App,Clothing,1,151.83,0
+24,Female,183.08,1,Phone,Accessories,1,183.08,0
+38,Male,1033.79,1,Online,Electronics,3,1033.79,1
+18,Female,75.17,2,Phone,Clothing,1,37.585,0
+49,Female,889.7,2,In-Store,Clothing,0,444.85,1
+43,Male,1333.12,2,Phone,Electronics,0,666.56,1
+60,Female,191.05,2,Phone,Accessories,4,95.525,0
+58,Male,513.5,1,Mobile App,Electronics,4,513.5,0
+45,Female,441.26,1,Phone,Accessories,4,441.26,0
+33,Female,212.27,3,Mobile App,Accessories,2,70.75666666666667,0
+40,Female,455.67,1,In-Store,Media,4,455.67,0
+24,Female,513.72,1,In-Store,Electronics,1,513.72,0
+31,Male,696.58,1,Mobile App,Accessories,0,696.58,1
+32,Female,341.33,1,Online,Accessories,1,341.33,0
+55,Male,509.11,1,Mobile App,Bags,4,509.11,0
+44,Male,405.15,3,Mobile App,Electronics,2,135.04999999999998,0
+34,Female,1353.68,4,In-Store,Outerwear,2,338.42,1
+34,Male,772.04,3,In-Store,Electronics,2,257.34666666666664,1
+47,Male,935.51,4,Phone,Media,2,233.8775,1
+34,Female,102.21,4,Phone,Footwear,2,25.5525,0
+32,Female,505.34,2,Mobile App,Electronics,1,252.67,0
+29,Female,681.65,1,Online,Beauty,0,681.65,1
+26,Female,241.94,3,Mobile App,Clothing,2,80.64666666666666,0
+28,Female,399.42,1,In-Store,Electronics,1,399.42,0
+22,Male,774.36,1,Online,Electronics,0,774.36,1
+52,Female,515.83,1,Online,Electronics,4,515.83,0
+33,Male,263.87,2,Online,Accessories,1,131.935,0
+25,Female,1402.81,1,In-Store,Footwear,3,1402.81,1
+38,Male,171.3,1,Mobile App,Electronics,4,171.3,0
+49,Female,288.88,1,Phone,Electronics,4,288.88,0
+35,Male,577.71,3,Phone,Clothing,2,192.57000000000002,1
+33,Female,620.92,2,In-Store,Bags,1,310.46,1
+52,Male,146.43,3,In-Store,Electronics,4,48.81,0
+29,Female,1352.24,1,Phone,Beauty,3,1352.24,1
+62,Female,680.69,1,Phone,Electronics,0,680.69,1
+38,Female,361.0,2,In-Store,Accessories,4,180.5,0
+29,Female,375.96,1,Phone,Outerwear,1,375.96,0
+49,Female,332.08,2,Online,Accessories,4,166.04,0
+27,Male,278.93,3,Phone,Accessories,2,92.97666666666667,0
+22,Female,965.34,3,Online,Media,2,321.78000000000003,1
+23,Male,142.53,4,Phone,Electronics,2,35.6325,0
+36,Female,1137.97,1,Phone,Accessories,3,1137.97,1
+19,Male,460.87,1,Mobile App,Beauty,1,460.87,0
+32,Male,110.78,2,In-Store,Footwear,1,55.39,0
+31,Male,192.8,1,Mobile App,Clothing,1,192.8,0
+42,Female,648.38,1,Online,Accessories,0,648.38,1
+46,Female,1301.02,1,Online,Electronics,3,1301.02,1
+29,Female,566.46,1,Online,Accessories,0,566.46,0
+20,Female,281.83,1,Online,Accessories,1,281.83,0
+18,Male,843.35,1,Online,Accessories,0,843.35,1
+36,Female,620.86,2,Phone,Footwear,4,310.43,1
+39,Female,843.47,2,Mobile App,Accessories,0,421.735,1
+30,Male,260.78,2,Online,Accessories,1,130.39,0
+38,Female,530.8,2,In-Store,Clothing,4,265.4,0
+58,Male,156.2,1,In-Store,Accessories,4,156.2,0
+30,Female,636.11,1,Mobile App,Accessories,0,636.11,1
+51,Female,603.45,1,Online,Accessories,0,603.45,0
+33,Female,370.83,3,Phone,Accessories,2,123.61,0
+46,Female,396.32,2,Online,Accessories,4,198.16,0
+18,Female,667.39,1,Online,Bags,0,667.39,1
+31,Female,63.43,1,Mobile App,Electronics,1,63.43,0
+44,Male,215.06,4,Mobile App,Media,2,53.765,0
+24,Female,50.0,2,Online,Accessories,1,25.0,0
+21,Male,687.99,3,Online,Accessories,2,229.33,1
+24,Male,250.06,1,Mobile App,Outerwear,1,250.06,0
+37,Female,76.84,1,Online,Clothing,4,76.84,0
+20,Female,327.48,3,In-Store,Accessories,2,109.16000000000001,0
+29,Female,417.97,2,In-Store,Footwear,1,208.985,0
+36,Male,209.03,2,In-Store,Footwear,4,104.515,0
+56,Male,2048.06,2,In-Store,Accessories,3,1024.03,1
+50,Male,872.18,2,Online,Footwear,0,436.09,1
+29,Female,489.76,2,Phone,Beauty,1,244.88,0
+39,Female,171.86,1,Mobile App,Accessories,4,171.86,0
+47,Male,962.89,1,Online,Accessories,0,962.89,1
+23,Female,234.34,3,Mobile App,Clothing,2,78.11333333333333,0
+18,Male,147.53,1,Mobile App,Electronics,1,147.53,0
+49,Male,1890.54,2,Phone,Electronics,3,945.27,1
+24,Female,471.48,2,Phone,Media,1,235.74,0
+31,Male,665.3,5,In-Store,Accessories,2,133.06,1
+31,Male,885.92,1,Online,Accessories,0,885.92,1
+21,Female,370.29,1,In-Store,Accessories,1,370.29,0
+55,Female,485.06,3,Mobile App,Footwear,4,161.68666666666667,0
+45,Female,1476.04,3,Phone,Beauty,0,492.0133333333333,1
+30,Female,317.58,2,Mobile App,Bags,1,158.79,0
+42,Male,318.27,1,Online,Electronics,4,318.27,0
+27,Female,385.43,1,In-Store,Media,1,385.43,0
+18,Male,127.39,2,In-Store,Footwear,1,63.695,0
+28,Female,311.31,3,In-Store,Clothing,2,103.77,0
+18,Female,1076.16,3,In-Store,Footwear,2,358.72,1
+36,Male,336.68,1,Online,Accessories,4,336.68,0
+42,Female,579.38,1,Phone,Electronics,0,579.38,0
+25,Female,387.55,1,Phone,Clothing,1,387.55,0
+20,Female,481.98,5,Mobile App,Accessories,2,96.396,1
+29,Male,345.73,2,Phone,Accessories,1,172.865,0
+18,Male,50.0,1,Phone,Bags,1,50.0,0
+43,Male,711.36,1,Phone,Electronics,0,711.36,1
+36,Male,341.71,2,Online,Electronics,4,170.855,0
+25,Male,285.35,1,Phone,Accessories,1,285.35,0
+42,Female,104.2,3,Phone,Beauty,2,34.733333333333334,0
+18,Male,117.81,3,In-Store,Accessories,2,39.27,0
+39,Male,258.37,1,Phone,Accessories,4,258.37,0
+18,Female,356.95,1,Online,Beauty,1,356.95,0
+28,Female,645.98,3,Phone,Media,2,215.32666666666668,1
+51,Female,1401.98,1,Mobile App,Accessories,3,1401.98,1
+35,Male,601.43,1,In-Store,Accessories,0,601.43,0
+58,Female,1078.62,4,Phone,Outerwear,2,269.655,1
+18,Female,824.33,3,In-Store,Electronics,2,274.7766666666667,1
+34,Male,341.84,3,In-Store,Outerwear,2,113.94666666666666,0
+28,Female,654.71,1,In-Store,Electronics,0,654.71,1
+45,Female,212.45,1,Phone,Outerwear,4,212.45,0
+24,Female,304.86,1,Phone,Electronics,1,304.86,0
+20,Male,325.72,1,Phone,Accessories,1,325.72,0
+52,Female,307.82,3,In-Store,Media,4,102.60666666666667,0
+52,Female,405.04,1,In-Store,Electronics,4,405.04,0
+18,Male,183.56,2,In-Store,Media,1,91.78,0
+18,Male,213.92,1,Phone,Outerwear,1,213.92,0
+41,Male,978.63,1,Mobile App,Accessories,0,978.63,1
+43,Male,93.95,5,Phone,Electronics,2,18.79,0
+34,Male,137.69,1,Online,Media,1,137.69,0
+44,Female,532.24,1,Online,Media,0,532.24,0
+44,Female,189.58,1,Online,Accessories,4,189.58,0
+42,Female,443.01,1,In-Store,Accessories,4,443.01,0
+26,Female,77.61,1,Phone,Accessories,1,77.61,0
+22,Male,151.76,1,In-Store,Electronics,1,151.76,0
+30,Female,421.37,2,Online,Electronics,1,210.685,0
+26,Female,390.08,3,Online,Accessories,2,130.02666666666667,0
+30,Male,399.49,2,In-Store,Accessories,1,199.745,0
+18,Male,264.12,1,Phone,Media,1,264.12,0
+23,Female,415.65,2,Phone,Beauty,1,207.825,0
+52,Female,241.1,1,Online,Electronics,4,241.1,0
+24,Male,164.54,2,Online,Electronics,1,82.27,0
+26,Female,607.7,2,Online,Media,1,303.85,1
+36,Male,970.04,1,Phone,Accessories,0,970.04,1
+40,Male,228.54,3,Mobile App,Clothing,2,76.17999999999999,0
+24,Female,852.55,4,Mobile App,Beauty,2,213.1375,1
+24,Male,622.77,3,Mobile App,Electronics,2,207.59,1
+23,Male,1273.13,1,Mobile App,Electronics,3,1273.13,1
+29,Female,326.18,2,In-Store,Accessories,1,163.09,0
+21,Female,50.0,4,Mobile App,Electronics,2,12.5,0
+36,Male,448.53,1,In-Store,Electronics,1,448.53,0
+50,Male,189.62,3,Online,Outerwear,4,63.20666666666667,0
+22,Female,112.16,1,In-Store,Electronics,1,112.16,0
+18,Male,475.62,1,In-Store,Clothing,1,475.62,0
+51,Male,473.17,3,Mobile App,Electronics,4,157.72333333333333,0
+43,Female,172.56,3,Phone,Electronics,2,57.52,0
+22,Female,218.51,3,Phone,Accessories,2,72.83666666666666,0
+18,Male,193.12,4,Online,Accessories,2,48.28,0
+39,Male,383.76,1,Online,Beauty,4,383.76,0
+33,Female,83.47,1,Mobile App,Footwear,1,83.47,0
+26,Male,192.5,4,In-Store,Electronics,2,48.125,0
+46,Male,869.5,1,In-Store,Electronics,0,869.5,1
+46,Male,904.13,2,Mobile App,Bags,0,452.065,1
+28,Male,268.31,2,Online,Accessories,1,134.155,0
+39,Female,279.36,1,Phone,Clothing,4,279.36,0
+43,Male,851.33,1,Phone,Accessories,0,851.33,1
+47,Female,109.52,2,Online,Electronics,4,54.76,0
+21,Female,572.83,3,Phone,Electronics,2,190.94333333333336,1
+27,Female,805.86,2,Online,Clothing,0,402.93,1
+32,Male,556.41,2,Online,Footwear,1,278.205,0
+53,Female,537.8,1,In-Store,Accessories,4,537.8,0
+24,Female,174.41,1,Online,Media,1,174.41,0
+38,Female,112.95,1,In-Store,Bags,4,112.95,0
+41,Male,158.09,1,Phone,Electronics,4,158.09,0
+26,Female,938.95,1,Online,Accessories,0,938.95,1
+51,Female,375.86,1,In-Store,Outerwear,4,375.86,0
+36,Male,434.37,1,Mobile App,Bags,1,434.37,0
+18,Female,837.8,1,In-Store,Clothing,0,837.8,1
+39,Male,428.1,1,Phone,Electronics,4,428.1,0
+32,Male,422.36,2,Phone,Footwear,1,211.18,0
+30,Male,417.91,2,Online,Clothing,1,208.955,0
+30,Male,445.24,1,Phone,Footwear,1,445.24,0
+67,Female,687.01,4,Online,Accessories,4,171.7525,1
+22,Female,1211.8,1,Mobile App,Outerwear,3,1211.8,1
+27,Male,568.11,3,In-Store,Accessories,2,189.37,1
+42,Female,1576.22,1,Mobile App,Beauty,3,1576.22,1
+43,Male,202.15,3,In-Store,Accessories,2,67.38333333333334,0
+36,Female,818.27,1,Phone,Electronics,0,818.27,1
+26,Male,612.87,3,In-Store,Footwear,2,204.29,1
+54,Male,122.07,1,Phone,Beauty,4,122.07,0
+19,Female,634.9,2,Mobile App,Electronics,1,317.45,1
+48,Male,1201.65,1,Online,Electronics,3,1201.65,1
+34,Male,1128.94,1,In-Store,Footwear,3,1128.94,1
+37,Male,776.48,3,Online,Clothing,2,258.82666666666665,1
+32,Male,679.71,1,Mobile App,Accessories,0,679.71,1
+24,Male,822.55,4,In-Store,Footwear,2,205.6375,1
+22,Female,831.15,1,Phone,Accessories,0,831.15,1
+31,Male,398.52,1,In-Store,Clothing,1,398.52,0
+66,Female,988.06,2,Online,Footwear,0,494.03,1
+37,Female,519.82,1,Phone,Footwear,0,519.82,0
+25,Female,440.85,1,Online,Beauty,1,440.85,0
+32,Female,105.37,3,Phone,Accessories,2,35.123333333333335,0
+31,Male,284.5,3,Mobile App,Accessories,2,94.83333333333333,0
+24,Male,175.59,4,Online,Accessories,2,43.8975,0
+26,Male,1097.2,1,Online,Accessories,3,1097.2,1
+25,Female,1064.05,2,Online,Outerwear,0,532.025,1
+18,Male,578.2,1,Online,Media,1,578.2,0
+38,Female,256.15,1,In-Store,Accessories,4,256.15,0
+24,Female,806.35,3,Mobile App,Accessories,2,268.78333333333336,1
+46,Male,937.64,1,In-Store,Electronics,0,937.64,1
+48,Female,185.6,1,Phone,Accessories,4,185.6,0
+30,Female,378.26,1,Phone,Electronics,1,378.26,0
+43,Male,198.44,2,Phone,Media,4,99.22,0
+61,Female,403.17,4,Mobile App,Electronics,2,100.7925,0
+30,Female,80.53,2,Mobile App,Bags,1,40.265,0
+29,Female,1093.67,1,Online,Beauty,3,1093.67,1
+52,Female,396.69,3,Online,Electronics,4,132.23,0
+24,Male,216.55,2,Mobile App,Accessories,1,108.275,0
+31,Male,689.51,1,Mobile App,Accessories,0,689.51,1
+39,Female,177.71,1,Mobile App,Electronics,4,177.71,0
+24,Female,450.42,1,Online,Electronics,1,450.42,0
+18,Male,1258.53,1,In-Store,Media,3,1258.53,1
+36,Male,210.72,3,Mobile App,Electronics,2,70.24,0
+28,Male,656.76,1,Mobile App,Clothing,0,656.76,1
+44,Male,658.09,1,Phone,Footwear,0,658.09,1
+18,Female,1649.01,4,Online,Clothing,2,412.2525,1
+24,Male,1025.29,3,In-Store,Electronics,2,341.7633333333333,1
+41,Female,262.07,2,Online,Bags,4,131.035,0
+39,Male,457.15,1,Online,Accessories,4,457.15,0
+26,Female,937.61,1,Mobile App,Footwear,0,937.61,1
+34,Male,118.86,1,In-Store,Electronics,1,118.86,0
+50,Male,611.34,1,Mobile App,Beauty,0,611.34,0
+31,Male,50.0,1,Mobile App,Accessories,1,50.0,0
+42,Female,62.66,2,Phone,Accessories,4,31.33,0
+28,Female,288.25,1,Online,Media,1,288.25,0
+36,Female,133.81,1,Phone,Accessories,4,133.81,0
+29,Female,163.93,1,In-Store,Footwear,1,163.93,0
+28,Male,755.71,2,In-Store,Footwear,0,377.855,1
+34,Female,873.92,2,Mobile App,Accessories,0,436.96,1
+43,Male,486.99,2,Online,Accessories,4,243.495,0
+41,Male,431.04,1,In-Store,Clothing,4,431.04,0
+18,Male,285.12,1,Online,Footwear,1,285.12,0
+29,Female,414.24,1,Online,Clothing,1,414.24,0
+44,Male,143.63,1,Phone,Accessories,4,143.63,0
+50,Female,613.95,3,In-Store,Accessories,4,204.65,1
+18,Male,383.33,5,In-Store,Accessories,2,76.666,0
+18,Female,101.47,2,Phone,Outerwear,1,50.735,0
+42,Male,362.78,4,In-Store,Electronics,2,90.695,0
+51,Male,741.5,2,Phone,Accessories,4,370.75,1
+18,Male,912.85,1,Mobile App,Bags,0,912.85,1
+31,Male,135.32,5,In-Store,Electronics,2,27.064,0
+24,Male,95.74,1,In-Store,Accessories,1,95.74,0
+40,Female,1146.01,2,Online,Electronics,0,573.005,1
+48,Female,902.67,1,Online,Bags,0,902.67,1
+35,Female,594.38,1,In-Store,Footwear,0,594.38,0
+48,Male,348.07,2,Phone,Accessories,4,174.035,0
+18,Male,394.54,1,In-Store,Clothing,1,394.54,0
+38,Male,475.69,1,Mobile App,Electronics,0,475.69,0
+60,Female,1574.96,1,In-Store,Electronics,3,1574.96,1
+44,Male,243.15,1,Online,Accessories,4,243.15,0
+43,Female,303.53,4,Phone,Accessories,2,75.8825,0
+22,Female,256.99,3,In-Store,Accessories,2,85.66333333333334,0
+48,Male,199.28,1,In-Store,Bags,4,199.28,0
+44,Female,430.27,1,In-Store,Electronics,4,430.27,0
+38,Male,1071.36,3,Online,Clothing,0,357.11999999999995,1
+22,Male,405.69,1,Online,Electronics,1,405.69,0
+18,Male,240.16,1,Online,Accessories,1,240.16,0
+26,Female,309.23,1,Mobile App,Accessories,1,309.23,0
+57,Female,233.15,3,In-Store,Accessories,4,77.71666666666667,0
+37,Female,601.48,1,Online,Bags,0,601.48,0
+41,Female,387.12,1,Online,Accessories,4,387.12,0
+50,Male,912.35,1,Phone,Footwear,0,912.35,1
+26,Female,1346.36,1,In-Store,Electronics,3,1346.36,1
+45,Female,1342.7,2,Phone,Electronics,0,671.35,1
+34,Female,310.42,1,Phone,Footwear,1,310.42,0
+54,Male,147.85,1,Phone,Accessories,4,147.85,0
+36,Male,1252.38,1,Mobile App,Accessories,3,1252.38,1
+45,Male,425.02,1,In-Store,Electronics,4,425.02,0
+33,Male,377.18,3,Phone,Accessories,2,125.72666666666667,0
+18,Male,226.18,3,Online,Accessories,2,75.39333333333333,0
+60,Male,1147.69,1,Online,Electronics,3,1147.69,1
+44,Male,355.8,1,Online,Electronics,4,355.8,0
+18,Female,153.54,1,In-Store,Accessories,1,153.54,0
+50,Female,50.0,2,Mobile App,Media,4,25.0,0
+18,Male,402.13,2,Mobile App,Accessories,1,201.065,0
+58,Male,163.85,1,Online,Accessories,4,163.85,0
+31,Female,1567.16,2,Mobile App,Clothing,3,783.58,1
+52,Female,138.47,2,Phone,Clothing,4,69.235,0
+32,Male,370.42,4,Mobile App,Electronics,2,92.605,0
+31,Female,472.75,1,In-Store,Electronics,1,472.75,0
+46,Male,740.85,1,Phone,Clothing,0,740.85,1
+36,Female,91.5,1,In-Store,Clothing,1,91.5,0
+22,Male,118.59,3,Phone,Accessories,2,39.53,0
+42,Female,246.21,3,Mobile App,Clothing,2,82.07000000000001,0
+35,Male,346.52,2,In-Store,Electronics,4,173.26,0
+25,Female,300.56,1,Mobile App,Accessories,1,300.56,0
+36,Male,520.38,1,Mobile App,Electronics,0,520.38,0
+40,Male,52.81,1,Phone,Accessories,4,52.81,0
+48,Male,961.36,2,Phone,Accessories,0,480.68,1
+56,Male,708.06,1,Online,Electronics,0,708.06,1
+27,Female,218.07,1,Online,Clothing,1,218.07,0
+45,Female,280.31,2,In-Store,Clothing,4,140.155,0
+39,Female,921.9,1,Online,Electronics,0,921.9,1
+46,Female,265.64,1,Mobile App,Clothing,4,265.64,0
+18,Female,398.03,1,Mobile App,Accessories,1,398.03,0
+21,Male,167.49,3,Phone,Accessories,2,55.830000000000005,0
+40,Male,281.57,2,Phone,Accessories,4,140.785,0
+42,Male,335.81,4,Phone,Accessories,2,83.9525,0
+35,Male,430.96,1,Mobile App,Accessories,1,430.96,0
+28,Female,503.93,4,Mobile App,Accessories,2,125.9825,1
+36,Male,370.28,3,Mobile App,Clothing,2,123.42666666666666,0
+27,Female,271.5,2,Mobile App,Electronics,1,135.75,0
+18,Male,463.74,4,Phone,Electronics,2,115.935,0
+34,Male,441.12,1,In-Store,Accessories,1,441.12,0
+44,Male,322.4,1,Phone,Electronics,4,322.4,0
+47,Male,129.2,1,Mobile App,Electronics,4,129.2,0
+24,Male,329.3,2,In-Store,Electronics,1,164.65,0
+35,Male,127.19,2,Mobile App,Electronics,4,63.595,0
+48,Male,166.04,3,Phone,Accessories,4,55.346666666666664,0
+29,Female,329.28,1,Mobile App,Electronics,1,329.28,0
+45,Female,177.12,1,In-Store,Electronics,4,177.12,0
+38,Female,321.72,1,Online,Beauty,4,321.72,0
+38,Female,1335.1,2,Phone,Accessories,0,667.55,1
+43,Female,158.98,1,Phone,Accessories,4,158.98,0
+18,Female,440.71,4,Mobile App,Media,2,110.1775,0
+29,Male,102.22,1,Mobile App,Beauty,1,102.22,0
+48,Female,492.55,1,Online,Electronics,4,492.55,0
+25,Male,462.09,3,Phone,Accessories,2,154.03,0
+40,Female,262.93,1,Online,Accessories,4,262.93,0
+18,Female,122.51,1,In-Store,Accessories,1,122.51,0
+37,Male,148.04,1,Online,Accessories,4,148.04,0
+41,Male,607.92,1,Mobile App,Electronics,0,607.92,0
+44,Female,411.28,5,Online,Accessories,2,82.256,0
+67,Male,417.82,2,In-Store,Accessories,4,208.91,0
+25,Male,367.08,1,Online,Electronics,1,367.08,0
+25,Male,290.47,2,Phone,Outerwear,1,145.235,0
+29,Female,810.52,1,Phone,Accessories,0,810.52,1
+18,Male,722.6,3,Online,Electronics,2,240.86666666666667,1
+18,Male,474.92,4,Phone,Clothing,2,118.73,0
+19,Male,315.96,3,In-Store,Electronics,2,105.32,0
+41,Female,641.2,1,In-Store,Footwear,0,641.2,1
+22,Female,648.88,1,Phone,Accessories,0,648.88,1
+34,Female,442.53,1,In-Store,Footwear,1,442.53,0
+60,Male,698.32,2,Phone,Beauty,4,349.16,1
+61,Female,577.42,2,Phone,Footwear,4,288.71,0
+19,Male,293.92,1,Phone,Electronics,1,293.92,0
+30,Female,313.89,4,In-Store,Electronics,2,78.4725,0
+29,Female,183.66,1,Phone,Footwear,1,183.66,0
+22,Male,401.16,1,Online,Outerwear,1,401.16,0
+26,Male,716.19,1,Online,Footwear,0,716.19,1
+28,Male,391.4,1,Phone,Outerwear,1,391.4,0
+19,Female,426.28,1,Online,Electronics,1,426.28,0
+18,Male,731.03,2,In-Store,Accessories,1,365.515,1
+29,Male,713.87,1,Online,Footwear,0,713.87,1
+29,Female,1630.97,1,Online,Electronics,3,1630.97,1
+18,Male,137.9,3,Mobile App,Outerwear,2,45.96666666666667,0
+18,Male,210.06,1,Phone,Electronics,1,210.06,0
+42,Female,554.46,2,Phone,Accessories,4,277.23,0
+45,Female,194.52,1,Online,Electronics,4,194.52,0
+31,Female,343.34,2,Mobile App,Beauty,1,171.67,0
+51,Male,442.18,4,Online,Electronics,2,110.545,0
+34,Male,713.62,1,Mobile App,Electronics,0,713.62,1
+30,Female,151.14,2,Online,Outerwear,1,75.57,0
+49,Male,297.5,3,Phone,Accessories,4,99.16666666666667,0
+48,Female,621.33,2,Mobile App,Clothing,4,310.665,1
+39,Male,202.22,1,Online,Accessories,4,202.22,0
+32,Female,379.41,1,Online,Clothing,1,379.41,0
+19,Male,165.0,2,Online,Accessories,1,82.5,0
+25,Male,571.06,3,Online,Clothing,2,190.35333333333332,1
+37,Male,670.25,1,Online,Accessories,0,670.25,1
+28,Male,288.91,1,Phone,Footwear,1,288.91,0
+36,Male,125.5,1,Online,Media,4,125.5,0
+24,Female,870.81,1,Phone,Footwear,0,870.81,1
+18,Female,50.0,1,Online,Clothing,1,50.0,0
+22,Female,749.78,1,In-Store,Footwear,0,749.78,1
+18,Male,468.92,1,In-Store,Accessories,1,468.92,0
+33,Male,1535.62,1,Phone,Footwear,3,1535.62,1
+55,Female,635.48,4,Online,Clothing,2,158.87,1
+58,Male,738.7,1,Phone,Media,0,738.7,1
+18,Male,83.24,1,In-Store,Accessories,1,83.24,0
+26,Female,436.4,1,Online,Footwear,1,436.4,0
+36,Female,228.06,4,In-Store,Electronics,2,57.015,0
+27,Female,309.35,3,Mobile App,Electronics,2,103.11666666666667,0
+23,Female,335.57,3,Mobile App,Bags,2,111.85666666666667,0
+45,Male,736.31,1,Online,Accessories,0,736.31,1
+41,Female,431.45,3,In-Store,Accessories,2,143.81666666666666,0
+25,Male,224.28,1,Mobile App,Clothing,1,224.28,0
+52,Female,56.96,1,In-Store,Accessories,4,56.96,0
+35,Female,1156.01,2,Online,Electronics,0,578.005,1
+29,Female,691.16,3,In-Store,Bags,2,230.38666666666666,1
+33,Female,368.63,3,Phone,Accessories,2,122.87666666666667,0
+44,Female,572.57,3,Online,Beauty,2,190.85666666666668,1
+36,Male,764.67,4,Phone,Clothing,2,191.1675,1
+29,Female,643.52,1,In-Store,Bags,0,643.52,1
+36,Male,366.35,1,Mobile App,Accessories,1,366.35,0
+34,Female,434.18,1,Phone,Electronics,1,434.18,0
+18,Male,438.42,3,In-Store,Accessories,2,146.14000000000001,0
+35,Male,426.26,1,Online,Accessories,1,426.26,0
+42,Male,1185.04,3,Mobile App,Accessories,0,395.0133333333333,1
+42,Male,358.55,1,In-Store,Accessories,4,358.55,0
+61,Male,894.07,1,Mobile App,Accessories,0,894.07,1
+18,Male,272.74,1,In-Store,Electronics,1,272.74,0
+42,Female,507.7,1,In-Store,Bags,0,507.7,0
+42,Female,139.79,3,Online,Bags,2,46.596666666666664,0
+41,Female,596.51,1,Mobile App,Accessories,0,596.51,0
+27,Male,463.44,1,Mobile App,Electronics,1,463.44,0
+37,Female,311.73,1,Mobile App,Clothing,4,311.73,0
+22,Female,600.27,1,Phone,Clothing,0,600.27,0
+37,Female,963.7,1,Mobile App,Accessories,0,963.7,1
+40,Female,475.77,1,Phone,Accessories,0,475.77,0
+18,Male,175.27,3,Mobile App,Beauty,2,58.42333333333334,0
+43,Male,575.01,1,Mobile App,Accessories,0,575.01,0
+33,Female,681.57,1,Online,Clothing,0,681.57,1
+44,Male,824.13,2,Online,Electronics,0,412.065,1
+37,Female,587.0,1,Mobile App,Footwear,0,587.0,0
+37,Male,504.99,1,Mobile App,Clothing,0,504.99,0
+48,Female,491.69,2,Online,Electronics,4,245.845,0
+43,Female,1569.82,1,In-Store,Outerwear,3,1569.82,1
+18,Female,1479.13,2,In-Store,Footwear,3,739.565,1
+19,Female,214.06,1,Mobile App,Electronics,1,214.06,0
+38,Male,265.14,3,Online,Electronics,2,88.38,0
+27,Female,404.16,4,Online,Electronics,2,101.04,0
+46,Female,446.87,1,In-Store,Clothing,4,446.87,0
+18,Male,561.38,1,Phone,Accessories,1,561.38,0
+24,Female,252.87,1,Phone,Clothing,1,252.87,0
+18,Male,183.27,1,Phone,Clothing,1,183.27,0
+43,Male,457.37,3,Online,Bags,2,152.45666666666668,0
+32,Male,442.63,3,In-Store,Accessories,2,147.54333333333332,0
+41,Female,172.11,1,Online,Accessories,4,172.11,0
+29,Female,498.96,2,In-Store,Accessories,1,249.48,0
+24,Female,1445.4,1,Online,Accessories,3,1445.4,1
+40,Female,599.99,2,Mobile App,Electronics,4,299.995,1
+24,Male,197.4,3,Phone,Accessories,2,65.8,0
+44,Female,172.63,2,In-Store,Footwear,4,86.315,0
+47,Female,484.67,1,Phone,Bags,4,484.67,0
+18,Male,100.92,2,Online,Electronics,1,50.46,0
+40,Female,163.0,1,In-Store,Footwear,4,163.0,0
+40,Male,654.23,2,Mobile App,Beauty,4,327.115,1
+20,Male,187.52,1,Mobile App,Accessories,1,187.52,0
+18,Female,354.59,1,Phone,Accessories,1,354.59,0
+40,Female,252.04,2,Online,Media,4,126.02,0
+18,Female,795.12,3,Mobile App,Accessories,2,265.04,1
+31,Female,369.96,1,In-Store,Beauty,1,369.96,0
+48,Female,1512.77,4,Phone,Electronics,0,378.1925,1
+40,Male,165.47,2,In-Store,Media,4,82.735,0
+25,Female,954.02,2,In-Store,Accessories,0,477.01,1
+33,Male,264.81,3,Mobile App,Clothing,2,88.27,0
+43,Female,256.47,1,Mobile App,Media,4,256.47,0
+18,Female,817.29,3,In-Store,Accessories,2,272.43,1
+26,Female,1881.62,1,Phone,Clothing,3,1881.62,1
+18,Female,298.68,1,Mobile App,Accessories,1,298.68,0
+44,Female,720.43,2,Online,Accessories,0,360.215,1
+35,Female,644.09,3,In-Store,Electronics,2,214.6966666666667,1
+47,Female,818.46,3,Online,Accessories,2,272.82,1
+23,Female,850.38,2,Mobile App,Electronics,0,425.19,1
+47,Male,265.9,2,Phone,Beauty,4,132.95,0
+29,Female,176.31,1,Online,Media,1,176.31,0
+49,Male,255.2,5,Phone,Footwear,2,51.04,0
+47,Female,364.83,1,Online,Clothing,4,364.83,0
+31,Female,285.04,2,Online,Accessories,1,142.52,0
+40,Male,960.98,2,Mobile App,Outerwear,0,480.49,1
+29,Female,436.06,2,Phone,Accessories,1,218.03,0
+42,Female,1324.17,1,Online,Clothing,3,1324.17,1
+23,Female,661.79,4,In-Store,Footwear,2,165.4475,1
+26,Female,425.29,2,In-Store,Clothing,1,212.645,0
+39,Male,198.73,4,Online,Media,2,49.6825,0
+35,Male,805.48,1,Mobile App,Accessories,0,805.48,1
+31,Male,180.74,2,Online,Accessories,1,90.37,0
+41,Female,503.73,2,Online,Beauty,4,251.865,0
+38,Male,644.47,2,Phone,Electronics,4,322.235,1
+33,Female,944.26,4,In-Store,Electronics,2,236.065,1
+26,Male,235.55,1,In-Store,Footwear,1,235.55,0
+46,Male,520.87,1,Mobile App,Accessories,4,520.87,0
+35,Female,215.24,1,In-Store,Clothing,1,215.24,0
+49,Male,643.2,1,Online,Clothing,0,643.2,1
+56,Male,727.84,5,Online,Media,2,145.568,1
+39,Female,1101.57,1,Mobile App,Electronics,3,1101.57,1
+25,Male,322.39,1,In-Store,Clothing,1,322.39,0
+18,Female,514.48,1,Online,Electronics,1,514.48,0
+50,Male,1336.71,2,Mobile App,Bags,0,668.355,1
+31,Male,616.36,1,In-Store,Electronics,0,616.36,0
+23,Male,347.76,1,Mobile App,Footwear,1,347.76,0
+26,Female,337.08,1,Online,Clothing,1,337.08,0
+39,Male,1768.07,1,Phone,Accessories,3,1768.07,1
+33,Male,385.55,5,Mobile App,Accessories,2,77.11,0
+50,Male,83.49,1,Phone,Electronics,4,83.49,0
+30,Female,190.18,2,Mobile App,Electronics,1,95.09,0
+51,Female,646.92,5,Mobile App,Electronics,2,129.384,1
+18,Female,907.32,3,Phone,Accessories,2,302.44,1
+48,Female,420.45,5,Online,Electronics,2,84.09,0
+37,Female,376.92,4,In-Store,Accessories,2,94.23,0
+64,Female,434.23,1,Phone,Electronics,4,434.23,0
+43,Male,1308.41,2,Mobile App,Clothing,0,654.205,1
+41,Female,273.22,1,Mobile App,Accessories,4,273.22,0
+47,Female,464.89,1,Mobile App,Accessories,4,464.89,0
+20,Male,232.85,3,In-Store,Accessories,2,77.61666666666666,0
+19,Male,254.7,2,Phone,Accessories,1,127.35,0
+35,Female,406.84,2,Mobile App,Electronics,4,203.42,0
+21,Male,130.87,2,Phone,Electronics,1,65.435,0
+30,Female,378.4,1,Mobile App,Beauty,1,378.4,0
+41,Male,261.07,3,Phone,Electronics,2,87.02333333333333,0
+31,Male,855.7,1,Mobile App,Accessories,0,855.7,1
+48,Female,462.34,1,Mobile App,Clothing,4,462.34,0
+18,Male,1888.1,3,Online,Accessories,3,629.3666666666667,1
+37,Female,142.34,1,In-Store,Accessories,4,142.34,0
+29,Male,116.75,3,In-Store,Accessories,2,38.916666666666664,0
+44,Female,171.58,2,Online,Footwear,4,85.79,0
+43,Male,401.97,1,Online,Electronics,4,401.97,0
+62,Male,123.12,3,In-Store,Electronics,4,41.04,0
+46,Male,510.27,2,In-Store,Footwear,4,255.135,0
+23,Male,230.61,1,Online,Bags,1,230.61,0
+48,Female,1208.68,1,Phone,Media,3,1208.68,1
+34,Female,857.99,3,In-Store,Electronics,2,285.99666666666667,1
+42,Male,359.72,1,Online,Electronics,4,359.72,0
+40,Female,80.69,3,In-Store,Beauty,2,26.896666666666665,0
+38,Female,174.67,1,Phone,Media,4,174.67,0
+45,Male,648.79,2,In-Store,Beauty,4,324.395,1
+37,Female,50.0,4,Mobile App,Accessories,2,12.5,0
+41,Male,539.9,1,In-Store,Electronics,0,539.9,0
+35,Female,486.46,2,Mobile App,Accessories,4,243.23,0
+34,Female,825.05,3,Mobile App,Footwear,2,275.01666666666665,1
+21,Female,470.42,3,Online,Footwear,2,156.80666666666667,0
+54,Female,327.32,2,Phone,Electronics,4,163.66,0
+36,Male,642.63,2,Phone,Media,0,321.315,1
+55,Male,778.79,3,In-Store,Accessories,4,259.59666666666664,1
+24,Female,970.66,3,Online,Electronics,2,323.55333333333334,1
+33,Female,320.65,3,Online,Clothing,2,106.88333333333333,0
+39,Male,207.18,1,Mobile App,Bags,4,207.18,0
+42,Female,555.65,5,Online,Electronics,2,111.13,1
+46,Female,789.56,1,Mobile App,Accessories,0,789.56,1
+38,Female,569.72,1,Phone,Clothing,0,569.72,0
+36,Male,50.0,1,Online,Electronics,4,50.0,0
+39,Female,379.68,1,Mobile App,Electronics,4,379.68,0
+34,Female,375.33,1,Phone,Electronics,1,375.33,0
+18,Female,228.44,1,Online,Accessories,1,228.44,0
+22,Female,69.44,1,Online,Electronics,1,69.44,0
+25,Female,884.94,2,In-Store,Outerwear,0,442.47,1
+18,Male,1085.69,1,Phone,Footwear,3,1085.69,1
+33,Male,319.03,1,Online,Electronics,1,319.03,0
+48,Female,197.0,1,Online,Media,4,197.0,0
+42,Male,337.2,1,Mobile App,Outerwear,4,337.2,0
+51,Female,266.9,1,Online,Accessories,4,266.9,0
+36,Female,1159.3,2,Phone,Accessories,0,579.65,1
+50,Female,1180.68,4,Online,Footwear,2,295.17,1
+34,Female,319.84,3,Phone,Accessories,2,106.61333333333333,0
+54,Male,573.79,3,Online,Clothing,4,191.26333333333332,1
+25,Male,614.1,1,Mobile App,Accessories,0,614.1,0
+44,Female,656.85,1,Online,Electronics,0,656.85,1
+48,Male,459.25,1,Online,Electronics,4,459.25,0
+23,Female,131.61,3,Mobile App,Electronics,2,43.870000000000005,0
+20,Female,453.37,1,Online,Accessories,1,453.37,0
+38,Female,645.86,2,Mobile App,Accessories,0,322.93,1
+43,Male,235.61,1,In-Store,Electronics,4,235.61,0
+30,Male,1523.96,1,Online,Accessories,3,1523.96,1
+35,Female,371.97,5,Online,Clothing,2,74.394,0
+49,Female,389.81,3,Mobile App,Electronics,4,129.93666666666667,0
+50,Male,909.34,3,Online,Accessories,2,303.11333333333334,1
+46,Male,320.47,2,Mobile App,Accessories,4,160.235,0
+39,Female,50.0,3,In-Store,Accessories,2,16.666666666666668,0
+34,Male,89.1,2,Mobile App,Electronics,1,44.55,0
+40,Female,785.44,4,Mobile App,Clothing,2,196.36,1
+39,Female,509.47,1,Mobile App,Accessories,0,509.47,0
+38,Male,404.2,2,Phone,Accessories,4,202.1,0
+56,Female,807.56,2,Mobile App,Electronics,4,403.78,1
+38,Female,209.63,1,Mobile App,Outerwear,4,209.63,0
+49,Male,1487.4,3,Online,Accessories,0,495.8,1
+41,Male,144.31,5,Mobile App,Clothing,2,28.862000000000002,0
+43,Male,250.66,1,Phone,Accessories,4,250.66,0
+43,Female,479.67,1,Mobile App,Accessories,4,479.67,0
+53,Female,108.55,1,Online,Electronics,4,108.55,0
+26,Male,540.5,3,Mobile App,Footwear,2,180.16666666666666,1
+22,Female,237.86,2,Online,Accessories,1,118.93,0
+30,Female,460.4,1,Mobile App,Electronics,1,460.4,0
+29,Male,78.09,2,Phone,Accessories,1,39.045,0
+18,Male,50.0,1,Mobile App,Electronics,1,50.0,0
+51,Female,300.54,3,Online,Media,4,100.18,0
+18,Male,56.21,1,Phone,Media,1,56.21,0
+51,Male,395.11,1,Online,Electronics,4,395.11,0
+38,Female,183.2,3,In-Store,Accessories,2,61.06666666666666,0
+72,Male,1228.62,1,In-Store,Electronics,3,1228.62,1
+18,Male,304.76,1,In-Store,Bags,1,304.76,0
+34,Female,429.92,1,Mobile App,Accessories,1,429.92,0
+41,Male,245.45,1,Mobile App,Electronics,4,245.45,0
+19,Male,91.62,1,Online,Electronics,1,91.62,0
+55,Male,637.54,5,Mobile App,Electronics,2,127.508,1
+31,Female,635.3,3,Online,Accessories,2,211.76666666666665,1
+34,Female,285.54,3,Online,Media,2,95.18,0
+23,Male,160.81,4,Phone,Footwear,2,40.2025,0
+21,Male,1198.38,1,In-Store,Electronics,3,1198.38,1
+38,Male,715.19,1,Mobile App,Electronics,0,715.19,1
+33,Female,508.21,1,Phone,Footwear,0,508.21,0
+36,Male,186.23,3,Online,Footwear,2,62.07666666666666,0
+29,Male,181.77,2,Mobile App,Electronics,1,90.885,0
+49,Male,571.82,1,In-Store,Media,0,571.82,0
+24,Female,186.57,1,Phone,Electronics,1,186.57,0
+26,Female,50.0,2,In-Store,Accessories,1,25.0,0
+18,Female,594.32,2,In-Store,Footwear,1,297.16,1
+34,Male,355.19,3,Phone,Electronics,2,118.39666666666666,0
+21,Male,540.94,1,In-Store,Clothing,1,540.94,0
+37,Female,104.7,4,In-Store,Accessories,2,26.175,0
+30,Female,410.62,1,Phone,Clothing,1,410.62,0
+18,Female,686.89,2,Online,Footwear,1,343.445,1
+23,Female,1223.77,4,Mobile App,Beauty,2,305.9425,1
+36,Female,635.77,4,Online,Accessories,2,158.9425,1
+33,Female,541.77,1,Online,Accessories,0,541.77,0
+25,Male,543.43,1,Online,Beauty,1,543.43,0
+23,Female,202.23,1,Phone,Accessories,1,202.23,0
+18,Male,70.0,1,Phone,Electronics,1,70.0,0
+46,Male,354.33,2,Phone,Clothing,4,177.165,0
+31,Female,284.45,4,Online,Accessories,2,71.1125,0
+43,Male,100.98,1,Online,Electronics,4,100.98,0
+36,Female,436.13,1,Mobile App,Footwear,1,436.13,0
+30,Male,1028.97,1,Online,Accessories,3,1028.97,1
+18,Female,188.07,3,Phone,Footwear,2,62.69,0
+38,Female,461.6,4,Phone,Footwear,2,115.4,0
+43,Male,238.17,1,Phone,Electronics,4,238.17,0
+33,Male,690.32,1,In-Store,Clothing,0,690.32,1
+18,Male,312.6,3,Online,Clothing,2,104.2,0
+53,Female,321.12,2,In-Store,Footwear,4,160.56,0
+21,Female,801.72,1,In-Store,Accessories,0,801.72,1
+34,Female,376.93,3,Mobile App,Electronics,2,125.64333333333333,0
+40,Male,163.14,5,Online,Accessories,2,32.628,0
+26,Female,685.97,2,Phone,Accessories,1,342.985,1
+21,Female,735.79,2,In-Store,Electronics,1,367.895,1
+33,Female,120.11,1,Mobile App,Beauty,1,120.11,0
+49,Male,385.44,2,Mobile App,Accessories,4,192.72,0
+39,Female,145.38,1,In-Store,Beauty,4,145.38,0
+23,Male,322.04,1,In-Store,Accessories,1,322.04,0
+18,Female,183.99,1,Online,Accessories,1,183.99,0
+51,Male,273.71,1,In-Store,Accessories,4,273.71,0
+22,Female,654.24,1,Phone,Electronics,0,654.24,1
+50,Male,504.78,2,In-Store,Clothing,4,252.39,0
+38,Male,242.8,2,In-Store,Electronics,4,121.4,0
+18,Male,328.64,2,In-Store,Electronics,1,164.32,0
+34,Female,502.77,1,In-Store,Clothing,0,502.77,0
+18,Male,397.35,1,Mobile App,Accessories,1,397.35,0
+38,Female,97.43,3,Online,Electronics,2,32.47666666666667,0
+37,Female,1040.19,1,In-Store,Clothing,3,1040.19,1
+34,Female,374.72,5,Phone,Electronics,2,74.944,0
+34,Male,627.76,1,In-Store,Accessories,0,627.76,1
+21,Female,418.76,2,Online,Footwear,1,209.38,0
+34,Female,58.35,1,Phone,Electronics,1,58.35,0
+26,Male,315.03,2,Phone,Accessories,1,157.515,0
+41,Female,88.94,3,Mobile App,Electronics,2,29.646666666666665,0
+48,Female,204.11,4,In-Store,Accessories,2,51.0275,0
+43,Male,214.04,5,Mobile App,Accessories,2,42.808,0
+41,Male,194.93,1,Online,Electronics,4,194.93,0
+48,Male,102.89,2,Online,Accessories,4,51.445,0
+52,Male,159.68,1,Mobile App,Clothing,4,159.68,0
+38,Male,163.35,2,Online,Electronics,4,81.675,0
+18,Male,586.03,1,Online,Accessories,1,586.03,0
+34,Female,958.55,3,Phone,Footwear,2,319.51666666666665,1
+30,Female,239.59,4,Mobile App,Beauty,2,59.8975,0
+35,Female,722.32,1,Phone,Footwear,0,722.32,1
+30,Female,533.11,1,In-Store,Electronics,0,533.11,0
+18,Male,118.83,1,Phone,Electronics,1,118.83,0
+20,Male,656.82,2,Online,Electronics,1,328.41,1
+38,Female,683.72,1,Phone,Outerwear,0,683.72,1
+51,Female,620.18,4,Online,Accessories,2,155.045,1
+26,Female,1135.7,2,In-Store,Outerwear,0,567.85,1
+40,Male,428.66,2,Online,Accessories,4,214.33,0
+49,Female,1047.64,2,Phone,Accessories,0,523.82,1
+31,Male,2024.7,1,Mobile App,Footwear,3,2024.7,1
+37,Female,436.77,4,In-Store,Accessories,2,109.1925,0
+51,Male,598.08,2,In-Store,Accessories,4,299.04,1
+18,Male,460.58,5,In-Store,Accessories,2,92.116,1
+35,Male,804.47,2,Phone,Media,0,402.235,1
+42,Female,1033.92,2,Phone,Media,0,516.96,1
+59,Female,502.13,1,Mobile App,Accessories,4,502.13,0
+36,Female,89.29,2,Phone,Footwear,4,44.645,0
+28,Male,953.48,3,In-Store,Electronics,2,317.82666666666665,1
+31,Male,455.61,3,Online,Electronics,2,151.87,0
+32,Male,189.33,3,Phone,Electronics,2,63.11000000000001,0
+46,Male,410.11,1,In-Store,Beauty,4,410.11,0
+29,Male,513.42,5,Mobile App,Media,2,102.684,1
+23,Female,753.33,5,In-Store,Clothing,2,150.666,1
+41,Female,567.73,1,Phone,Electronics,0,567.73,0
+31,Male,1095.11,4,Phone,Media,2,273.7775,1
+49,Female,338.79,1,In-Store,Electronics,4,338.79,0
+58,Female,141.16,2,Online,Electronics,4,70.58,0
+23,Female,440.19,1,Mobile App,Electronics,1,440.19,0
+52,Female,849.8,4,Mobile App,Accessories,2,212.45,1
+21,Female,213.39,1,In-Store,Accessories,1,213.39,0
+49,Female,204.3,1,Phone,Accessories,4,204.3,0
+29,Female,725.61,1,Mobile App,Accessories,0,725.61,1
+32,Female,355.81,1,In-Store,Electronics,1,355.81,0
+34,Female,497.2,2,Online,Accessories,1,248.6,0
+21,Female,297.14,1,Mobile App,Accessories,1,297.14,0
+54,Female,810.31,2,Mobile App,Accessories,4,405.155,1
+33,Female,606.0,5,Online,Accessories,2,121.2,1
+39,Male,1086.97,3,Phone,Accessories,0,362.3233333333333,1
+18,Male,229.7,3,Mobile App,Electronics,2,76.56666666666666,0
+54,Female,320.99,1,In-Store,Beauty,4,320.99,0
+31,Female,218.64,1,Online,Clothing,1,218.64,0
+47,Male,59.34,2,In-Store,Accessories,4,29.67,0
+41,Female,465.62,1,In-Store,Electronics,4,465.62,0
+18,Female,138.32,4,Mobile App,Beauty,2,34.58,0
+42,Female,659.51,1,Phone,Accessories,0,659.51,1
+49,Female,609.91,4,In-Store,Electronics,2,152.4775,1
+30,Female,240.69,1,Online,Beauty,1,240.69,0
+46,Male,114.32,3,In-Store,Accessories,4,38.10666666666666,0
+28,Male,292.72,1,Mobile App,Accessories,1,292.72,0
+18,Male,393.84,1,Mobile App,Accessories,1,393.84,0
+26,Male,383.83,2,In-Store,Footwear,1,191.915,0
+49,Female,148.9,1,Online,Footwear,4,148.9,0
+52,Female,599.81,2,Phone,Footwear,4,299.905,1
+24,Female,119.73,2,In-Store,Accessories,1,59.865,0
+23,Female,372.78,1,Mobile App,Accessories,1,372.78,0
+39,Male,196.92,4,In-Store,Outerwear,2,49.23,0
+47,Male,595.33,1,Mobile App,Footwear,0,595.33,0
+25,Female,1209.66,2,Mobile App,Electronics,0,604.83,1
+26,Female,317.85,2,In-Store,Beauty,1,158.925,0
+24,Female,128.51,2,Online,Clothing,1,64.255,0
+34,Female,840.94,1,Online,Clothing,0,840.94,1
+18,Male,780.84,1,Online,Clothing,0,780.84,1
+28,Male,499.64,2,Online,Outerwear,1,249.82,0
+23,Male,595.24,1,Mobile App,Electronics,0,595.24,0
+18,Female,113.3,1,Mobile App,Clothing,1,113.3,0
+52,Female,1197.12,2,In-Store,Accessories,0,598.56,1
+22,Female,123.65,2,In-Store,Electronics,1,61.825,0
+29,Female,595.52,1,Online,Accessories,0,595.52,0
+36,Female,176.61,1,Online,Clothing,4,176.61,0
+24,Male,703.44,1,Phone,Clothing,0,703.44,1
+51,Female,545.37,1,Online,Footwear,4,545.37,0
+35,Female,695.99,1,Online,Accessories,0,695.99,1
+36,Female,151.66,1,In-Store,Footwear,1,151.66,0
+58,Female,206.79,5,Online,Accessories,2,41.358,0
+31,Female,282.07,2,Phone,Accessories,1,141.035,0
+36,Male,150.53,1,Phone,Accessories,4,150.53,0
+20,Male,739.07,1,In-Store,Clothing,0,739.07,1
+46,Female,784.56,2,Phone,Accessories,0,392.28,1
+18,Male,1131.85,1,Mobile App,Electronics,3,1131.85,1
+47,Male,486.83,3,Online,Footwear,2,162.27666666666667,0
+21,Male,389.06,4,In-Store,Electronics,2,97.265,0
+29,Male,131.98,2,In-Store,Outerwear,1,65.99,0
+39,Male,281.23,1,In-Store,Electronics,4,281.23,0
+29,Female,299.54,3,In-Store,Accessories,2,99.84666666666668,0
+67,Female,826.8,4,Mobile App,Beauty,2,206.7,1
+25,Female,861.13,2,Mobile App,Clothing,0,430.565,1
+25,Male,1276.01,2,In-Store,Footwear,0,638.005,1
+28,Female,657.36,1,In-Store,Accessories,0,657.36,1
+34,Male,232.78,1,Phone,Electronics,1,232.78,0
+35,Female,414.49,2,In-Store,Accessories,4,207.245,0
+37,Male,219.84,4,Online,Accessories,2,54.96,0
+35,Male,407.73,2,Mobile App,Footwear,1,203.865,0
+28,Female,689.77,3,Online,Clothing,2,229.92333333333332,1
+42,Female,303.9,1,Online,Accessories,4,303.9,0
+39,Male,1225.4,1,Online,Outerwear,3,1225.4,1
+18,Female,444.32,2,In-Store,Accessories,1,222.16,0
+38,Male,559.53,1,Online,Accessories,0,559.53,0
+30,Male,462.89,2,Phone,Clothing,1,231.445,0
+35,Female,356.74,1,Online,Clothing,1,356.74,0
+34,Male,386.98,3,In-Store,Accessories,2,128.99333333333334,0
+48,Male,716.03,3,Phone,Electronics,2,238.67666666666665,1
+31,Female,870.05,1,Phone,Footwear,0,870.05,1
+34,Male,831.58,1,Online,Beauty,0,831.58,1
+27,Female,519.81,2,Phone,Accessories,1,259.905,0
+41,Female,58.4,5,Phone,Footwear,2,11.68,0
+30,Female,451.26,2,Phone,Media,1,225.63,0
+18,Female,360.42,1,Phone,Accessories,1,360.42,0
+26,Male,447.87,1,Mobile App,Outerwear,1,447.87,0
+55,Female,278.78,1,In-Store,Clothing,4,278.78,0
+33,Female,926.34,1,Phone,Electronics,0,926.34,1
+19,Female,445.94,3,In-Store,Beauty,2,148.64666666666668,0
+42,Male,322.44,3,Online,Accessories,2,107.48,0
+31,Male,305.92,1,Phone,Electronics,1,305.92,0
+43,Male,314.41,1,In-Store,Beauty,4,314.41,0
+34,Male,309.04,1,Online,Footwear,1,309.04,0
+42,Male,1301.35,4,Online,Electronics,2,325.3375,1
+30,Male,137.49,2,In-Store,Bags,1,68.745,0
+30,Male,1070.42,2,In-Store,Beauty,0,535.21,1
+24,Female,401.22,1,In-Store,Clothing,1,401.22,0
+41,Male,342.78,2,Phone,Footwear,4,171.39,0
+28,Male,837.08,1,In-Store,Accessories,0,837.08,1
+55,Male,743.74,1,Online,Accessories,0,743.74,1
+45,Male,690.62,2,Online,Accessories,4,345.31,1
+38,Male,496.34,2,Phone,Accessories,4,248.17,0
+29,Female,698.51,1,In-Store,Bags,0,698.51,1
+18,Male,1293.53,1,Phone,Outerwear,3,1293.53,1
+31,Female,259.3,1,Mobile App,Bags,1,259.3,0
+31,Male,247.46,1,Mobile App,Outerwear,1,247.46,0
+22,Female,515.53,2,Phone,Accessories,1,257.765,0
+44,Male,368.41,4,In-Store,Accessories,2,92.1025,0
+26,Male,225.04,1,Online,Footwear,1,225.04,0
+23,Female,368.22,1,Online,Accessories,1,368.22,0
+18,Male,614.04,1,Mobile App,Electronics,1,614.04,0
+30,Male,571.16,2,Phone,Beauty,1,285.58,0
+48,Male,122.61,1,In-Store,Footwear,4,122.61,0
+44,Male,208.72,2,In-Store,Accessories,4,104.36,0
+33,Female,583.06,1,In-Store,Clothing,0,583.06,0
+39,Female,369.27,2,Online,Electronics,4,184.635,0
+44,Male,382.78,3,Phone,Electronics,2,127.59333333333332,0
+41,Female,120.63,4,Online,Accessories,2,30.1575,0
+30,Female,557.84,4,In-Store,Bags,2,139.46,1
+52,Male,63.15,3,In-Store,Electronics,4,21.05,0
+34,Male,501.86,4,In-Store,Clothing,2,125.465,1
+39,Female,1100.49,1,Phone,Accessories,3,1100.49,1
+35,Male,50.0,1,Phone,Electronics,1,50.0,0
+38,Male,1199.76,1,Online,Accessories,3,1199.76,1
+18,Female,411.91,2,Phone,Accessories,1,205.955,0
+18,Male,456.76,4,Mobile App,Clothing,2,114.19,0
+47,Female,337.4,1,Online,Accessories,4,337.4,0
+29,Male,484.53,2,Online,Footwear,1,242.265,0
+29,Female,193.77,2,In-Store,Electronics,1,96.885,0
+49,Male,693.91,4,Phone,Accessories,2,173.4775,1
+51,Female,555.45,2,Mobile App,Electronics,4,277.725,0
+37,Male,167.04,5,Online,Accessories,2,33.408,0
+39,Male,1136.26,1,In-Store,Outerwear,3,1136.26,1
+33,Male,588.82,1,Online,Accessories,0,588.82,0
+30,Female,50.0,2,Phone,Footwear,1,25.0,0
+46,Male,322.47,1,Phone,Beauty,4,322.47,0
+29,Male,424.71,1,In-Store,Footwear,1,424.71,0
+57,Female,1291.32,2,Mobile App,Electronics,0,645.66,1
+45,Male,102.97,3,In-Store,Accessories,4,34.32333333333333,0
+46,Female,1614.15,2,In-Store,Accessories,3,807.075,1
+28,Female,259.34,1,Online,Beauty,1,259.34,0
+20,Female,496.94,2,Online,Footwear,1,248.47,0
+39,Female,616.8,1,Online,Beauty,0,616.8,0
+18,Male,219.24,1,Mobile App,Electronics,1,219.24,0
+27,Male,845.93,2,Phone,Footwear,0,422.965,1
+25,Male,746.74,1,Phone,Footwear,0,746.74,1
+34,Male,439.87,1,In-Store,Accessories,1,439.87,0
+44,Male,285.14,3,Mobile App,Clothing,2,95.04666666666667,0
+34,Male,221.15,1,Mobile App,Clothing,1,221.15,0
+43,Female,809.87,4,Phone,Electronics,2,202.4675,1
+61,Male,172.21,2,Online,Beauty,4,86.105,0
+41,Female,383.68,5,Mobile App,Clothing,2,76.736,0
+62,Male,270.5,1,Online,Footwear,4,270.5,0
+28,Female,288.42,2,Mobile App,Outerwear,1,144.21,0
+49,Female,257.32,1,Mobile App,Clothing,4,257.32,0
+40,Male,492.06,3,Phone,Beauty,2,164.02,0
+33,Female,111.83,1,Online,Accessories,1,111.83,0
+30,Male,280.97,1,In-Store,Electronics,1,280.97,0
+21,Female,391.1,3,In-Store,Media,2,130.36666666666667,0
+18,Female,539.4,1,Online,Media,1,539.4,0
+32,Female,220.42,1,Online,Media,1,220.42,0
+52,Female,138.24,1,In-Store,Accessories,4,138.24,0
+26,Female,111.71,2,Phone,Electronics,1,55.855,0
+39,Male,665.61,1,Online,Electronics,0,665.61,1
+18,Female,104.98,1,In-Store,Footwear,1,104.98,0
+50,Female,878.96,1,Phone,Accessories,0,878.96,1
+30,Male,1883.58,2,Phone,Footwear,3,941.79,1
+41,Male,317.1,3,Mobile App,Electronics,2,105.7,0
+26,Male,375.4,1,Online,Media,1,375.4,0
+45,Male,1170.46,1,Mobile App,Accessories,3,1170.46,1
+58,Female,144.16,1,Mobile App,Accessories,4,144.16,0
+36,Male,571.38,1,Phone,Clothing,0,571.38,0
+51,Male,426.61,1,Mobile App,Beauty,4,426.61,0
+47,Male,149.04,1,Mobile App,Footwear,4,149.04,0
+30,Female,531.88,2,Phone,Accessories,1,265.94,0
+37,Female,816.92,4,Mobile App,Accessories,2,204.23,1
+42,Female,107.55,1,In-Store,Accessories,4,107.55,0
+24,Female,1455.78,2,Phone,Clothing,0,727.89,1
+27,Male,494.68,2,In-Store,Clothing,1,247.34,0
+34,Female,112.25,2,In-Store,Clothing,1,56.125,0
+18,Male,281.17,3,Phone,Electronics,2,93.72333333333334,0
+18,Male,495.1,1,Mobile App,Footwear,1,495.1,0
+33,Male,488.79,1,Phone,Electronics,0,488.79,0
+37,Female,347.89,2,Mobile App,Beauty,4,173.945,0
+32,Female,996.8,1,Mobile App,Electronics,0,996.8,1
+43,Female,1146.66,1,Mobile App,Electronics,3,1146.66,1
+37,Female,726.98,1,Online,Electronics,0,726.98,1
+18,Female,977.99,1,Phone,Accessories,0,977.99,1
+29,Male,224.13,2,Mobile App,Electronics,1,112.065,0
+50,Male,1287.91,1,Phone,Electronics,3,1287.91,1
+18,Male,375.61,1,In-Store,Electronics,1,375.61,0
+39,Female,1008.55,1,Mobile App,Accessories,0,1008.55,1
+27,Male,128.96,1,Online,Accessories,1,128.96,0
+54,Female,92.4,5,Mobile App,Footwear,2,18.48,0
+27,Male,217.01,1,Online,Footwear,1,217.01,0
+46,Male,505.21,4,Online,Clothing,2,126.3025,1
+32,Male,410.84,2,Online,Accessories,1,205.42,0
+38,Female,388.58,3,In-Store,Clothing,2,129.52666666666667,0
+46,Male,427.22,1,Mobile App,Accessories,4,427.22,0
+25,Male,64.81,1,Online,Footwear,1,64.81,0
+47,Female,334.24,3,Online,Electronics,4,111.41333333333334,0
+40,Female,833.53,3,Phone,Accessories,2,277.8433333333333,1
+52,Male,122.49,1,Phone,Outerwear,4,122.49,0
+22,Male,242.36,1,Mobile App,Accessories,1,242.36,0
+18,Female,538.99,1,Mobile App,Accessories,1,538.99,0
+34,Male,99.54,4,Mobile App,Accessories,2,24.885,0
+39,Male,367.01,1,Online,Accessories,4,367.01,0
+37,Male,583.12,2,Mobile App,Accessories,4,291.56,1
+20,Female,214.17,2,In-Store,Electronics,1,107.085,0
+31,Female,992.05,3,In-Store,Accessories,2,330.68333333333334,1
+35,Female,126.94,2,Phone,Bags,4,63.47,0
+48,Female,306.97,1,Phone,Footwear,4,306.97,0
+59,Male,664.56,4,Phone,Media,2,166.14,1
+29,Male,647.22,2,In-Store,Clothing,1,323.61,1
+21,Male,181.64,2,Mobile App,Footwear,1,90.82,0
+21,Male,519.06,1,Phone,Beauty,1,519.06,0
+28,Female,313.05,2,Online,Electronics,1,156.525,0
+21,Male,898.13,1,In-Store,Beauty,0,898.13,1
+18,Male,146.89,1,Online,Beauty,1,146.89,0
+39,Female,110.7,2,Online,Electronics,4,55.35,0
+24,Male,326.27,2,In-Store,Clothing,1,163.135,0
+28,Female,568.51,2,Phone,Electronics,1,284.255,0
+31,Male,382.0,1,In-Store,Clothing,1,382.0,0
+31,Male,331.8,2,Online,Clothing,1,165.9,0
+42,Male,606.72,1,Online,Outerwear,0,606.72,0
+42,Male,246.82,2,In-Store,Electronics,4,123.41,0
+39,Male,550.07,1,In-Store,Electronics,0,550.07,0
+36,Male,460.54,2,In-Store,Accessories,4,230.27,0
+21,Female,442.32,3,Phone,Footwear,2,147.44,0
+44,Male,209.11,1,Online,Electronics,4,209.11,0
+18,Female,191.22,1,Mobile App,Accessories,1,191.22,0
+31,Male,488.26,2,In-Store,Accessories,1,244.13,0
+37,Male,160.89,2,Mobile App,Clothing,4,80.445,0
+37,Female,386.74,2,In-Store,Footwear,4,193.37,0
+33,Male,144.41,2,Online,Electronics,1,72.205,0
+33,Female,938.73,1,Phone,Outerwear,0,938.73,1
+44,Female,601.58,1,Mobile App,Accessories,0,601.58,0
+22,Male,214.48,1,Online,Clothing,1,214.48,0
+39,Female,979.34,1,Online,Accessories,0,979.34,1
+29,Female,344.27,2,In-Store,Accessories,1,172.135,0
+36,Female,367.1,1,Phone,Bags,4,367.1,0
+43,Female,283.13,4,Phone,Electronics,2,70.7825,0
+25,Female,256.97,3,Mobile App,Clothing,2,85.65666666666668,0
+18,Female,152.14,3,Phone,Electronics,2,50.71333333333333,0
+41,Male,251.51,4,Online,Electronics,2,62.8775,0
+26,Male,724.42,1,Mobile App,Accessories,0,724.42,1
+29,Male,290.26,3,Phone,Accessories,2,96.75333333333333,0
+53,Male,727.29,1,Online,Outerwear,0,727.29,1
+23,Male,99.87,1,Online,Beauty,1,99.87,0
+21,Female,185.77,3,Phone,Beauty,2,61.92333333333334,0
+29,Female,359.27,1,Online,Accessories,1,359.27,0
+30,Male,505.73,5,In-Store,Footwear,2,101.146,1
+25,Female,597.97,2,Mobile App,Outerwear,1,298.985,1
+42,Female,694.08,3,In-Store,Electronics,2,231.36,1
+24,Female,255.47,1,Online,Accessories,1,255.47,0
+53,Female,536.39,2,Phone,Electronics,4,268.195,0
+41,Female,142.16,1,Mobile App,Footwear,4,142.16,0
+30,Male,643.7,3,Online,Accessories,2,214.5666666666667,1
+35,Male,151.59,1,In-Store,Clothing,1,151.59,0
+20,Male,1329.65,2,In-Store,Electronics,0,664.825,1
+18,Male,511.02,1,Phone,Electronics,1,511.02,0
+46,Male,541.21,1,Phone,Outerwear,0,541.21,0
+32,Male,298.21,1,Online,Accessories,1,298.21,0
+28,Female,315.11,1,Phone,Electronics,1,315.11,0
+30,Male,1242.26,2,Mobile App,Electronics,0,621.13,1
+45,Male,324.09,1,Online,Accessories,4,324.09,0
+32,Female,630.8,1,Online,Clothing,0,630.8,1
+33,Male,289.41,2,Phone,Electronics,1,144.705,0
+31,Male,789.07,1,Online,Electronics,0,789.07,1
+51,Female,194.02,1,Mobile App,Accessories,4,194.02,0
+34,Female,858.42,3,Mobile App,Beauty,2,286.14,1
+53,Male,967.28,1,Online,Electronics,0,967.28,1
+51,Male,1289.58,1,Mobile App,Accessories,3,1289.58,1
+40,Female,733.59,1,Phone,Electronics,0,733.59,1
+38,Male,709.73,1,In-Store,Electronics,0,709.73,1
+45,Female,195.9,2,Online,Accessories,4,97.95,0
+37,Female,364.64,1,In-Store,Electronics,4,364.64,0
+35,Female,70.42,3,Online,Electronics,2,23.473333333333333,0
+47,Male,50.0,1,Phone,Accessories,4,50.0,0
+44,Female,703.9,1,Phone,Beauty,0,703.9,1
+41,Female,189.95,1,Phone,Electronics,4,189.95,0
+26,Female,374.29,2,In-Store,Clothing,1,187.145,0
+36,Male,142.64,4,Mobile App,Electronics,2,35.66,0
+53,Female,283.07,2,Phone,Electronics,4,141.535,0
+56,Female,80.82,5,In-Store,Accessories,2,16.163999999999998,0
+40,Female,230.8,1,Phone,Clothing,4,230.8,0
+45,Male,611.61,1,Mobile App,Electronics,0,611.61,0
+31,Male,664.66,1,Phone,Electronics,0,664.66,1
+24,Male,160.78,1,Phone,Footwear,1,160.78,0
+27,Female,461.77,1,Phone,Bags,1,461.77,0
+39,Male,163.47,1,Phone,Accessories,4,163.47,0
+27,Male,166.73,1,In-Store,Electronics,1,166.73,0
+43,Male,341.82,1,In-Store,Outerwear,4,341.82,0
+34,Male,1143.05,1,Phone,Electronics,3,1143.05,1
+35,Female,247.66,1,In-Store,Clothing,1,247.66,0
+43,Male,188.51,3,In-Store,Electronics,2,62.836666666666666,0
+53,Female,289.45,1,Phone,Accessories,4,289.45,0
+48,Female,874.56,2,Mobile App,Clothing,0,437.28,1
+22,Female,50.67,2,In-Store,Clothing,1,25.335,0
+42,Female,181.66,1,In-Store,Electronics,4,181.66,0
+20,Male,234.99,1,Online,Footwear,1,234.99,0
+18,Male,235.89,1,Phone,Accessories,1,235.89,0
+52,Male,613.12,2,Phone,Electronics,4,306.56,1
+54,Male,1089.22,1,Mobile App,Beauty,3,1089.22,1
+18,Female,173.33,1,Phone,Electronics,1,173.33,0
+25,Male,860.53,1,In-Store,Electronics,0,860.53,1
+27,Male,366.56,3,Phone,Beauty,2,122.18666666666667,0
+25,Male,689.88,1,Online,Electronics,0,689.88,1
+24,Male,754.69,2,Online,Footwear,1,377.345,1
+27,Male,903.41,1,Mobile App,Accessories,0,903.41,1
+44,Female,496.92,3,In-Store,Clothing,2,165.64000000000001,0
+41,Female,216.2,2,Mobile App,Accessories,4,108.1,0
+53,Female,700.15,1,Phone,Electronics,0,700.15,1
+42,Male,775.15,4,Phone,Footwear,2,193.7875,1
+37,Male,388.82,2,Online,Electronics,4,194.41,0
+34,Male,147.71,1,Online,Clothing,1,147.71,0
+44,Male,903.09,1,Online,Clothing,0,903.09,1
+33,Male,461.79,3,Phone,Media,2,153.93,0
+18,Female,225.43,3,In-Store,Beauty,2,75.14333333333333,0
+40,Male,186.65,2,In-Store,Clothing,4,93.325,0
+36,Male,378.28,2,Mobile App,Outerwear,4,189.14,0
+36,Male,264.88,2,Online,Accessories,4,132.44,0
+40,Male,496.51,1,In-Store,Accessories,0,496.51,0
+38,Female,909.26,2,Mobile App,Accessories,0,454.63,1
+26,Male,151.31,1,In-Store,Footwear,1,151.31,0
+28,Female,205.7,4,In-Store,Clothing,2,51.425,0
+40,Female,122.73,3,Online,Electronics,2,40.910000000000004,0
+44,Male,892.82,2,In-Store,Accessories,0,446.41,1
+18,Male,359.43,1,Mobile App,Footwear,1,359.43,0
+30,Male,335.87,1,In-Store,Footwear,1,335.87,0
+29,Male,145.87,1,Mobile App,Media,1,145.87,0
+32,Male,371.59,2,Online,Accessories,1,185.795,0
+46,Male,554.95,2,Online,Beauty,4,277.475,0
+31,Male,470.39,1,Mobile App,Accessories,1,470.39,0
+39,Female,165.49,2,Mobile App,Electronics,4,82.745,0
+51,Female,638.95,3,In-Store,Accessories,4,212.98333333333335,1
+42,Male,466.99,1,Phone,Accessories,4,466.99,0
+51,Male,225.62,1,Mobile App,Accessories,4,225.62,0
+29,Male,144.86,3,Mobile App,Beauty,2,48.28666666666667,0
+20,Female,283.1,2,Mobile App,Clothing,1,141.55,0
+33,Female,1067.63,2,In-Store,Outerwear,0,533.815,1
+38,Female,89.05,2,In-Store,Footwear,4,44.525,0
+18,Male,221.18,5,Phone,Beauty,2,44.236000000000004,0
+40,Female,285.68,1,Phone,Beauty,4,285.68,0
+41,Female,402.11,1,Online,Electronics,4,402.11,0
+59,Male,373.25,1,Online,Beauty,4,373.25,0
+26,Male,445.41,1,In-Store,Electronics,1,445.41,0
+28,Male,560.74,1,In-Store,Accessories,0,560.74,0
+65,Female,303.61,1,In-Store,Accessories,4,303.61,0
+18,Male,506.97,4,Online,Electronics,2,126.7425,1
+40,Female,50.0,4,Mobile App,Accessories,2,12.5,0
+21,Female,410.74,1,Mobile App,Outerwear,1,410.74,0
+24,Female,317.52,2,In-Store,Electronics,1,158.76,0
+29,Female,126.27,2,Phone,Electronics,1,63.135,0
+47,Male,143.14,3,Online,Electronics,4,47.71333333333333,0
+19,Female,247.6,2,Online,Accessories,1,123.8,0
+37,Male,1040.31,1,Mobile App,Clothing,3,1040.31,1
+32,Male,150.45,3,Online,Clothing,2,50.15,0
+35,Female,192.09,2,In-Store,Electronics,1,96.045,0
+46,Female,402.72,2,Online,Footwear,4,201.36,0
+21,Male,204.03,4,Online,Media,2,51.0075,0
+28,Female,1549.74,4,Mobile App,Electronics,2,387.435,1
+38,Male,381.96,2,In-Store,Accessories,4,190.98,0
+41,Male,173.29,2,Phone,Accessories,4,86.645,0
+28,Male,815.52,5,Phone,Accessories,2,163.10399999999998,1
+46,Female,285.47,1,In-Store,Accessories,4,285.47,0
+32,Male,1228.66,1,Online,Electronics,3,1228.66,1
+22,Male,84.83,1,In-Store,Footwear,1,84.83,0
+37,Male,544.63,3,In-Store,Electronics,2,181.54333333333332,1
+51,Female,165.59,2,In-Store,Footwear,4,82.795,0
+22,Male,591.32,1,In-Store,Clothing,1,591.32,0
+48,Male,242.8,5,In-Store,Outerwear,2,48.56,0
+31,Male,1085.83,2,In-Store,Clothing,0,542.915,1
+57,Female,557.44,3,Online,Accessories,4,185.81333333333336,1
+37,Female,50.0,1,Mobile App,Electronics,4,50.0,0
+34,Male,355.65,2,Mobile App,Clothing,1,177.825,0
+26,Female,325.83,2,In-Store,Clothing,1,162.915,0
+18,Female,50.0,2,Mobile App,Electronics,1,25.0,0
+23,Male,1308.34,2,Online,Footwear,0,654.17,1
+39,Female,961.28,3,Mobile App,Electronics,2,320.4266666666667,1
+32,Male,1042.76,1,Online,Electronics,3,1042.76,1
+19,Male,198.01,3,Phone,Beauty,2,66.00333333333333,0
+36,Female,184.65,1,Online,Accessories,4,184.65,0
+23,Female,167.34,1,In-Store,Footwear,1,167.34,0
+21,Male,525.1,1,Mobile App,Clothing,1,525.1,0
+31,Female,740.59,1,Phone,Clothing,0,740.59,1
+32,Male,218.23,1,Phone,Electronics,1,218.23,0
+18,Female,262.95,3,Phone,Accessories,2,87.64999999999999,0
+41,Female,269.57,2,Mobile App,Accessories,4,134.785,0
+18,Male,85.94,1,Phone,Footwear,1,85.94,0
+42,Male,339.58,2,Phone,Outerwear,4,169.79,0
+36,Male,575.22,1,Phone,Outerwear,0,575.22,0
+25,Female,174.78,1,In-Store,Media,1,174.78,0
+35,Female,576.25,2,Phone,Footwear,4,288.125,0
+31,Female,444.33,2,Mobile App,Electronics,1,222.165,0
+32,Male,466.82,3,Mobile App,Accessories,2,155.60666666666665,0
+45,Female,409.78,1,Online,Bags,4,409.78,0
+24,Male,573.11,2,Mobile App,Clothing,1,286.555,0
+39,Male,592.69,2,In-Store,Clothing,4,296.345,1
+19,Male,178.29,4,Mobile App,Accessories,2,44.5725,0
+41,Male,890.53,1,Mobile App,Electronics,0,890.53,1
+39,Male,475.88,2,Online,Clothing,4,237.94,0
+34,Male,656.08,2,In-Store,Electronics,0,328.04,1
+58,Male,331.16,5,Mobile App,Clothing,2,66.232,0
+25,Female,153.1,1,In-Store,Electronics,1,153.1,0
+18,Male,340.56,2,Online,Electronics,1,170.28,0
+31,Female,1337.08,1,In-Store,Footwear,3,1337.08,1
+24,Male,143.65,2,Phone,Bags,1,71.825,0
+57,Female,223.85,1,Online,Footwear,4,223.85,0
+39,Male,475.79,1,Mobile App,Accessories,0,475.79,0
+33,Female,294.33,2,Online,Electronics,1,147.165,0
+36,Female,283.87,1,Mobile App,Bags,1,283.87,0
+44,Female,186.75,1,Online,Accessories,4,186.75,0
+27,Male,848.35,1,Phone,Accessories,0,848.35,1
+18,Female,688.2,1,In-Store,Beauty,0,688.2,1
+36,Female,939.87,4,Mobile App,Clothing,2,234.9675,1
+31,Male,631.46,2,Phone,Electronics,1,315.73,1
+35,Female,619.96,3,Phone,Electronics,2,206.65333333333334,1
+47,Male,443.04,1,In-Store,Clothing,4,443.04,0
+35,Female,1171.46,4,Mobile App,Beauty,2,292.865,1
+33,Female,136.11,1,In-Store,Outerwear,1,136.11,0
+30,Male,288.15,2,In-Store,Accessories,1,144.075,0
+18,Male,158.56,1,Online,Accessories,1,158.56,0
+27,Female,793.93,2,Phone,Electronics,0,396.965,1
+51,Female,345.36,2,Mobile App,Accessories,4,172.68,0
+27,Male,324.43,1,In-Store,Outerwear,1,324.43,0
+24,Female,50.0,1,Mobile App,Clothing,1,50.0,0
+38,Female,298.16,2,Phone,Media,4,149.08,0
+36,Male,206.28,1,Mobile App,Accessories,4,206.28,0
+36,Female,450.3,1,In-Store,Beauty,0,450.3,0
+20,Male,578.62,1,Mobile App,Accessories,1,578.62,0
+22,Male,110.37,2,Mobile App,Electronics,1,55.185,0
+56,Female,268.41,3,Phone,Electronics,4,89.47000000000001,0
+18,Male,463.37,1,Online,Accessories,1,463.37,0
+28,Female,1035.06,1,Mobile App,Accessories,3,1035.06,1
+44,Male,370.77,3,Mobile App,Media,2,123.58999999999999,0
+33,Male,477.47,2,Online,Electronics,1,238.735,0
+21,Male,134.67,1,Online,Accessories,1,134.67,0
+36,Male,432.14,3,Phone,Electronics,2,144.04666666666665,0
+28,Female,1258.06,1,Mobile App,Electronics,3,1258.06,1
+41,Male,50.07,1,Mobile App,Beauty,4,50.07,0
+20,Female,545.65,5,Mobile App,Accessories,2,109.13,1
+24,Female,71.34,4,Online,Clothing,2,17.835,0
+26,Female,364.56,1,Online,Accessories,1,364.56,0
+34,Female,258.91,1,Online,Electronics,1,258.91,0
+41,Male,344.2,1,Mobile App,Electronics,4,344.2,0
+47,Male,1579.36,1,Online,Clothing,3,1579.36,1
+58,Male,454.15,1,Phone,Clothing,4,454.15,0
+37,Female,509.28,1,Mobile App,Footwear,0,509.28,0
+37,Male,778.47,4,Mobile App,Electronics,2,194.6175,1
+35,Female,368.75,3,Mobile App,Electronics,2,122.91666666666667,0
+29,Male,277.93,2,Phone,Footwear,1,138.965,0
+34,Male,259.56,2,Phone,Accessories,1,129.78,0
+46,Male,613.21,1,Phone,Beauty,0,613.21,0
+38,Female,399.88,1,Mobile App,Electronics,4,399.88,0
+33,Male,829.03,1,Mobile App,Footwear,0,829.03,1
+54,Female,252.31,3,Mobile App,Accessories,4,84.10333333333334,0
+49,Male,438.51,1,In-Store,Accessories,4,438.51,0
+40,Female,571.17,3,In-Store,Footwear,2,190.39,1
+47,Female,777.36,2,Mobile App,Accessories,0,388.68,1
+23,Male,248.45,1,Phone,Beauty,1,248.45,0
+56,Male,501.63,1,Mobile App,Accessories,4,501.63,0
+19,Male,126.69,2,Phone,Accessories,1,63.345,0
+29,Female,285.26,4,In-Store,Footwear,2,71.315,0
+25,Female,864.05,2,Mobile App,Electronics,0,432.025,1
+42,Male,1456.22,1,Mobile App,Accessories,3,1456.22,1
+29,Male,169.33,2,Mobile App,Footwear,1,84.665,0
+53,Male,908.72,1,In-Store,Accessories,0,908.72,1
+57,Male,654.11,5,In-Store,Electronics,2,130.822,1
+39,Male,570.98,2,Phone,Electronics,4,285.49,0
+18,Male,556.48,2,Online,Accessories,1,278.24,0
+18,Female,211.35,1,Online,Electronics,1,211.35,0
+22,Male,365.26,2,Mobile App,Footwear,1,182.63,0
+24,Male,972.23,1,Online,Electronics,0,972.23,1
+18,Female,403.76,1,Mobile App,Electronics,1,403.76,0
+39,Female,1002.4,1,Mobile App,Bags,0,1002.4,1
+44,Female,508.45,4,Mobile App,Electronics,2,127.1125,1
+18,Female,337.03,2,Phone,Bags,1,168.515,0
+40,Male,176.03,1,Online,Electronics,4,176.03,0
+34,Male,371.51,3,In-Store,Electronics,2,123.83666666666666,0
+36,Female,879.42,1,Online,Beauty,0,879.42,1
+44,Male,66.37,1,Online,Electronics,4,66.37,0
+30,Male,452.42,1,In-Store,Clothing,1,452.42,0
+22,Male,117.11,2,In-Store,Accessories,1,58.555,0
+28,Male,189.33,2,In-Store,Accessories,1,94.665,0
+32,Female,886.46,1,Mobile App,Accessories,0,886.46,1
+29,Female,770.18,2,Online,Accessories,0,385.09,1
+47,Male,348.45,1,Phone,Electronics,4,348.45,0
+48,Male,139.09,3,Mobile App,Accessories,4,46.36333333333334,0
+52,Male,50.0,1,Mobile App,Clothing,4,50.0,0
+35,Male,614.48,3,Mobile App,Clothing,2,204.82666666666668,1
+30,Female,260.57,2,Online,Beauty,1,130.285,0
+43,Male,89.3,2,Online,Clothing,4,44.65,0
+19,Male,596.78,1,Mobile App,Accessories,1,596.78,0
+18,Male,412.1,2,Phone,Footwear,1,206.05,0
+39,Female,312.8,1,Mobile App,Bags,4,312.8,0
+42,Male,221.63,3,Online,Footwear,2,73.87666666666667,0
+61,Female,1228.84,1,Mobile App,Electronics,3,1228.84,1
+42,Male,554.36,1,Online,Electronics,0,554.36,0
+26,Female,54.05,2,Online,Outerwear,1,27.025,0
+28,Male,561.97,2,Online,Footwear,1,280.985,0
+21,Male,340.08,1,In-Store,Clothing,1,340.08,0
+29,Female,477.31,4,Phone,Footwear,2,119.3275,0
+19,Male,254.8,5,In-Store,Electronics,2,50.96,0
+18,Male,714.36,2,Phone,Accessories,1,357.18,1
+19,Female,430.29,1,Phone,Clothing,1,430.29,0
+30,Female,222.39,2,Online,Clothing,1,111.195,0
+34,Male,446.53,1,In-Store,Footwear,1,446.53,0
+41,Female,650.89,1,Mobile App,Clothing,0,650.89,1
+29,Female,444.26,4,Online,Accessories,2,111.065,0
+39,Male,192.25,4,Phone,Electronics,2,48.0625,0
+45,Female,444.65,4,In-Store,Electronics,2,111.1625,0
+18,Male,359.71,1,Online,Clothing,1,359.71,0
+38,Male,344.66,1,Online,Electronics,4,344.66,0
+48,Female,638.94,1,Online,Electronics,0,638.94,1
+37,Female,501.91,1,Phone,Electronics,0,501.91,0
+31,Female,784.28,1,Online,Clothing,0,784.28,1
+38,Female,676.98,1,Mobile App,Bags,0,676.98,1
+51,Female,318.57,2,Phone,Bags,4,159.285,0
+20,Female,918.86,3,Mobile App,Clothing,2,306.2866666666667,1
+26,Male,639.27,2,Mobile App,Media,1,319.635,1
+64,Male,366.86,3,Online,Electronics,4,122.28666666666668,0
+18,Male,85.8,1,Mobile App,Electronics,1,85.8,0
+41,Male,268.05,1,Phone,Media,4,268.05,0
+34,Male,204.36,3,Phone,Electronics,2,68.12,0
+56,Female,276.33,2,In-Store,Footwear,4,138.165,0
+37,Female,414.78,2,Online,Electronics,4,207.39,0
+37,Male,284.37,1,In-Store,Electronics,4,284.37,0
+18,Female,210.89,1,In-Store,Footwear,1,210.89,0
+26,Male,156.87,2,Phone,Electronics,1,78.435,0
+52,Male,453.62,3,Online,Electronics,4,151.20666666666668,0
+25,Male,568.08,4,Online,Electronics,2,142.02,1
+20,Male,327.82,2,Mobile App,Electronics,1,163.91,0
+44,Male,851.05,2,In-Store,Accessories,0,425.525,1
+18,Female,67.5,3,Mobile App,Accessories,2,22.5,0
+64,Female,269.3,2,Mobile App,Outerwear,4,134.65,0
+23,Female,200.54,2,Mobile App,Clothing,1,100.27,0
+30,Female,737.55,4,Mobile App,Footwear,2,184.3875,1
+37,Female,561.86,3,Online,Footwear,2,187.28666666666666,1
+18,Male,318.74,4,Phone,Electronics,2,79.685,0
+44,Male,332.67,1,Phone,Accessories,4,332.67,0
+18,Male,884.66,2,Mobile App,Clothing,0,442.33,1
+28,Male,328.25,3,Mobile App,Accessories,2,109.41666666666667,0
+18,Male,614.76,1,In-Store,Clothing,1,614.76,0
+22,Male,770.37,3,Online,Electronics,2,256.79,1
+36,Male,704.66,1,Online,Electronics,0,704.66,1
+18,Female,475.26,3,Mobile App,Electronics,2,158.42,0
+27,Male,638.43,2,Phone,Accessories,1,319.215,1
+26,Male,223.8,1,Mobile App,Electronics,1,223.8,0
+35,Male,855.06,1,Mobile App,Accessories,0,855.06,1
+60,Female,107.45,2,Phone,Beauty,4,53.725,0
+30,Male,365.1,2,In-Store,Accessories,1,182.55,0
+43,Female,259.92,1,Mobile App,Electronics,4,259.92,0
+47,Male,540.24,3,Phone,Accessories,2,180.08,1
+35,Male,314.83,2,Mobile App,Accessories,4,157.415,0
+30,Male,240.26,2,Mobile App,Accessories,1,120.13,0
+18,Female,289.52,1,In-Store,Accessories,1,289.52,0
+47,Male,86.59,4,Online,Bags,2,21.6475,0
+39,Female,345.03,1,Mobile App,Clothing,4,345.03,0
+18,Male,798.25,2,Mobile App,Footwear,1,399.125,1
+22,Male,1025.99,3,Mobile App,Accessories,2,341.99666666666667,1
+18,Female,145.85,1,Phone,Electronics,1,145.85,0
+30,Female,274.19,2,Online,Clothing,1,137.095,0
+38,Male,63.77,1,In-Store,Footwear,4,63.77,0
+33,Female,174.95,3,Online,Footwear,2,58.31666666666666,0
+61,Male,352.98,2,In-Store,Accessories,4,176.49,0
+34,Male,1052.34,3,In-Store,Footwear,0,350.78,1
+50,Female,314.73,3,Online,Media,4,104.91000000000001,0
+54,Male,492.47,2,Phone,Outerwear,4,246.235,0
+58,Female,757.75,2,Online,Accessories,4,378.875,1
+59,Female,1292.17,2,Online,Accessories,0,646.085,1
+44,Male,1720.01,1,In-Store,Accessories,3,1720.01,1
+37,Female,891.45,2,Phone,Clothing,0,445.725,1
+19,Female,227.33,4,Phone,Accessories,2,56.8325,0
+26,Male,579.84,1,Phone,Media,0,579.84,0
+31,Female,1230.16,1,Mobile App,Clothing,3,1230.16,1
+18,Male,258.83,1,Mobile App,Outerwear,1,258.83,0
+33,Female,448.29,1,Mobile App,Media,1,448.29,0
+31,Male,290.19,1,Mobile App,Footwear,1,290.19,0
+18,Female,708.73,1,In-Store,Accessories,0,708.73,1
+18,Female,219.15,1,Mobile App,Accessories,1,219.15,0
+37,Female,547.52,2,In-Store,Footwear,4,273.76,0
+28,Female,521.47,1,Phone,Clothing,1,521.47,0
+34,Male,919.33,2,Phone,Footwear,0,459.665,1
+27,Male,476.88,3,Mobile App,Clothing,2,158.96,0
+23,Male,200.32,4,Mobile App,Accessories,2,50.08,0
+36,Female,412.6,2,Online,Footwear,4,206.3,0
+18,Female,278.81,1,Online,Media,1,278.81,0
+18,Male,522.99,4,Mobile App,Accessories,2,130.7475,1
+30,Female,926.28,2,Mobile App,Clothing,0,463.14,1
+30,Female,423.17,1,In-Store,Clothing,1,423.17,0
+38,Male,91.46,1,In-Store,Accessories,4,91.46,0
+28,Female,343.38,1,Mobile App,Clothing,1,343.38,0
+25,Female,612.45,1,Phone,Outerwear,0,612.45,0
+28,Female,202.8,1,Online,Accessories,1,202.8,0
+37,Female,434.36,4,Mobile App,Clothing,2,108.59,0
+25,Female,530.42,2,Mobile App,Electronics,1,265.21,0
+30,Male,552.26,2,Phone,Accessories,1,276.13,0
+30,Female,284.49,3,In-Store,Electronics,2,94.83,0
+26,Female,510.48,3,Mobile App,Electronics,2,170.16,0
+24,Female,534.9,3,In-Store,Clothing,2,178.29999999999998,1
+23,Female,198.95,4,Phone,Footwear,2,49.7375,0
+38,Male,114.71,1,Online,Electronics,4,114.71,0
+29,Female,523.85,4,Phone,Accessories,2,130.9625,1
+34,Female,276.8,2,In-Store,Footwear,1,138.4,0
+24,Female,370.73,1,Phone,Clothing,1,370.73,0
+26,Male,623.52,2,Phone,Beauty,1,311.76,1
+41,Female,758.29,2,In-Store,Accessories,0,379.145,1
+52,Female,66.79,4,Phone,Electronics,2,16.6975,0
+23,Female,179.22,1,Mobile App,Media,1,179.22,0
+29,Female,525.27,2,In-Store,Accessories,1,262.635,0
+22,Male,750.88,1,Mobile App,Clothing,0,750.88,1
+50,Male,778.43,1,Mobile App,Electronics,0,778.43,1
+45,Male,477.65,1,Mobile App,Accessories,4,477.65,0
+34,Female,513.31,2,Online,Electronics,1,256.655,0
+31,Female,147.07,3,Online,Electronics,2,49.02333333333333,0
+26,Female,279.64,1,Mobile App,Accessories,1,279.64,0
+38,Male,143.77,2,Phone,Accessories,4,71.885,0
+34,Female,70.88,1,Mobile App,Beauty,1,70.88,0
+34,Male,433.47,1,In-Store,Bags,1,433.47,0
+34,Female,532.58,2,Mobile App,Outerwear,1,266.29,0

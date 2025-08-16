@@ -1,0 +1,3001 @@
+Customer_ID,Name,Age,Gender,Location,Join_Date,Total_Spent
+2001,Nathan,47,Male,Denver,2024-11-24,687.88
+2002,Isabella,48,Female,Seattle,2023-09-02,1799.09
+2003,Rachel,30,Female,San Antonio,2024-03-03,470.26
+2004,Fiona,22,Female,Jacksonville,2024-01-25,144.24
+2005,Quinn,18,Male,Tucson,2025-02-03,686.13
+2006,Bella,26,Female,El Paso,2024-12-21,317.52
+2007,Thomas,28,Male,San Diego,2025-05-28,59.37
+2008,George,29,Male,New York,2023-10-17,386.84
+2009,Zoe,36,Female,Kansas City,2024-06-18,616.93
+2010,Isaac,20,Male,El Paso,2023-09-05,593.59
+2011,Bella,30,Female,Nashville,2024-01-21,521.03
+2012,Penny,28,Female,Sacramento,2024-08-18,395.68
+2013,Rachel,25,Female,Nashville,2023-09-03,1155.22
+2014,Patrick,27,Male,Seattle,2024-01-07,59.92
+2015,Nathan,23,Male,Atlanta,2024-12-02,169.85
+2016,Charlotte,27,Female,Philadelphia,2024-09-16,166.86
+2017,George,22,Male,Dallas,2024-01-23,421.41
+2018,Tina,39,Female,Colorado Springs,2024-10-18,264.81
+2019,Henry,31,Male,Chicago,2025-03-28,961.06
+2020,Penny,49,Female,Fort Worth,2023-08-19,956.97
+2021,Marcus,21,Male,Baltimore,2025-03-26,67.86
+2022,George,46,Male,Phoenix,2025-01-06,864.6
+2023,Maria,38,Female,Virginia Beach,2024-04-19,376.59
+2024,William,38,Male,Washington DC,2023-12-06,966.23
+2025,Isabella,49,Female,Fort Worth,2025-07-14,416.84
+2026,Maria,31,Female,San Jose,2024-04-17,632.39
+2027,Christopher,34,Male,Dallas,2023-10-21,337.18
+2028,Marcus,40,Male,Las Vegas,2023-10-24,479.0
+2029,Nina,32,Female,Indianapolis,2025-04-25,454.46
+2030,Nina,37,Female,Detroit,2024-10-29,285.22
+2031,Bella,18,Female,Baltimore,2025-03-27,317.87
+2032,Tina,33,Female,San Diego,2025-01-29,111.63
+2033,Fiona,43,Female,Phoenix,2024-09-09,575.04
+2034,Isabella,41,Female,Las Vegas,2025-07-26,189.64
+2035,Luna,26,Female,Fresno,2024-05-17,1173.46
+2036,Benjamin,31,Male,Austin,2024-09-21,240.86
+2037,Rachel,37,Female,Seattle,2025-04-12,511.74
+2038,Isaac,40,Male,Denver,2024-11-09,442.88
+2039,Christopher,43,Male,Mesa,2025-05-05,1008.77
+2040,David,43,Male,Fort Worth,2024-10-10,225.1
+2041,Diana,35,Female,Tucson,2025-01-11,435.87
+2042,Zoe,44,Female,Long Beach,2023-09-17,259.58
+2043,Katherine,18,Female,Phoenix,2024-01-28,799.75
+2044,Kevin,42,Male,Baltimore,2024-03-13,131.81
+2045,Katherine,43,Female,Portland,2023-10-12,99.71
+2046,Nina,18,Female,Portland,2024-02-01,237.34
+2047,Diana,45,Female,Colorado Springs,2023-10-27,282.69
+2048,Robert,35,Male,Columbus,2024-03-05,294.02
+2049,Liam,52,Male,New York,2024-11-21,253.65
+2050,Kevin,29,Male,Mesa,2024-05-07,710.0
+2051,Nathan,39,Male,Atlanta,2024-05-11,247.15
+2052,Alexander,38,Male,Fresno,2024-01-15,173.07
+2053,Hannah,25,Female,Fresno,2024-02-26,50.0
+2054,Luna,41,Female,Indianapolis,2025-06-29,538.36
+2055,Thomas,41,Male,Charlotte,2024-11-30,145.89
+2056,Samuel,18,Male,Seattle,2024-11-02,279.07
+2057,Nina,24,Female,San Diego,2023-12-18,106.2
+2058,Kevin,35,Male,Charlotte,2025-01-28,730.19
+2059,Christopher,40,Male,Long Beach,2023-12-12,348.46
+2060,Patrick,54,Male,Denver,2024-05-18,716.91
+2061,Christopher,23,Male,San Jose,2025-08-07,122.2
+2062,Robert,43,Male,Dallas,2024-11-24,836.7
+2063,Robert,46,Male,Houston,2024-09-25,358.43
+2064,Victoria,40,Female,San Francisco,2024-12-27,344.04
+2065,Nathan,31,Male,Long Beach,2025-04-22,90.72
+2066,Henry,42,Male,New York,2025-03-04,108.04
+2067,Victoria,28,Female,Detroit,2024-01-29,456.37
+2068,Tina,40,Female,Colorado Springs,2023-09-07,102.22
+2069,Bella,18,Female,Boston,2024-04-01,769.96
+2070,Frank,47,Male,Kansas City,2024-02-26,495.81
+2071,Quinn,22,Male,Dallas,2024-01-16,421.95
+2072,Emma,30,Female,Virginia Beach,2025-07-04,171.76
+2073,Samuel,23,Male,Boston,2025-05-16,516.6
+2074,David,33,Male,New York,2024-04-01,490.84
+2075,Alice,31,Female,Charlotte,2024-12-06,364.53
+2076,Robert,34,Male,Jacksonville,2024-05-30,218.74
+2077,Quinn,52,Male,Los Angeles,2025-06-13,833.9
+2078,Maria,49,Female,Atlanta,2024-07-15,525.48
+2079,George,34,Male,Portland,2024-02-24,1002.46
+2080,Victoria,32,Female,Indianapolis,2024-02-11,1113.32
+2081,Tina,25,Female,Colorado Springs,2024-09-28,349.7
+2082,Nina,31,Female,Columbus,2024-02-23,820.59
+2083,Grace,27,Female,Charlotte,2024-10-15,436.83
+2084,Victor,31,Male,Seattle,2025-06-01,50.0
+2085,Nathan,42,Male,Atlanta,2024-06-01,140.79
+2086,Tina,18,Female,Oklahoma City,2024-01-22,226.59
+2087,James,18,Male,Baltimore,2025-08-13,695.36
+2088,Oliver,46,Male,Louisville,2024-08-21,727.13
+2089,Bella,21,Female,San Jose,2023-10-20,494.23
+2090,Isabella,53,Female,Philadelphia,2023-09-18,772.75
+2091,Julia,52,Female,Jacksonville,2023-11-03,917.42
+2092,Hannah,42,Female,Jacksonville,2024-11-15,573.72
+2093,Liam,24,Male,Fort Worth,2025-03-16,181.8
+2094,Olivia,41,Female,Tucson,2024-06-18,559.32
+2095,Liam,40,Male,Denver,2023-09-30,728.89
+2096,Benjamin,52,Male,Washington DC,2024-05-19,576.11
+2097,Kevin,46,Male,Jacksonville,2025-08-12,360.19
+2098,Diana,20,Female,Colorado Springs,2024-09-04,167.66
+2099,Marcus,27,Male,Phoenix,2025-07-24,170.06
+2100,James,26,Male,Phoenix,2025-05-05,340.41
+2101,Fiona,45,Female,San Francisco,2023-08-23,617.02
+2102,Hannah,29,Female,Oklahoma City,2025-01-22,527.59
+2103,George,47,Male,Sacramento,2024-12-25,828.7
+2104,Isaac,21,Male,New York,2024-09-10,404.09
+2105,Rachel,41,Female,San Antonio,2024-02-26,230.39
+2106,Charlotte,27,Female,Portland,2024-11-25,513.44
+2107,Benjamin,18,Male,San Diego,2023-11-04,795.56
+2108,Alexander,41,Male,Chicago,2024-06-27,246.32
+2109,Isaac,41,Male,San Francisco,2024-07-11,190.98
+2110,Frank,52,Male,Seattle,2025-07-12,536.01
+2111,James,18,Male,Colorado Springs,2025-05-16,96.87
+2112,Alexander,48,Male,New York,2024-02-23,382.44
+2113,George,43,Male,Long Beach,2024-08-14,302.49
+2114,William,42,Male,Philadelphia,2023-12-23,829.37
+2115,Marcus,42,Male,Dallas,2025-06-12,356.96
+2116,Isabella,28,Female,Mesa,2025-05-12,331.87
+2117,Grace,33,Female,Austin,2024-03-20,65.0
+2118,Thomas,42,Male,El Paso,2024-11-24,660.71
+2119,Isabella,50,Female,San Jose,2024-11-02,951.28
+2120,Patrick,59,Male,Houston,2023-12-04,679.23
+2121,Maria,47,Female,Seattle,2025-02-22,1310.39
+2122,Tina,29,Female,Long Beach,2024-09-12,555.01
+2123,Henry,18,Male,Los Angeles,2025-03-06,269.03
+2124,Christopher,41,Male,San Antonio,2024-09-05,679.51
+2125,Maria,45,Female,Denver,2023-08-15,497.08
+2126,George,27,Male,Fresno,2024-04-07,154.73
+2127,Emma,52,Female,San Jose,2023-08-29,553.05
+2128,Alexander,19,Male,Charlotte,2025-06-24,610.56
+2129,Benjamin,51,Male,Charlotte,2025-05-18,567.39
+2130,Fiona,22,Female,Portland,2025-04-13,489.32
+2131,James,24,Male,Detroit,2024-03-26,759.7
+2132,Victoria,40,Female,Denver,2023-09-26,1356.47
+2133,Oliver,45,Male,Portland,2025-05-17,166.91
+2134,Zoe,71,Female,San Diego,2025-07-07,574.43
+2135,Julia,21,Female,Austin,2023-10-16,454.05
+2136,Henry,44,Male,Charlotte,2024-08-04,307.36
+2137,George,33,Male,Denver,2023-10-04,228.23
+2138,Alice,33,Female,Phoenix,2025-02-21,132.55
+2139,Sophia,42,Female,El Paso,2025-02-24,355.37
+2140,Henry,37,Male,Nashville,2023-11-16,275.78
+2141,Frank,38,Male,Chicago,2024-07-27,763.63
+2142,Rachel,49,Female,San Jose,2024-09-19,420.44
+2143,Liam,28,Male,Louisville,2024-02-24,354.6
+2144,Luna,39,Female,El Paso,2025-05-13,478.73
+2145,Rachel,32,Female,Jacksonville,2024-06-19,216.58
+2146,Zoe,27,Female,Louisville,2024-01-16,228.03
+2147,James,29,Male,Washington DC,2024-09-12,306.62
+2148,Sophia,18,Female,Denver,2025-01-29,220.06
+2149,Alice,20,Female,San Antonio,2024-01-09,151.37
+2150,Robert,30,Male,Tucson,2024-03-29,256.48
+2151,Wendy,29,Female,Nashville,2025-08-11,379.34
+2152,Quinn,30,Male,Phoenix,2024-12-02,481.24
+2153,Alexander,34,Male,San Jose,2024-06-30,199.03
+2154,Victoria,51,Female,San Jose,2024-08-27,585.98
+2155,Victor,37,Male,San Jose,2023-11-11,2296.67
+2156,Charlotte,18,Female,Baltimore,2024-01-26,653.43
+2157,Isabella,34,Female,Phoenix,2024-04-18,208.2
+2158,Henry,20,Male,Mesa,2024-10-18,50.0
+2159,Fiona,56,Female,Seattle,2024-01-30,954.01
+2160,James,30,Male,Philadelphia,2024-01-22,755.51
+2161,Victor,31,Male,Dallas,2023-10-05,815.61
+2162,Liam,55,Male,Portland,2024-11-18,446.06
+2163,Alice,49,Female,Boston,2024-01-29,484.49
+2164,Julia,31,Female,Louisville,2025-06-06,717.56
+2165,Isabella,53,Female,Las Vegas,2025-05-04,345.94
+2166,Rachel,38,Female,El Paso,2023-10-05,148.98
+2167,Isaac,61,Male,San Francisco,2024-02-04,492.48
+2168,Charlotte,18,Female,Las Vegas,2024-12-16,601.56
+2169,Nina,37,Female,Tucson,2024-01-18,169.04
+2170,Maria,24,Female,Long Beach,2023-11-19,223.78
+2171,Julia,28,Female,Long Beach,2025-06-28,600.22
+2172,Maria,35,Female,Charlotte,2024-10-05,561.22
+2173,Charlotte,49,Female,Philadelphia,2024-07-25,308.93
+2174,Penny,36,Female,Las Vegas,2025-03-10,182.21
+2175,Luna,28,Female,Mesa,2025-03-27,497.82
+2176,Oliver,26,Male,Philadelphia,2024-01-01,233.08
+2177,Patrick,24,Male,Nashville,2023-10-24,191.11
+2178,Alexander,38,Male,Columbus,2024-06-25,573.91
+2179,Benjamin,27,Male,Nashville,2024-06-19,547.69
+2180,Nina,26,Female,Albuquerque,2024-07-21,310.0
+2181,Isaac,23,Male,San Diego,2025-01-28,193.19
+2182,David,34,Male,Detroit,2024-12-19,721.83
+2183,Bella,27,Female,Dallas,2025-08-03,454.75
+2184,Samuel,58,Male,Milwaukee,2023-10-25,366.16
+2185,James,51,Male,Kansas City,2024-06-04,296.78
+2186,Emma,21,Female,San Francisco,2024-04-19,648.06
+2187,Nathan,37,Male,Charlotte,2025-05-05,215.86
+2188,David,35,Male,Dallas,2024-02-12,1347.3
+2189,Henry,34,Male,San Jose,2024-01-01,317.22
+2190,Charlotte,37,Female,Los Angeles,2024-07-07,195.19
+2191,Fiona,30,Female,Nashville,2024-06-18,143.45
+2192,David,52,Male,San Antonio,2024-03-05,306.0
+2193,Wendy,26,Female,Atlanta,2024-02-13,697.19
+2194,Ethan,43,Male,Albuquerque,2025-06-19,422.59
+2195,Rachel,36,Female,Austin,2024-07-03,1011.25
+2196,Benjamin,26,Male,San Jose,2025-05-05,109.98
+2197,Bella,36,Female,San Jose,2024-09-20,497.2
+2198,Frank,43,Male,San Francisco,2023-09-20,122.41
+2199,Ethan,45,Male,New York,2025-08-14,263.49
+2200,Olivia,38,Female,Las Vegas,2025-04-17,561.98
+2201,James,45,Male,Jacksonville,2025-07-23,144.12
+2202,Isabella,19,Female,Dallas,2025-06-22,58.43
+2203,Luna,30,Female,Washington DC,2025-04-26,238.99
+2204,Isabella,21,Female,Las Vegas,2023-12-14,503.76
+2205,William,21,Male,Baltimore,2024-08-04,345.17
+2206,Victoria,40,Female,New York,2024-01-18,406.99
+2207,Samuel,18,Male,San Diego,2024-06-03,638.11
+2208,James,44,Male,Houston,2023-09-26,219.87
+2209,Victoria,55,Female,Chicago,2024-05-18,411.55
+2210,Rachel,42,Female,Jacksonville,2025-08-04,183.06
+2211,Katherine,27,Female,Austin,2024-02-24,197.81
+2212,Alexander,18,Male,Oklahoma City,2025-03-10,411.03
+2213,Fiona,28,Female,Milwaukee,2024-07-12,373.12
+2214,Nina,18,Female,Indianapolis,2024-06-19,96.08
+2215,Olivia,58,Female,Fresno,2025-07-14,476.06
+2216,Thomas,22,Male,Charlotte,2025-08-11,716.88
+2217,Fiona,24,Female,Austin,2024-09-24,1212.24
+2218,Robert,44,Male,Philadelphia,2025-01-21,78.73
+2219,Luna,23,Female,Portland,2023-12-06,570.88
+2220,Isaac,41,Male,Columbus,2024-03-18,165.25
+2221,Diana,63,Female,Virginia Beach,2025-07-23,502.17
+2222,David,26,Male,Charlotte,2024-10-11,390.27
+2223,Diana,32,Female,Jacksonville,2024-09-14,604.24
+2224,Nina,34,Female,Colorado Springs,2025-02-11,526.92
+2225,Ethan,30,Male,Milwaukee,2023-09-25,1475.31
+2226,Isabella,18,Female,Boston,2024-10-15,539.35
+2227,Victoria,47,Female,Oklahoma City,2024-08-16,312.39
+2228,Charlotte,18,Female,Austin,2025-04-29,236.97
+2229,David,27,Male,Nashville,2023-12-08,862.44
+2230,Victoria,34,Female,Louisville,2025-07-17,167.01
+2231,Marcus,29,Male,Seattle,2023-10-12,657.66
+2232,George,40,Male,San Antonio,2023-12-28,667.22
+2233,Ethan,18,Male,Nashville,2024-10-22,245.34
+2234,Rachel,39,Female,El Paso,2024-12-20,1386.88
+2235,Benjamin,18,Male,San Francisco,2024-02-02,214.72
+2236,Samuel,36,Male,Austin,2023-11-10,486.66
+2237,Maria,30,Female,San Antonio,2025-05-26,394.67
+2238,Ethan,38,Male,Columbus,2024-02-10,206.31
+2239,Rachel,27,Female,New York,2024-10-22,439.65
+2240,Thomas,18,Male,Fort Worth,2024-11-09,726.48
+2241,Nina,40,Female,Fort Worth,2024-06-16,997.47
+2242,Tina,29,Female,Chicago,2024-10-14,301.43
+2243,Patrick,55,Male,Seattle,2024-08-31,231.15
+2244,Frank,33,Male,Mesa,2025-06-28,197.12
+2245,Olivia,38,Female,Chicago,2024-01-11,354.93
+2246,Olivia,20,Female,Albuquerque,2025-01-19,261.74
+2247,Christopher,18,Male,Houston,2024-02-05,476.42
+2248,Victor,39,Male,Philadelphia,2024-05-30,361.37
+2249,Thomas,37,Male,New York,2024-12-18,654.44
+2250,Alice,52,Female,Denver,2024-03-21,319.25
+2251,Diana,26,Female,Fresno,2024-04-02,1269.11
+2252,Marcus,31,Male,Boston,2025-02-14,450.91
+2253,Diana,49,Female,Detroit,2023-10-07,591.0
+2254,Isaac,43,Male,San Antonio,2024-07-15,380.69
+2255,William,34,Male,Las Vegas,2025-08-13,788.61
+2256,Katherine,43,Female,San Antonio,2025-08-12,60.86
+2257,Katherine,33,Female,San Jose,2023-10-07,625.92
+2258,Benjamin,50,Male,Atlanta,2024-01-17,173.43
+2259,Charlotte,33,Female,Albuquerque,2024-02-24,662.14
+2260,Penny,35,Female,Chicago,2025-06-27,273.03
+2261,Samuel,26,Male,Austin,2025-05-19,436.61
+2262,James,40,Male,Milwaukee,2025-05-18,132.83
+2263,Frank,40,Male,Philadelphia,2024-05-11,62.43
+2264,Oliver,31,Male,Columbus,2023-12-08,334.7
+2265,Zoe,39,Female,San Jose,2025-04-15,465.57
+2266,Kevin,24,Male,Fresno,2025-01-10,290.31
+2267,Luna,47,Female,Colorado Springs,2024-11-04,1295.36
+2268,Victoria,30,Female,Sacramento,2025-08-05,219.86
+2269,William,33,Male,Baltimore,2024-12-05,653.37
+2270,Isaac,36,Male,El Paso,2023-08-20,312.5
+2271,Samuel,35,Male,Nashville,2025-04-03,266.62
+2272,Sophia,26,Female,Louisville,2024-03-20,803.13
+2273,Christopher,18,Male,Portland,2024-12-11,877.44
+2274,Patrick,18,Male,Columbus,2025-07-01,386.32
+2275,Sophia,40,Female,Colorado Springs,2023-11-21,389.4
+2276,Ethan,27,Male,San Jose,2023-11-07,451.53
+2277,Olivia,40,Female,Tucson,2023-11-01,685.83
+2278,George,42,Male,New York,2024-09-22,274.66
+2279,James,33,Male,Washington DC,2024-03-01,197.27
+2280,Nina,43,Female,Philadelphia,2024-10-30,220.63
+2281,Julia,18,Female,San Antonio,2025-01-20,238.52
+2282,Hannah,43,Female,Boston,2024-01-10,50.0
+2283,Kevin,50,Male,Denver,2024-11-20,572.78
+2284,Kevin,32,Male,Phoenix,2024-02-23,377.35
+2285,Robert,21,Male,Mesa,2024-08-06,59.15
+2286,Bella,53,Female,Detroit,2025-06-06,199.89
+2287,Frank,19,Male,Phoenix,2025-04-24,542.1
+2288,Liam,31,Male,Milwaukee,2023-10-21,695.47
+2289,Quinn,18,Male,Albuquerque,2024-06-19,234.35
+2290,Quinn,41,Male,Baltimore,2024-03-04,916.49
+2291,Victoria,21,Female,Dallas,2023-08-17,316.65
+2292,Henry,51,Male,Mesa,2025-02-28,153.35
+2293,Julia,45,Female,Chicago,2024-11-22,1386.4
+2294,Bella,31,Female,Denver,2024-02-22,63.13
+2295,Diana,18,Female,Las Vegas,2025-02-06,50.0
+2296,Sophia,48,Female,Dallas,2024-09-21,536.31
+2297,Grace,37,Female,Nashville,2024-06-22,589.74
+2298,Katherine,52,Female,Virginia Beach,2023-08-22,690.54
+2299,Victor,23,Male,Nashville,2023-10-09,233.08
+2300,Frank,42,Male,Las Vegas,2025-05-21,281.71
+2301,Katherine,45,Female,Baltimore,2025-06-05,552.47
+2302,Quinn,45,Male,Chicago,2024-09-16,1323.98
+2303,Sophia,43,Female,Houston,2025-04-16,1243.31
+2304,Patrick,46,Male,Kansas City,2024-10-13,230.2
+2305,Alexander,22,Male,San Jose,2023-12-01,687.35
+2306,George,25,Male,Denver,2023-11-16,692.05
+2307,Charlotte,38,Female,Austin,2024-03-27,186.47
+2308,Olivia,31,Female,Oklahoma City,2025-06-02,247.86
+2309,Ethan,18,Male,Charlotte,2025-03-18,272.13
+2310,Charlotte,31,Female,Milwaukee,2025-05-05,134.01
+2311,Wendy,57,Female,Philadelphia,2025-06-02,278.32
+2312,Alice,24,Female,Milwaukee,2024-01-15,464.47
+2313,Hannah,46,Female,Long Beach,2024-02-13,252.69
+2314,Hannah,35,Female,San Antonio,2023-10-29,85.7
+2315,Frank,47,Male,Jacksonville,2025-03-07,160.14
+2316,George,31,Male,Oklahoma City,2025-05-22,416.98
+2317,Fiona,18,Female,Fort Worth,2024-06-07,388.65
+2318,Diana,36,Female,El Paso,2024-11-10,528.27
+2319,Ethan,36,Male,Boston,2023-12-05,738.23
+2320,William,21,Male,Colorado Springs,2025-06-24,257.28
+2321,Julia,35,Female,Columbus,2025-05-08,808.52
+2322,Isabella,20,Female,San Diego,2025-07-28,139.93
+2323,Robert,30,Male,Milwaukee,2025-03-29,185.09
+2324,Christopher,38,Male,Long Beach,2025-05-20,694.93
+2325,James,43,Male,Albuquerque,2023-09-02,150.25
+2326,James,25,Male,Columbus,2025-02-03,766.63
+2327,Victor,36,Male,Mesa,2024-04-13,681.21
+2328,Christopher,68,Male,Colorado Springs,2025-06-25,50.0
+2329,Charlotte,45,Female,Houston,2025-03-23,108.48
+2330,Bella,27,Female,Louisville,2025-05-07,199.73
+2331,Isabella,31,Female,Columbus,2025-03-29,351.35
+2332,David,38,Male,Columbus,2024-02-26,1073.23
+2333,Benjamin,39,Male,Louisville,2025-03-12,192.28
+2334,Robert,18,Male,Indianapolis,2023-11-02,134.68
+2335,Tina,48,Female,Jacksonville,2025-05-13,183.11
+2336,Frank,38,Male,San Jose,2025-05-03,802.14
+2337,Ethan,47,Male,Seattle,2024-01-24,500.91
+2338,Diana,48,Female,Philadelphia,2025-04-02,140.86
+2339,Thomas,40,Male,Baltimore,2024-07-16,300.6
+2340,Emma,18,Female,Sacramento,2024-03-25,274.16
+2341,Nathan,39,Male,Indianapolis,2025-03-18,1785.41
+2342,Liam,27,Male,Houston,2024-01-28,480.92
+2343,Frank,24,Male,Louisville,2023-09-01,680.53
+2344,William,19,Male,Washington DC,2024-01-03,383.47
+2345,Kevin,27,Male,Fort Worth,2024-04-10,193.92
+2346,Alice,22,Female,Las Vegas,2025-05-07,903.59
+2347,Isabella,41,Female,Albuquerque,2025-07-21,243.27
+2348,Maria,60,Female,Austin,2024-03-06,789.63
+2349,Fiona,56,Female,Detroit,2024-11-25,350.37
+2350,Olivia,33,Female,Portland,2024-06-02,166.24
+2351,Alexander,49,Male,Kansas City,2025-08-01,1022.99
+2352,Rachel,28,Female,Fort Worth,2024-09-09,620.49
+2353,Ethan,33,Male,Atlanta,2025-07-01,413.75
+2354,Sophia,23,Female,San Jose,2023-11-07,249.02
+2355,Victor,33,Male,Boston,2025-07-24,107.74
+2356,Alexander,35,Male,San Jose,2023-12-23,157.61
+2357,Hannah,18,Female,San Jose,2025-07-18,250.95
+2358,Julia,46,Female,Boston,2024-02-25,267.41
+2359,Henry,58,Male,Las Vegas,2023-11-02,644.79
+2360,Quinn,41,Male,Sacramento,2024-06-27,420.33
+2361,Alexander,20,Male,Baltimore,2025-01-28,50.82
+2362,Isaac,52,Male,Baltimore,2024-03-31,406.25
+2363,Tina,23,Female,Atlanta,2024-10-31,170.25
+2364,George,43,Male,Chicago,2024-08-22,1682.76
+2365,Nathan,49,Male,Fort Worth,2024-05-22,69.65
+2366,Emma,46,Female,Long Beach,2024-10-09,219.57
+2367,Kevin,35,Male,Colorado Springs,2024-02-17,378.55
+2368,Charlotte,44,Female,Columbus,2025-01-14,396.83
+2369,Alice,34,Female,Columbus,2023-08-16,246.59
+2370,Marcus,37,Male,Mesa,2025-06-21,529.55
+2371,Alexander,52,Male,Nashville,2024-09-11,458.7
+2372,Bella,25,Female,Los Angeles,2025-01-21,499.83
+2373,Thomas,41,Male,Washington DC,2025-02-07,607.08
+2374,Katherine,25,Female,San Diego,2024-12-17,488.65
+2375,Julia,18,Female,Milwaukee,2024-05-07,416.4
+2376,Emma,40,Female,Las Vegas,2023-10-05,276.63
+2377,Alice,30,Female,Detroit,2024-12-12,114.34
+2378,Maria,53,Female,Louisville,2024-04-12,920.25
+2379,Luna,37,Female,El Paso,2024-03-31,352.27
+2380,Henry,18,Male,Jacksonville,2025-04-25,423.58
+2381,Hannah,40,Female,Louisville,2025-01-22,877.37
+2382,Bella,28,Female,Jacksonville,2024-03-21,568.27
+2383,Nina,48,Female,Colorado Springs,2024-03-28,1505.03
+2384,Kevin,18,Male,Long Beach,2024-06-08,515.53
+2385,Fiona,19,Female,Portland,2024-06-04,449.8
+2386,Samuel,51,Male,Louisville,2024-03-18,757.57
+2387,Tina,43,Female,Denver,2023-11-16,174.38
+2388,Sophia,20,Female,San Antonio,2024-06-17,307.56
+2389,Frank,29,Male,San Antonio,2025-07-02,104.15
+2390,Frank,38,Male,Los Angeles,2024-12-22,50.0
+2391,Sophia,48,Female,Las Vegas,2025-06-04,299.88
+2392,George,26,Male,Tucson,2024-11-06,367.8
+2393,Sophia,55,Female,Long Beach,2024-03-21,1730.73
+2394,George,41,Male,Baltimore,2024-09-18,454.64
+2395,Katherine,37,Female,Atlanta,2023-08-15,136.77
+2396,Christopher,29,Male,Denver,2024-03-11,740.81
+2397,Emma,33,Female,Columbus,2024-06-24,389.46
+2398,Oliver,18,Male,Milwaukee,2024-10-11,370.84
+2399,Nina,46,Female,Portland,2024-12-05,50.0
+2400,Henry,21,Male,Fort Worth,2024-07-19,1122.22
+2401,Isabella,30,Female,San Diego,2024-07-03,381.71
+2402,Alice,36,Female,Milwaukee,2024-01-18,658.17
+2403,Emma,23,Female,Oklahoma City,2024-07-25,74.99
+2404,Alexander,42,Male,Nashville,2025-06-03,789.98
+2405,Oliver,44,Male,Fresno,2025-03-18,393.47
+2406,Samuel,24,Male,Seattle,2023-12-17,118.06
+2407,Wendy,35,Female,Indianapolis,2023-10-15,486.03
+2408,Thomas,18,Male,Las Vegas,2024-08-25,497.27
+2409,Zoe,28,Female,San Francisco,2024-11-19,233.22
+2410,Alexander,54,Male,Las Vegas,2024-04-16,706.95
+2411,Christopher,40,Male,New York,2025-04-04,441.45
+2412,Benjamin,30,Male,San Jose,2025-02-14,856.29
+2413,Bella,18,Female,Sacramento,2024-12-18,370.2
+2414,Rachel,35,Female,Boston,2024-01-26,190.02
+2415,William,54,Male,Austin,2024-01-07,1324.42
+2416,Olivia,20,Female,Louisville,2023-09-01,59.61
+2417,Patrick,22,Male,Kansas City,2024-02-09,131.56
+2418,Diana,38,Female,Fort Worth,2024-07-27,1570.76
+2419,Sophia,54,Female,Oklahoma City,2025-04-27,982.67
+2420,David,27,Male,Mesa,2023-10-07,799.9
+2421,Fiona,22,Female,Dallas,2024-06-12,595.94
+2422,Tina,44,Female,Portland,2024-11-17,156.4
+2423,Liam,34,Male,Oklahoma City,2024-01-04,1417.41
+2424,Victor,18,Male,Sacramento,2025-01-05,50.0
+2425,Kevin,34,Male,Louisville,2024-08-10,431.56
+2426,Oliver,30,Male,San Antonio,2024-02-09,389.29
+2427,Isaac,19,Male,Fresno,2024-12-06,606.79
+2428,Henry,60,Male,Mesa,2023-08-19,1146.97
+2429,Diana,35,Female,Indianapolis,2025-02-13,731.43
+2430,Nina,37,Female,Austin,2025-02-27,304.34
+2431,Victor,50,Male,Columbus,2023-10-31,592.39
+2432,Frank,44,Male,Philadelphia,2024-06-20,222.68
+2433,Benjamin,27,Male,Louisville,2023-12-21,615.17
+2434,Alexander,18,Male,Atlanta,2025-07-15,997.0
+2435,James,20,Male,Los Angeles,2024-08-27,82.3
+2436,Sophia,36,Female,Long Beach,2023-09-20,1095.2
+2437,Frank,30,Male,Mesa,2024-02-13,1034.12
+2438,Charlotte,49,Female,Los Angeles,2025-04-26,1698.24
+2439,Isaac,18,Male,Milwaukee,2024-07-13,499.24
+2440,Tina,37,Female,Detroit,2025-03-22,160.6
+2441,Liam,47,Male,San Francisco,2024-12-14,350.35
+2442,Victoria,40,Female,Charlotte,2025-08-06,1317.24
+2443,Thomas,35,Male,Fort Worth,2024-10-23,702.05
+2444,Maria,44,Female,San Francisco,2025-07-09,275.42
+2445,Charlotte,32,Female,Indianapolis,2025-05-27,473.47
+2446,Wendy,44,Female,Houston,2024-11-04,893.65
+2447,Robert,23,Male,Philadelphia,2025-01-21,272.06
+2448,James,41,Male,Los Angeles,2024-08-17,1248.87
+2449,Tina,18,Female,Atlanta,2025-04-13,322.98
+2450,George,50,Male,San Diego,2024-09-18,800.15
+2451,Hannah,18,Female,Colorado Springs,2025-05-31,178.3
+2452,Henry,36,Male,San Antonio,2025-02-08,409.68
+2453,James,40,Male,Denver,2024-07-26,533.99
+2454,Quinn,18,Male,Jacksonville,2024-02-20,128.58
+2455,Frank,23,Male,Phoenix,2024-02-11,384.78
+2456,Julia,46,Female,Nashville,2024-11-23,267.45
+2457,Nathan,44,Male,Oklahoma City,2025-02-24,289.64
+2458,George,28,Male,Tucson,2024-08-30,523.91
+2459,Benjamin,36,Male,Las Vegas,2024-11-15,525.81
+2460,Ethan,61,Male,Tucson,2024-03-02,556.39
+2461,Tina,30,Female,Phoenix,2023-10-10,238.7
+2462,Nathan,33,Male,Las Vegas,2024-03-10,557.75
+2463,Charlotte,43,Female,Boston,2024-02-29,730.17
+2464,Tina,44,Female,Baltimore,2024-04-04,334.52
+2465,Kevin,47,Male,Jacksonville,2024-09-12,838.2
+2466,Thomas,41,Male,New York,2023-11-24,360.8
+2467,Liam,35,Male,Mesa,2024-01-31,398.17
+2468,Tina,30,Female,Colorado Springs,2025-01-03,761.26
+2469,Christopher,37,Male,San Diego,2025-01-12,903.11
+2470,William,36,Male,Detroit,2023-09-30,1495.88
+2471,Isabella,50,Female,Virginia Beach,2024-06-07,431.8
+2472,Rachel,27,Female,Long Beach,2024-09-14,477.19
+2473,Alexander,49,Male,Austin,2024-06-13,993.44
+2474,Luna,39,Female,Indianapolis,2024-01-13,726.01
+2475,Henry,46,Male,Fort Worth,2024-06-17,392.35
+2476,Rachel,35,Female,Los Angeles,2025-06-06,417.39
+2477,Maria,24,Female,Los Angeles,2024-10-14,173.96
+2478,Luna,46,Female,Fresno,2025-01-04,229.76
+2479,James,40,Male,Columbus,2025-05-02,397.83
+2480,Bella,18,Female,San Diego,2025-02-24,98.58
+2481,Nathan,47,Male,Los Angeles,2024-05-19,422.1
+2482,Victor,21,Male,Dallas,2023-08-19,421.46
+2483,Oliver,32,Male,Philadelphia,2024-04-28,386.88
+2484,Isaac,18,Male,Seattle,2025-02-15,976.77
+2485,Robert,27,Male,Albuquerque,2025-04-29,518.93
+2486,Marcus,23,Male,Philadelphia,2025-07-11,1005.63
+2487,Alice,45,Female,Kansas City,2024-06-16,225.84
+2488,Victoria,45,Female,Denver,2025-02-11,732.39
+2489,Hannah,33,Female,Tucson,2024-09-17,103.07
+2490,Fiona,30,Female,Fresno,2024-10-28,207.06
+2491,Diana,41,Female,Fort Worth,2024-01-23,532.63
+2492,Quinn,31,Male,Jacksonville,2024-01-22,177.56
+2493,Marcus,32,Male,Seattle,2024-06-28,129.85
+2494,Diana,18,Female,San Antonio,2023-09-05,242.99
+2495,Penny,38,Female,Atlanta,2024-04-16,411.58
+2496,Thomas,29,Male,Austin,2024-12-23,204.27
+2497,Nathan,18,Male,Tucson,2024-06-05,774.01
+2498,Fiona,35,Female,Baltimore,2023-12-13,562.29
+2499,Fiona,34,Female,Colorado Springs,2024-07-21,499.15
+2500,Robert,18,Male,Boston,2023-11-16,162.03
+2501,Sophia,50,Female,San Antonio,2024-11-11,115.54
+2502,Rachel,28,Female,Portland,2023-09-03,883.28
+2503,Fiona,29,Female,Fort Worth,2024-05-29,153.82
+2504,Olivia,25,Female,Detroit,2024-09-30,58.69
+2505,Bella,40,Female,Phoenix,2023-09-03,942.36
+2506,Grace,31,Female,Austin,2024-11-26,50.0
+2507,Christopher,33,Male,Fresno,2023-11-22,173.79
+2508,Quinn,22,Male,Atlanta,2024-07-17,515.58
+2509,Emma,28,Female,Denver,2023-09-20,200.87
+2510,Rachel,38,Female,Sacramento,2024-05-18,506.61
+2511,Alice,50,Female,Oklahoma City,2024-01-16,438.56
+2512,Benjamin,37,Male,San Diego,2024-04-09,447.3
+2513,Liam,31,Male,Boston,2025-02-21,213.11
+2514,Fiona,24,Female,Jacksonville,2024-05-18,101.48
+2515,Alice,18,Female,San Francisco,2025-02-14,456.91
+2516,Ethan,24,Male,Columbus,2025-04-14,341.63
+2517,Wendy,18,Female,Nashville,2024-02-15,652.11
+2518,Bella,50,Female,San Jose,2023-10-13,252.48
+2519,Victor,36,Male,San Diego,2023-08-29,316.08
+2520,Alexander,33,Male,Boston,2024-09-12,293.59
+2521,Alexander,33,Male,El Paso,2025-08-14,514.15
+2522,Nathan,33,Male,Milwaukee,2024-04-26,306.51
+2523,Olivia,38,Female,Boston,2024-12-02,975.92
+2524,Oliver,28,Male,Kansas City,2025-03-08,119.11
+2525,Ethan,40,Male,Portland,2024-12-03,509.35
+2526,Samuel,45,Male,Colorado Springs,2025-02-16,355.65
+2527,Nathan,28,Male,Sacramento,2025-07-09,86.41
+2528,Nathan,50,Male,San Antonio,2024-01-07,1188.36
+2529,Nina,39,Female,Seattle,2023-08-29,394.71
+2530,Rachel,30,Female,Phoenix,2023-12-04,858.5
+2531,Olivia,18,Female,Las Vegas,2023-11-15,160.45
+2532,Zoe,51,Female,Louisville,2024-12-16,401.63
+2533,Victor,18,Male,Boston,2024-09-30,260.83
+2534,Marcus,44,Male,Fort Worth,2024-01-21,362.97
+2535,David,33,Male,Tucson,2025-01-07,229.13
+2536,Julia,18,Female,Chicago,2025-02-25,219.45
+2537,Robert,25,Male,Las Vegas,2023-12-15,158.06
+2538,Henry,34,Male,San Diego,2024-10-31,503.06
+2539,Grace,54,Female,Austin,2025-02-11,1236.4
+2540,Rachel,63,Female,Boston,2023-11-06,216.05
+2541,Penny,18,Female,Portland,2025-04-04,414.62
+2542,Patrick,33,Male,Mesa,2025-07-20,671.65
+2543,Benjamin,37,Male,Denver,2023-11-02,390.25
+2544,Benjamin,18,Male,Mesa,2023-09-02,498.33
+2545,Alexander,37,Male,Milwaukee,2024-03-30,557.29
+2546,Samuel,33,Male,Dallas,2024-12-22,337.63
+2547,Diana,43,Female,Chicago,2025-07-15,582.38
+2548,Maria,48,Female,Sacramento,2024-05-30,403.3
+2549,Christopher,51,Male,El Paso,2025-01-18,738.4
+2550,Victoria,31,Female,Los Angeles,2023-10-09,949.99
+2551,Ethan,55,Male,Albuquerque,2024-12-31,200.97
+2552,George,26,Male,Las Vegas,2024-11-15,862.38
+2553,Thomas,42,Male,Seattle,2023-10-28,263.35
+2554,Victor,27,Male,Detroit,2025-03-01,153.61
+2555,Diana,18,Female,Philadelphia,2025-04-27,287.97
+2556,Nina,24,Female,Boston,2024-10-26,1162.42
+2557,Julia,37,Female,Virginia Beach,2023-11-11,185.27
+2558,David,33,Male,Oklahoma City,2025-08-03,671.28
+2559,Thomas,40,Male,Milwaukee,2025-03-09,559.63
+2560,Julia,26,Female,San Diego,2024-04-24,736.27
+2561,Bella,44,Female,Virginia Beach,2024-06-23,64.46
+2562,George,45,Male,Los Angeles,2024-05-11,355.19
+2563,Oliver,25,Male,Houston,2024-08-18,71.14
+2564,Alexander,53,Male,Dallas,2024-04-20,363.02
+2565,George,45,Male,Boston,2025-04-27,435.56
+2566,Fiona,33,Female,Charlotte,2025-04-07,291.94
+2567,Kevin,19,Male,Philadelphia,2023-10-31,497.57
+2568,Marcus,57,Male,Nashville,2025-07-17,263.82
+2569,Maria,27,Female,New York,2024-11-21,576.08
+2570,David,18,Male,Indianapolis,2025-04-11,166.38
+2571,Christopher,57,Male,San Diego,2025-01-13,600.3
+2572,David,37,Male,Washington DC,2024-06-28,257.75
+2573,Ethan,39,Male,Indianapolis,2025-02-01,1764.11
+2574,William,50,Male,Virginia Beach,2025-07-20,292.88
+2575,Charlotte,21,Female,Seattle,2024-02-28,407.7
+2576,Kevin,36,Male,Dallas,2025-03-27,570.3
+2577,Penny,22,Female,Milwaukee,2024-09-11,293.61
+2578,Henry,65,Male,Dallas,2024-08-02,642.16
+2579,Victor,18,Male,San Jose,2024-06-28,229.25
+2580,Penny,41,Female,Las Vegas,2025-01-30,1362.53
+2581,Tina,25,Female,Baltimore,2024-02-27,555.66
+2582,Wendy,18,Female,San Diego,2025-04-28,50.0
+2583,Luna,35,Female,Sacramento,2025-04-13,363.2
+2584,Patrick,28,Male,Mesa,2023-10-17,1259.16
+2585,Isabella,39,Female,Tucson,2025-05-20,1603.85
+2586,Robert,39,Male,Boston,2024-02-09,50.0
+2587,Isabella,27,Female,Charlotte,2024-07-19,209.63
+2588,Frank,27,Male,Indianapolis,2024-11-03,153.16
+2589,Samuel,37,Male,Philadelphia,2024-05-18,970.47
+2590,Alice,32,Female,Kansas City,2023-09-04,299.66
+2591,Patrick,33,Male,Columbus,2025-04-28,1069.74
+2592,Ethan,57,Male,Phoenix,2023-12-25,308.65
+2593,Julia,31,Female,Houston,2024-01-17,510.83
+2594,Nathan,31,Male,New York,2025-03-20,1019.51
+2595,Wendy,44,Female,Columbus,2024-04-19,252.45
+2596,Hannah,60,Female,Portland,2025-05-19,223.91
+2597,Marcus,46,Male,Tucson,2025-01-08,789.73
+2598,George,34,Male,El Paso,2024-03-03,86.8
+2599,Nathan,38,Male,Atlanta,2023-08-22,567.15
+2600,Luna,48,Female,Fresno,2025-07-08,369.28
+2601,Victor,39,Male,Washington DC,2023-10-16,578.73
+2602,Hannah,28,Female,San Jose,2025-01-22,144.01
+2603,Katherine,37,Female,San Antonio,2024-08-06,279.34
+2604,Isaac,52,Male,Charlotte,2025-02-19,752.78
+2605,Bella,38,Female,Portland,2024-12-31,290.01
+2606,Grace,25,Female,Virginia Beach,2024-11-29,412.74
+2607,Katherine,38,Female,Fort Worth,2024-08-07,190.43
+2608,Diana,28,Female,Fort Worth,2025-03-16,77.07
+2609,Ethan,33,Male,Seattle,2023-10-22,425.01
+2610,Fiona,32,Female,Austin,2024-01-23,318.21
+2611,Zoe,31,Female,Washington DC,2025-01-01,268.47
+2612,Olivia,52,Female,San Antonio,2024-03-25,1223.02
+2613,James,32,Male,Milwaukee,2024-10-13,416.74
+2614,George,24,Male,San Diego,2024-07-25,810.37
+2615,Patrick,30,Male,Los Angeles,2024-09-06,443.24
+2616,Hannah,40,Female,Jacksonville,2024-06-21,405.8
+2617,Robert,37,Male,Los Angeles,2025-02-10,784.97
+2618,Isabella,44,Female,Sacramento,2024-04-12,726.6
+2619,Grace,27,Female,Detroit,2025-01-09,315.55
+2620,Quinn,27,Male,San Diego,2024-02-29,1004.95
+2621,Nina,45,Female,Philadelphia,2024-02-14,1105.4
+2622,Alice,29,Female,Louisville,2023-11-11,371.86
+2623,Nathan,37,Male,San Jose,2024-01-02,259.83
+2624,Diana,21,Female,Fresno,2023-11-10,1106.21
+2625,Fiona,18,Female,Fresno,2024-09-09,164.72
+2626,William,43,Male,Houston,2025-02-22,337.19
+2627,Grace,18,Female,Seattle,2023-12-28,131.12
+2628,Bella,18,Female,San Antonio,2024-01-20,732.29
+2629,David,37,Male,Portland,2024-08-02,1252.87
+2630,Fiona,47,Female,Fort Worth,2025-01-25,228.34
+2631,Samuel,54,Male,Fort Worth,2025-07-28,332.48
+2632,Diana,36,Female,Jacksonville,2024-09-01,397.1
+2633,Rachel,39,Female,Seattle,2024-03-08,555.9
+2634,Luna,40,Female,Colorado Springs,2023-10-27,645.86
+2635,Julia,38,Female,Sacramento,2024-01-03,303.87
+2636,Fiona,25,Female,San Antonio,2024-01-28,395.36
+2637,Zoe,46,Female,Houston,2023-12-24,422.77
+2638,Victoria,37,Female,San Francisco,2023-08-25,1131.27
+2639,Henry,35,Male,Charlotte,2024-09-08,581.58
+2640,Henry,48,Male,Houston,2024-03-02,460.93
+2641,Christopher,31,Male,Mesa,2025-07-27,279.04
+2642,Robert,33,Male,San Francisco,2024-09-22,1071.5
+2643,Ethan,29,Male,Long Beach,2025-01-05,154.99
+2644,George,19,Male,Seattle,2023-11-15,373.19
+2645,Oliver,56,Male,Virginia Beach,2025-05-10,333.46
+2646,Diana,23,Female,Oklahoma City,2024-08-07,724.67
+2647,Diana,29,Female,San Antonio,2025-05-13,450.92
+2648,Oliver,19,Male,Seattle,2024-10-07,1156.19
+2649,Julia,39,Female,Columbus,2024-07-23,528.55
+2650,Kevin,18,Male,Columbus,2024-07-01,1679.15
+2651,Alice,48,Female,Denver,2023-12-27,107.99
+2652,Rachel,35,Female,Denver,2023-09-21,707.46
+2653,Alexander,37,Male,San Antonio,2025-07-02,135.21
+2654,Liam,26,Male,Fresno,2024-07-29,414.69
+2655,Sophia,27,Female,Albuquerque,2025-04-06,292.6
+2656,Thomas,20,Male,San Francisco,2024-06-02,172.79
+2657,Kevin,21,Male,Boston,2023-10-08,357.83
+2658,Zoe,40,Female,Phoenix,2024-11-17,431.19
+2659,Kevin,41,Male,Jacksonville,2023-09-23,378.28
+2660,William,18,Male,Milwaukee,2023-12-02,489.53
+2661,James,18,Male,New York,2024-09-29,114.9
+2662,Wendy,30,Female,Albuquerque,2024-03-24,416.37
+2663,Fiona,49,Female,El Paso,2025-08-10,477.72
+2664,Benjamin,18,Male,Jacksonville,2023-11-09,477.12
+2665,Quinn,35,Male,Phoenix,2025-02-23,899.11
+2666,Kevin,27,Male,New York,2024-10-31,78.48
+2667,Rachel,20,Female,Detroit,2025-03-15,302.19
+2668,Isabella,53,Female,Atlanta,2024-01-26,75.9
+2669,Alexander,45,Male,Tucson,2024-08-31,233.9
+2670,Patrick,26,Male,Albuquerque,2024-07-09,435.33
+2671,Henry,61,Male,Chicago,2024-07-03,555.57
+2672,Benjamin,40,Male,Mesa,2025-05-04,451.57
+2673,Zoe,21,Female,Denver,2025-08-07,874.35
+2674,Oliver,42,Male,Sacramento,2024-03-25,435.69
+2675,Katherine,24,Female,Austin,2024-11-10,261.58
+2676,James,41,Male,San Antonio,2024-11-02,723.7
+2677,George,31,Male,Washington DC,2025-02-06,50.0
+2678,William,27,Male,Baltimore,2025-07-07,118.23
+2679,Julia,46,Female,Detroit,2024-01-13,104.4
+2680,Maria,20,Female,Indianapolis,2024-01-16,50.0
+2681,Wendy,33,Female,Tucson,2024-12-09,110.46
+2682,Quinn,18,Male,Nashville,2023-12-07,842.0
+2683,Hannah,46,Female,New York,2023-12-20,612.77
+2684,Alice,27,Female,Washington DC,2023-10-08,1161.42
+2685,William,42,Male,Sacramento,2023-08-16,456.66
+2686,Wendy,49,Female,Colorado Springs,2024-07-09,1074.78
+2687,Isabella,18,Female,San Diego,2024-10-22,246.67
+2688,Robert,26,Male,Sacramento,2024-03-14,284.73
+2689,Tina,18,Female,Los Angeles,2024-01-31,229.86
+2690,James,20,Male,Las Vegas,2025-01-12,195.05
+2691,Oliver,43,Male,San Jose,2025-01-09,147.23
+2692,Alice,24,Female,Tucson,2024-07-11,539.27
+2693,Benjamin,39,Male,San Francisco,2024-12-29,1018.8
+2694,Olivia,22,Female,Louisville,2025-06-20,354.5
+2695,Bella,30,Female,Columbus,2025-03-12,61.63
+2696,Frank,24,Male,Fort Worth,2024-11-13,184.63
+2697,Charlotte,47,Female,San Antonio,2024-12-10,298.48
+2698,Robert,18,Male,Long Beach,2025-06-27,488.67
+2699,Grace,21,Female,Sacramento,2024-06-20,500.8
+2700,Liam,53,Male,Indianapolis,2024-09-16,50.0
+2701,Zoe,31,Female,Detroit,2024-11-30,432.44
+2702,William,46,Male,Oklahoma City,2025-06-09,229.46
+2703,Penny,35,Female,Las Vegas,2025-04-10,50.0
+2704,Robert,34,Male,Washington DC,2023-10-06,50.0
+2705,Marcus,35,Male,Chicago,2023-12-14,167.71
+2706,Penny,33,Female,Sacramento,2024-03-26,579.67
+2707,William,43,Male,Virginia Beach,2025-02-12,654.87
+2708,Henry,41,Male,Louisville,2024-10-04,538.56
+2709,Hannah,25,Female,Mesa,2024-03-12,1293.95
+2710,Alice,46,Female,Denver,2023-11-13,329.64
+2711,Henry,35,Male,New York,2024-12-30,353.36
+2712,Julia,25,Female,San Jose,2025-01-07,130.11
+2713,Hannah,36,Female,San Jose,2025-07-04,238.21
+2714,Luna,40,Female,Denver,2024-08-14,50.0
+2715,Sophia,59,Female,Kansas City,2024-08-09,947.4
+2716,Wendy,39,Female,Austin,2023-10-12,275.48
+2717,Thomas,37,Male,Tucson,2023-09-13,345.58
+2718,Samuel,27,Male,Phoenix,2024-06-25,436.39
+2719,Samuel,42,Male,New York,2024-04-06,275.22
+2720,Hannah,39,Female,Chicago,2024-02-14,833.94
+2721,Nathan,18,Male,Denver,2023-10-20,496.29
+2722,Penny,33,Female,San Diego,2025-07-18,728.17
+2723,David,46,Male,Tucson,2025-04-17,993.94
+2724,Thomas,50,Male,New York,2024-10-08,418.82
+2725,Fiona,45,Female,Detroit,2025-07-10,817.04
+2726,Wendy,29,Female,New York,2025-08-14,187.04
+2727,David,34,Male,Indianapolis,2024-12-18,671.81
+2728,Isaac,34,Male,Detroit,2024-02-28,534.56
+2729,Samuel,18,Male,Fresno,2023-09-13,375.74
+2730,Wendy,37,Female,Kansas City,2025-02-17,963.86
+2731,James,21,Male,Philadelphia,2024-07-23,149.19
+2732,Robert,46,Male,San Jose,2024-12-03,565.31
+2733,Marcus,24,Male,Louisville,2025-06-14,643.99
+2734,Penny,38,Female,Philadelphia,2023-12-25,73.71
+2735,Samuel,18,Male,Charlotte,2024-10-15,671.33
+2736,Christopher,41,Male,Albuquerque,2024-11-21,927.77
+2737,Alice,31,Female,San Francisco,2024-08-08,503.35
+2738,Zoe,18,Female,Portland,2023-10-20,582.9
+2739,Fiona,43,Female,Oklahoma City,2024-04-25,393.85
+2740,George,49,Male,Indianapolis,2024-04-14,228.13
+2741,Thomas,36,Male,Colorado Springs,2024-12-16,119.73
+2742,Thomas,39,Male,Jacksonville,2025-05-03,833.65
+2743,Olivia,38,Female,Louisville,2024-04-12,482.27
+2744,Zoe,27,Female,Boston,2025-01-03,123.98
+2745,Penny,19,Female,Dallas,2024-03-12,634.77
+2746,Zoe,51,Female,Fort Worth,2025-07-05,743.17
+2747,Quinn,48,Male,Dallas,2025-03-31,196.06
+2748,Emma,30,Female,Kansas City,2024-09-20,703.97
+2749,Marcus,40,Male,Washington DC,2024-07-12,153.46
+2750,Thomas,40,Male,Philadelphia,2024-03-31,583.38
+2751,Thomas,50,Male,Mesa,2024-04-07,825.29
+2752,Tina,46,Female,Milwaukee,2025-07-24,267.24
+2753,Maria,44,Female,Jacksonville,2024-06-05,538.11
+2754,Charlotte,34,Female,Louisville,2024-08-25,135.02
+2755,George,38,Male,Dallas,2025-08-06,231.75
+2756,Luna,27,Female,Baltimore,2024-12-07,495.85
+2757,Victor,28,Male,Fresno,2024-09-14,120.31
+2758,Zoe,43,Female,Detroit,2024-06-12,833.13
+2759,Hannah,55,Female,Detroit,2023-12-30,354.52
+2760,Fiona,18,Female,Milwaukee,2024-05-05,154.14
+2761,Emma,18,Female,Las Vegas,2025-02-17,403.87
+2762,Hannah,32,Female,Los Angeles,2024-11-14,632.39
+2763,Nina,38,Female,Los Angeles,2025-02-20,376.94
+2764,Emma,40,Female,Philadelphia,2024-01-10,157.96
+2765,Isaac,47,Male,Virginia Beach,2024-09-19,280.97
+2766,Thomas,31,Male,San Francisco,2025-06-23,300.12
+2767,Penny,24,Female,Fresno,2024-06-30,132.21
+2768,Bella,41,Female,Dallas,2025-01-06,274.39
+2769,Sophia,47,Female,Long Beach,2023-11-11,1772.25
+2770,Olivia,39,Female,Denver,2025-07-26,96.95
+2771,David,44,Male,Oklahoma City,2024-11-02,850.62
+2772,Isaac,33,Male,Oklahoma City,2024-02-05,632.21
+2773,Wendy,24,Female,New York,2023-12-08,151.91
+2774,Hannah,44,Female,Sacramento,2024-09-20,521.01
+2775,Hannah,31,Female,Houston,2024-09-21,1060.12
+2776,Frank,18,Male,Houston,2023-10-22,58.08
+2777,Robert,27,Male,San Antonio,2025-08-09,358.66
+2778,William,33,Male,Colorado Springs,2025-06-12,327.45
+2779,George,34,Male,Denver,2024-07-17,494.4
+2780,Olivia,43,Female,Albuquerque,2023-11-08,916.88
+2781,William,23,Male,Houston,2025-04-14,854.23
+2782,Henry,18,Male,Atlanta,2024-08-13,221.72
+2783,Zoe,42,Female,Fresno,2025-01-19,1181.6
+2784,David,18,Male,Columbus,2024-08-20,214.57
+2785,Luna,45,Female,San Jose,2024-03-01,154.37
+2786,Nina,35,Female,Tucson,2025-04-16,676.84
+2787,Isaac,27,Male,Charlotte,2025-07-31,255.95
+2788,Zoe,29,Female,San Jose,2024-02-09,927.37
+2789,Thomas,20,Male,Washington DC,2024-09-20,1109.86
+2790,Alexander,30,Male,Tucson,2024-05-21,356.41
+2791,Sophia,37,Female,Fort Worth,2025-06-18,152.24
+2792,Henry,49,Male,Phoenix,2024-08-20,463.85
+2793,Alexander,47,Male,San Jose,2025-05-18,771.54
+2794,Rachel,51,Female,San Diego,2025-05-07,113.11
+2795,Luna,41,Female,San Antonio,2024-03-03,1144.88
+2796,Patrick,33,Male,Columbus,2025-03-14,504.21
+2797,George,50,Male,Albuquerque,2024-06-13,1470.19
+2798,Benjamin,18,Male,Fresno,2025-06-27,111.24
+2799,Grace,31,Female,Oklahoma City,2024-08-20,211.65
+2800,David,26,Male,San Diego,2025-04-05,359.36
+2801,Thomas,18,Male,Oklahoma City,2024-03-08,299.24
+2802,Isabella,47,Female,Jacksonville,2024-03-20,511.55
+2803,Patrick,31,Male,Long Beach,2024-10-17,319.94
+2804,Quinn,35,Male,Virginia Beach,2025-08-14,240.98
+2805,Zoe,55,Female,Baltimore,2024-08-06,799.12
+2806,Wendy,28,Female,Virginia Beach,2023-12-01,242.96
+2807,Henry,26,Male,Louisville,2024-09-11,291.97
+2808,James,49,Male,Los Angeles,2024-04-23,653.99
+2809,Liam,45,Male,San Jose,2024-09-21,109.67
+2810,Wendy,34,Female,San Francisco,2024-09-15,50.0
+2811,Kevin,18,Male,Fresno,2024-07-12,1075.96
+2812,Maria,30,Female,Fort Worth,2024-04-06,109.26
+2813,Isabella,34,Female,Albuquerque,2023-12-30,555.13
+2814,Samuel,32,Male,Denver,2025-01-05,391.23
+2815,Wendy,42,Female,San Antonio,2024-10-05,162.87
+2816,Penny,36,Female,Tucson,2024-02-01,544.28
+2817,Bella,25,Female,Seattle,2025-03-03,190.03
+2818,Diana,43,Female,Portland,2023-09-15,847.21
+2819,George,33,Male,Milwaukee,2025-02-09,562.45
+2820,Emma,18,Female,Louisville,2025-01-11,518.45
+2821,James,18,Male,Los Angeles,2025-03-30,96.52
+2822,Samuel,43,Male,Milwaukee,2024-05-23,755.64
+2823,Henry,48,Male,Mesa,2024-12-12,223.09
+2824,Charlotte,45,Female,New York,2025-04-05,880.93
+2825,Penny,25,Female,Washington DC,2025-07-31,137.14
+2826,Christopher,19,Male,Virginia Beach,2024-08-11,109.5
+2827,Grace,46,Female,Chicago,2023-09-11,766.48
+2828,Alice,40,Female,Dallas,2024-08-16,284.11
+2829,Hannah,36,Female,Milwaukee,2024-10-19,275.84
+2830,Robert,50,Male,New York,2025-05-11,247.11
+2831,Kevin,41,Male,Detroit,2025-05-15,349.72
+2832,Katherine,33,Female,Fresno,2024-07-01,1139.71
+2833,Nathan,27,Male,Detroit,2024-09-02,581.58
+2834,Luna,29,Female,Portland,2024-07-14,681.07
+2835,Katherine,63,Female,Phoenix,2025-01-24,1087.22
+2836,Liam,35,Male,San Jose,2024-06-09,341.65
+2837,Alice,47,Female,Mesa,2024-12-05,640.24
+2838,William,18,Male,Milwaukee,2023-12-05,1417.73
+2839,Isaac,37,Male,Seattle,2024-07-23,284.19
+2840,Wendy,33,Female,Washington DC,2025-07-23,973.82
+2841,Diana,22,Female,Phoenix,2024-04-18,538.32
+2842,Victoria,21,Female,Albuquerque,2025-01-02,439.87
+2843,Charlotte,25,Female,Albuquerque,2024-12-02,366.69
+2844,Rachel,44,Female,Jacksonville,2025-04-28,236.47
+2845,Olivia,35,Female,Fresno,2025-04-29,500.57
+2846,Wendy,28,Female,Sacramento,2025-05-04,455.52
+2847,Quinn,24,Male,Dallas,2024-05-18,414.33
+2848,Victor,42,Male,Atlanta,2024-04-02,345.22
+2849,Penny,28,Female,Detroit,2025-01-21,449.07
+2850,Penny,49,Female,Virginia Beach,2025-02-20,262.86
+2851,Diana,19,Female,Phoenix,2025-05-13,500.92
+2852,Christopher,38,Male,Los Angeles,2023-09-10,983.73
+2853,Kevin,20,Male,Charlotte,2023-10-04,328.44
+2854,George,30,Male,San Antonio,2024-11-18,461.58
+2855,Julia,42,Female,Albuquerque,2025-06-18,389.96
+2856,Victor,47,Male,Charlotte,2025-08-13,299.43
+2857,Patrick,21,Male,San Antonio,2025-02-10,251.85
+2858,Liam,49,Male,Portland,2024-06-27,2399.84
+2859,Emma,31,Female,Phoenix,2023-10-25,424.96
+2860,David,52,Male,Virginia Beach,2024-11-20,372.64
+2861,Quinn,30,Male,San Diego,2025-05-13,160.34
+2862,Christopher,28,Male,Phoenix,2024-07-04,560.56
+2863,Grace,18,Female,Nashville,2025-01-03,170.87
+2864,Rachel,18,Female,Los Angeles,2025-06-05,79.51
+2865,Liam,26,Male,Boston,2023-09-17,1206.53
+2866,George,31,Male,Baltimore,2025-03-18,927.62
+2867,Charlotte,29,Female,Dallas,2024-03-16,109.58
+2868,Tina,38,Female,Mesa,2024-05-15,556.12
+2869,Nina,32,Female,Fort Worth,2023-11-29,193.87
+2870,Marcus,48,Male,Indianapolis,2024-09-06,406.56
+2871,Julia,32,Female,Baltimore,2024-10-01,640.29
+2872,Zoe,32,Female,Denver,2025-03-16,694.91
+2873,Oliver,22,Male,Fort Worth,2023-12-17,293.66
+2874,Kevin,36,Male,Louisville,2023-10-11,721.82
+2875,Luna,42,Female,Fort Worth,2025-05-12,193.35
+2876,Frank,29,Male,Atlanta,2024-11-10,922.29
+2877,Benjamin,27,Male,San Antonio,2024-02-07,352.75
+2878,Nathan,24,Male,Chicago,2025-06-12,712.32
+2879,Isaac,41,Male,New York,2023-11-27,239.84
+2880,Bella,31,Female,Las Vegas,2024-07-17,251.82
+2881,Olivia,40,Female,Long Beach,2024-02-16,386.54
+2882,Ethan,27,Male,El Paso,2024-02-17,429.85
+2883,Liam,45,Male,Sacramento,2023-08-21,1007.87
+2884,Julia,31,Female,Fort Worth,2025-03-25,441.16
+2885,Nathan,26,Male,Mesa,2025-06-03,91.63
+2886,Isabella,18,Female,Fresno,2024-12-22,255.96
+2887,Alice,36,Female,Detroit,2023-12-08,299.31
+2888,Sophia,35,Female,Kansas City,2024-07-02,979.73
+2889,Isaac,20,Male,Phoenix,2024-04-23,443.04
+2890,Grace,45,Female,Louisville,2024-10-17,79.73
+2891,Tina,26,Female,Portland,2024-11-24,707.32
+2892,Ethan,40,Male,Mesa,2024-06-20,221.94
+2893,Frank,24,Male,Dallas,2024-02-13,565.17
+2894,Luna,29,Female,Washington DC,2025-04-23,502.08
+2895,George,25,Male,San Diego,2024-01-07,1161.45
+2896,Julia,26,Female,Charlotte,2024-05-22,474.41
+2897,David,25,Male,Colorado Springs,2024-08-02,121.12
+2898,Maria,34,Female,El Paso,2024-02-04,253.76
+2899,Benjamin,18,Male,Charlotte,2024-10-06,121.83
+2900,Samuel,29,Male,Indianapolis,2024-10-08,504.17
+2901,Charlotte,22,Female,Detroit,2025-08-09,226.95
+2902,Ethan,24,Male,Austin,2024-03-17,608.59
+2903,Samuel,38,Male,Phoenix,2025-07-29,177.22
+2904,Maria,50,Female,Mesa,2024-12-08,136.31
+2905,Patrick,37,Male,Sacramento,2024-03-02,615.12
+2906,Sophia,47,Female,Fresno,2024-10-01,1320.59
+2907,Thomas,38,Male,Oklahoma City,2024-12-28,141.34
+2908,Sophia,39,Female,Houston,2025-02-09,274.64
+2909,Maria,37,Female,San Diego,2023-09-19,316.99
+2910,Penny,22,Female,Albuquerque,2024-10-31,741.14
+2911,Quinn,18,Male,Los Angeles,2024-08-12,678.88
+2912,Christopher,40,Male,El Paso,2025-06-05,380.61
+2913,Emma,49,Female,Indianapolis,2024-03-11,395.84
+2914,Marcus,27,Male,El Paso,2025-03-20,530.39
+2915,David,32,Male,Dallas,2024-10-31,1503.7
+2916,Nathan,49,Male,Kansas City,2024-04-28,259.79
+2917,William,18,Male,Houston,2024-11-22,474.77
+2918,Patrick,29,Male,Tucson,2024-11-10,655.95
+2919,Ethan,46,Male,Mesa,2024-12-22,892.58
+2920,Sophia,37,Female,Chicago,2025-01-22,377.74
+2921,Alice,41,Female,Phoenix,2024-12-08,608.69
+2922,Emma,33,Female,Colorado Springs,2025-04-18,208.52
+2923,Sophia,32,Female,Philadelphia,2024-11-16,785.44
+2924,Nina,26,Female,Albuquerque,2025-06-05,899.0
+2925,Isaac,34,Male,Seattle,2024-11-29,50.0
+2926,Christopher,23,Male,San Antonio,2024-03-27,968.31
+2927,Christopher,36,Male,Tucson,2024-07-02,1516.84
+2928,Katherine,38,Female,Charlotte,2024-10-11,514.73
+2929,Victoria,33,Female,Detroit,2025-01-31,1221.39
+2930,Fiona,46,Female,Albuquerque,2023-10-19,596.21
+2931,Thomas,63,Male,Charlotte,2024-03-17,315.82
+2932,Benjamin,32,Male,Houston,2025-02-11,339.39
+2933,Benjamin,41,Male,Fort Worth,2023-12-21,607.85
+2934,Maria,56,Female,Colorado Springs,2023-11-19,976.98
+2935,Charlotte,24,Female,Los Angeles,2024-09-12,319.4
+2936,Nina,18,Female,Albuquerque,2025-07-25,498.52
+2937,David,19,Male,Portland,2024-09-06,270.29
+2938,Charlotte,49,Female,Dallas,2025-06-12,1154.09
+2939,Fiona,43,Female,Louisville,2025-04-13,251.42
+2940,Nina,35,Female,Dallas,2024-02-18,1586.05
+2941,Henry,34,Male,Baltimore,2025-04-08,196.26
+2942,Henry,18,Male,Virginia Beach,2024-08-01,63.71
+2943,Bella,22,Female,Detroit,2025-03-26,228.68
+2944,Marcus,40,Male,El Paso,2025-02-10,792.69
+2945,Fiona,43,Female,Houston,2024-04-18,691.32
+2946,Patrick,37,Male,Charlotte,2023-11-07,884.36
+2947,Frank,61,Male,Atlanta,2025-07-18,246.55
+2948,Alexander,24,Male,Charlotte,2023-11-25,801.68
+2949,Emma,32,Female,Long Beach,2025-07-21,169.81
+2950,Olivia,34,Female,Chicago,2025-05-04,55.77
+2951,Alexander,48,Male,San Francisco,2025-01-25,373.41
+2952,David,32,Male,Phoenix,2025-07-31,424.14
+2953,David,20,Male,Dallas,2025-07-22,108.86
+2954,Grace,46,Female,Jacksonville,2025-03-25,301.45
+2955,Samuel,30,Male,Chicago,2024-05-08,114.74
+2956,Victor,36,Male,Detroit,2025-03-14,451.35
+2957,Rachel,34,Female,San Francisco,2023-08-25,585.37
+2958,Samuel,29,Male,Dallas,2024-09-10,75.39
+2959,Rachel,42,Female,Oklahoma City,2024-07-12,95.96
+2960,Isabella,53,Female,San Diego,2024-12-18,490.25
+2961,Wendy,23,Female,Phoenix,2024-12-18,385.05
+2962,Ethan,18,Male,Indianapolis,2024-10-15,399.28
+2963,Maria,46,Female,Columbus,2025-04-07,218.93
+2964,Julia,34,Female,Detroit,2025-07-02,193.76
+2965,Oliver,18,Male,Baltimore,2023-11-02,1161.42
+2966,Thomas,19,Male,Nashville,2024-02-01,184.21
+2967,Nina,25,Female,Denver,2023-09-02,452.61
+2968,Victoria,43,Female,San Francisco,2025-05-22,877.62
+2969,Luna,37,Female,Seattle,2024-09-28,439.47
+2970,Victor,35,Male,Long Beach,2025-06-14,636.11
+2971,Katherine,22,Female,San Antonio,2024-01-23,419.34
+2972,David,63,Male,Detroit,2023-09-30,454.06
+2973,Emma,34,Female,Virginia Beach,2025-04-08,95.58
+2974,Julia,20,Female,Seattle,2025-06-09,50.0
+2975,Frank,18,Male,Columbus,2024-03-22,653.9
+2976,Isaac,31,Male,Sacramento,2024-06-08,178.4
+2977,Oliver,43,Male,Washington DC,2023-11-25,276.49
+2978,Nina,34,Female,Columbus,2025-07-06,171.59
+2979,Henry,36,Male,Nashville,2024-03-24,477.7
+2980,James,30,Male,Chicago,2024-08-09,438.9
+2981,Patrick,39,Male,Baltimore,2023-10-25,673.68
+2982,Victoria,41,Female,Milwaukee,2025-05-24,265.88
+2983,Henry,26,Male,Los Angeles,2023-11-22,240.65
+2984,Julia,29,Female,Chicago,2024-07-11,817.27
+2985,Robert,45,Male,Seattle,2024-12-17,471.93
+2986,Penny,44,Female,Portland,2025-02-08,140.27
+2987,Thomas,62,Male,Philadelphia,2025-07-06,212.94
+2988,David,34,Male,Seattle,2024-06-16,68.76
+2989,Sophia,36,Female,Portland,2025-02-07,2084.95
+2990,Julia,18,Female,Los Angeles,2023-12-05,216.4
+2991,Charlotte,33,Female,Portland,2024-06-13,422.0
+2992,Grace,24,Female,Chicago,2023-10-26,1053.8
+2993,Oliver,25,Male,Columbus,2024-08-06,133.82
+2994,Charlotte,21,Female,Jacksonville,2024-06-08,447.15
+2995,Wendy,41,Female,Louisville,2025-07-10,1184.61
+2996,Maria,53,Female,Houston,2023-09-07,63.28
+2997,Wendy,37,Female,Washington DC,2024-05-11,303.96
+2998,Christopher,25,Male,Long Beach,2024-07-04,99.9
+2999,Alice,30,Female,Los Angeles,2025-07-09,398.89
+3000,Rachel,25,Female,El Paso,2025-05-01,50.0
+3001,Quinn,41,Male,Atlanta,2023-10-26,299.26
+3002,Nathan,24,Male,Los Angeles,2024-12-28,78.1
+3003,William,24,Male,Virginia Beach,2024-09-16,695.21
+3004,Fiona,38,Female,Louisville,2025-07-29,321.05
+3005,David,63,Male,San Antonio,2024-05-03,978.23
+3006,Nina,36,Female,Portland,2024-06-01,1080.58
+3007,Zoe,36,Female,Denver,2023-12-31,172.08
+3008,Maria,44,Female,Milwaukee,2023-11-12,363.79
+3009,Fiona,38,Female,Mesa,2025-04-25,249.55
+3010,Olivia,35,Female,Sacramento,2024-07-12,350.87
+3011,Quinn,23,Male,Austin,2024-12-11,839.92
+3012,Charlotte,37,Female,Milwaukee,2024-11-26,621.5
+3013,Patrick,46,Male,Dallas,2024-10-24,235.98
+3014,Alexander,55,Male,Seattle,2023-08-30,711.76
+3015,Zoe,59,Female,Seattle,2025-03-12,751.33
+3016,Frank,31,Male,San Francisco,2024-02-09,396.69
+3017,Maria,24,Female,Denver,2023-11-15,404.94
+3018,William,52,Male,Mesa,2024-09-30,284.63
+3019,Diana,18,Female,Chicago,2023-10-04,495.34
+3020,Sophia,42,Female,Seattle,2025-02-24,171.48
+3021,Bella,28,Female,Seattle,2024-01-13,93.65
+3022,Wendy,28,Female,Indianapolis,2024-01-19,299.89
+3023,Victoria,26,Female,Colorado Springs,2025-05-11,50.0
+3024,Alexander,26,Male,San Diego,2024-04-11,488.72
+3025,Thomas,40,Male,Mesa,2023-11-30,275.07
+3026,Wendy,40,Female,Boston,2025-06-03,800.73
+3027,Quinn,28,Male,Jacksonville,2023-08-17,582.37
+3028,Grace,46,Female,Milwaukee,2025-05-03,964.07
+3029,Benjamin,66,Male,Baltimore,2023-11-28,865.45
+3030,Alexander,30,Male,Milwaukee,2023-11-18,104.87
+3031,Christopher,19,Male,Detroit,2024-02-14,612.9
+3032,Isabella,22,Female,Kansas City,2023-12-20,1138.36
+3033,Nathan,39,Male,Las Vegas,2024-12-10,875.46
+3034,David,28,Male,Atlanta,2023-09-02,1232.52
+3035,Frank,40,Male,Seattle,2023-08-25,364.37
+3036,Sophia,18,Female,Kansas City,2025-03-14,335.8
+3037,Victor,44,Male,Phoenix,2024-02-04,834.37
+3038,Grace,23,Female,Jacksonville,2024-04-07,314.66
+3039,Quinn,47,Male,Seattle,2023-12-20,116.73
+3040,Quinn,30,Male,Tucson,2023-09-22,360.63
+3041,Isaac,49,Male,Charlotte,2025-02-07,352.4
+3042,Tina,27,Female,Jacksonville,2024-09-02,86.17
+3043,James,32,Male,Virginia Beach,2025-02-10,154.17
+3044,Victoria,29,Female,Houston,2024-07-28,824.47
+3045,Oliver,37,Male,San Diego,2025-03-05,77.0
+3046,Victoria,26,Female,Chicago,2024-08-24,240.51
+3047,Liam,31,Male,Fresno,2023-11-02,1018.41
+3048,Grace,32,Female,Atlanta,2024-08-17,206.24
+3049,Victor,29,Male,Chicago,2025-07-06,634.71
+3050,Nina,26,Female,Charlotte,2023-09-15,325.93
+3051,David,44,Male,Indianapolis,2025-03-09,526.71
+3052,Quinn,45,Male,Los Angeles,2025-05-09,70.83
+3053,Zoe,28,Female,Detroit,2024-08-30,466.72
+3054,Maria,34,Female,Chicago,2024-07-14,333.17
+3055,Rachel,18,Female,San Francisco,2025-07-19,643.31
+3056,Alice,24,Female,San Antonio,2023-09-28,478.0
+3057,Ethan,48,Male,Fresno,2024-07-30,227.32
+3058,Grace,18,Female,San Diego,2024-06-03,286.72
+3059,Katherine,35,Female,Phoenix,2024-12-28,171.65
+3060,Patrick,32,Male,Columbus,2024-08-07,309.43
+3061,Victor,51,Male,Mesa,2025-06-09,326.29
+3062,Bella,18,Female,Las Vegas,2023-10-07,193.39
+3063,Ethan,21,Male,Louisville,2023-10-13,384.32
+3064,Samuel,33,Male,San Jose,2024-11-01,1268.99
+3065,Benjamin,42,Male,Boston,2023-10-02,314.29
+3066,Rachel,42,Female,Nashville,2024-03-03,178.42
+3067,William,45,Male,Las Vegas,2024-11-19,442.75
+3068,Victoria,30,Female,Nashville,2024-09-18,153.64
+3069,Isabella,19,Female,Denver,2024-04-08,50.0
+3070,Sophia,48,Female,Los Angeles,2025-08-11,93.38
+3071,Kevin,37,Male,Nashville,2024-09-05,703.13
+3072,Christopher,35,Male,Denver,2024-07-11,207.25
+3073,James,20,Male,Atlanta,2024-10-30,248.15
+3074,Benjamin,35,Male,San Antonio,2023-10-26,713.21
+3075,Rachel,18,Female,Columbus,2025-01-09,709.76
+3076,Victor,18,Male,Fresno,2025-04-29,246.08
+3077,Katherine,25,Female,Atlanta,2024-12-02,658.6
+3078,Alice,27,Female,Columbus,2025-02-27,136.36
+3079,Charlotte,28,Female,Atlanta,2025-01-22,121.19
+3080,Christopher,18,Male,San Jose,2024-01-19,653.78
+3081,Charlotte,32,Female,Philadelphia,2024-07-10,652.64
+3082,Ethan,18,Male,Charlotte,2024-01-29,266.13
+3083,Olivia,36,Female,Fresno,2024-04-18,331.66
+3084,Olivia,40,Female,Kansas City,2024-07-11,574.27
+3085,Emma,39,Female,Long Beach,2024-06-14,420.72
+3086,Henry,26,Male,Sacramento,2023-10-23,182.33
+3087,David,44,Male,Colorado Springs,2024-06-21,385.21
+3088,Isabella,43,Female,Sacramento,2024-12-13,379.23
+3089,Luna,38,Female,Baltimore,2024-05-14,114.21
+3090,Victor,33,Male,Seattle,2023-12-04,301.8
+3091,Marcus,46,Male,Mesa,2025-06-19,1003.34
+3092,Samuel,33,Male,San Francisco,2023-10-03,216.57
+3093,William,34,Male,San Francisco,2025-04-14,589.86
+3094,Bella,34,Female,Charlotte,2023-10-22,1293.51
+3095,Hannah,38,Female,Boston,2023-10-24,577.61
+3096,Henry,36,Male,San Francisco,2025-02-05,236.37
+3097,Grace,30,Female,Las Vegas,2025-03-30,235.33
+3098,Bella,18,Female,Philadelphia,2024-09-24,101.09
+3099,Alice,29,Female,Kansas City,2024-10-16,803.94
+3100,Katherine,49,Female,Phoenix,2024-09-28,937.45
+3101,Bella,18,Female,Albuquerque,2024-04-11,619.4
+3102,Rachel,18,Female,Charlotte,2023-11-12,756.37
+3103,Grace,30,Female,Las Vegas,2024-04-29,831.93
+3104,Oliver,18,Male,Mesa,2024-12-13,295.59
+3105,Isaac,33,Male,Long Beach,2025-02-13,215.63
+3106,Patrick,53,Male,Las Vegas,2025-05-10,308.19
+3107,Zoe,36,Female,Atlanta,2025-01-23,103.59
+3108,Wendy,38,Female,Dallas,2025-07-22,452.12
+3109,Rachel,22,Female,Indianapolis,2024-10-26,50.0
+3110,Samuel,25,Male,El Paso,2024-04-28,198.64
+3111,Victor,36,Male,San Diego,2024-10-10,684.13
+3112,Frank,31,Male,Las Vegas,2024-01-17,700.79
+3113,Emma,41,Female,Fresno,2024-12-07,652.99
+3114,James,42,Male,Mesa,2024-01-25,50.0
+3115,Julia,26,Female,Fort Worth,2023-11-02,241.91
+3116,Liam,27,Male,Milwaukee,2025-04-23,624.68
+3117,Alexander,48,Male,Austin,2024-05-09,489.3
+3118,Henry,32,Male,Las Vegas,2025-02-22,214.04
+3119,Quinn,50,Male,Kansas City,2024-10-07,541.97
+3120,Isabella,40,Female,San Antonio,2025-03-27,935.8
+3121,Isaac,22,Male,Chicago,2025-04-23,243.21
+3122,Fiona,42,Female,Los Angeles,2025-07-27,73.41
+3123,Kevin,49,Male,Phoenix,2025-04-04,361.54
+3124,Isaac,55,Male,Fresno,2024-11-05,50.0
+3125,Luna,29,Female,Portland,2024-11-26,903.88
+3126,Fiona,52,Female,Detroit,2023-09-03,292.06
+3127,Isaac,34,Male,Oklahoma City,2025-06-24,86.99
+3128,Nina,44,Female,San Francisco,2025-04-12,419.23
+3129,Samuel,22,Male,San Diego,2024-02-26,381.0
+3130,William,39,Male,El Paso,2023-12-24,385.95
+3131,Penny,35,Female,Colorado Springs,2025-01-09,634.79
+3132,Sophia,29,Female,San Antonio,2024-03-27,531.23
+3133,Christopher,34,Male,Phoenix,2024-04-19,276.01
+3134,Alice,29,Female,Baltimore,2023-08-19,161.12
+3135,Emma,26,Female,Baltimore,2025-05-11,388.14
+3136,Fiona,38,Female,Denver,2024-10-01,126.03
+3137,Isabella,54,Female,Dallas,2024-06-02,672.71
+3138,Liam,30,Male,Atlanta,2023-11-26,1173.24
+3139,Katherine,49,Female,Philadelphia,2024-11-19,1228.8
+3140,James,37,Male,New York,2023-09-06,696.26
+3141,Penny,48,Female,Atlanta,2025-02-10,71.53
+3142,Bella,18,Female,Milwaukee,2024-01-19,616.11
+3143,Charlotte,32,Female,Boston,2024-06-16,806.21
+3144,Grace,32,Female,Jacksonville,2024-04-20,726.32
+3145,Katherine,45,Female,Atlanta,2024-05-11,485.6
+3146,Robert,37,Male,San Antonio,2025-01-23,279.9
+3147,Oliver,47,Male,Washington DC,2025-03-04,453.17
+3148,Julia,25,Female,El Paso,2024-10-02,357.69
+3149,David,39,Male,Mesa,2023-10-16,429.33
+3150,Luna,58,Female,Sacramento,2023-09-22,394.72
+3151,Penny,55,Female,Fresno,2023-12-08,504.86
+3152,Fiona,52,Female,Denver,2024-11-08,988.32
+3153,Victor,26,Male,Portland,2024-12-19,655.8
+3154,Victor,46,Male,Jacksonville,2024-02-29,874.74
+3155,James,60,Male,Chicago,2024-12-10,197.18
+3156,Nathan,31,Male,Louisville,2024-08-04,592.82
+3157,Luna,18,Female,Seattle,2024-07-03,870.76
+3158,Olivia,54,Female,Virginia Beach,2024-03-01,786.37
+3159,Victor,52,Male,San Antonio,2025-02-16,849.97
+3160,Alice,18,Female,Denver,2023-11-06,306.09
+3161,Kevin,47,Male,San Diego,2024-06-24,455.3
+3162,Samuel,30,Male,Seattle,2024-03-09,504.6
+3163,Julia,35,Female,Baltimore,2024-12-22,92.47
+3164,Oliver,51,Male,Austin,2024-08-04,331.56
+3165,Samuel,18,Male,Indianapolis,2024-12-14,799.74
+3166,Rachel,49,Female,San Antonio,2023-09-17,1933.39
+3167,Oliver,19,Male,Seattle,2024-05-29,368.05
+3168,James,21,Male,San Antonio,2024-10-26,381.89
+3169,Nathan,23,Male,Kansas City,2023-08-20,320.24
+3170,Katherine,28,Female,Austin,2024-03-22,217.52
+3171,Benjamin,50,Male,Colorado Springs,2024-01-16,341.15
+3172,Christopher,28,Male,Long Beach,2023-11-23,223.7
+3173,Maria,38,Female,Fort Worth,2024-02-17,177.93
+3174,Alexander,38,Male,Tucson,2024-04-10,498.98
+3175,Benjamin,30,Male,Nashville,2023-08-20,239.31
+3176,Nathan,33,Male,Denver,2025-02-11,367.78
+3177,Olivia,35,Female,Louisville,2023-12-21,273.95
+3178,Grace,63,Female,Sacramento,2024-05-18,342.94
+3179,Isaac,25,Male,Milwaukee,2025-01-10,1161.76
+3180,Samuel,18,Male,San Diego,2024-08-14,423.91
+3181,Henry,45,Male,Baltimore,2025-04-15,545.45
+3182,Fiona,39,Female,Tucson,2025-03-26,493.71
+3183,Quinn,40,Male,Philadelphia,2023-10-06,398.14
+3184,Isaac,27,Male,Seattle,2025-05-05,359.42
+3185,Wendy,29,Female,San Diego,2023-09-14,1343.71
+3186,Alice,41,Female,Philadelphia,2023-08-28,198.1
+3187,Oliver,29,Male,Phoenix,2025-06-18,109.79
+3188,Victor,18,Male,Austin,2025-05-06,112.31
+3189,Katherine,33,Female,El Paso,2024-10-08,410.1
+3190,Robert,30,Male,Milwaukee,2024-10-07,641.01
+3191,Tina,41,Female,Fresno,2025-01-14,1040.29
+3192,Zoe,20,Female,Phoenix,2024-06-15,531.95
+3193,Victor,18,Male,Chicago,2023-11-07,509.29
+3194,Fiona,40,Female,San Antonio,2023-08-30,849.54
+3195,Luna,34,Female,Boston,2024-04-08,180.84
+3196,Marcus,18,Male,Kansas City,2025-03-22,266.42
+3197,Wendy,32,Female,Chicago,2024-11-08,151.33
+3198,Tina,46,Female,New York,2025-04-14,230.78
+3199,Patrick,35,Male,Dallas,2025-06-17,524.61
+3200,Penny,27,Female,Portland,2023-10-18,372.02
+3201,Oliver,36,Male,Fort Worth,2025-04-23,288.62
+3202,Quinn,18,Male,Albuquerque,2024-02-08,1944.91
+3203,James,43,Male,Tucson,2024-10-18,208.93
+3204,Liam,18,Male,Tucson,2024-09-01,450.92
+3205,Samuel,35,Male,Dallas,2024-05-30,702.54
+3206,Marcus,45,Male,Philadelphia,2024-03-28,145.0
+3207,Luna,33,Female,Columbus,2024-04-19,652.73
+3208,Alexander,68,Male,Louisville,2024-04-14,50.0
+3209,Ethan,18,Male,Tucson,2023-12-15,333.99
+3210,Nina,40,Female,Virginia Beach,2024-08-22,2521.08
+3211,Nathan,31,Male,Jacksonville,2023-11-06,589.76
+3212,Christopher,43,Male,Las Vegas,2024-08-21,985.0
+3213,Quinn,36,Male,Virginia Beach,2025-06-07,331.39
+3214,Charlotte,18,Female,Atlanta,2024-04-26,770.26
+3215,Patrick,52,Male,Detroit,2025-01-27,193.11
+3216,Isabella,38,Female,Sacramento,2025-04-04,50.0
+3217,Wendy,43,Female,Jacksonville,2025-04-01,359.74
+3218,Thomas,24,Male,Charlotte,2024-02-03,411.47
+3219,Samuel,38,Male,Tucson,2023-11-30,272.37
+3220,Julia,31,Female,Oklahoma City,2024-01-06,263.57
+3221,Rachel,18,Female,Detroit,2024-10-28,54.22
+3222,Maria,38,Female,Albuquerque,2025-02-20,143.26
+3223,Samuel,44,Male,San Antonio,2024-12-06,691.77
+3224,Oliver,56,Male,San Diego,2023-12-22,174.11
+3225,Samuel,27,Male,Las Vegas,2025-03-01,85.08
+3226,Grace,57,Female,Boston,2024-08-10,837.2
+3227,Patrick,28,Male,Louisville,2025-02-16,50.0
+3228,Henry,39,Male,Jacksonville,2025-02-20,474.53
+3229,Hannah,29,Female,Boston,2024-07-08,178.11
+3230,Wendy,53,Female,San Diego,2025-06-20,50.0
+3231,Alice,28,Female,Oklahoma City,2024-09-30,793.34
+3232,Isaac,19,Male,Albuquerque,2024-11-21,256.39
+3233,Julia,18,Female,Colorado Springs,2024-11-13,294.32
+3234,Emma,37,Female,San Francisco,2025-05-07,215.12
+3235,Benjamin,30,Male,Denver,2024-11-15,103.49
+3236,Robert,49,Male,Fresno,2023-12-03,102.63
+3237,Nathan,39,Male,Las Vegas,2023-10-03,524.51
+3238,David,22,Male,Kansas City,2024-07-03,596.81
+3239,Victor,18,Male,Indianapolis,2024-03-23,96.9
+3240,Zoe,29,Female,Boston,2024-03-02,314.11
+3241,Emma,18,Female,Oklahoma City,2023-09-25,88.44
+3242,Grace,49,Female,Louisville,2024-08-19,1301.31
+3243,Diana,35,Female,Indianapolis,2024-03-28,923.45
+3244,David,60,Male,Seattle,2024-07-10,506.09
+3245,Julia,33,Female,Charlotte,2023-09-25,954.26
+3246,William,32,Male,Chicago,2025-04-13,132.82
+3247,Thomas,55,Male,Baltimore,2023-10-10,251.72
+3248,Emma,36,Female,Charlotte,2025-05-07,522.97
+3249,Olivia,32,Female,Austin,2025-05-01,163.0
+3250,Maria,48,Female,Columbus,2024-11-06,525.62
+3251,Tina,42,Female,San Diego,2024-08-19,161.93
+3252,Sophia,36,Female,Virginia Beach,2024-07-18,161.55
+3253,William,18,Male,Dallas,2024-09-23,160.5
+3254,Rachel,38,Female,Long Beach,2025-03-15,175.78
+3255,Benjamin,23,Male,Los Angeles,2025-05-30,161.43
+3256,Charlotte,33,Female,Philadelphia,2024-07-08,263.84
+3257,William,55,Male,Detroit,2025-03-28,616.45
+3258,Nina,51,Female,Phoenix,2024-12-03,1422.87
+3259,Victoria,19,Female,Houston,2024-04-06,638.46
+3260,Luna,31,Female,Columbus,2024-07-27,288.43
+3261,Bella,40,Female,Long Beach,2023-12-03,862.36
+3262,Marcus,21,Male,Austin,2023-09-29,70.26
+3263,Maria,36,Female,Oklahoma City,2023-10-29,478.51
+3264,Oliver,43,Male,Denver,2025-06-02,251.71
+3265,Kevin,33,Male,Nashville,2024-04-22,656.97
+3266,William,61,Male,Las Vegas,2025-01-18,292.59
+3267,Nathan,35,Male,Kansas City,2024-08-17,110.88
+3268,Patrick,42,Male,New York,2023-12-19,851.49
+3269,Christopher,39,Male,Los Angeles,2024-02-12,281.58
+3270,Luna,33,Female,San Antonio,2024-06-30,304.07
+3271,Katherine,40,Female,Oklahoma City,2024-07-01,257.34
+3272,Julia,38,Female,Chicago,2024-08-31,138.75
+3273,Kevin,37,Male,Denver,2023-12-09,664.99
+3274,Thomas,36,Male,Los Angeles,2024-05-13,170.68
+3275,Oliver,54,Male,San Francisco,2024-03-08,323.93
+3276,Christopher,40,Male,Seattle,2024-06-08,760.44
+3277,Henry,23,Male,Portland,2024-04-18,561.39
+3278,Victoria,31,Female,Oklahoma City,2024-10-25,611.04
+3279,Isaac,40,Male,Seattle,2025-03-13,134.26
+3280,Frank,27,Male,Phoenix,2024-11-30,144.83
+3281,Ethan,32,Male,Fresno,2023-10-02,820.41
+3282,Emma,18,Female,Los Angeles,2023-10-23,246.95
+3283,Alexander,34,Male,Long Beach,2024-12-22,537.68
+3284,Rachel,20,Female,San Jose,2024-03-09,448.91
+3285,George,61,Male,Atlanta,2025-01-25,556.83
+3286,Diana,45,Female,Fort Worth,2024-12-06,388.25
+3287,Rachel,64,Female,Washington DC,2025-06-07,370.43
+3288,Victor,33,Male,Louisville,2025-05-14,284.13
+3289,Katherine,18,Female,Los Angeles,2024-04-14,222.84
+3290,Thomas,26,Male,Seattle,2024-10-13,241.06
+3291,Hannah,18,Female,Fort Worth,2023-11-26,406.51
+3292,George,26,Male,Indianapolis,2024-04-26,445.1
+3293,Victoria,44,Female,Mesa,2025-07-22,683.01
+3294,Isabella,31,Female,Portland,2025-01-06,1339.35
+3295,Samuel,36,Male,Louisville,2024-05-27,307.06
+3296,Frank,18,Male,Charlotte,2024-10-22,338.37
+3297,Emma,51,Female,Kansas City,2025-06-30,832.02
+3298,Robert,49,Male,Albuquerque,2024-03-28,275.28
+3299,Samuel,35,Male,Long Beach,2024-05-16,869.66
+3300,Katherine,53,Female,San Francisco,2025-03-15,626.87
+3301,Charlotte,35,Female,Los Angeles,2025-03-31,624.72
+3302,Julia,24,Female,Oklahoma City,2024-12-16,340.67
+3303,Bella,24,Female,Long Beach,2025-04-11,703.92
+3304,George,30,Male,Baltimore,2025-02-05,538.19
+3305,Oliver,37,Male,Mesa,2024-12-28,554.09
+3306,Benjamin,22,Male,Oklahoma City,2024-09-02,858.67
+3307,Oliver,18,Male,Baltimore,2024-11-29,806.37
+3308,Bella,35,Female,Albuquerque,2024-06-19,285.89
+3309,Olivia,49,Female,San Antonio,2024-05-05,541.83
+3310,Victoria,19,Female,Washington DC,2024-05-06,209.39
+3311,William,38,Male,San Jose,2023-12-24,453.53
+3312,Tina,39,Female,Philadelphia,2024-01-18,562.47
+3313,George,33,Male,Kansas City,2025-07-07,162.97
+3314,Kevin,54,Male,Columbus,2024-08-04,2230.95
+3315,Julia,37,Female,Atlanta,2024-01-27,247.35
+3316,Patrick,42,Male,Philadelphia,2023-11-23,180.06
+3317,James,21,Male,Oklahoma City,2023-10-10,525.91
+3318,Sophia,30,Female,Albuquerque,2025-04-23,50.0
+3319,Luna,41,Female,Mesa,2023-10-27,263.61
+3320,Oliver,23,Male,Houston,2025-02-28,468.37
+3321,Julia,32,Female,Indianapolis,2025-04-16,142.46
+3322,Emma,24,Female,Washington DC,2025-05-21,605.26
+3323,William,33,Male,San Jose,2023-09-11,519.37
+3324,Christopher,32,Male,Boston,2024-04-17,216.77
+3325,Olivia,49,Female,Colorado Springs,2025-02-25,1148.43
+3326,Emma,25,Female,New York,2023-11-18,340.82
+3327,Robert,57,Male,Columbus,2024-05-16,534.0
+3328,Nina,20,Female,Tucson,2023-12-11,123.07
+3329,Maria,48,Female,Tucson,2025-04-13,258.82
+3330,Victor,18,Male,San Francisco,2025-02-28,697.63
+3331,Victor,34,Male,Milwaukee,2025-03-28,603.95
+3332,Isabella,50,Female,Fresno,2023-12-14,2021.66
+3333,Nina,57,Female,Philadelphia,2024-06-29,234.74
+3334,George,29,Male,Louisville,2024-06-10,238.61
+3335,Ethan,43,Male,Portland,2024-12-21,585.26
+3336,Isaac,18,Male,New York,2024-02-04,276.18
+3337,Kevin,36,Male,Sacramento,2024-07-04,781.75
+3338,Henry,19,Male,Austin,2024-03-10,59.69
+3339,Marcus,48,Male,Baltimore,2025-02-12,380.29
+3340,Henry,43,Male,Chicago,2024-07-08,57.82
+3341,Fiona,30,Female,Tucson,2024-09-08,111.69
+3342,Kevin,61,Male,Sacramento,2024-03-28,237.78
+3343,Julia,46,Female,Dallas,2025-03-28,323.36
+3344,Nina,26,Female,Las Vegas,2024-07-22,352.93
+3345,Diana,40,Female,New York,2025-04-16,856.97
+3346,Samuel,22,Male,San Diego,2024-05-09,372.91
+3347,Fiona,47,Female,Denver,2025-07-07,149.69
+3348,Zoe,34,Female,Seattle,2025-08-03,50.0
+3349,Luna,18,Female,Boston,2024-07-17,236.8
+3350,Sophia,18,Female,Nashville,2024-03-07,748.2
+3351,Olivia,28,Female,Austin,2024-05-20,147.45
+3352,James,36,Male,Denver,2024-09-03,812.33
+3353,Luna,21,Female,Columbus,2025-07-21,858.2
+3354,Sophia,60,Female,Nashville,2025-04-03,64.78
+3355,Luna,29,Female,Colorado Springs,2025-03-22,103.27
+3356,Quinn,21,Male,Albuquerque,2023-11-24,310.51
+3357,Hannah,31,Female,Columbus,2024-02-13,1064.54
+3358,William,40,Male,Dallas,2024-11-25,724.08
+3359,Kevin,41,Male,Sacramento,2025-05-14,296.97
+3360,Isabella,26,Female,New York,2024-09-23,172.55
+3361,Victor,38,Male,Las Vegas,2023-10-28,355.82
+3362,Liam,47,Male,San Jose,2025-04-24,405.26
+3363,Isabella,27,Female,Phoenix,2025-04-28,355.02
+3364,Alexander,44,Male,Washington DC,2024-03-10,172.4
+3365,Marcus,32,Male,Fort Worth,2025-02-22,160.63
+3366,George,24,Male,Long Beach,2024-03-01,595.8
+3367,Hannah,27,Female,El Paso,2025-06-06,480.98
+3368,George,41,Male,Houston,2023-11-30,1229.54
+3369,Sophia,28,Female,Milwaukee,2024-06-29,294.54
+3370,Rachel,18,Female,Austin,2025-07-06,630.77
+3371,Ethan,51,Male,Detroit,2024-01-24,144.04
+3372,Tina,30,Female,Kansas City,2024-07-09,147.34
+3373,Oliver,51,Male,Detroit,2024-04-26,862.08
+3374,Tina,36,Female,New York,2023-09-03,278.61
+3375,Marcus,35,Male,Seattle,2023-09-22,920.76
+3376,Samuel,31,Male,Louisville,2024-08-15,485.29
+3377,Penny,30,Female,Washington DC,2024-02-03,721.51
+3378,Bella,63,Female,Virginia Beach,2025-08-10,229.15
+3379,Diana,45,Female,Indianapolis,2024-05-15,407.1
+3380,Nina,22,Female,Long Beach,2023-09-04,566.55
+3381,Victoria,20,Female,Fort Worth,2025-06-25,321.37
+3382,Ethan,44,Male,Atlanta,2025-04-19,753.54
+3383,James,27,Male,San Antonio,2024-12-02,216.88
+3384,Nathan,31,Male,Seattle,2025-03-15,88.07
+3385,Liam,32,Male,Indianapolis,2023-11-23,1172.19
+3386,Olivia,40,Female,San Antonio,2024-03-11,914.01
+3387,Isaac,23,Male,Sacramento,2025-04-12,116.5
+3388,Penny,24,Female,Portland,2025-01-04,195.18
+3389,William,46,Male,Mesa,2023-11-24,1094.49
+3390,Penny,36,Female,Colorado Springs,2025-01-11,677.98
+3391,Robert,25,Male,Virginia Beach,2024-07-07,693.33
+3392,Wendy,59,Female,Albuquerque,2023-08-18,296.91
+3393,Nathan,48,Male,Austin,2023-10-11,874.99
+3394,Alexander,25,Male,Charlotte,2024-02-18,1556.17
+3395,Nathan,49,Male,Philadelphia,2025-04-16,418.16
+3396,Sophia,18,Female,San Jose,2024-09-19,231.23
+3397,James,28,Male,Austin,2025-01-27,560.64
+3398,Isabella,28,Female,New York,2024-09-03,822.51
+3399,Victor,29,Male,Phoenix,2023-11-04,346.61
+3400,David,31,Male,Dallas,2024-03-12,282.56
+3401,Katherine,36,Female,Baltimore,2024-03-22,428.28
+3402,Fiona,29,Female,Albuquerque,2023-09-18,1404.12
+3403,Victor,33,Male,Washington DC,2024-06-16,365.3
+3404,Katherine,46,Female,San Diego,2025-03-17,650.94
+3405,Patrick,20,Male,Kansas City,2024-07-14,193.81
+3406,Diana,60,Female,Portland,2023-11-04,1022.98
+3407,Charlotte,18,Female,Albuquerque,2025-06-06,251.56
+3408,Alice,18,Female,Washington DC,2024-10-24,1115.4
+3409,Luna,45,Female,Boston,2023-08-27,1119.81
+3410,Luna,42,Female,Philadelphia,2024-08-25,110.98
+3411,Rachel,32,Female,Columbus,2024-02-07,50.0
+3412,Kevin,30,Male,Seattle,2023-11-27,299.58
+3413,James,48,Male,Louisville,2024-06-23,1116.39
+3414,Nina,60,Female,Baltimore,2024-11-06,929.24
+3415,Julia,35,Female,Indianapolis,2024-02-06,364.21
+3416,Zoe,18,Female,San Diego,2024-06-14,231.97
+3417,Nina,33,Female,Louisville,2024-12-12,117.47
+3418,Victoria,40,Female,Detroit,2023-10-16,883.15
+3419,Liam,44,Male,Los Angeles,2025-07-27,161.48
+3420,Bella,55,Female,Milwaukee,2023-10-03,252.02
+3421,Wendy,44,Female,Detroit,2024-09-02,65.11
+3422,Fiona,38,Female,Columbus,2024-08-19,543.18
+3423,Sophia,25,Female,Kansas City,2025-08-06,536.65
+3424,Marcus,26,Male,Portland,2024-09-23,348.95
+3425,Bella,38,Female,Jacksonville,2024-05-26,390.36
+3426,Alexander,27,Male,Fort Worth,2024-07-23,58.88
+3427,Grace,38,Female,Nashville,2024-11-21,795.9
+3428,Luna,51,Female,Fort Worth,2025-08-01,581.22
+3429,Alexander,32,Male,Atlanta,2024-02-16,513.76
+3430,Thomas,18,Male,El Paso,2023-08-26,251.84
+3431,George,41,Male,Nashville,2025-03-13,101.67
+3432,Quinn,18,Male,Fresno,2024-04-23,213.72
+3433,Alexander,18,Male,Colorado Springs,2025-01-31,214.54
+3434,Robert,33,Male,Chicago,2024-11-16,108.42
+3435,Victoria,31,Female,Seattle,2025-02-28,347.25
+3436,Victoria,51,Female,Albuquerque,2025-02-02,117.53
+3437,Diana,45,Female,Chicago,2024-04-14,332.19
+3438,Quinn,27,Male,Seattle,2023-09-16,560.03
+3439,Tina,21,Female,Houston,2024-09-17,209.74
+3440,Olivia,48,Female,Los Angeles,2025-03-31,141.36
+3441,Isabella,26,Female,Colorado Springs,2023-12-20,458.01
+3442,Tina,42,Female,Milwaukee,2025-03-06,361.58
+3443,Julia,20,Female,Jacksonville,2024-07-19,633.92
+3444,Isabella,33,Female,Long Beach,2025-01-04,288.21
+3445,George,41,Male,Chicago,2024-11-18,239.0
+3446,Bella,18,Female,Los Angeles,2025-03-30,622.02
+3447,Sophia,18,Female,San Jose,2023-09-30,613.16
+3448,Liam,42,Male,Dallas,2025-03-04,536.96
+3449,Frank,43,Male,Las Vegas,2024-07-14,50.0
+3450,Henry,37,Male,Houston,2024-03-16,184.0
+3451,Grace,32,Female,Houston,2023-09-16,118.44
+3452,Victor,24,Male,San Antonio,2024-01-07,468.18
+3453,Maria,46,Female,Seattle,2023-09-14,839.2
+3454,Marcus,40,Male,Virginia Beach,2025-06-27,191.15
+3455,Benjamin,34,Male,El Paso,2024-08-25,305.12
+3456,Zoe,21,Female,Boston,2025-08-07,488.06
+3457,Kevin,47,Male,Atlanta,2024-09-14,370.24
+3458,Bella,35,Female,Sacramento,2024-02-16,521.51
+3459,Alexander,20,Male,Oklahoma City,2025-02-15,837.24
+3460,Emma,22,Female,Houston,2024-01-01,942.87
+3461,Ethan,36,Male,Fort Worth,2024-05-01,239.2
+3462,Katherine,35,Female,San Jose,2025-03-07,1126.99
+3463,Robert,30,Male,Philadelphia,2025-05-08,329.92
+3464,Liam,45,Male,Baltimore,2024-04-13,79.65
+3465,Christopher,30,Male,Seattle,2023-11-13,426.22
+3466,Rachel,41,Female,Fort Worth,2024-05-10,459.4
+3467,Katherine,41,Female,Las Vegas,2025-05-26,539.11
+3468,Liam,32,Male,New York,2025-02-08,391.93
+3469,Thomas,26,Male,Seattle,2025-05-29,591.64
+3470,Nina,28,Female,Detroit,2024-05-23,266.14
+3471,Henry,38,Male,El Paso,2025-07-26,50.0
+3472,Hannah,18,Female,Mesa,2024-08-11,962.58
+3473,Frank,39,Male,Mesa,2024-08-12,654.63
+3474,Hannah,21,Female,Philadelphia,2025-06-20,308.22
+3475,Henry,31,Male,Philadelphia,2024-08-28,102.71
+3476,Liam,33,Male,Philadelphia,2025-03-22,404.19
+3477,Liam,33,Male,Boston,2025-01-27,805.36
+3478,Penny,49,Female,Los Angeles,2023-10-11,752.97
+3479,Kevin,32,Male,New York,2024-10-28,1023.47
+3480,Nathan,18,Male,Nashville,2025-04-07,115.93
+3481,Hannah,37,Female,Philadelphia,2024-09-16,984.98
+3482,Patrick,41,Male,Washington DC,2024-04-05,449.65
+3483,Zoe,60,Female,Fort Worth,2023-10-12,392.94
+3484,Isaac,18,Male,Washington DC,2024-12-10,389.4
+3485,David,38,Male,Portland,2024-03-26,69.89
+3486,Samuel,39,Male,Jacksonville,2024-10-28,297.79
+3487,Robert,31,Male,Dallas,2024-06-21,88.65
+3488,Olivia,31,Female,Boston,2024-12-31,1026.27
+3489,Emma,24,Female,Charlotte,2024-04-27,474.35
+3490,Marcus,18,Male,Seattle,2023-09-14,124.15
+3491,Marcus,18,Male,Jacksonville,2025-05-11,744.53
+3492,Samuel,39,Male,Indianapolis,2024-04-28,109.71
+3493,Grace,19,Female,Indianapolis,2025-08-13,310.61
+3494,Frank,29,Male,Tucson,2024-03-02,665.97
+3495,Alice,25,Female,Atlanta,2025-07-31,367.74
+3496,Bella,46,Female,Detroit,2025-07-07,643.42
+3497,Victoria,20,Female,Sacramento,2023-10-08,1545.57
+3498,Grace,34,Female,Austin,2024-11-23,605.17
+3499,Christopher,48,Male,Atlanta,2024-05-06,2026.77
+3500,Charlotte,35,Female,San Jose,2025-03-22,73.68
+3501,Maria,39,Female,Mesa,2024-12-23,393.83
+3502,Nathan,21,Male,Louisville,2025-07-11,275.87
+3503,Alice,39,Female,Denver,2023-11-27,1242.78
+3504,Nathan,37,Male,El Paso,2024-11-01,144.08
+3505,Katherine,30,Female,Kansas City,2025-03-08,186.5
+3506,Robert,31,Male,Philadelphia,2023-09-09,346.04
+3507,Katherine,30,Female,Columbus,2023-10-03,432.79
+3508,Quinn,18,Male,Columbus,2025-03-06,192.9
+3509,Hannah,23,Female,Indianapolis,2024-05-08,1199.28
+3510,Christopher,42,Male,San Diego,2024-05-20,1446.29
+3511,Luna,38,Female,Jacksonville,2024-10-02,315.38
+3512,Isabella,39,Female,Dallas,2024-10-30,231.89
+3513,Hannah,19,Female,Atlanta,2024-12-23,903.16
+3514,Victor,37,Male,Nashville,2025-07-08,340.02
+3515,Olivia,44,Female,Portland,2024-05-12,274.34
+3516,Wendy,30,Female,Atlanta,2025-02-22,74.34
+3517,Christopher,26,Male,Boston,2024-10-07,163.29
+3518,George,36,Male,Detroit,2024-09-05,384.72
+3519,Alexander,37,Male,Austin,2024-05-31,247.22
+3520,Emma,36,Female,Albuquerque,2024-12-01,373.14
+3521,William,46,Male,El Paso,2024-02-13,852.86
+3522,Victoria,18,Female,San Antonio,2023-11-05,413.52
+3523,Liam,31,Male,Detroit,2025-02-02,451.44
+3524,Thomas,19,Male,Austin,2024-08-13,411.62
+3525,Hannah,18,Female,Long Beach,2024-05-23,198.42
+3526,Liam,44,Male,Los Angeles,2024-09-28,505.05
+3527,Grace,41,Female,Virginia Beach,2024-02-22,176.32
+3528,Hannah,21,Female,Atlanta,2024-02-21,847.51
+3529,Olivia,49,Female,Louisville,2024-07-06,424.76
+3530,Diana,21,Female,Albuquerque,2025-08-12,247.55
+3531,Patrick,30,Male,Indianapolis,2024-03-10,431.14
+3532,Bella,43,Female,Colorado Springs,2025-06-14,807.28
+3533,William,52,Male,Albuquerque,2024-08-08,596.7
+3534,Zoe,25,Female,Oklahoma City,2023-11-12,301.09
+3535,Thomas,47,Male,Chicago,2025-04-29,385.78
+3536,Oliver,47,Male,Fresno,2024-07-10,717.4
+3537,George,39,Male,Las Vegas,2025-06-01,100.32
+3538,Fiona,18,Female,Seattle,2024-07-05,137.4
+3539,Olivia,56,Female,Oklahoma City,2023-10-18,379.92
+3540,Penny,37,Female,Los Angeles,2024-12-25,619.62
+3541,Kevin,41,Male,Fresno,2025-04-24,485.65
+3542,Kevin,43,Male,Washington DC,2024-04-04,186.49
+3543,Rachel,18,Female,Sacramento,2024-04-24,263.63
+3544,Marcus,18,Male,Mesa,2023-10-01,197.33
+3545,Isaac,23,Male,Dallas,2024-09-14,527.51
+3546,Wendy,33,Female,El Paso,2025-05-27,310.78
+3547,David,31,Male,Philadelphia,2025-04-28,465.39
+3548,Thomas,47,Male,San Jose,2025-01-16,403.36
+3549,Alice,59,Female,Milwaukee,2025-06-22,497.93
+3550,Diana,34,Female,Austin,2024-11-23,389.07
+3551,Hannah,38,Female,New York,2025-03-17,1133.34
+3552,Wendy,38,Female,San Jose,2024-08-20,50.0
+3553,Marcus,54,Male,Jacksonville,2023-11-11,320.91
+3554,Thomas,32,Male,Washington DC,2024-01-08,146.25
+3555,Frank,21,Male,Jacksonville,2023-11-24,710.61
+3556,Patrick,32,Male,Columbus,2025-03-14,726.2
+3557,Fiona,49,Female,Philadelphia,2023-09-03,541.55
+3558,Patrick,18,Male,San Jose,2024-09-22,567.07
+3559,Zoe,46,Female,Kansas City,2024-05-10,168.7
+3560,Bella,18,Female,New York,2025-03-24,173.27
+3561,Isabella,32,Female,Austin,2024-09-21,998.33
+3562,Alice,49,Female,San Antonio,2024-11-04,596.58
+3563,Isabella,23,Female,Kansas City,2023-10-17,185.75
+3564,Zoe,18,Female,Oklahoma City,2024-03-28,59.56
+3565,Nathan,24,Male,Albuquerque,2025-08-14,514.41
+3566,Wendy,18,Female,Portland,2025-01-21,222.11
+3567,Hannah,24,Female,San Francisco,2024-09-02,50.0
+3568,George,29,Male,Portland,2025-02-27,257.16
+3569,Isaac,18,Male,Boston,2025-04-07,73.58
+3570,Isaac,70,Male,Oklahoma City,2023-10-07,572.53
+3571,Victor,24,Male,Denver,2025-07-25,473.86
+3572,Zoe,34,Female,Louisville,2024-11-26,139.82
+3573,Rachel,32,Female,Oklahoma City,2024-07-08,285.55
+3574,Maria,38,Female,Phoenix,2024-12-24,1281.18
+3575,Alice,39,Female,Tucson,2024-04-22,152.02
+3576,Wendy,18,Female,Atlanta,2025-05-17,537.87
+3577,Benjamin,27,Male,Charlotte,2025-03-07,217.67
+3578,Rachel,20,Female,Jacksonville,2024-11-24,610.6
+3579,Patrick,64,Male,Nashville,2023-12-26,799.69
+3580,Bella,25,Female,El Paso,2025-07-21,1402.46
+3581,Katherine,21,Female,New York,2024-06-26,191.14
+3582,Sophia,55,Female,Colorado Springs,2025-06-10,440.72
+3583,Diana,36,Female,Phoenix,2023-09-24,375.57
+3584,Victoria,46,Female,Charlotte,2023-11-13,158.69
+3585,Isaac,58,Male,Tucson,2023-12-04,677.62
+3586,Marcus,18,Male,Chicago,2023-12-13,369.61
+3587,Nathan,28,Male,Washington DC,2024-04-06,116.45
+3588,Fiona,26,Female,Philadelphia,2025-01-14,975.42
+3589,William,18,Male,Portland,2024-04-23,164.65
+3590,Victoria,24,Female,Jacksonville,2025-07-02,579.03
+3591,Fiona,37,Female,San Jose,2025-05-30,357.84
+3592,Samuel,55,Male,Washington DC,2025-04-24,1205.29
+3593,Charlotte,27,Female,Albuquerque,2024-02-14,381.82
+3594,Christopher,20,Male,Indianapolis,2024-11-21,344.31
+3595,Emma,20,Female,Jacksonville,2024-09-20,485.76
+3596,Kevin,30,Male,Oklahoma City,2023-11-14,651.54
+3597,Zoe,34,Female,Sacramento,2024-03-23,103.33
+3598,George,38,Male,Milwaukee,2024-09-07,1501.9
+3599,Frank,40,Male,Detroit,2024-08-16,294.98
+3600,Zoe,31,Female,San Antonio,2023-12-16,182.99
+3601,Victoria,24,Female,Oklahoma City,2025-07-03,146.15
+3602,Alexander,42,Male,Austin,2023-12-05,445.81
+3603,Victor,26,Male,Dallas,2024-12-08,791.62
+3604,Olivia,29,Female,Fresno,2025-01-22,641.66
+3605,Charlotte,21,Female,Milwaukee,2024-10-30,1591.25
+3606,Alexander,30,Male,Tucson,2025-04-21,419.5
+3607,Victoria,40,Female,Oklahoma City,2024-09-30,230.0
+3608,Fiona,22,Female,Houston,2025-04-09,261.68
+3609,Thomas,34,Male,Louisville,2023-09-04,177.24
+3610,Quinn,33,Male,San Diego,2023-09-17,855.47
+3611,Rachel,40,Female,Baltimore,2024-11-25,339.55
+3612,Katherine,31,Female,Nashville,2024-10-09,273.42
+3613,Isabella,46,Female,El Paso,2024-12-02,707.59
+3614,Maria,54,Female,Nashville,2025-02-25,65.03
+3615,Henry,45,Male,Jacksonville,2024-06-14,932.23
+3616,Fiona,19,Female,Long Beach,2024-11-24,80.71
+3617,Charlotte,26,Female,Philadelphia,2024-08-13,1067.47
+3618,James,27,Male,New York,2024-11-15,395.82
+3619,William,48,Male,Atlanta,2024-03-13,590.14
+3620,Quinn,37,Male,Fort Worth,2025-07-14,398.15
+3621,Katherine,28,Female,Virginia Beach,2024-08-02,365.56
+3622,Hannah,29,Female,Louisville,2025-03-25,345.37
+3623,David,22,Male,Milwaukee,2024-12-27,328.61
+3624,Samuel,36,Male,Chicago,2024-03-19,245.72
+3625,Henry,51,Male,Tucson,2023-10-07,550.35
+3626,Hannah,26,Female,Nashville,2023-09-27,1287.73
+3627,David,19,Male,Colorado Springs,2024-07-01,856.48
+3628,Zoe,39,Female,Nashville,2024-08-02,208.47
+3629,Quinn,31,Male,Louisville,2024-01-11,245.44
+3630,William,39,Male,Denver,2024-10-31,111.07
+3631,Benjamin,34,Male,Long Beach,2024-03-30,414.67
+3632,Robert,48,Male,Jacksonville,2025-01-21,832.18
+3633,Samuel,27,Male,Detroit,2025-02-01,279.12
+3634,Emma,31,Female,Los Angeles,2025-05-05,352.88
+3635,Grace,44,Female,Boston,2025-07-27,60.74
+3636,Thomas,33,Male,Chicago,2023-11-18,663.65
+3637,Rachel,43,Female,San Diego,2024-05-11,802.12
+3638,Alice,52,Female,Chicago,2024-09-28,1151.09
+3639,Maria,38,Female,Oklahoma City,2024-04-04,460.94
+3640,Patrick,40,Male,Jacksonville,2024-07-20,558.44
+3641,Frank,34,Male,Long Beach,2024-02-26,208.21
+3642,George,32,Male,Dallas,2024-02-12,1004.74
+3643,James,28,Male,Tucson,2023-10-24,445.71
+3644,Fiona,31,Female,Seattle,2024-03-14,537.32
+3645,Alice,21,Female,Milwaukee,2024-05-21,472.55
+3646,Sophia,34,Female,San Francisco,2024-11-06,478.24
+3647,Luna,41,Female,Mesa,2024-02-12,196.14
+3648,Hannah,26,Female,Chicago,2025-05-08,403.09
+3649,Ethan,18,Male,Boston,2023-12-09,167.87
+3650,Bella,47,Female,Chicago,2024-04-10,380.42
+3651,James,44,Male,Colorado Springs,2024-10-10,312.55
+3652,Tina,18,Female,San Antonio,2024-03-30,549.11
+3653,Charlotte,35,Female,Fresno,2025-02-22,353.73
+3654,Frank,48,Male,El Paso,2024-08-13,125.87
+3655,Tina,47,Female,Washington DC,2024-08-25,584.66
+3656,Fiona,18,Female,Oklahoma City,2024-08-13,734.13
+3657,Benjamin,58,Male,Jacksonville,2024-03-27,872.53
+3658,Quinn,40,Male,Philadelphia,2023-08-31,1411.3
+3659,Fiona,37,Female,San Diego,2025-07-05,158.21
+3660,Marcus,33,Male,Mesa,2024-08-18,204.88
+3661,Quinn,49,Male,Washington DC,2025-07-21,175.0
+3662,Sophia,49,Female,Fresno,2024-01-19,262.11
+3663,Maria,44,Female,San Francisco,2024-04-28,1689.67
+3664,David,23,Male,Nashville,2023-09-20,1103.46
+3665,Olivia,39,Female,Albuquerque,2024-08-10,992.64
+3666,Nathan,27,Male,Louisville,2025-05-20,122.79
+3667,Robert,36,Male,Jacksonville,2024-12-05,53.74
+3668,Robert,56,Male,Fresno,2024-07-23,583.04
+3669,Wendy,18,Female,Chicago,2024-09-10,766.95
+3670,Rachel,34,Female,Oklahoma City,2025-04-25,1808.29
+3671,Liam,24,Male,Denver,2024-06-25,97.69
+3672,Robert,19,Male,New York,2025-05-21,571.58
+3673,Emma,18,Female,Columbus,2025-01-27,286.76
+3674,Benjamin,48,Male,Las Vegas,2025-02-23,50.0
+3675,Wendy,50,Female,Dallas,2024-05-08,212.11
+3676,Robert,32,Male,Seattle,2024-06-02,958.14
+3677,Hannah,24,Female,Colorado Springs,2024-10-04,592.04
+3678,Tina,31,Female,Boston,2024-01-04,82.14
+3679,George,51,Male,Charlotte,2024-09-22,1141.95
+3680,Oliver,35,Male,Los Angeles,2023-10-07,442.18
+3681,Victor,32,Male,Charlotte,2024-08-17,217.72
+3682,Ethan,26,Male,Virginia Beach,2025-02-23,223.99
+3683,Samuel,51,Male,Colorado Springs,2024-03-06,96.11
+3684,Hannah,32,Female,Atlanta,2025-08-07,429.98
+3685,Emma,40,Female,Colorado Springs,2024-12-24,513.27
+3686,William,44,Male,Long Beach,2023-11-09,959.13
+3687,Charlotte,30,Female,Albuquerque,2025-07-27,50.0
+3688,Nina,25,Female,New York,2024-05-28,850.02
+3689,William,38,Male,El Paso,2025-03-18,370.08
+3690,Victor,20,Male,Detroit,2024-04-18,1291.81
+3691,Grace,57,Female,San Jose,2025-07-01,395.81
+3692,Hannah,30,Female,Tucson,2025-02-16,593.01
+3693,Nathan,32,Male,Long Beach,2024-01-07,678.88
+3694,Kevin,27,Male,Portland,2024-08-21,788.55
+3695,Quinn,30,Male,Oklahoma City,2024-08-14,211.89
+3696,Christopher,28,Male,Mesa,2023-09-17,695.68
+3697,Frank,35,Male,Tucson,2023-11-23,751.4
+3698,Nina,18,Female,Detroit,2024-04-14,253.38
+3699,Frank,36,Male,Columbus,2024-07-26,432.36
+3700,Luna,60,Female,Nashville,2024-07-14,366.03
+3701,Thomas,40,Male,Denver,2024-10-31,386.46
+3702,Victor,53,Male,Baltimore,2024-08-25,825.76
+3703,Zoe,44,Female,Milwaukee,2024-04-10,226.53
+3704,Benjamin,45,Male,San Jose,2024-11-05,233.06
+3705,Sophia,19,Female,Atlanta,2023-12-11,847.9
+3706,Kevin,18,Male,Virginia Beach,2025-08-08,877.07
+3707,Alice,35,Female,Mesa,2025-02-05,576.43
+3708,Fiona,18,Female,Las Vegas,2024-03-20,137.19
+3709,Benjamin,48,Male,Denver,2024-04-16,50.0
+3710,Nina,21,Female,Tucson,2025-04-11,320.27
+3711,Patrick,34,Male,Portland,2024-09-07,390.18
+3712,Maria,54,Female,Dallas,2025-01-14,955.83
+3713,Charlotte,37,Female,Colorado Springs,2024-03-21,750.46
+3714,Henry,39,Male,San Antonio,2025-04-02,354.21
+3715,Diana,31,Female,Columbus,2024-05-10,510.07
+3716,Nathan,23,Male,San Diego,2024-12-19,151.83
+3717,Olivia,24,Female,Denver,2025-07-31,183.08
+3718,Liam,38,Male,Austin,2024-10-14,1033.79
+3719,Diana,18,Female,Kansas City,2025-03-19,75.17
+3720,Emma,49,Female,Detroit,2025-01-26,889.7
+3721,Nathan,43,Male,Las Vegas,2024-12-29,1333.12
+3722,Rachel,60,Female,Seattle,2023-09-03,191.05
+3723,Victor,58,Male,Nashville,2024-07-26,513.5
+3724,Tina,45,Female,San Antonio,2025-07-21,441.26
+3725,Wendy,33,Female,Boston,2025-03-09,212.27
+3726,Katherine,40,Female,Long Beach,2025-03-04,455.67
+3727,Maria,24,Female,Oklahoma City,2024-10-10,513.72
+3728,Oliver,31,Male,Oklahoma City,2025-01-23,696.58
+3729,Julia,32,Female,Milwaukee,2024-10-14,341.33
+3730,Samuel,55,Male,Baltimore,2023-12-17,509.11
+3731,Kevin,44,Male,Jacksonville,2024-11-16,405.15
+3732,Diana,34,Female,Denver,2024-11-10,1353.68
+3733,Alexander,34,Male,Long Beach,2025-04-20,772.04
+3734,William,47,Male,Milwaukee,2023-12-01,935.51
+3735,Victoria,34,Female,Jacksonville,2024-12-24,102.21
+3736,Zoe,32,Female,San Antonio,2023-09-07,505.34
+3737,Charlotte,29,Female,Atlanta,2025-07-08,681.65
+3738,Victoria,26,Female,Las Vegas,2023-11-03,241.94
+3739,Emma,28,Female,Las Vegas,2023-08-28,399.42
+3740,Marcus,22,Male,Los Angeles,2024-03-31,774.36
+3741,Sophia,52,Female,Charlotte,2023-12-03,515.83
+3742,Isaac,33,Male,Virginia Beach,2024-12-31,263.87
+3743,Sophia,25,Female,Fresno,2024-06-09,1402.81
+3744,Frank,38,Male,Colorado Springs,2025-03-03,171.3
+3745,Olivia,49,Female,Las Vegas,2025-06-17,288.88
+3746,Benjamin,35,Male,Boston,2025-05-14,577.71
+3747,Sophia,33,Female,San Francisco,2025-02-02,620.92
+3748,Kevin,52,Male,Mesa,2023-09-29,146.43
+3749,Tina,29,Female,Albuquerque,2023-11-23,1352.24
+3750,Zoe,62,Female,Philadelphia,2024-01-13,680.69
+3751,Bella,38,Female,Los Angeles,2024-04-08,361.0
+3752,Rachel,29,Female,Portland,2024-12-11,375.96
+3753,Nina,49,Female,Fresno,2024-09-02,332.08
+3754,Marcus,27,Male,Austin,2024-03-31,278.93
+3755,Hannah,22,Female,Nashville,2023-12-19,965.34
+3756,Patrick,23,Male,Jacksonville,2025-06-11,142.53
+3757,Isabella,36,Female,Fort Worth,2024-04-21,1137.97
+3758,Victor,19,Male,Dallas,2024-04-29,460.87
+3759,Samuel,32,Male,Phoenix,2025-03-01,110.78
+3760,Benjamin,31,Male,Columbus,2025-01-22,192.8
+3761,Olivia,42,Female,Milwaukee,2024-11-27,648.38
+3762,Hannah,46,Female,San Francisco,2025-01-02,1301.02
+3763,Zoe,29,Female,Colorado Springs,2024-11-02,566.46
+3764,Grace,20,Female,San Francisco,2024-01-02,281.83
+3765,Liam,18,Male,Milwaukee,2024-02-11,843.35
+3766,Katherine,36,Female,San Diego,2024-09-25,620.86
+3767,Rachel,39,Female,El Paso,2024-01-26,843.47
+3768,Kevin,30,Male,San Francisco,2025-07-26,260.78
+3769,Hannah,38,Female,Phoenix,2024-03-19,530.8
+3770,Alexander,58,Male,Chicago,2024-03-13,156.2
+3771,Zoe,30,Female,Las Vegas,2024-01-13,636.11
+3772,Luna,51,Female,Albuquerque,2025-01-11,603.45
+3773,Charlotte,33,Female,Phoenix,2024-04-02,370.83
+3774,Emma,46,Female,Indianapolis,2024-04-25,396.32
+3775,Maria,18,Female,San Diego,2025-06-27,667.39
+3776,Rachel,31,Female,Long Beach,2025-03-18,63.43
+3777,Benjamin,44,Male,Baltimore,2024-03-01,215.06
+3778,Isabella,24,Female,Houston,2023-11-12,50.0
+3779,Samuel,21,Male,Oklahoma City,2024-12-21,687.99
+3780,Christopher,24,Male,Nashville,2024-05-18,250.06
+3781,Diana,37,Female,Fresno,2025-07-31,76.84
+3782,Tina,20,Female,Baltimore,2025-04-04,327.48
+3783,Fiona,29,Female,San Diego,2025-07-12,417.97
+3784,George,36,Male,San Jose,2025-03-25,209.03
+3785,Quinn,56,Male,Atlanta,2024-03-14,2048.06
+3786,Henry,50,Male,Austin,2024-03-12,872.18
+3787,Bella,29,Female,Las Vegas,2025-01-18,489.76
+3788,Wendy,39,Female,El Paso,2024-04-24,171.86
+3789,James,47,Male,San Francisco,2024-07-03,962.89
+3790,Isabella,23,Female,Columbus,2024-02-18,234.34
+3791,Quinn,18,Male,San Antonio,2024-07-30,147.53
+3792,William,49,Male,Phoenix,2024-01-09,1890.54
+3793,Hannah,24,Female,Tucson,2024-09-11,471.48
+3794,Patrick,31,Male,Indianapolis,2025-06-27,665.3
+3795,William,31,Male,Denver,2025-01-04,885.92
+3796,Grace,21,Female,El Paso,2023-11-23,370.29
+3797,Grace,55,Female,Indianapolis,2024-11-07,485.06
+3798,Olivia,45,Female,Seattle,2024-10-16,1476.04
+3799,Rachel,30,Female,Chicago,2024-02-08,317.58
+3800,Isaac,42,Male,San Jose,2024-12-16,318.27
+3801,Luna,27,Female,Denver,2024-09-06,385.43
+3802,Benjamin,18,Male,Charlotte,2024-11-23,127.39
+3803,Bella,28,Female,Mesa,2023-09-22,311.31
+3804,Bella,18,Female,Denver,2024-06-12,1076.16
+3805,Thomas,36,Male,Austin,2025-01-20,336.68
+3806,Olivia,42,Female,Washington DC,2023-10-27,579.38
+3807,Isabella,25,Female,Baltimore,2025-02-28,387.55
+3808,Zoe,20,Female,Denver,2023-08-18,481.98
+3809,James,29,Male,Dallas,2024-09-20,345.73
+3810,James,18,Male,Colorado Springs,2025-06-24,50.0
+3811,Samuel,43,Male,Portland,2024-06-07,711.36
+3812,Quinn,36,Male,Charlotte,2025-06-28,341.71
+3813,Benjamin,25,Male,Columbus,2025-05-18,285.35
+3814,Penny,42,Female,Washington DC,2024-07-29,104.2
+3815,James,18,Male,Atlanta,2024-01-07,117.81
+3816,Alexander,39,Male,Indianapolis,2025-07-19,258.37
+3817,Bella,18,Female,Fresno,2024-04-05,356.95
+3818,Luna,28,Female,Oklahoma City,2024-11-29,645.98
+3819,Isabella,51,Female,Virginia Beach,2025-06-08,1401.98
+3820,Kevin,35,Male,Detroit,2023-10-19,601.43
+3821,Victoria,58,Female,San Jose,2024-10-07,1078.62
+3822,Penny,18,Female,Fresno,2024-09-09,824.33
+3823,Victor,34,Male,Sacramento,2025-01-24,341.84
+3824,Bella,28,Female,Portland,2025-06-29,654.71
+3825,Julia,45,Female,Austin,2025-06-12,212.45
+3826,Luna,24,Female,Albuquerque,2023-12-20,304.86
+3827,Liam,20,Male,Albuquerque,2025-05-20,325.72
+3828,Charlotte,52,Female,New York,2023-12-21,307.82
+3829,Wendy,52,Female,Phoenix,2025-06-17,405.04
+3830,William,18,Male,Charlotte,2025-08-12,183.56
+3831,Thomas,18,Male,Columbus,2024-05-31,213.92
+3832,Oliver,41,Male,San Jose,2024-08-11,978.63
+3833,Robert,43,Male,Colorado Springs,2025-06-29,93.95
+3834,Henry,34,Male,Fort Worth,2025-07-18,137.69
+3835,Alice,44,Female,Tucson,2025-06-21,532.24
+3836,Hannah,44,Female,Mesa,2025-05-16,189.58
+3837,Tina,42,Female,New York,2023-08-21,443.01
+3838,Luna,26,Female,Charlotte,2024-10-03,77.61
+3839,Marcus,22,Male,Nashville,2023-11-01,151.76
+3840,Wendy,30,Female,Chicago,2025-08-02,421.37
+3841,Diana,26,Female,San Antonio,2024-03-10,390.08
+3842,William,30,Male,Fresno,2025-08-07,399.49
+3843,Ethan,18,Male,Seattle,2024-09-15,264.12
+3844,Nina,23,Female,Long Beach,2024-08-10,415.65
+3845,Maria,52,Female,Philadelphia,2025-07-01,241.1
+3846,David,24,Male,Baltimore,2025-04-28,164.54
+3847,Olivia,26,Female,Sacramento,2024-07-22,607.7
+3848,Patrick,36,Male,San Francisco,2024-01-02,970.04
+3849,Quinn,40,Male,Jacksonville,2023-11-05,228.54
+3850,Victoria,24,Female,San Francisco,2023-12-11,852.55
+3851,Oliver,24,Male,Milwaukee,2024-07-15,622.77
+3852,Liam,23,Male,Chicago,2024-02-19,1273.13
+3853,Rachel,29,Female,Seattle,2023-12-29,326.18
+3854,Nina,21,Female,Seattle,2025-02-03,50.0
+3855,Frank,36,Male,Fort Worth,2025-03-15,448.53
+3856,Ethan,50,Male,Dallas,2024-10-03,189.62
+3857,Luna,22,Female,Washington DC,2025-02-18,112.16
+3858,David,18,Male,Columbus,2023-12-21,475.62
+3859,Oliver,51,Male,San Francisco,2025-05-01,473.17
+3860,Penny,43,Female,Atlanta,2025-05-31,172.56
+3861,Isabella,22,Female,Milwaukee,2025-04-10,218.51
+3862,George,18,Male,Long Beach,2024-08-25,193.12
+3863,David,39,Male,Boston,2023-10-17,383.76
+3864,Tina,33,Female,Phoenix,2024-12-16,83.47
+3865,Marcus,26,Male,Albuquerque,2023-12-28,192.5
+3866,Henry,46,Male,Baltimore,2023-11-25,869.5
+3867,Frank,46,Male,Albuquerque,2024-04-07,904.13
+3868,Marcus,28,Male,San Antonio,2024-02-12,268.31
+3869,Maria,39,Female,Atlanta,2024-02-21,279.36
+3870,Nathan,43,Male,Colorado Springs,2024-02-03,851.33
+3871,Julia,47,Female,Washington DC,2025-02-15,109.52
+3872,Olivia,21,Female,New York,2025-07-12,572.83
+3873,Penny,27,Female,Louisville,2024-03-22,805.86
+3874,Henry,32,Male,Baltimore,2025-01-24,556.41
+3875,Victoria,53,Female,Fort Worth,2023-08-23,537.8
+3876,Penny,24,Female,Virginia Beach,2024-12-04,174.41
+3877,Hannah,38,Female,New York,2025-01-02,112.95
+3878,Quinn,41,Male,Las Vegas,2023-09-29,158.09
+3879,Rachel,26,Female,Seattle,2023-11-09,938.95
+3880,Julia,51,Female,Jacksonville,2024-03-26,375.86
+3881,William,36,Male,Fresno,2024-06-06,434.37
+3882,Isabella,18,Female,Fresno,2024-08-16,837.8
+3883,Samuel,39,Male,Washington DC,2025-05-30,428.1
+3884,Quinn,32,Male,Long Beach,2025-01-10,422.36
+3885,Patrick,30,Male,El Paso,2024-03-29,417.91
+3886,Robert,30,Male,Kansas City,2023-11-08,445.24
+3887,Katherine,67,Female,Washington DC,2025-06-14,687.01
+3888,Tina,22,Female,Baltimore,2024-03-17,1211.8
+3889,Henry,27,Male,Jacksonville,2024-11-06,568.11
+3890,Julia,42,Female,New York,2024-01-22,1576.22
+3891,Victor,43,Male,Fresno,2023-11-20,202.15
+3892,Isabella,36,Female,Tucson,2023-12-04,818.27
+3893,Kevin,26,Male,Jacksonville,2025-02-11,612.87
+3894,Ethan,54,Male,Louisville,2024-10-30,122.07
+3895,Zoe,19,Female,Washington DC,2024-06-13,634.9
+3896,George,48,Male,Baltimore,2024-09-19,1201.65
+3897,William,34,Male,Long Beach,2024-07-24,1128.94
+3898,Liam,37,Male,Fort Worth,2024-09-10,776.48
+3899,George,32,Male,Charlotte,2024-12-12,679.71
+3900,Nathan,24,Male,Washington DC,2024-01-21,822.55
+3901,Katherine,22,Female,Washington DC,2024-02-11,831.15
+3902,Victor,31,Male,Sacramento,2025-02-16,398.52
+3903,Isabella,66,Female,San Antonio,2025-05-14,988.06
+3904,Zoe,37,Female,Washington DC,2023-10-13,519.82
+3905,Sophia,25,Female,Columbus,2024-07-06,440.85
+3906,Olivia,32,Female,San Jose,2025-01-10,105.37
+3907,Victor,31,Male,Austin,2023-10-11,284.5
+3908,Marcus,24,Male,Oklahoma City,2024-09-30,175.59
+3909,Kevin,26,Male,Austin,2023-09-29,1097.2
+3910,Sophia,25,Female,Austin,2024-09-18,1064.05
+3911,Victor,18,Male,Sacramento,2024-08-18,578.2
+3912,Isabella,38,Female,Colorado Springs,2024-10-06,256.15
+3913,Emma,24,Female,Seattle,2023-12-02,806.35
+3914,Oliver,46,Male,Indianapolis,2024-04-10,937.64
+3915,Isabella,48,Female,Washington DC,2024-08-29,185.6
+3916,Bella,30,Female,San Jose,2023-11-07,378.26
+3917,Thomas,43,Male,El Paso,2024-01-12,198.44
+3918,Alice,61,Female,Boston,2024-10-14,403.17
+3919,Grace,30,Female,Washington DC,2023-10-20,80.53
+3920,Fiona,29,Female,Mesa,2024-08-22,1093.67
+3921,Diana,52,Female,Las Vegas,2025-03-28,396.69
+3922,Alexander,24,Male,Oklahoma City,2024-07-11,216.55
+3923,David,31,Male,Las Vegas,2024-08-24,689.51
+3924,Alice,39,Female,Dallas,2024-07-13,177.71
+3925,Hannah,24,Female,Seattle,2023-09-26,450.42
+3926,Benjamin,18,Male,Fort Worth,2024-07-17,1258.53
+3927,Nathan,36,Male,Indianapolis,2025-03-26,210.72
+3928,Samuel,28,Male,Nashville,2025-01-24,656.76
+3929,Benjamin,44,Male,Boston,2024-05-30,658.09
+3930,Fiona,18,Female,Portland,2025-04-02,1649.01
+3931,Victor,24,Male,Kansas City,2025-02-10,1025.29
+3932,Nina,41,Female,Fort Worth,2024-10-10,262.07
+3933,Nathan,39,Male,Virginia Beach,2023-09-17,457.15
+3934,Katherine,26,Female,Baltimore,2024-04-22,937.61
+3935,Robert,34,Male,San Antonio,2023-09-30,118.86
+3936,Ethan,50,Male,San Francisco,2025-08-10,611.34
+3937,Kevin,31,Male,Boston,2025-06-28,50.0
+3938,Isabella,42,Female,Atlanta,2023-10-04,62.66
+3939,Isabella,28,Female,Chicago,2025-06-27,288.25
+3940,Wendy,36,Female,Portland,2023-09-07,133.81
+3941,Julia,29,Female,San Francisco,2024-06-08,163.93
+3942,Robert,28,Male,Colorado Springs,2025-02-27,755.71
+3943,Penny,34,Female,Portland,2025-02-24,873.92
+3944,David,43,Male,San Antonio,2025-07-30,486.99
+3945,David,41,Male,El Paso,2024-11-29,431.04
+3946,Robert,18,Male,Long Beach,2024-06-17,285.12
+3947,Bella,29,Female,Baltimore,2025-08-09,414.24
+3948,Samuel,44,Male,San Diego,2024-05-20,143.63
+3949,Isabella,50,Female,Dallas,2025-05-11,613.95
+3950,Ethan,18,Male,Boston,2025-06-07,383.33
+3951,Emma,18,Female,San Jose,2024-05-15,101.47
+3952,James,42,Male,Atlanta,2024-12-26,362.78
+3953,Thomas,51,Male,Mesa,2024-12-10,741.5
+3954,Marcus,18,Male,Kansas City,2024-09-12,912.85
+3955,Frank,31,Male,Baltimore,2024-12-04,135.32
+3956,Patrick,24,Male,Boston,2024-04-25,95.74
+3957,Olivia,40,Female,Long Beach,2023-12-23,1146.01
+3958,Wendy,48,Female,Indianapolis,2024-09-10,902.67
+3959,Nina,35,Female,Sacramento,2024-09-04,594.38
+3960,Samuel,48,Male,Los Angeles,2025-01-28,348.07
+3961,Isaac,18,Male,Phoenix,2024-01-24,394.54
+3962,Victor,38,Male,Nashville,2023-08-17,475.69
+3963,Grace,60,Female,Columbus,2023-08-31,1574.96
+3964,Liam,44,Male,Boston,2024-03-20,243.15
+3965,Hannah,43,Female,Charlotte,2024-12-19,303.53
+3966,Hannah,22,Female,Nashville,2024-09-15,256.99
+3967,William,48,Male,Fort Worth,2024-09-06,199.28
+3968,Zoe,44,Female,Indianapolis,2025-04-07,430.27
+3969,Quinn,38,Male,Colorado Springs,2024-02-11,1071.36
+3970,Benjamin,22,Male,Dallas,2024-04-24,405.69
+3971,Henry,18,Male,Las Vegas,2024-03-03,240.16
+3972,Fiona,26,Female,Oklahoma City,2025-06-30,309.23
+3973,Julia,57,Female,Houston,2025-01-25,233.15
+3974,Luna,37,Female,Houston,2023-11-05,601.48
+3975,Katherine,41,Female,Nashville,2025-03-28,387.12
+3976,Benjamin,50,Male,Mesa,2024-06-16,912.35
+3977,Fiona,26,Female,Chicago,2025-02-24,1346.36
+3978,Katherine,45,Female,Boston,2025-05-22,1342.7
+3979,Maria,34,Female,Tucson,2023-08-26,310.42
+3980,Samuel,54,Male,Mesa,2024-01-12,147.85
+3981,William,36,Male,Phoenix,2023-10-27,1252.38
+3982,Ethan,45,Male,Mesa,2023-09-08,425.02
+3983,Frank,33,Male,Kansas City,2024-10-24,377.18
+3984,Henry,18,Male,Long Beach,2025-01-10,226.18
+3985,Kevin,60,Male,Fresno,2023-09-19,1147.69
+3986,Frank,44,Male,Mesa,2025-02-06,355.8
+3987,Hannah,18,Female,Virginia Beach,2024-06-04,153.54
+3988,Victoria,50,Female,Fort Worth,2024-02-02,50.0
+3989,Ethan,18,Male,Louisville,2024-01-20,402.13
+3990,Robert,58,Male,Milwaukee,2025-05-07,163.85
+3991,Grace,31,Female,San Jose,2023-09-25,1567.16
+3992,Victoria,52,Female,El Paso,2024-08-17,138.47
+3993,Ethan,32,Male,Jacksonville,2024-03-13,370.42
+3994,Victoria,31,Female,Mesa,2025-04-02,472.75
+3995,William,46,Male,Milwaukee,2025-01-30,740.85
+3996,Luna,36,Female,Louisville,2024-04-04,91.5
+3997,Benjamin,22,Male,Oklahoma City,2024-10-25,118.59
+3998,Olivia,42,Female,Denver,2024-12-18,246.21
+3999,Alexander,35,Male,Virginia Beach,2024-04-05,346.52
+4000,Charlotte,25,Female,Los Angeles,2024-03-22,300.56
+4001,Alexander,36,Male,Charlotte,2023-11-27,520.38
+4002,Victor,40,Male,Louisville,2024-12-09,52.81
+4003,James,48,Male,Indianapolis,2024-01-23,961.36
+4004,Oliver,56,Male,Atlanta,2024-03-21,708.06
+4005,Zoe,27,Female,Boston,2023-09-28,218.07
+4006,Maria,45,Female,Milwaukee,2025-07-08,280.31
+4007,Victoria,39,Female,Fort Worth,2025-05-19,921.9
+4008,Olivia,46,Female,Detroit,2025-06-11,265.64
+4009,Olivia,18,Female,San Jose,2024-11-14,398.03
+4010,Marcus,21,Male,San Jose,2024-06-22,167.49
+4011,Nathan,40,Male,Washington DC,2024-08-11,281.57
+4012,Liam,42,Male,San Antonio,2025-07-25,335.81
+4013,Benjamin,35,Male,Long Beach,2025-07-03,430.96
+4014,Rachel,28,Female,Chicago,2024-12-17,503.93
+4015,Isaac,36,Male,Long Beach,2025-03-11,370.28
+4016,Alice,27,Female,Phoenix,2024-04-03,271.5
+4017,Victor,18,Male,Boston,2024-06-14,463.74
+4018,Oliver,34,Male,Columbus,2023-12-02,441.12
+4019,Marcus,44,Male,Washington DC,2024-05-16,322.4
+4020,Kevin,47,Male,Louisville,2025-02-16,129.2
+4021,Robert,24,Male,Charlotte,2024-07-26,329.3
+4022,Nathan,35,Male,Detroit,2025-04-26,127.19
+4023,Benjamin,48,Male,Dallas,2024-03-21,166.04
+4024,Grace,29,Female,San Diego,2025-01-13,329.28
+4025,Charlotte,45,Female,Los Angeles,2025-03-26,177.12
+4026,Grace,38,Female,Columbus,2025-06-13,321.72
+4027,Charlotte,38,Female,Houston,2024-09-29,1335.1
+4028,Grace,43,Female,Baltimore,2025-07-22,158.98
+4029,Diana,18,Female,Fort Worth,2024-09-25,440.71
+4030,Nathan,29,Male,Portland,2023-11-21,102.22
+4031,Penny,48,Female,San Diego,2024-02-08,492.55
+4032,Frank,25,Male,Jacksonville,2024-01-10,462.09
+4033,Katherine,40,Female,Atlanta,2024-11-29,262.93
+4034,Luna,18,Female,San Diego,2025-06-19,122.51
+4035,Kevin,37,Male,Columbus,2025-04-25,148.04
+4036,Henry,41,Male,Tucson,2023-10-21,607.92
+4037,Rachel,44,Female,Detroit,2025-01-25,411.28
+4038,Victor,67,Male,Las Vegas,2024-01-01,417.82
+4039,Marcus,25,Male,Columbus,2024-02-27,367.08
+4040,Frank,25,Male,Fresno,2024-12-19,290.47
+4041,Bella,29,Female,Albuquerque,2024-10-28,810.52
+4042,Quinn,18,Male,Fresno,2025-05-14,722.6
+4043,Henry,18,Male,Milwaukee,2023-12-30,474.92
+4044,Benjamin,19,Male,New York,2025-02-21,315.96
+4045,Charlotte,41,Female,Las Vegas,2025-01-25,641.2
+4046,Diana,22,Female,San Antonio,2024-09-26,648.88
+4047,Alice,34,Female,Nashville,2024-07-30,442.53
+4048,Thomas,60,Male,Phoenix,2025-05-11,698.32
+4049,Fiona,61,Female,Washington DC,2024-04-14,577.42
+4050,Oliver,19,Male,Philadelphia,2025-07-14,293.92
+4051,Victoria,30,Female,Portland,2023-08-26,313.89
+4052,Isabella,29,Female,Los Angeles,2025-06-30,183.66
+4053,Robert,22,Male,Boston,2025-07-18,401.16
+4054,Christopher,26,Male,San Jose,2023-11-08,716.19
+4055,Patrick,28,Male,Jacksonville,2025-08-14,391.4
+4056,Olivia,19,Female,New York,2024-07-30,426.28
+4057,Isaac,18,Male,Sacramento,2024-02-08,731.03
+4058,James,29,Male,Dallas,2024-10-29,713.87
+4059,Isabella,29,Female,Chicago,2024-01-11,1630.97
+4060,David,18,Male,Colorado Springs,2025-06-13,137.9
+4061,Nathan,18,Male,Denver,2024-09-21,210.06
+4062,Bella,42,Female,Virginia Beach,2025-03-03,554.46
+4063,Emma,45,Female,Austin,2024-05-19,194.52
+4064,Emma,31,Female,Jacksonville,2024-09-08,343.34
+4065,Liam,51,Male,Sacramento,2024-05-03,442.18
+4066,James,34,Male,Jacksonville,2024-02-22,713.62
+4067,Bella,30,Female,San Diego,2024-08-23,151.14
+4068,Kevin,49,Male,Los Angeles,2024-08-12,297.5
+4069,Julia,48,Female,Columbus,2023-10-26,621.33
+4070,Thomas,39,Male,Oklahoma City,2025-08-01,202.22
+4071,Tina,32,Female,Nashville,2024-07-23,379.41
+4072,Quinn,19,Male,Virginia Beach,2025-04-19,165.0
+4073,Victor,25,Male,Los Angeles,2025-06-13,571.06
+4074,Benjamin,37,Male,El Paso,2024-05-11,670.25
+4075,Benjamin,28,Male,Albuquerque,2024-06-12,288.91
+4076,Christopher,36,Male,San Jose,2024-09-29,125.5
+4077,Emma,24,Female,Chicago,2024-01-23,870.81
+4078,Maria,18,Female,Portland,2023-11-29,50.0
+4079,Rachel,22,Female,Sacramento,2024-02-21,749.78
+4080,Kevin,18,Male,Austin,2025-06-28,468.92
+4081,George,33,Male,New York,2024-10-11,1535.62
+4082,Alice,55,Female,Charlotte,2024-06-15,635.48
+4083,Frank,58,Male,Las Vegas,2023-12-04,738.7
+4084,Ethan,18,Male,San Diego,2024-04-12,83.24
+4085,Isabella,26,Female,Milwaukee,2024-05-18,436.4
+4086,Emma,36,Female,Long Beach,2025-04-15,228.06
+4087,Grace,27,Female,Dallas,2024-08-13,309.35
+4088,Rachel,23,Female,New York,2024-12-05,335.57
+4089,Thomas,45,Male,Albuquerque,2024-12-27,736.31
+4090,Isabella,41,Female,Indianapolis,2024-02-19,431.45
+4091,Isaac,25,Male,Boston,2025-04-06,224.28
+4092,Wendy,52,Female,Long Beach,2025-07-21,56.96
+4093,Bella,35,Female,Virginia Beach,2024-11-26,1156.01
+4094,Wendy,29,Female,San Antonio,2024-08-07,691.16
+4095,Isabella,33,Female,Tucson,2023-12-15,368.63
+4096,Olivia,44,Female,Fort Worth,2025-03-18,572.57
+4097,Isaac,36,Male,Charlotte,2023-12-16,764.67
+4098,Katherine,29,Female,Dallas,2025-01-22,643.52
+4099,James,36,Male,Charlotte,2024-08-05,366.35
+4100,Wendy,34,Female,Philadelphia,2025-06-15,434.18
+4101,George,18,Male,Oklahoma City,2024-09-14,438.42
+4102,Samuel,35,Male,Virginia Beach,2024-11-26,426.26
+4103,George,42,Male,San Francisco,2023-09-26,1185.04
+4104,Oliver,42,Male,Indianapolis,2023-09-08,358.55
+4105,Liam,61,Male,Washington DC,2025-04-24,894.07
+4106,William,18,Male,Milwaukee,2025-07-05,272.74
+4107,Wendy,42,Female,Atlanta,2024-12-15,507.7
+4108,Luna,42,Female,Sacramento,2025-02-23,139.79
+4109,Olivia,41,Female,Seattle,2024-06-11,596.51
+4110,Isaac,27,Male,Boston,2025-04-21,463.44
+4111,Fiona,37,Female,Nashville,2024-01-31,311.73
+4112,Wendy,22,Female,San Jose,2025-01-12,600.27
+4113,Penny,37,Female,Chicago,2023-08-21,963.7
+4114,Charlotte,40,Female,Houston,2024-08-18,475.77
+4115,Marcus,18,Male,Jacksonville,2024-05-13,175.27
+4116,Alexander,43,Male,San Jose,2024-11-08,575.01
+4117,Tina,33,Female,Chicago,2024-12-14,681.57
+4118,Patrick,44,Male,Austin,2024-11-07,824.13
+4119,Diana,37,Female,Boston,2024-08-02,587.0
+4120,Alexander,37,Male,Mesa,2024-08-05,504.99
+4121,Isabella,48,Female,Albuquerque,2023-08-19,491.69
+4122,Alice,43,Female,Fort Worth,2024-09-21,1569.82
+4123,Tina,18,Female,Mesa,2023-08-23,1479.13
+4124,Diana,19,Female,Baltimore,2024-09-05,214.06
+4125,Nathan,38,Male,Milwaukee,2024-03-02,265.14
+4126,Sophia,27,Female,Indianapolis,2025-07-29,404.16
+4127,Maria,46,Female,Baltimore,2023-08-27,446.87
+4128,Henry,18,Male,Seattle,2025-03-31,561.38
+4129,Victoria,24,Female,Fresno,2024-12-19,252.87
+4130,William,18,Male,El Paso,2025-03-26,183.27
+4131,Liam,43,Male,Indianapolis,2025-06-10,457.37
+4132,William,32,Male,Tucson,2023-11-01,442.63
+4133,Nina,41,Female,Milwaukee,2023-10-24,172.11
+4134,Wendy,29,Female,San Antonio,2023-12-01,498.96
+4135,Wendy,24,Female,El Paso,2024-01-02,1445.4
+4136,Luna,40,Female,Indianapolis,2024-09-02,599.99
+4137,Ethan,24,Male,Nashville,2025-04-01,197.4
+4138,Fiona,44,Female,Los Angeles,2024-02-26,172.63
+4139,Maria,47,Female,Dallas,2024-05-31,484.67
+4140,George,18,Male,Charlotte,2024-05-13,100.92
+4141,Hannah,40,Female,San Diego,2024-06-06,163.0
+4142,Henry,40,Male,Kansas City,2024-10-01,654.23
+4143,Samuel,20,Male,Dallas,2025-08-07,187.52
+4144,Alice,18,Female,Washington DC,2024-01-27,354.59
+4145,Grace,40,Female,Louisville,2024-12-27,252.04
+4146,Nina,18,Female,Philadelphia,2025-04-25,795.12
+4147,Katherine,31,Female,Jacksonville,2024-12-04,369.96
+4148,Diana,48,Female,Fresno,2025-05-03,1512.77
+4149,Marcus,40,Male,San Jose,2025-02-20,165.47
+4150,Zoe,25,Female,Charlotte,2023-10-22,954.02
+4151,Benjamin,33,Male,Fort Worth,2024-05-18,264.81
+4152,Alice,43,Female,Sacramento,2024-09-22,256.47
+4153,Rachel,18,Female,San Jose,2023-09-25,817.29
+4154,Olivia,26,Female,Sacramento,2023-08-21,1881.62
+4155,Luna,18,Female,Houston,2023-12-18,298.68
+4156,Maria,44,Female,Nashville,2024-08-14,720.43
+4157,Maria,35,Female,Charlotte,2024-06-27,644.09
+4158,Luna,47,Female,Austin,2025-03-10,818.46
+4159,Bella,23,Female,Austin,2024-10-01,850.38
+4160,George,47,Male,Austin,2025-05-03,265.9
+4161,Tina,29,Female,Virginia Beach,2023-10-23,176.31
+4162,Oliver,49,Male,San Jose,2024-09-04,255.2
+4163,Maria,47,Female,Virginia Beach,2023-09-15,364.83
+4164,Fiona,31,Female,Fort Worth,2024-01-16,285.04
+4165,Robert,40,Male,Houston,2025-05-10,960.98
+4166,Diana,29,Female,Denver,2025-05-24,436.06
+4167,Charlotte,42,Female,Sacramento,2024-07-27,1324.17
+4168,Emma,23,Female,Albuquerque,2023-09-18,661.79
+4169,Hannah,26,Female,Boston,2023-10-08,425.29
+4170,Isaac,39,Male,Washington DC,2025-06-21,198.73
+4171,Alexander,35,Male,Phoenix,2025-06-02,805.48
+4172,Quinn,31,Male,Kansas City,2024-09-29,180.74
+4173,Wendy,41,Female,Washington DC,2023-09-08,503.73
+4174,Nathan,38,Male,Virginia Beach,2025-06-23,644.47
+4175,Rachel,33,Female,Phoenix,2024-03-31,944.26
+4176,David,26,Male,Las Vegas,2025-07-17,235.55
+4177,Isaac,46,Male,San Jose,2024-10-17,520.87
+4178,Isabella,35,Female,Austin,2025-02-14,215.24
+4179,Patrick,49,Male,Oklahoma City,2025-01-16,643.2
+4180,Kevin,56,Male,Las Vegas,2024-06-01,727.84
+4181,Diana,39,Female,Atlanta,2023-10-10,1101.57
+4182,Marcus,25,Male,San Francisco,2023-12-11,322.39
+4183,Alice,18,Female,Phoenix,2024-02-06,514.48
+4184,Oliver,50,Male,Seattle,2025-04-16,1336.71
+4185,Isaac,31,Male,Oklahoma City,2024-05-25,616.36
+4186,Henry,23,Male,Atlanta,2025-05-31,347.76
+4187,Zoe,26,Female,San Jose,2024-04-13,337.08
+4188,Nathan,39,Male,Baltimore,2025-02-17,1768.07
+4189,James,33,Male,Seattle,2023-11-25,385.55
+4190,Victor,50,Male,New York,2025-08-06,83.49
+4191,Tina,30,Female,San Diego,2025-01-25,190.18
+4192,Luna,51,Female,Washington DC,2024-08-15,646.92
+4193,Luna,18,Female,San Antonio,2025-07-27,907.32
+4194,Tina,48,Female,Colorado Springs,2023-09-23,420.45
+4195,Isabella,37,Female,Charlotte,2024-06-29,376.92
+4196,Wendy,64,Female,Baltimore,2025-04-19,434.23
+4197,Thomas,43,Male,San Diego,2024-04-19,1308.41
+4198,Maria,41,Female,Virginia Beach,2025-02-27,273.22
+4199,Hannah,47,Female,San Jose,2025-07-13,464.89
+4200,Ethan,20,Male,El Paso,2024-05-30,232.85
+4201,Robert,19,Male,Chicago,2025-03-02,254.7
+4202,Charlotte,35,Female,Indianapolis,2023-09-05,406.84
+4203,Henry,21,Male,Milwaukee,2024-03-01,130.87
+4204,Fiona,30,Female,Atlanta,2025-08-09,378.4
+4205,Kevin,41,Male,Tucson,2024-08-07,261.07
+4206,Samuel,31,Male,Charlotte,2024-05-01,855.7
+4207,Luna,48,Female,San Antonio,2025-07-02,462.34
+4208,Frank,18,Male,Colorado Springs,2024-06-25,1888.1
+4209,Rachel,37,Female,Nashville,2024-12-23,142.34
+4210,Patrick,29,Male,Tucson,2024-12-09,116.75
+4211,Fiona,44,Female,Las Vegas,2023-10-16,171.58
+4212,David,43,Male,San Antonio,2024-11-09,401.97
+4213,Robert,62,Male,Seattle,2025-03-20,123.12
+4214,Quinn,46,Male,Fresno,2025-01-17,510.27
+4215,William,23,Male,Las Vegas,2023-10-13,230.61
+4216,Wendy,48,Female,Indianapolis,2023-12-05,1208.68
+4217,Alice,34,Female,Philadelphia,2025-01-16,857.99
+4218,Alexander,42,Male,San Antonio,2024-11-20,359.72
+4219,Julia,40,Female,San Francisco,2025-02-05,80.69
+4220,Penny,38,Female,Tucson,2024-04-02,174.67
+4221,Oliver,45,Male,Atlanta,2023-10-31,648.79
+4222,Fiona,37,Female,Seattle,2023-08-18,50.0
+4223,George,41,Male,Tucson,2024-03-27,539.9
+4224,Nina,35,Female,Colorado Springs,2024-05-04,486.46
+4225,Olivia,34,Female,Portland,2024-02-28,825.05
+4226,Rachel,21,Female,Sacramento,2023-11-19,470.42
+4227,Wendy,54,Female,Portland,2023-12-29,327.32
+4228,Christopher,36,Male,Colorado Springs,2024-07-08,642.63
+4229,George,55,Male,Atlanta,2024-09-23,778.79
+4230,Victoria,24,Female,San Antonio,2024-06-08,970.66
+4231,Olivia,33,Female,San Antonio,2023-09-03,320.65
+4232,Henry,39,Male,San Francisco,2024-04-29,207.18
+4233,Bella,42,Female,Atlanta,2023-10-22,555.65
+4234,Zoe,46,Female,Colorado Springs,2024-10-25,789.56
+4235,Emma,38,Female,Oklahoma City,2024-04-08,569.72
+4236,Christopher,36,Male,Detroit,2024-05-22,50.0
+4237,Victoria,39,Female,Baltimore,2024-03-15,379.68
+4238,Hannah,34,Female,Mesa,2024-05-24,375.33
+4239,Luna,18,Female,Chicago,2023-10-15,228.44
+4240,Diana,22,Female,Louisville,2025-06-03,69.44
+4241,Wendy,25,Female,Los Angeles,2025-06-06,884.94
+4242,Nathan,18,Male,Mesa,2025-07-30,1085.69
+4243,Liam,33,Male,Los Angeles,2024-10-06,319.03
+4244,Tina,48,Female,El Paso,2023-12-16,197.0
+4245,George,42,Male,Denver,2024-05-19,337.2
+4246,Emma,51,Female,Los Angeles,2023-11-24,266.9
+4247,Hannah,36,Female,Indianapolis,2024-03-22,1159.3
+4248,Alice,50,Female,Detroit,2024-08-09,1180.68
+4249,Alice,34,Female,San Francisco,2023-09-30,319.84
+4250,Robert,54,Male,Baltimore,2024-06-27,573.79
+4251,David,25,Male,Boston,2024-06-17,614.1
+4252,Hannah,44,Female,Indianapolis,2024-08-02,656.85
+4253,Kevin,48,Male,Columbus,2023-10-10,459.25
+4254,Nina,23,Female,Kansas City,2024-02-14,131.61
+4255,Victoria,20,Female,Boston,2024-02-11,453.37
+4256,Diana,38,Female,Detroit,2024-11-13,645.86
+4257,Liam,43,Male,Tucson,2024-10-22,235.61
+4258,Frank,30,Male,El Paso,2024-01-04,1523.96
+4259,Alice,35,Female,Virginia Beach,2023-11-01,371.97
+4260,Maria,49,Female,Charlotte,2024-03-24,389.81
+4261,Victor,50,Male,Washington DC,2025-07-08,909.34
+4262,George,46,Male,Philadelphia,2024-04-13,320.47
+4263,Tina,39,Female,Oklahoma City,2024-11-10,50.0
+4264,Victor,34,Male,Virginia Beach,2025-03-24,89.1
+4265,Julia,40,Female,Jacksonville,2024-04-11,785.44
+4266,Charlotte,39,Female,Fort Worth,2024-04-15,509.47
+4267,Quinn,38,Male,Tucson,2025-04-02,404.2
+4268,Alice,56,Female,El Paso,2025-05-04,807.56
+4269,Grace,38,Female,Nashville,2025-07-27,209.63
+4270,Kevin,49,Male,Austin,2023-11-22,1487.4
+4271,Victor,41,Male,Los Angeles,2024-04-05,144.31
+4272,Henry,43,Male,Fort Worth,2025-07-07,250.66
+4273,Penny,43,Female,Washington DC,2024-01-08,479.67
+4274,Katherine,53,Female,Kansas City,2024-03-31,108.55
+4275,Samuel,26,Male,Kansas City,2025-07-20,540.5
+4276,Maria,22,Female,Jacksonville,2025-07-23,237.86
+4277,Diana,30,Female,Virginia Beach,2024-03-15,460.4
+4278,Ethan,29,Male,Fort Worth,2025-01-04,78.09
+4279,Frank,18,Male,Philadelphia,2024-08-07,50.0
+4280,Rachel,51,Female,Oklahoma City,2024-10-08,300.54
+4281,Quinn,18,Male,San Jose,2024-02-08,56.21
+4282,William,51,Male,Long Beach,2024-05-15,395.11
+4283,Alice,38,Female,Oklahoma City,2025-04-02,183.2
+4284,Isaac,72,Male,Portland,2024-05-28,1228.62
+4285,George,18,Male,Denver,2023-11-06,304.76
+4286,Sophia,34,Female,Mesa,2024-09-30,429.92
+4287,Frank,41,Male,Boston,2024-10-20,245.45
+4288,Oliver,19,Male,Baltimore,2024-09-16,91.62
+4289,Christopher,55,Male,San Francisco,2024-12-25,637.54
+4290,Nina,31,Female,San Jose,2024-09-20,635.3
+4291,Wendy,34,Female,Seattle,2025-07-11,285.54
+4292,Benjamin,23,Male,Tucson,2024-07-17,160.81
+4293,Oliver,21,Male,Charlotte,2025-01-13,1198.38
+4294,Patrick,38,Male,Charlotte,2024-06-30,715.19
+4295,Grace,33,Female,Columbus,2024-03-14,508.21
+4296,James,36,Male,New York,2025-01-02,186.23
+4297,Samuel,29,Male,San Francisco,2025-04-04,181.77
+4298,Benjamin,49,Male,Virginia Beach,2025-03-18,571.82
+4299,Isabella,24,Female,Baltimore,2024-06-09,186.57
+4300,Emma,26,Female,Kansas City,2024-08-13,50.0
+4301,Nina,18,Female,Mesa,2024-11-19,594.32
+4302,Marcus,34,Male,Las Vegas,2024-02-07,355.19
+4303,Liam,21,Male,Sacramento,2024-12-08,540.94
+4304,Penny,37,Female,Oklahoma City,2025-01-18,104.7
+4305,Tina,30,Female,Mesa,2025-03-13,410.62
+4306,Charlotte,18,Female,Indianapolis,2023-10-08,686.89
+4307,Bella,23,Female,Indianapolis,2025-08-08,1223.77
+4308,Fiona,36,Female,Nashville,2024-07-30,635.77
+4309,Bella,33,Female,San Francisco,2024-06-02,541.77
+4310,Victor,25,Male,Long Beach,2024-08-19,543.43
+4311,Alice,23,Female,Phoenix,2025-06-17,202.23
+4312,Isaac,18,Male,Boston,2025-01-01,70.0
+4313,Patrick,46,Male,Long Beach,2024-09-15,354.33
+4314,Penny,31,Female,Dallas,2025-03-15,284.45
+4315,George,43,Male,Fresno,2024-05-03,100.98
+4316,Isabella,36,Female,Long Beach,2025-05-30,436.13
+4317,Victor,30,Male,San Antonio,2024-09-10,1028.97
+4318,Rachel,18,Female,Charlotte,2024-11-23,188.07
+4319,Alice,38,Female,Kansas City,2023-10-16,461.6
+4320,Oliver,43,Male,Milwaukee,2025-02-27,238.17
+4321,Robert,33,Male,Mesa,2024-12-07,690.32
+4322,David,18,Male,Milwaukee,2024-04-30,312.6
+4323,Sophia,53,Female,Baltimore,2024-11-29,321.12
+4324,Julia,21,Female,Atlanta,2023-09-16,801.72
+4325,Fiona,34,Female,Phoenix,2025-08-03,376.93
+4326,Kevin,40,Male,Los Angeles,2024-12-22,163.14
+4327,Nina,26,Female,Baltimore,2024-06-02,685.97
+4328,Nina,21,Female,Houston,2025-02-15,735.79
+4329,Alice,33,Female,Albuquerque,2025-07-20,120.11
+4330,James,49,Male,Phoenix,2024-06-24,385.44
+4331,Zoe,39,Female,Detroit,2023-08-22,145.38
+4332,Ethan,23,Male,Seattle,2024-02-20,322.04
+4333,Olivia,18,Female,Indianapolis,2024-08-22,183.99
+4334,Benjamin,51,Male,Colorado Springs,2024-08-28,273.71
+4335,Julia,22,Female,Louisville,2024-10-12,654.24
+4336,Isaac,50,Male,Oklahoma City,2024-10-08,504.78
+4337,Nathan,38,Male,Baltimore,2024-07-05,242.8
+4338,Thomas,18,Male,Long Beach,2024-05-26,328.64
+4339,Zoe,34,Female,Washington DC,2025-03-01,502.77
+4340,William,18,Male,Charlotte,2024-10-18,397.35
+4341,Olivia,38,Female,Fresno,2024-08-14,97.43
+4342,Emma,37,Female,San Jose,2024-04-23,1040.19
+4343,Maria,34,Female,Atlanta,2023-09-01,374.72
+4344,Victor,34,Male,New York,2023-10-30,627.76
+4345,Sophia,21,Female,Houston,2024-06-14,418.76
+4346,Alice,34,Female,Atlanta,2025-07-18,58.35
+4347,Henry,26,Male,Phoenix,2023-11-07,315.03
+4348,Sophia,41,Female,Phoenix,2025-07-02,88.94
+4349,Luna,48,Female,Las Vegas,2023-11-26,204.11
+4350,Kevin,43,Male,Fort Worth,2024-03-29,214.04
+4351,Patrick,41,Male,Colorado Springs,2024-07-12,194.93
+4352,Liam,48,Male,Jacksonville,2024-01-13,102.89
+4353,Benjamin,52,Male,Tucson,2024-08-02,159.68
+4354,Henry,38,Male,El Paso,2024-07-28,163.35
+4355,Frank,18,Male,San Antonio,2024-06-30,586.03
+4356,Diana,34,Female,Mesa,2025-01-05,958.55
+4357,Zoe,30,Female,Portland,2024-04-04,239.59
+4358,Emma,35,Female,Portland,2024-03-21,722.32
+4359,Isabella,30,Female,Dallas,2025-03-29,533.11
+4360,William,18,Male,Jacksonville,2023-11-07,118.83
+4361,George,20,Male,Washington DC,2025-04-26,656.82
+4362,Alice,38,Female,Jacksonville,2024-11-30,683.72
+4363,Fiona,51,Female,Indianapolis,2024-12-21,620.18
+4364,Julia,26,Female,Philadelphia,2023-12-13,1135.7
+4365,Liam,40,Male,Indianapolis,2025-08-03,428.66
+4366,Diana,49,Female,Fort Worth,2024-02-09,1047.64
+4367,Oliver,31,Male,Detroit,2023-12-20,2024.7
+4368,Victoria,37,Female,Philadelphia,2023-12-10,436.77
+4369,William,51,Male,Baltimore,2024-09-27,598.08
+4370,George,18,Male,Sacramento,2025-07-15,460.58
+4371,Quinn,35,Male,Los Angeles,2024-01-31,804.47
+4372,Rachel,42,Female,Houston,2024-06-06,1033.92
+4373,Nina,59,Female,Houston,2023-12-27,502.13
+4374,Zoe,36,Female,Nashville,2024-11-25,89.29
+4375,George,28,Male,Austin,2024-06-25,953.48
+4376,Alexander,31,Male,Sacramento,2023-09-05,455.61
+4377,Alexander,32,Male,New York,2024-11-05,189.33
+4378,Victor,46,Male,Portland,2024-01-06,410.11
+4379,Thomas,29,Male,Los Angeles,2024-10-20,513.42
+4380,Olivia,23,Female,Mesa,2024-05-25,753.33
+4381,Bella,41,Female,Phoenix,2025-01-11,567.73
+4382,Liam,31,Male,Fort Worth,2024-01-12,1095.11
+4383,Tina,49,Female,Virginia Beach,2025-02-14,338.79
+4384,Julia,58,Female,Jacksonville,2025-03-28,141.16
+4385,Maria,23,Female,Columbus,2023-09-29,440.19
+4386,Alice,52,Female,San Antonio,2023-10-28,849.8
+4387,Zoe,21,Female,San Jose,2025-05-13,213.39
+4388,Rachel,49,Female,Nashville,2023-12-29,204.3
+4389,Olivia,29,Female,Jacksonville,2024-04-09,725.61
+4390,Grace,32,Female,Jacksonville,2024-07-14,355.81
+4391,Katherine,34,Female,San Jose,2024-02-22,497.2
+4392,Grace,21,Female,Los Angeles,2025-05-06,297.14
+4393,Sophia,54,Female,Chicago,2024-09-03,810.31
+4394,Maria,33,Female,San Diego,2024-11-24,606.0
+4395,Thomas,39,Male,Denver,2024-10-24,1086.97
+4396,George,18,Male,Detroit,2024-11-03,229.7
+4397,Zoe,54,Female,Jacksonville,2024-10-17,320.99
+4398,Penny,31,Female,Sacramento,2024-04-25,218.64
+4399,Kevin,47,Male,San Antonio,2025-04-24,59.34
+4400,Julia,41,Female,Fort Worth,2024-11-08,465.62
+4401,Rachel,18,Female,San Jose,2025-03-31,138.32
+4402,Sophia,42,Female,El Paso,2025-01-12,659.51
+4403,Hannah,49,Female,Kansas City,2024-03-19,609.91
+4404,Charlotte,30,Female,Baltimore,2024-11-06,240.69
+4405,Henry,46,Male,Kansas City,2023-10-15,114.32
+4406,Ethan,28,Male,El Paso,2023-11-20,292.72
+4407,Patrick,18,Male,Nashville,2023-11-09,393.84
+4408,James,26,Male,San Francisco,2024-03-25,383.83
+4409,Julia,49,Female,Fort Worth,2023-12-26,148.9
+4410,Diana,52,Female,Chicago,2025-01-02,599.81
+4411,Alice,24,Female,Houston,2024-08-22,119.73
+4412,Isabella,23,Female,Atlanta,2024-06-15,372.78
+4413,George,39,Male,Sacramento,2023-11-23,196.92
+4414,Frank,47,Male,Boston,2024-05-21,595.33
+4415,Luna,25,Female,Mesa,2023-12-28,1209.66
+4416,Olivia,26,Female,Long Beach,2024-11-21,317.85
+4417,Luna,24,Female,Oklahoma City,2025-01-02,128.51
+4418,Maria,34,Female,Fort Worth,2024-11-28,840.94
+4419,Samuel,18,Male,Boston,2025-08-14,780.84
+4420,Isaac,28,Male,Baltimore,2024-09-23,499.64
+4421,Marcus,23,Male,Denver,2024-08-06,595.24
+4422,Tina,18,Female,Louisville,2023-11-25,113.3
+4423,Diana,52,Female,Louisville,2024-03-31,1197.12
+4424,Charlotte,22,Female,Philadelphia,2024-07-09,123.65
+4425,Julia,29,Female,Los Angeles,2023-09-23,595.52
+4426,Julia,36,Female,San Antonio,2024-05-03,176.61
+4427,Victor,24,Male,Kansas City,2023-08-22,703.44
+4428,Isabella,51,Female,Virginia Beach,2023-11-22,545.37
+4429,Charlotte,35,Female,Washington DC,2025-04-01,695.99
+4430,Julia,36,Female,Denver,2025-07-19,151.66
+4431,Zoe,58,Female,Houston,2024-08-18,206.79
+4432,Luna,31,Female,Chicago,2024-08-10,282.07
+4433,Marcus,36,Male,Philadelphia,2024-12-27,150.53
+4434,Thomas,20,Male,Atlanta,2024-06-13,739.07
+4435,Olivia,46,Female,Long Beach,2025-04-19,784.56
+4436,Liam,18,Male,Boston,2024-08-06,1131.85
+4437,David,47,Male,Long Beach,2023-10-14,486.83
+4438,Benjamin,21,Male,Houston,2023-09-06,389.06
+4439,Thomas,29,Male,Portland,2025-02-21,131.98
+4440,Marcus,39,Male,Detroit,2024-03-15,281.23
+4441,Maria,29,Female,Houston,2024-03-02,299.54
+4442,Zoe,67,Female,Louisville,2024-09-10,826.8
+4443,Katherine,25,Female,Sacramento,2023-12-15,861.13
+4444,Liam,25,Male,Fresno,2024-07-14,1276.01
+4445,Bella,28,Female,Chicago,2025-02-07,657.36
+4446,Nathan,34,Male,San Antonio,2025-02-24,232.78
+4447,Hannah,35,Female,Jacksonville,2024-09-19,414.49
+4448,Oliver,37,Male,Boston,2023-11-05,219.84
+4449,Ethan,35,Male,Columbus,2023-11-06,407.73
+4450,Julia,28,Female,Columbus,2025-03-03,689.77
+4451,Olivia,42,Female,Virginia Beach,2025-04-07,303.9
+4452,Alexander,39,Male,Chicago,2024-05-09,1225.4
+4453,Charlotte,18,Female,Columbus,2025-04-07,444.32
+4454,Henry,38,Male,Denver,2023-09-14,559.53
+4455,Alexander,30,Male,San Francisco,2025-01-21,462.89
+4456,Wendy,35,Female,El Paso,2024-09-17,356.74
+4457,Liam,34,Male,Portland,2025-08-07,386.98
+4458,Oliver,48,Male,Nashville,2023-10-28,716.03
+4459,Diana,31,Female,Chicago,2025-04-12,870.05
+4460,James,34,Male,San Jose,2025-02-14,831.58
+4461,Rachel,27,Female,San Francisco,2024-03-19,519.81
+4462,Sophia,41,Female,Indianapolis,2025-08-14,58.4
+4463,Fiona,30,Female,Mesa,2024-07-08,451.26
+4464,Tina,18,Female,Washington DC,2024-04-25,360.42
+4465,Nathan,26,Male,Seattle,2025-04-03,447.87
+4466,Emma,55,Female,New York,2024-06-30,278.78
+4467,Emma,33,Female,Las Vegas,2025-08-10,926.34
+4468,Charlotte,19,Female,Seattle,2025-03-03,445.94
+4469,Marcus,42,Male,Tucson,2024-02-04,322.44
+4470,Quinn,31,Male,Colorado Springs,2025-03-29,305.92
+4471,Alexander,43,Male,Oklahoma City,2024-10-17,314.41
+4472,Christopher,34,Male,Baltimore,2024-04-27,309.04
+4473,Isaac,42,Male,Charlotte,2025-01-15,1301.35
+4474,Ethan,30,Male,San Diego,2024-11-19,137.49
+4475,Henry,30,Male,Austin,2023-12-14,1070.42
+4476,Julia,24,Female,Phoenix,2023-11-24,401.22
+4477,Liam,41,Male,Long Beach,2024-01-13,342.78
+4478,Victor,28,Male,Austin,2024-01-13,837.08
+4479,Quinn,55,Male,Oklahoma City,2023-09-27,743.74
+4480,Samuel,45,Male,Long Beach,2024-04-27,690.62
+4481,Samuel,38,Male,Denver,2024-03-07,496.34
+4482,Olivia,29,Female,Indianapolis,2024-09-11,698.51
+4483,George,18,Male,San Diego,2024-04-07,1293.53
+4484,Diana,31,Female,Fort Worth,2025-01-10,259.3
+4485,Frank,31,Male,Kansas City,2024-03-13,247.46
+4486,Julia,22,Female,Fort Worth,2024-02-26,515.53
+4487,Isaac,44,Male,Sacramento,2025-05-03,368.41
+4488,Christopher,26,Male,Albuquerque,2025-08-04,225.04
+4489,Isabella,23,Female,San Antonio,2024-12-23,368.22
+4490,Henry,18,Male,Charlotte,2023-10-23,614.04
+4491,Christopher,30,Male,Portland,2025-07-18,571.16
+4492,Liam,48,Male,Philadelphia,2025-03-11,122.61
+4493,Ethan,44,Male,San Francisco,2025-06-16,208.72
+4494,Fiona,33,Female,Virginia Beach,2025-08-09,583.06
+4495,Bella,39,Female,Baltimore,2025-05-09,369.27
+4496,James,44,Male,Baltimore,2023-11-15,382.78
+4497,Rachel,41,Female,Chicago,2025-05-09,120.63
+4498,Wendy,30,Female,Fresno,2024-02-13,557.84
+4499,Marcus,52,Male,Columbus,2025-01-16,63.15
+4500,Victor,34,Male,Chicago,2025-04-11,501.86
+4501,Olivia,39,Female,New York,2025-02-21,1100.49
+4502,James,35,Male,El Paso,2024-12-21,50.0
+4503,Quinn,38,Male,Jacksonville,2024-08-06,1199.76
+4504,Alice,18,Female,Milwaukee,2024-10-10,411.91
+4505,Marcus,18,Male,Houston,2024-02-27,456.76
+4506,Diana,47,Female,Portland,2024-06-12,337.4
+4507,James,29,Male,Denver,2024-07-10,484.53
+4508,Katherine,29,Female,Phoenix,2024-11-20,193.77
+4509,Oliver,49,Male,Jacksonville,2025-05-19,693.91
+4510,Tina,51,Female,Fort Worth,2023-10-22,555.45
+4511,William,37,Male,Baltimore,2024-08-25,167.04
+4512,Benjamin,39,Male,Baltimore,2024-03-05,1136.26
+4513,Ethan,33,Male,San Francisco,2025-06-29,588.82
+4514,Rachel,30,Female,Sacramento,2024-05-10,50.0
+4515,Samuel,46,Male,Kansas City,2025-07-09,322.47
+4516,Kevin,29,Male,San Jose,2024-04-10,424.71
+4517,Nina,57,Female,Boston,2023-08-16,1291.32
+4518,David,45,Male,San Diego,2025-03-02,102.97
+4519,Zoe,46,Female,Phoenix,2025-01-31,1614.15
+4520,Emma,28,Female,Sacramento,2025-01-30,259.34
+4521,Maria,20,Female,Los Angeles,2024-07-15,496.94
+4522,Sophia,39,Female,Austin,2024-12-12,616.8
+4523,Victor,18,Male,Nashville,2024-05-02,219.24
+4524,Christopher,27,Male,San Jose,2023-09-30,845.93
+4525,George,25,Male,Charlotte,2024-09-08,746.74
+4526,Alexander,34,Male,Portland,2024-01-21,439.87
+4527,Alexander,44,Male,Mesa,2024-06-24,285.14
+4528,David,34,Male,Portland,2024-01-16,221.15
+4529,Olivia,43,Female,San Diego,2024-02-27,809.87
+4530,Oliver,61,Male,Chicago,2025-04-11,172.21
+4531,Olivia,41,Female,Long Beach,2024-04-17,383.68
+4532,Ethan,62,Male,Los Angeles,2024-10-10,270.5
+4533,Victoria,28,Female,Albuquerque,2024-10-01,288.42
+4534,Olivia,49,Female,Portland,2024-08-03,257.32
+4535,Samuel,40,Male,Virginia Beach,2024-04-22,492.06
+4536,Charlotte,33,Female,Baltimore,2024-12-25,111.83
+4537,Patrick,30,Male,Tucson,2023-09-19,280.97
+4538,Sophia,21,Female,Indianapolis,2023-10-26,391.1
+4539,Alice,18,Female,Milwaukee,2025-03-10,539.4
+4540,Isabella,32,Female,San Jose,2024-07-15,220.42
+4541,Hannah,52,Female,Long Beach,2023-11-13,138.24
+4542,Bella,26,Female,Charlotte,2025-05-02,111.71
+4543,James,39,Male,Denver,2024-07-02,665.61
+4544,Tina,18,Female,Jacksonville,2023-08-15,104.98
+4545,Charlotte,50,Female,Indianapolis,2025-07-15,878.96
+4546,Kevin,30,Male,Nashville,2024-01-09,1883.58
+4547,Benjamin,41,Male,Louisville,2024-12-30,317.1
+4548,Thomas,26,Male,San Jose,2023-11-19,375.4
+4549,Christopher,45,Male,Milwaukee,2024-12-02,1170.46
+4550,Emma,58,Female,Long Beach,2023-12-09,144.16
+4551,Oliver,36,Male,Oklahoma City,2025-06-26,571.38
+4552,Isaac,51,Male,Detroit,2024-03-02,426.61
+4553,Nathan,47,Male,Oklahoma City,2024-12-05,149.04
+4554,Emma,30,Female,Las Vegas,2024-02-14,531.88
+4555,Hannah,37,Female,Baltimore,2024-05-12,816.92
+4556,Grace,42,Female,Portland,2025-06-05,107.55
+4557,Hannah,24,Female,Nashville,2023-12-13,1455.78
+4558,William,27,Male,Boston,2024-05-30,494.68
+4559,Wendy,34,Female,Oklahoma City,2024-03-25,112.25
+4560,Isaac,18,Male,Sacramento,2025-01-07,281.17
+4561,Nathan,18,Male,San Francisco,2024-02-02,495.1
+4562,Nathan,33,Male,Fort Worth,2024-12-06,488.79
+4563,Olivia,37,Female,Fort Worth,2025-01-10,347.89
+4564,Wendy,32,Female,Virginia Beach,2023-08-15,996.8
+4565,Bella,43,Female,Milwaukee,2024-07-28,1146.66
+4566,Nina,37,Female,Las Vegas,2023-11-20,726.98
+4567,Bella,18,Female,Washington DC,2024-01-27,977.99
+4568,Nathan,29,Male,Oklahoma City,2024-12-24,224.13
+4569,James,50,Male,Albuquerque,2023-08-21,1287.91
+4570,George,18,Male,Long Beach,2025-01-04,375.61
+4571,Victoria,39,Female,Baltimore,2025-04-03,1008.55
+4572,Thomas,27,Male,Virginia Beach,2025-08-06,128.96
+4573,Emma,54,Female,Houston,2024-06-18,92.4
+4574,Marcus,27,Male,Columbus,2023-11-19,217.01
+4575,William,46,Male,Kansas City,2023-10-05,505.21
+4576,Kevin,32,Male,Portland,2024-05-21,410.84
+4577,Luna,38,Female,Louisville,2025-01-30,388.58
+4578,Liam,46,Male,Baltimore,2023-10-28,427.22
+4579,Benjamin,25,Male,Columbus,2024-03-31,64.81
+4580,Charlotte,47,Female,Mesa,2025-05-20,334.24
+4581,Wendy,40,Female,Jacksonville,2023-11-23,833.53
+4582,Robert,52,Male,Mesa,2025-03-02,122.49
+4583,James,22,Male,Oklahoma City,2025-02-15,242.36
+4584,Olivia,18,Female,Fort Worth,2023-11-20,538.99
+4585,James,34,Male,Las Vegas,2025-08-09,99.54
+4586,Victor,39,Male,Milwaukee,2023-11-27,367.01
+4587,Patrick,37,Male,Dallas,2024-09-05,583.12
+4588,Julia,20,Female,Boston,2023-08-21,214.17
+4589,Sophia,31,Female,Virginia Beach,2024-12-02,992.05
+4590,Luna,35,Female,Chicago,2024-07-01,126.94
+4591,Zoe,48,Female,San Antonio,2025-01-24,306.97
+4592,Ethan,59,Male,Philadelphia,2024-11-16,664.56
+4593,Benjamin,29,Male,New York,2023-12-03,647.22
+4594,David,21,Male,El Paso,2024-06-10,181.64
+4595,Frank,21,Male,Boston,2024-12-28,519.06
+4596,Alice,28,Female,Fort Worth,2025-05-04,313.05
+4597,James,21,Male,Columbus,2023-10-17,898.13
+4598,Thomas,18,Male,Phoenix,2023-10-27,146.89
+4599,Bella,39,Female,Virginia Beach,2025-02-15,110.7
+4600,Victor,24,Male,Atlanta,2024-10-18,326.27
+4601,Grace,28,Female,Albuquerque,2024-05-21,568.51
+4602,William,31,Male,Jacksonville,2025-07-19,382.0
+4603,Samuel,31,Male,Washington DC,2024-03-31,331.8
+4604,George,42,Male,Kansas City,2023-11-25,606.72
+4605,Kevin,42,Male,San Jose,2024-03-04,246.82
+4606,Kevin,39,Male,Las Vegas,2023-10-15,550.07
+4607,Henry,36,Male,Long Beach,2024-09-22,460.54
+4608,Sophia,21,Female,Las Vegas,2024-10-26,442.32
+4609,Kevin,44,Male,Kansas City,2024-11-01,209.11
+4610,Nina,18,Female,Albuquerque,2025-03-06,191.22
+4611,Robert,31,Male,San Francisco,2024-12-31,488.26
+4612,Henry,37,Male,San Jose,2025-04-25,160.89
+4613,Grace,37,Female,San Antonio,2024-12-08,386.74
+4614,Christopher,33,Male,Dallas,2024-03-22,144.41
+4615,Charlotte,33,Female,Albuquerque,2024-08-27,938.73
+4616,Charlotte,44,Female,Albuquerque,2024-08-21,601.58
+4617,Kevin,22,Male,Los Angeles,2025-02-11,214.48
+4618,Penny,39,Female,Nashville,2024-03-18,979.34
+4619,Grace,29,Female,Atlanta,2023-09-23,344.27
+4620,Olivia,36,Female,Jacksonville,2025-06-01,367.1
+4621,Grace,43,Female,Los Angeles,2025-07-12,283.13
+4622,Julia,25,Female,Mesa,2024-08-10,256.97
+4623,Alice,18,Female,El Paso,2023-11-05,152.14
+4624,Frank,41,Male,Nashville,2024-08-14,251.51
+4625,Ethan,26,Male,Jacksonville,2024-10-22,724.42
+4626,Isaac,29,Male,Virginia Beach,2024-09-04,290.26
+4627,Thomas,53,Male,Oklahoma City,2025-07-29,727.29
+4628,James,23,Male,San Diego,2025-08-05,99.87
+4629,Wendy,21,Female,Fort Worth,2025-06-27,185.77
+4630,Tina,29,Female,Boston,2023-11-19,359.27
+4631,Samuel,30,Male,Philadelphia,2025-05-05,505.73
+4632,Alice,25,Female,Colorado Springs,2024-10-03,597.97
+4633,Julia,42,Female,Los Angeles,2024-05-08,694.08
+4634,Sophia,24,Female,Atlanta,2024-12-26,255.47
+4635,Emma,53,Female,Austin,2025-02-22,536.39
+4636,Bella,41,Female,Indianapolis,2025-07-12,142.16
+4637,Marcus,30,Male,Fresno,2025-02-28,643.7
+4638,Robert,35,Male,Sacramento,2023-08-27,151.59
+4639,Benjamin,20,Male,Tucson,2023-10-03,1329.65
+4640,Victor,18,Male,Austin,2024-02-22,511.02
+4641,David,46,Male,San Francisco,2023-09-13,541.21
+4642,Thomas,32,Male,Indianapolis,2023-09-28,298.21
+4643,Grace,28,Female,Louisville,2025-03-13,315.11
+4644,William,30,Male,Chicago,2024-08-19,1242.26
+4645,Robert,45,Male,Milwaukee,2024-11-16,324.09
+4646,Wendy,32,Female,Philadelphia,2024-08-15,630.8
+4647,William,33,Male,Kansas City,2024-06-13,289.41
+4648,Christopher,31,Male,Dallas,2025-01-09,789.07
+4649,Sophia,51,Female,New York,2023-10-14,194.02
+4650,Olivia,34,Female,Los Angeles,2024-09-10,858.42
+4651,Thomas,53,Male,Portland,2024-11-07,967.28
+4652,Marcus,51,Male,Albuquerque,2024-03-04,1289.58
+4653,Charlotte,40,Female,Portland,2024-03-28,733.59
+4654,Christopher,38,Male,Seattle,2024-08-22,709.73
+4655,Charlotte,45,Female,El Paso,2024-01-10,195.9
+4656,Bella,37,Female,Fresno,2025-03-27,364.64
+4657,Fiona,35,Female,Las Vegas,2024-09-10,70.42
+4658,William,47,Male,Dallas,2024-05-26,50.0
+4659,Alice,44,Female,Indianapolis,2024-11-20,703.9
+4660,Nina,41,Female,Fort Worth,2025-04-16,189.95
+4661,Julia,26,Female,Denver,2024-12-24,374.29
+4662,Robert,36,Male,Philadelphia,2023-10-02,142.64
+4663,Grace,53,Female,Philadelphia,2025-01-06,283.07
+4664,Wendy,56,Female,Boston,2025-01-29,80.82
+4665,Katherine,40,Female,San Diego,2025-04-24,230.8
+4666,Benjamin,45,Male,Dallas,2023-09-26,611.61
+4667,George,31,Male,San Francisco,2023-10-17,664.66
+4668,Ethan,24,Male,Jacksonville,2024-06-27,160.78
+4669,Bella,27,Female,Phoenix,2024-07-11,461.77
+4670,James,39,Male,Mesa,2024-11-02,163.47
+4671,Patrick,27,Male,Philadelphia,2024-03-28,166.73
+4672,Ethan,43,Male,New York,2025-02-07,341.82
+4673,Alexander,34,Male,El Paso,2025-02-06,1143.05
+4674,Sophia,35,Female,Phoenix,2023-11-10,247.66
+4675,James,43,Male,Atlanta,2025-01-13,188.51
+4676,Tina,53,Female,Milwaukee,2025-01-08,289.45
+4677,Tina,48,Female,El Paso,2023-12-12,874.56
+4678,Wendy,22,Female,San Antonio,2025-07-11,50.67
+4679,Sophia,42,Female,San Diego,2024-08-31,181.66
+4680,David,20,Male,Dallas,2025-03-09,234.99
+4681,Marcus,18,Male,Philadelphia,2025-01-22,235.89
+4682,Liam,52,Male,Philadelphia,2023-12-15,613.12
+4683,Frank,54,Male,New York,2023-11-15,1089.22
+4684,Fiona,18,Female,Charlotte,2025-03-08,173.33
+4685,Nathan,25,Male,Houston,2024-02-27,860.53
+4686,Frank,27,Male,Portland,2025-05-23,366.56
+4687,Victor,25,Male,Sacramento,2025-02-28,689.88
+4688,Marcus,24,Male,Albuquerque,2023-09-05,754.69
+4689,Marcus,27,Male,Tucson,2025-03-26,903.41
+4690,Rachel,44,Female,Jacksonville,2024-02-29,496.92
+4691,Isabella,41,Female,Denver,2023-09-30,216.2
+4692,Zoe,53,Female,Atlanta,2025-01-16,700.15
+4693,David,42,Male,Baltimore,2024-10-09,775.15
+4694,Liam,37,Male,Fresno,2023-10-10,388.82
+4695,Alexander,34,Male,Philadelphia,2024-07-12,147.71
+4696,Liam,44,Male,Fort Worth,2024-05-04,903.09
+4697,Quinn,33,Male,San Jose,2024-08-14,461.79
+4698,Maria,18,Female,Mesa,2024-10-02,225.43
+4699,Marcus,40,Male,San Diego,2024-05-09,186.65
+4700,Ethan,36,Male,Fort Worth,2024-02-17,378.28
+4701,Liam,36,Male,Boston,2023-10-29,264.88
+4702,Oliver,40,Male,Austin,2024-10-07,496.51
+4703,Diana,38,Female,Atlanta,2025-01-24,909.26
+4704,Samuel,26,Male,Colorado Springs,2024-01-28,151.31
+4705,Emma,28,Female,Fresno,2024-08-20,205.7
+4706,Tina,40,Female,Denver,2023-09-16,122.73
+4707,Nathan,44,Male,Louisville,2025-05-06,892.82
+4708,Quinn,18,Male,Detroit,2024-02-09,359.43
+4709,Patrick,30,Male,Sacramento,2024-07-24,335.87
+4710,Alexander,29,Male,Indianapolis,2024-05-20,145.87
+4711,Samuel,32,Male,Austin,2023-12-02,371.59
+4712,Ethan,46,Male,Houston,2025-06-25,554.95
+4713,Ethan,31,Male,Tucson,2025-05-02,470.39
+4714,Alice,39,Female,Houston,2024-09-22,165.49
+4715,Sophia,51,Female,Louisville,2025-06-13,638.95
+4716,Frank,42,Male,Baltimore,2025-02-06,466.99
+4717,Alexander,51,Male,Philadelphia,2024-06-16,225.62
+4718,Victor,29,Male,Atlanta,2024-04-06,144.86
+4719,Bella,20,Female,Colorado Springs,2024-06-14,283.1
+4720,Zoe,33,Female,Phoenix,2025-01-22,1067.63
+4721,Olivia,38,Female,Indianapolis,2024-02-29,89.05
+4722,Victor,18,Male,Baltimore,2023-10-10,221.18
+4723,Alice,40,Female,Albuquerque,2024-05-13,285.68
+4724,Bella,41,Female,Tucson,2024-08-15,402.11
+4725,Thomas,59,Male,Tucson,2025-06-04,373.25
+4726,Victor,26,Male,Long Beach,2023-12-24,445.41
+4727,Marcus,28,Male,Charlotte,2025-03-24,560.74
+4728,Penny,65,Female,Austin,2025-08-01,303.61
+4729,Christopher,18,Male,Detroit,2025-07-12,506.97
+4730,Emma,40,Female,Milwaukee,2023-10-04,50.0
+4731,Hannah,21,Female,Boston,2024-07-19,410.74
+4732,Diana,24,Female,Milwaukee,2024-03-08,317.52
+4733,Hannah,29,Female,Baltimore,2025-04-23,126.27
+4734,James,47,Male,San Jose,2024-04-10,143.14
+4735,Charlotte,19,Female,Las Vegas,2024-09-22,247.6
+4736,Benjamin,37,Male,Dallas,2023-08-20,1040.31
+4737,Victor,32,Male,Portland,2024-01-08,150.45
+4738,Tina,35,Female,San Jose,2024-09-30,192.09
+4739,Diana,46,Female,Nashville,2024-03-24,402.72
+4740,Alexander,21,Male,Louisville,2024-11-12,204.03
+4741,Wendy,28,Female,Jacksonville,2024-07-19,1549.74
+4742,James,38,Male,Atlanta,2024-10-20,381.96
+4743,Liam,41,Male,Columbus,2024-08-09,173.29
+4744,George,28,Male,Los Angeles,2025-03-01,815.52
+4745,Diana,46,Female,Albuquerque,2024-01-04,285.47
+4746,James,32,Male,Seattle,2025-06-03,1228.66
+4747,William,22,Male,Fort Worth,2025-02-20,84.83
+4748,Benjamin,37,Male,Tucson,2024-02-10,544.63
+4749,Diana,51,Female,Austin,2023-08-19,165.59
+4750,Thomas,22,Male,Kansas City,2024-06-09,591.32
+4751,Robert,48,Male,Charlotte,2024-02-01,242.8
+4752,Marcus,31,Male,Tucson,2024-04-24,1085.83
+4753,Rachel,57,Female,Tucson,2025-04-19,557.44
+4754,Fiona,37,Female,Louisville,2025-05-17,50.0
+4755,Kevin,34,Male,Tucson,2025-07-10,355.65
+4756,Wendy,26,Female,Houston,2023-08-16,325.83
+4757,Alice,18,Female,San Antonio,2024-12-07,50.0
+4758,Ethan,23,Male,Boston,2025-04-26,1308.34
+4759,Isabella,39,Female,Colorado Springs,2025-01-27,961.28
+4760,Samuel,32,Male,San Jose,2023-10-29,1042.76
+4761,Patrick,19,Male,Sacramento,2024-09-05,198.01
+4762,Julia,36,Female,Columbus,2024-02-05,184.65
+4763,Emma,23,Female,Tucson,2024-08-08,167.34
+4764,Alexander,21,Male,Washington DC,2023-09-27,525.1
+4765,Tina,31,Female,Austin,2025-08-12,740.59
+4766,William,32,Male,Washington DC,2025-01-16,218.23
+4767,Zoe,18,Female,Virginia Beach,2023-10-22,262.95
+4768,Fiona,41,Female,Virginia Beach,2025-06-18,269.57
+4769,Henry,18,Male,Colorado Springs,2025-05-31,85.94
+4770,Isaac,42,Male,Sacramento,2024-08-28,339.58
+4771,Samuel,36,Male,El Paso,2025-01-08,575.22
+4772,Bella,25,Female,Dallas,2024-05-13,174.78
+4773,Bella,35,Female,Mesa,2025-07-27,576.25
+4774,Isabella,31,Female,Phoenix,2023-10-16,444.33
+4775,Benjamin,32,Male,Baltimore,2023-10-23,466.82
+4776,Bella,45,Female,Las Vegas,2023-11-20,409.78
+4777,Patrick,24,Male,Columbus,2025-04-05,573.11
+4778,Victor,39,Male,Charlotte,2023-10-08,592.69
+4779,Victor,19,Male,Albuquerque,2024-10-03,178.29
+4780,Robert,41,Male,Kansas City,2024-06-27,890.53
+4781,William,39,Male,Mesa,2025-07-19,475.88
+4782,William,34,Male,Fort Worth,2024-02-04,656.08
+4783,Isaac,58,Male,Boston,2024-02-21,331.16
+4784,Tina,25,Female,Mesa,2024-04-01,153.1
+4785,Oliver,18,Male,Atlanta,2025-03-22,340.56
+4786,Sophia,31,Female,San Francisco,2025-01-08,1337.08
+4787,Patrick,24,Male,Tucson,2025-02-02,143.65
+4788,Olivia,57,Female,Albuquerque,2024-04-03,223.85
+4789,Benjamin,39,Male,Boston,2024-02-29,475.79
+4790,Katherine,33,Female,San Antonio,2023-10-08,294.33
+4791,Charlotte,36,Female,San Jose,2024-01-10,283.87
+4792,Sophia,44,Female,Boston,2025-03-07,186.75
+4793,Frank,27,Male,Sacramento,2024-10-15,848.35
+4794,Julia,18,Female,Milwaukee,2023-12-06,688.2
+4795,Rachel,36,Female,Seattle,2023-12-13,939.87
+4796,Ethan,31,Male,Baltimore,2024-07-20,631.46
+4797,Charlotte,35,Female,Fort Worth,2024-06-07,619.96
+4798,Robert,47,Male,San Jose,2024-09-09,443.04
+4799,Bella,35,Female,Houston,2025-07-20,1171.46
+4800,Isabella,33,Female,San Francisco,2024-01-13,136.11
+4801,Oliver,30,Male,New York,2024-03-27,288.15
+4802,Victor,18,Male,Detroit,2024-02-24,158.56
+4803,Sophia,27,Female,Albuquerque,2023-11-10,793.93
+4804,Nina,51,Female,San Jose,2023-12-08,345.36
+4805,Robert,27,Male,Boston,2024-12-28,324.43
+4806,Julia,24,Female,Boston,2025-04-10,50.0
+4807,Rachel,38,Female,Long Beach,2025-01-05,298.16
+4808,Marcus,36,Male,Fort Worth,2023-09-13,206.28
+4809,Rachel,36,Female,Colorado Springs,2025-04-17,450.3
+4810,Henry,20,Male,Denver,2024-04-10,578.62
+4811,David,22,Male,Fort Worth,2023-10-20,110.37
+4812,Luna,56,Female,Fresno,2024-02-12,268.41
+4813,Samuel,18,Male,San Francisco,2024-05-01,463.37
+4814,Charlotte,28,Female,Louisville,2024-08-24,1035.06
+4815,Alexander,44,Male,Washington DC,2024-12-22,370.77
+4816,Quinn,33,Male,Columbus,2024-02-21,477.47
+4817,James,21,Male,Denver,2025-08-08,134.67
+4818,Benjamin,36,Male,Los Angeles,2023-09-06,432.14
+4819,Victoria,28,Female,Las Vegas,2024-06-05,1258.06
+4820,Frank,41,Male,Nashville,2024-07-10,50.07
+4821,Hannah,20,Female,San Jose,2025-02-11,545.65
+4822,Grace,24,Female,Portland,2024-02-13,71.34
+4823,Nina,26,Female,Austin,2024-07-17,364.56
+4824,Rachel,34,Female,Baltimore,2025-03-24,258.91
+4825,Victor,41,Male,San Antonio,2023-11-25,344.2
+4826,Robert,47,Male,Milwaukee,2023-08-23,1579.36
+4827,Robert,58,Male,Fort Worth,2025-04-13,454.15
+4828,Rachel,37,Female,Milwaukee,2025-08-02,509.28
+4829,Samuel,37,Male,Austin,2023-11-18,778.47
+4830,Penny,35,Female,Dallas,2025-04-08,368.75
+4831,Victor,29,Male,Los Angeles,2024-05-13,277.93
+4832,Henry,34,Male,Houston,2024-11-17,259.56
+4833,Victor,46,Male,Kansas City,2024-11-28,613.21
+4834,Isabella,38,Female,Nashville,2024-10-13,399.88
+4835,James,33,Male,Boston,2024-02-20,829.03
+4836,Charlotte,54,Female,Kansas City,2025-03-31,252.31
+4837,Benjamin,49,Male,Louisville,2023-08-30,438.51
+4838,Victoria,40,Female,Boston,2023-10-01,571.17
+4839,Diana,47,Female,Jacksonville,2025-06-04,777.36
+4840,Victor,23,Male,Virginia Beach,2024-07-04,248.45
+4841,Christopher,56,Male,Denver,2023-11-17,501.63
+4842,Victor,19,Male,Mesa,2025-06-06,126.69
+4843,Olivia,29,Female,Chicago,2025-04-12,285.26
+4844,Katherine,25,Female,Houston,2024-04-13,864.05
+4845,Isaac,42,Male,Tucson,2023-09-15,1456.22
+4846,Ethan,29,Male,Phoenix,2024-07-16,169.33
+4847,Isaac,53,Male,San Jose,2023-12-15,908.72
+4848,George,57,Male,Sacramento,2024-10-07,654.11
+4849,Kevin,39,Male,San Francisco,2025-04-06,570.98
+4850,Frank,18,Male,Nashville,2024-05-29,556.48
+4851,Alice,18,Female,El Paso,2023-09-05,211.35
+4852,Frank,22,Male,Las Vegas,2024-12-26,365.26
+4853,William,24,Male,Phoenix,2023-12-19,972.23
+4854,Julia,18,Female,Oklahoma City,2024-01-18,403.76
+4855,Maria,39,Female,Houston,2023-12-29,1002.4
+4856,Luna,44,Female,Las Vegas,2024-03-06,508.45
+4857,Victoria,18,Female,Oklahoma City,2025-05-21,337.03
+4858,James,40,Male,Kansas City,2023-09-09,176.03
+4859,Frank,34,Male,Columbus,2024-11-09,371.51
+4860,Grace,36,Female,Austin,2024-02-10,879.42
+4861,Henry,44,Male,Indianapolis,2024-03-17,66.37
+4862,Oliver,30,Male,San Francisco,2024-06-11,452.42
+4863,David,22,Male,Kansas City,2024-09-20,117.11
+4864,Benjamin,28,Male,Houston,2023-09-28,189.33
+4865,Victoria,32,Female,Charlotte,2024-03-06,886.46
+4866,Isabella,29,Female,Chicago,2023-11-23,770.18
+4867,Christopher,47,Male,Charlotte,2024-01-07,348.45
+4868,Oliver,48,Male,San Jose,2025-05-22,139.09
+4869,Isaac,52,Male,Fresno,2024-09-02,50.0
+4870,Victor,35,Male,Boston,2024-11-18,614.48
+4871,Charlotte,30,Female,Oklahoma City,2025-03-23,260.57
+4872,Benjamin,43,Male,Fresno,2025-03-18,89.3
+4873,Samuel,19,Male,Tucson,2025-08-07,596.78
+4874,Benjamin,18,Male,Las Vegas,2025-03-08,412.1
+4875,Nina,39,Female,Phoenix,2024-05-03,312.8
+4876,Christopher,42,Male,Fort Worth,2024-09-16,221.63
+4877,Penny,61,Female,Chicago,2024-08-03,1228.84
+4878,Nathan,42,Male,Charlotte,2025-06-12,554.36
+4879,Penny,26,Female,Tucson,2024-08-16,54.05
+4880,Alexander,28,Male,Detroit,2024-05-24,561.97
+4881,Frank,21,Male,Atlanta,2023-12-24,340.08
+4882,Bella,29,Female,Fresno,2024-04-04,477.31
+4883,Kevin,19,Male,Oklahoma City,2024-01-22,254.8
+4884,Nathan,18,Male,San Jose,2025-05-30,714.36
+4885,Maria,19,Female,New York,2025-03-06,430.29
+4886,Tina,30,Female,Virginia Beach,2023-09-26,222.39
+4887,Samuel,34,Male,Seattle,2025-08-08,446.53
+4888,Nina,41,Female,Nashville,2024-09-05,650.89
+4889,Katherine,29,Female,Portland,2025-02-25,444.26
+4890,Kevin,39,Male,Fort Worth,2025-08-14,192.25
+4891,Rachel,45,Female,Indianapolis,2025-07-26,444.65
+4892,William,18,Male,Fort Worth,2023-10-27,359.71
+4893,Victor,38,Male,Indianapolis,2024-12-07,344.66
+4894,Diana,48,Female,San Diego,2024-02-25,638.94
+4895,Victoria,37,Female,Denver,2025-04-02,501.91
+4896,Grace,31,Female,Los Angeles,2025-06-15,784.28
+4897,Grace,38,Female,Colorado Springs,2023-09-24,676.98
+4898,Victoria,51,Female,Fresno,2025-08-12,318.57
+4899,Diana,20,Female,Columbus,2024-01-22,918.86
+4900,Liam,26,Male,San Diego,2025-04-24,639.27
+4901,Christopher,64,Male,Portland,2025-03-19,366.86
+4902,George,18,Male,Columbus,2024-04-30,85.8
+4903,Marcus,41,Male,Mesa,2025-04-19,268.05
+4904,Thomas,34,Male,Columbus,2025-04-23,204.36
+4905,Penny,56,Female,Washington DC,2023-12-21,276.33
+4906,Bella,37,Female,Milwaukee,2024-10-21,414.78
+4907,David,37,Male,Charlotte,2025-03-26,284.37
+4908,Olivia,18,Female,Indianapolis,2025-01-05,210.89
+4909,Nathan,26,Male,Fresno,2025-06-13,156.87
+4910,Benjamin,52,Male,Washington DC,2023-09-04,453.62
+4911,Alexander,25,Male,Columbus,2025-01-08,568.08
+4912,Liam,20,Male,El Paso,2025-07-07,327.82
+4913,Nathan,44,Male,Tucson,2024-09-29,851.05
+4914,Charlotte,18,Female,Boston,2024-09-29,67.5
+4915,Hannah,64,Female,Oklahoma City,2023-12-30,269.3
+4916,Rachel,23,Female,Austin,2025-08-06,200.54
+4917,Julia,30,Female,Albuquerque,2025-05-20,737.55
+4918,Nina,37,Female,Colorado Springs,2024-08-08,561.86
+4919,Samuel,18,Male,San Francisco,2024-03-27,318.74
+4920,Ethan,44,Male,Virginia Beach,2024-08-07,332.67
+4921,George,18,Male,New York,2023-10-19,884.66
+4922,Benjamin,28,Male,Virginia Beach,2024-02-01,328.25
+4923,David,18,Male,New York,2024-01-21,614.76
+4924,Robert,22,Male,New York,2024-09-02,770.37
+4925,Thomas,36,Male,Baltimore,2023-08-15,704.66
+4926,Charlotte,18,Female,Mesa,2025-06-15,475.26
+4927,Kevin,27,Male,San Antonio,2024-01-09,638.43
+4928,David,26,Male,Nashville,2023-11-18,223.8
+4929,Nathan,35,Male,Fort Worth,2025-01-20,855.06
+4930,Fiona,60,Female,Nashville,2025-06-16,107.45
+4931,Ethan,30,Male,Seattle,2025-04-23,365.1
+4932,Emma,43,Female,Los Angeles,2024-04-07,259.92
+4933,Thomas,47,Male,Chicago,2023-08-31,540.24
+4934,Henry,35,Male,Washington DC,2024-10-16,314.83
+4935,James,30,Male,Indianapolis,2025-06-15,240.26
+4936,Hannah,18,Female,Columbus,2025-03-03,289.52
+4937,Henry,47,Male,Los Angeles,2025-04-24,86.59
+4938,Isabella,39,Female,Jacksonville,2025-05-05,345.03
+4939,Alexander,18,Male,San Diego,2025-07-17,798.25
+4940,Frank,22,Male,San Francisco,2024-05-14,1025.99
+4941,Hannah,18,Female,Atlanta,2025-07-03,145.85
+4942,Nina,30,Female,Seattle,2024-05-30,274.19
+4943,Robert,38,Male,Los Angeles,2023-10-27,63.77
+4944,Olivia,33,Female,Albuquerque,2024-03-22,174.95
+4945,Ethan,61,Male,San Jose,2023-11-22,352.98
+4946,Nathan,34,Male,Phoenix,2023-12-08,1052.34
+4947,Diana,50,Female,Portland,2025-07-08,314.73
+4948,Benjamin,54,Male,Chicago,2025-03-15,492.47
+4949,Julia,58,Female,Louisville,2025-07-17,757.75
+4950,Hannah,59,Female,Las Vegas,2024-12-01,1292.17
+4951,Liam,44,Male,New York,2023-12-20,1720.01
+4952,Olivia,37,Female,Chicago,2025-07-23,891.45
+4953,Wendy,19,Female,Phoenix,2025-01-02,227.33
+4954,Robert,26,Male,Denver,2025-06-23,579.84
+4955,Isabella,31,Female,Fort Worth,2025-03-12,1230.16
+4956,Robert,18,Male,Los Angeles,2024-01-25,258.83
+4957,Wendy,33,Female,Seattle,2024-10-18,448.29
+4958,Marcus,31,Male,San Francisco,2023-12-21,290.19
+4959,Grace,18,Female,New York,2024-03-26,708.73
+4960,Victoria,18,Female,Chicago,2024-12-30,219.15
+4961,Olivia,37,Female,Louisville,2023-11-16,547.52
+4962,Nina,28,Female,Tucson,2025-01-28,521.47
+4963,Oliver,34,Male,Houston,2025-07-08,919.33
+4964,Samuel,27,Male,Nashville,2025-07-08,476.88
+4965,Frank,23,Male,Colorado Springs,2024-05-27,200.32
+4966,Bella,36,Female,Milwaukee,2025-08-10,412.6
+4967,Isabella,18,Female,Long Beach,2025-07-20,278.81
+4968,Kevin,18,Male,Nashville,2023-09-07,522.99
+4969,Wendy,30,Female,Nashville,2024-10-28,926.28
+4970,Nina,30,Female,Long Beach,2025-06-18,423.17
+4971,James,38,Male,Boston,2025-07-22,91.46
+4972,Tina,28,Female,Detroit,2024-01-23,343.38
+4973,Emma,25,Female,Jacksonville,2024-10-01,612.45
+4974,Penny,28,Female,Oklahoma City,2025-06-29,202.8
+4975,Bella,37,Female,Milwaukee,2023-11-25,434.36
+4976,Alice,25,Female,Denver,2025-02-09,530.42
+4977,James,30,Male,Tucson,2024-02-04,552.26
+4978,Zoe,30,Female,Long Beach,2025-08-02,284.49
+4979,Emma,26,Female,Nashville,2023-12-15,510.48
+4980,Fiona,24,Female,Philadelphia,2025-05-23,534.9
+4981,Rachel,23,Female,Indianapolis,2023-10-18,198.95
+4982,Isaac,38,Male,El Paso,2025-01-14,114.71
+4983,Alice,29,Female,Milwaukee,2024-11-24,523.85
+4984,Grace,34,Female,Long Beach,2025-05-24,276.8
+4985,Zoe,24,Female,Austin,2024-07-06,370.73
+4986,Christopher,26,Male,El Paso,2024-02-24,623.52
+4987,Katherine,41,Female,San Jose,2024-02-13,758.29
+4988,Rachel,52,Female,El Paso,2023-10-03,66.79
+4989,Maria,23,Female,Austin,2024-02-18,179.22
+4990,Olivia,29,Female,Dallas,2023-11-01,525.27
+4991,Nathan,22,Male,Oklahoma City,2023-08-15,750.88
+4992,Frank,50,Male,Las Vegas,2024-05-23,778.43
+4993,Henry,45,Male,Fresno,2025-01-31,477.65
+4994,Maria,34,Female,Chicago,2025-07-23,513.31
+4995,Luna,31,Female,San Antonio,2025-05-22,147.07
+4996,Olivia,26,Female,New York,2024-08-09,279.64
+4997,Quinn,38,Male,Kansas City,2024-05-17,143.77
+4998,Wendy,34,Female,Austin,2024-09-17,70.88
+4999,Oliver,34,Male,El Paso,2023-10-28,433.47
+5000,Julia,34,Female,San Diego,2024-07-30,532.58

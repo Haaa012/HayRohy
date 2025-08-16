@@ -1,0 +1,3001 @@
+Product_ID,Product_Name,Category,Price,Brand
+101,Jacket,Outerwear,99.93,TechCorp
+102,Belt Pro,Accessories,95.56,UrbanStyle
+103,Book,Media,23.3,StyleBrand
+104,Jeans Lite,Clothing,53.91,TechCorp
+105,Camera Lite,Electronics,120.21,QualityPlus
+106,Book Mini,Media,8.9,ModernTech
+107,Dress,Clothing,18.78,TechCorp
+108,Socks,Accessories,87.96,ModernTech
+109,Hat,Accessories,64.1,UrbanStyle
+110,Watch Pro,Accessories,73.73,StyleBrand
+111,Sunglasses,Accessories,11.85,ElegantLife
+112,Jeans,Clothing,78.04,ClassicBrand
+113,Laptop,Electronics,424.6,StyleBrand
+114,Jewelry,Accessories,29.11,ElegantLife
+115,Sneakers,Footwear,51.82,TechCorp
+116,Boots,Footwear,52.01,StyleBrand
+117,Jacket Plus,Outerwear,88.68,ModernTech
+118,Socks,Accessories,57.23,ElegantLife
+119,Dress,Clothing,43.08,StyleBrand
+120,Socks,Accessories,36.21,TrendyFashion
+121,Socks,Accessories,65.07,ClassicBrand
+122,Book,Media,8.49,UrbanStyle
+123,Jeans,Clothing,33.99,UrbanStyle
+124,Watch Lite,Accessories,42.97,ModernTech
+125,Perfume Max,Beauty,35.52,ElegantLife
+126,Laptop Lite,Electronics,403.33,ClassicBrand
+127,Belt,Accessories,27.97,TrendyFashion
+128,Perfume,Beauty,38.14,ModernTech
+129,Laptop Lite,Electronics,316.59,ElegantLife
+130,Camera Pro,Electronics,70.9,ClassicBrand
+131,Jacket,Outerwear,137.21,ComfortWear
+132,Phone Max,Electronics,126.74,QualityPlus
+133,Jewelry,Accessories,15.85,ClassicBrand
+134,Book,Media,28.72,TechCorp
+135,Jacket,Outerwear,194.5,TrendyFashion
+136,Watch Lite,Accessories,82.76,StyleBrand
+137,Headphones,Electronics,187.08,TechCorp
+138,Dress,Clothing,21.35,TrendyFashion
+139,Camera,Electronics,357.9,StyleBrand
+140,Boots,Footwear,82.82,TrendyFashion
+141,Hat,Accessories,20.98,ElegantLife
+142,Book,Media,17.38,TrendyFashion
+143,Jewelry,Accessories,13.09,ElegantLife
+144,Jacket,Outerwear,185.49,ElegantLife
+145,Boots Mini,Footwear,61.05,UrbanStyle
+146,Sneakers,Footwear,109.5,StyleBrand
+147,Sneakers,Footwear,67.41,TrendyFashion
+148,Hat,Accessories,56.81,ClassicBrand
+149,Socks,Accessories,59.2,SportMax
+150,Jewelry,Accessories,26.64,ModernTech
+151,Book,Media,29.24,UrbanStyle
+152,Laptop,Electronics,398.81,ElegantLife
+153,Camera Lite,Electronics,472.77,ClassicBrand
+154,Sneakers Mini,Footwear,137.38,ElegantLife
+155,Belt Pro,Accessories,63.81,QualityPlus
+156,Jeans Pro,Clothing,74.92,UrbanStyle
+157,Watch,Accessories,17.96,StyleBrand
+158,Dress Lite,Clothing,27.74,ClassicBrand
+159,Perfume,Beauty,17.04,QualityPlus
+160,Tablet Pro,Electronics,196.4,ModernTech
+161,Phone,Electronics,224.9,ElegantLife
+162,Headphones,Electronics,172.11,TechCorp
+163,Jacket,Outerwear,172.6,TechCorp
+164,Watch Lite,Accessories,42.11,StyleBrand
+165,Book Lite,Media,12.02,ClassicBrand
+166,Dress Pro,Clothing,50.28,ClassicBrand
+167,Headphones Mini,Electronics,113.42,TrendyFashion
+168,T-shirt,Clothing,67.14,StyleBrand
+169,Belt,Accessories,16.71,ComfortWear
+170,Tablet,Electronics,494.1,UrbanStyle
+171,Jeans,Clothing,65.2,ComfortWear
+172,Laptop,Electronics,139.42,SportMax
+173,Headphones,Electronics,52.48,SportMax
+174,Book Plus,Media,25.39,ClassicBrand
+175,Backpack,Bags,92.15,TechCorp
+176,Book,Media,23.23,TechCorp
+177,Jeans,Clothing,65.13,TechCorp
+178,Camera Mini,Electronics,83.32,TrendyFashion
+179,Sneakers Pro,Footwear,73.02,ComfortWear
+180,Belt Mini,Accessories,20.43,ModernTech
+181,Belt,Accessories,87.68,QualityPlus
+182,Jewelry,Accessories,66.1,StyleBrand
+183,Perfume,Beauty,29.89,QualityPlus
+184,Dress,Clothing,19.13,UrbanStyle
+185,Watch Lite,Accessories,37.99,UrbanStyle
+186,Boots,Footwear,69.02,ClassicBrand
+187,Sneakers,Footwear,117.55,TechCorp
+188,Perfume Lite,Beauty,43.69,StyleBrand
+189,Camera Plus,Electronics,449.25,SportMax
+190,Sneakers,Footwear,86.67,UrbanStyle
+191,Socks,Accessories,20.76,ClassicBrand
+192,Boots,Footwear,115.59,QualityPlus
+193,Camera,Electronics,392.35,TechCorp
+194,Book,Media,19.03,SportMax
+195,Jacket Pro,Outerwear,163.35,ComfortWear
+196,Book Mini,Media,17.34,ComfortWear
+197,Backpack Plus,Bags,74.66,ElegantLife
+198,Camera Pro,Electronics,242.39,ClassicBrand
+199,Sneakers,Footwear,33.05,ModernTech
+200,Jeans,Clothing,22.01,TechCorp
+201,Hat Max,Accessories,12.83,SportMax
+202,Book,Media,20.91,ModernTech
+203,Jacket,Outerwear,90.3,StyleBrand
+204,Hat Plus,Accessories,55.77,TrendyFashion
+205,Perfume Lite,Beauty,55.84,TrendyFashion
+206,Jeans,Clothing,31.2,SportMax
+207,Jeans Lite,Clothing,41.67,ElegantLife
+208,Jacket,Outerwear,160.89,ElegantLife
+209,Phone,Electronics,152.96,QualityPlus
+210,Belt,Accessories,16.93,ComfortWear
+211,Socks Plus,Accessories,36.08,ModernTech
+212,Phone Pro,Electronics,122.55,UrbanStyle
+213,Laptop,Electronics,468.36,TechCorp
+214,Belt,Accessories,82.73,UrbanStyle
+215,Headphones,Electronics,335.03,ElegantLife
+216,Belt Lite,Accessories,88.43,UrbanStyle
+217,Laptop Pro,Electronics,411.65,ElegantLife
+218,Dress,Clothing,27.13,ElegantLife
+219,Laptop,Electronics,451.65,TrendyFashion
+220,T-shirt,Clothing,50.06,StyleBrand
+221,Dress,Clothing,67.48,ComfortWear
+222,Dress Max,Clothing,73.25,TechCorp
+223,Sunglasses,Accessories,38.62,ElegantLife
+224,Camera,Electronics,99.52,StyleBrand
+225,Perfume Max,Beauty,25.26,UrbanStyle
+226,T-shirt,Clothing,42.76,TrendyFashion
+227,Book,Media,25.45,UrbanStyle
+228,Sneakers,Footwear,133.29,ElegantLife
+229,Jacket,Outerwear,41.11,SportMax
+230,Phone,Electronics,279.84,ElegantLife
+231,Boots Max,Footwear,80.09,TrendyFashion
+232,Laptop,Electronics,149.95,ComfortWear
+233,Boots,Footwear,44.38,ModernTech
+234,T-shirt Max,Clothing,36.94,SportMax
+235,Perfume,Beauty,57.43,QualityPlus
+236,Headphones,Electronics,195.44,ClassicBrand
+237,Backpack,Bags,74.29,TrendyFashion
+238,Socks Mini,Accessories,73.27,StyleBrand
+239,Watch,Accessories,42.73,StyleBrand
+240,Belt Lite,Accessories,97.46,SportMax
+241,Hat Max,Accessories,96.62,TechCorp
+242,Jewelry,Accessories,32.66,StyleBrand
+243,Perfume,Beauty,37.38,UrbanStyle
+244,Laptop,Electronics,185.4,ClassicBrand
+245,Hat,Accessories,35.64,TechCorp
+246,Jacket Mini,Outerwear,45.9,ModernTech
+247,Headphones,Electronics,324.3,TechCorp
+248,Jacket Max,Outerwear,120.43,ClassicBrand
+249,Camera,Electronics,73.17,TrendyFashion
+250,Headphones,Electronics,175.39,QualityPlus
+251,Camera,Electronics,458.72,ModernTech
+252,Book,Media,10.99,ClassicBrand
+253,Tablet Lite,Electronics,115.2,ClassicBrand
+254,Dress,Clothing,46.81,TrendyFashion
+255,Belt,Accessories,98.71,SportMax
+256,Boots Plus,Footwear,59.05,UrbanStyle
+257,Book Lite,Media,21.8,StyleBrand
+258,Laptop,Electronics,392.73,ComfortWear
+259,Sneakers,Footwear,58.52,ModernTech
+260,Book,Media,23.21,ClassicBrand
+261,Backpack,Bags,59.94,ModernTech
+262,Perfume,Beauty,43.45,TechCorp
+263,Perfume,Beauty,43.51,ModernTech
+264,Sunglasses,Accessories,58.22,SportMax
+265,Phone,Electronics,90.63,TrendyFashion
+266,Book,Media,25.88,QualityPlus
+267,Tablet Max,Electronics,194.35,UrbanStyle
+268,T-shirt,Clothing,27.12,ModernTech
+269,Laptop,Electronics,68.35,ComfortWear
+270,Hat,Accessories,63.18,QualityPlus
+271,Laptop,Electronics,354.9,QualityPlus
+272,T-shirt,Clothing,16.08,StyleBrand
+273,Hat Plus,Accessories,56.09,ClassicBrand
+274,Laptop Plus,Electronics,151.92,ElegantLife
+275,Watch Max,Accessories,68.07,ModernTech
+276,Dress,Clothing,26.33,StyleBrand
+277,Book,Media,22.27,TechCorp
+278,Sunglasses,Accessories,44.81,UrbanStyle
+279,Jeans,Clothing,75.89,TechCorp
+280,Backpack,Bags,38.06,TechCorp
+281,Belt,Accessories,40.7,ComfortWear
+282,Jacket,Outerwear,58.16,QualityPlus
+283,Headphones,Electronics,466.11,SportMax
+284,Socks,Accessories,88.96,QualityPlus
+285,Jacket,Outerwear,81.27,ComfortWear
+286,Jacket Plus,Outerwear,145.6,QualityPlus
+287,Perfume,Beauty,51.77,ModernTech
+288,Backpack,Bags,77.74,StyleBrand
+289,Belt,Accessories,57.67,StyleBrand
+290,Boots,Footwear,59.02,QualityPlus
+291,Perfume,Beauty,19.19,TechCorp
+292,Phone Plus,Electronics,453.75,ElegantLife
+293,T-shirt,Clothing,73.53,ModernTech
+294,Jacket,Outerwear,141.3,ModernTech
+295,Headphones,Electronics,202.56,ComfortWear
+296,Camera,Electronics,207.14,SportMax
+297,Book,Media,23.15,ClassicBrand
+298,Perfume,Beauty,55.37,SportMax
+299,Belt Max,Accessories,89.84,StyleBrand
+300,Belt,Accessories,80.19,ClassicBrand
+301,Laptop Plus,Electronics,338.91,ElegantLife
+302,Socks Plus,Accessories,17.57,ClassicBrand
+303,Watch,Accessories,24.55,SportMax
+304,Dress Lite,Clothing,73.41,TrendyFashion
+305,Sneakers,Footwear,102.77,UrbanStyle
+306,Tablet,Electronics,54.14,TrendyFashion
+307,Tablet,Electronics,95.66,ClassicBrand
+308,T-shirt Max,Clothing,58.13,StyleBrand
+309,Belt,Accessories,10.46,SportMax
+310,Sunglasses,Accessories,24.47,ClassicBrand
+311,Sunglasses,Accessories,59.39,ModernTech
+312,Book,Media,22.3,ElegantLife
+313,Headphones,Electronics,343.38,SportMax
+314,Belt,Accessories,30.18,StyleBrand
+315,Watch,Accessories,74.1,StyleBrand
+316,Socks Max,Accessories,31.35,UrbanStyle
+317,Dress,Clothing,36.15,QualityPlus
+318,Camera Pro,Electronics,385.92,QualityPlus
+319,Backpack Lite,Bags,86.72,SportMax
+320,Boots,Footwear,131.91,TechCorp
+321,Hat Pro,Accessories,69.19,SportMax
+322,Book,Media,19.21,SportMax
+323,Hat Pro,Accessories,18.43,ClassicBrand
+324,Perfume,Beauty,31.55,SportMax
+325,Headphones Pro,Electronics,169.34,ElegantLife
+326,Dress Pro,Clothing,30.86,ClassicBrand
+327,Laptop Pro,Electronics,487.85,ClassicBrand
+328,Hat,Accessories,45.38,ComfortWear
+329,Boots,Footwear,137.05,StyleBrand
+330,Jacket,Outerwear,140.98,TrendyFashion
+331,Jewelry,Accessories,81.53,QualityPlus
+332,Belt,Accessories,55.24,TrendyFashion
+333,Headphones,Electronics,309.61,SportMax
+334,Phone,Electronics,271.63,SportMax
+335,Jeans,Clothing,27.69,QualityPlus
+336,Jacket,Outerwear,155.59,UrbanStyle
+337,Dress Lite,Clothing,33.25,StyleBrand
+338,Book Max,Media,5.61,StyleBrand
+339,Headphones,Electronics,340.46,QualityPlus
+340,Jeans Plus,Clothing,26.51,UrbanStyle
+341,Headphones,Electronics,473.21,StyleBrand
+342,Dress,Clothing,77.01,QualityPlus
+343,Backpack Lite,Bags,111.91,ModernTech
+344,Hat,Accessories,43.31,SportMax
+345,Sneakers Plus,Footwear,31.85,TechCorp
+346,Jewelry,Accessories,93.55,QualityPlus
+347,Headphones,Electronics,242.68,StyleBrand
+348,Boots,Footwear,146.0,ModernTech
+349,Camera,Electronics,483.63,TrendyFashion
+350,Sneakers Max,Footwear,132.36,QualityPlus
+351,Watch Pro,Accessories,36.5,QualityPlus
+352,Belt,Accessories,44.66,QualityPlus
+353,T-shirt,Clothing,70.32,SportMax
+354,Socks,Accessories,38.52,ClassicBrand
+355,Headphones Mini,Electronics,126.27,SportMax
+356,Phone,Electronics,300.56,ClassicBrand
+357,Tablet,Electronics,471.27,ElegantLife
+358,Watch,Accessories,72.64,StyleBrand
+359,Watch,Accessories,61.31,ModernTech
+360,Boots,Footwear,41.66,ModernTech
+361,Book,Media,20.38,TechCorp
+362,Watch,Accessories,99.1,SportMax
+363,Laptop,Electronics,113.04,TrendyFashion
+364,T-shirt,Clothing,48.69,TrendyFashion
+365,Jeans,Clothing,72.03,UrbanStyle
+366,Jewelry,Accessories,76.67,ClassicBrand
+367,Jeans Lite,Clothing,60.31,UrbanStyle
+368,Boots,Footwear,114.3,ClassicBrand
+369,Tablet Mini,Electronics,211.77,StyleBrand
+370,Belt,Accessories,36.42,ComfortWear
+371,T-shirt,Clothing,67.61,TrendyFashion
+372,Belt,Accessories,82.91,StyleBrand
+373,Jacket,Outerwear,178.73,ComfortWear
+374,Boots,Footwear,139.59,TrendyFashion
+375,Phone,Electronics,280.1,ClassicBrand
+376,Belt,Accessories,55.14,ClassicBrand
+377,Laptop,Electronics,409.23,UrbanStyle
+378,Camera,Electronics,342.48,ComfortWear
+379,Dress,Clothing,60.63,ModernTech
+380,Camera,Electronics,408.11,SportMax
+381,Boots,Footwear,136.8,SportMax
+382,Perfume,Beauty,30.21,ClassicBrand
+383,Headphones,Electronics,219.01,TrendyFashion
+384,Watch,Accessories,18.46,TrendyFashion
+385,Laptop,Electronics,310.23,ClassicBrand
+386,Backpack,Bags,28.41,UrbanStyle
+387,Belt Max,Accessories,51.9,ModernTech
+388,Laptop,Electronics,294.19,ModernTech
+389,Hat,Accessories,35.79,ClassicBrand
+390,Hat,Accessories,63.17,TrendyFashion
+391,Watch,Accessories,12.75,StyleBrand
+392,Headphones,Electronics,66.81,StyleBrand
+393,Headphones,Electronics,420.17,TechCorp
+394,Phone Plus,Electronics,212.09,ComfortWear
+395,Watch,Accessories,21.44,QualityPlus
+396,Sneakers,Footwear,92.67,ElegantLife
+397,Book,Media,24.25,ModernTech
+398,Tablet Pro,Electronics,147.12,TrendyFashion
+399,Belt,Accessories,66.06,SportMax
+400,Sneakers,Footwear,40.24,ModernTech
+401,Jacket Plus,Outerwear,48.27,ClassicBrand
+402,T-shirt,Clothing,49.54,TechCorp
+403,Jeans,Clothing,50.14,SportMax
+404,Phone Max,Electronics,336.84,ComfortWear
+405,Perfume Pro,Beauty,47.67,ComfortWear
+406,Jewelry,Accessories,97.83,ModernTech
+407,Belt,Accessories,56.47,ClassicBrand
+408,Hat,Accessories,39.07,UrbanStyle
+409,Dress Pro,Clothing,66.69,ClassicBrand
+410,Headphones,Electronics,171.87,SportMax
+411,Socks,Accessories,49.51,StyleBrand
+412,Sunglasses Max,Accessories,17.06,QualityPlus
+413,Dress,Clothing,16.65,ClassicBrand
+414,Backpack,Bags,116.45,ModernTech
+415,Jacket,Outerwear,173.76,UrbanStyle
+416,Sunglasses Plus,Accessories,72.64,QualityPlus
+417,T-shirt Mini,Clothing,41.58,ModernTech
+418,Jeans,Clothing,26.26,QualityPlus
+419,Boots,Footwear,48.77,UrbanStyle
+420,Sunglasses,Accessories,32.52,UrbanStyle
+421,Jewelry,Accessories,59.43,SportMax
+422,Hat,Accessories,74.31,StyleBrand
+423,Jeans,Clothing,57.91,SportMax
+424,Jeans,Clothing,33.2,QualityPlus
+425,Hat,Accessories,95.94,StyleBrand
+426,Watch Lite,Accessories,76.41,ModernTech
+427,Book,Media,18.86,ElegantLife
+428,Dress Max,Clothing,54.76,ComfortWear
+429,Boots,Footwear,80.35,ElegantLife
+430,Headphones Lite,Electronics,161.48,StyleBrand
+431,Laptop,Electronics,210.19,TrendyFashion
+432,Laptop Pro,Electronics,391.03,TechCorp
+433,Headphones,Electronics,56.48,ElegantLife
+434,Dress,Clothing,22.54,QualityPlus
+435,Sunglasses,Accessories,14.14,StyleBrand
+436,Tablet,Electronics,68.33,TechCorp
+437,Book,Media,26.39,ElegantLife
+438,Belt,Accessories,73.33,StyleBrand
+439,Headphones,Electronics,263.38,SportMax
+440,Jacket Pro,Outerwear,55.65,ComfortWear
+441,Boots Lite,Footwear,88.99,ClassicBrand
+442,Book,Media,16.84,ComfortWear
+443,Sunglasses,Accessories,25.59,TrendyFashion
+444,Hat,Accessories,49.05,ModernTech
+445,Tablet,Electronics,229.33,QualityPlus
+446,Dress,Clothing,55.03,TechCorp
+447,Backpack,Bags,85.33,ClassicBrand
+448,Belt Plus,Accessories,14.08,ElegantLife
+449,Book Plus,Media,14.37,ElegantLife
+450,Backpack,Bags,84.46,StyleBrand
+451,Headphones,Electronics,276.41,StyleBrand
+452,Jewelry Plus,Accessories,87.08,TechCorp
+453,Belt,Accessories,69.28,ComfortWear
+454,Backpack,Bags,40.48,StyleBrand
+455,Book,Media,6.76,UrbanStyle
+456,Belt,Accessories,67.82,ElegantLife
+457,Jewelry Lite,Accessories,12.39,TechCorp
+458,Hat Lite,Accessories,62.72,TrendyFashion
+459,Jacket Plus,Outerwear,190.44,TechCorp
+460,Belt,Accessories,61.79,QualityPlus
+461,Socks Max,Accessories,44.94,SportMax
+462,Camera,Electronics,339.48,StyleBrand
+463,Tablet,Electronics,256.21,ClassicBrand
+464,Camera Mini,Electronics,295.53,QualityPlus
+465,Belt Mini,Accessories,94.73,QualityPlus
+466,Boots,Footwear,76.33,ClassicBrand
+467,T-shirt,Clothing,77.48,TechCorp
+468,Laptop,Electronics,457.41,ModernTech
+469,Tablet Pro,Electronics,138.11,ClassicBrand
+470,Watch Lite,Accessories,16.24,QualityPlus
+471,Dress,Clothing,21.55,QualityPlus
+472,Book,Media,5.46,ElegantLife
+473,Jewelry Mini,Accessories,18.5,TrendyFashion
+474,Jewelry Pro,Accessories,71.47,ModernTech
+475,Book,Media,6.78,UrbanStyle
+476,Belt,Accessories,38.71,ModernTech
+477,Headphones,Electronics,430.19,ModernTech
+478,Jacket,Outerwear,43.72,ElegantLife
+479,Dress,Clothing,67.94,ElegantLife
+480,Tablet Pro,Electronics,176.83,StyleBrand
+481,Sneakers Plus,Footwear,44.18,ModernTech
+482,Hat Mini,Accessories,72.71,TrendyFashion
+483,Book,Media,20.72,ElegantLife
+484,Phone,Electronics,444.86,ElegantLife
+485,Phone,Electronics,380.78,TechCorp
+486,Jewelry,Accessories,82.31,SportMax
+487,Perfume Max,Beauty,27.69,TrendyFashion
+488,Belt,Accessories,25.97,StyleBrand
+489,Book Plus,Media,23.77,ElegantLife
+490,Perfume,Beauty,51.31,UrbanStyle
+491,Book,Media,29.76,QualityPlus
+492,Book,Media,15.32,TechCorp
+493,Dress Plus,Clothing,39.18,TechCorp
+494,Watch Lite,Accessories,79.88,ElegantLife
+495,Perfume Pro,Beauty,30.34,ModernTech
+496,Sneakers Max,Footwear,141.69,TrendyFashion
+497,Headphones Plus,Electronics,436.29,ElegantLife
+498,Watch,Accessories,48.61,QualityPlus
+499,Jeans Mini,Clothing,63.81,ComfortWear
+500,Jeans Max,Clothing,64.05,StyleBrand
+501,Tablet,Electronics,96.41,QualityPlus
+502,Dress,Clothing,73.67,UrbanStyle
+503,Jacket,Outerwear,120.84,ElegantLife
+504,Boots,Footwear,129.17,QualityPlus
+505,Boots Mini,Footwear,68.41,TechCorp
+506,Jeans Lite,Clothing,73.21,TechCorp
+507,Hat Pro,Accessories,45.03,SportMax
+508,T-shirt,Clothing,15.7,ClassicBrand
+509,Socks,Accessories,91.48,ComfortWear
+510,Belt,Accessories,18.22,TrendyFashion
+511,Sunglasses,Accessories,38.74,StyleBrand
+512,Jeans Pro,Clothing,76.75,ModernTech
+513,Watch,Accessories,95.55,QualityPlus
+514,Laptop Max,Electronics,308.05,ModernTech
+515,T-shirt Mini,Clothing,56.07,ElegantLife
+516,Headphones Pro,Electronics,251.8,ElegantLife
+517,Belt,Accessories,36.39,ModernTech
+518,Camera,Electronics,197.9,StyleBrand
+519,Boots Lite,Footwear,110.7,ElegantLife
+520,Sneakers,Footwear,120.28,TrendyFashion
+521,Camera Plus,Electronics,406.21,TrendyFashion
+522,Sunglasses Lite,Accessories,81.07,ComfortWear
+523,Dress Lite,Clothing,20.93,UrbanStyle
+524,Sneakers,Footwear,89.33,ComfortWear
+525,Tablet,Electronics,75.9,ClassicBrand
+526,Perfume,Beauty,39.73,ClassicBrand
+527,Perfume,Beauty,34.87,QualityPlus
+528,Watch,Accessories,89.89,ComfortWear
+529,Tablet,Electronics,207.91,ClassicBrand
+530,Dress Mini,Clothing,22.61,QualityPlus
+531,Sneakers,Footwear,47.16,SportMax
+532,Jeans,Clothing,64.5,TechCorp
+533,Boots,Footwear,104.19,StyleBrand
+534,Sneakers,Footwear,42.13,QualityPlus
+535,Laptop,Electronics,87.85,ClassicBrand
+536,Jeans,Clothing,60.56,ClassicBrand
+537,Perfume,Beauty,18.27,UrbanStyle
+538,Tablet Pro,Electronics,419.84,TrendyFashion
+539,Headphones,Electronics,367.81,StyleBrand
+540,Watch,Accessories,17.32,StyleBrand
+541,Socks Max,Accessories,17.64,TechCorp
+542,Headphones,Electronics,493.99,TrendyFashion
+543,Socks,Accessories,43.68,ElegantLife
+544,Boots,Footwear,74.48,ModernTech
+545,Watch Plus,Accessories,83.15,QualityPlus
+546,Sneakers Max,Footwear,143.67,ElegantLife
+547,Boots,Footwear,148.32,SportMax
+548,Jewelry,Accessories,77.8,ComfortWear
+549,Perfume,Beauty,31.93,ComfortWear
+550,Boots Pro,Footwear,40.02,ModernTech
+551,Boots,Footwear,123.26,TrendyFashion
+552,Watch,Accessories,60.26,ComfortWear
+553,Camera,Electronics,240.9,StyleBrand
+554,Phone,Electronics,457.86,TrendyFashion
+555,Sunglasses Lite,Accessories,20.01,SportMax
+556,Watch Lite,Accessories,54.34,ClassicBrand
+557,Hat Pro,Accessories,11.02,StyleBrand
+558,Camera,Electronics,260.9,TrendyFashion
+559,Camera,Electronics,75.34,TechCorp
+560,Jewelry,Accessories,20.69,ComfortWear
+561,Hat Mini,Accessories,20.58,ComfortWear
+562,Socks Plus,Accessories,68.43,ClassicBrand
+563,Belt,Accessories,77.14,ClassicBrand
+564,Headphones,Electronics,312.52,UrbanStyle
+565,Boots,Footwear,145.46,ClassicBrand
+566,Backpack,Bags,60.61,ElegantLife
+567,Perfume,Beauty,27.86,ClassicBrand
+568,Boots,Footwear,134.23,ModernTech
+569,Phone,Electronics,150.62,ComfortWear
+570,Jewelry,Accessories,96.69,ComfortWear
+571,Jeans,Clothing,15.79,ClassicBrand
+572,Book,Media,29.25,StyleBrand
+573,Camera Lite,Electronics,69.42,StyleBrand
+574,Dress,Clothing,72.92,ClassicBrand
+575,Hat Lite,Accessories,57.49,ModernTech
+576,Headphones,Electronics,496.83,ElegantLife
+577,Phone,Electronics,83.21,TechCorp
+578,Sunglasses,Accessories,59.85,UrbanStyle
+579,Sneakers Plus,Footwear,146.32,ElegantLife
+580,Jacket,Outerwear,123.7,ElegantLife
+581,Hat Max,Accessories,66.65,TechCorp
+582,Hat,Accessories,72.62,ClassicBrand
+583,T-shirt Lite,Clothing,44.55,StyleBrand
+584,Hat,Accessories,66.48,TrendyFashion
+585,Jewelry,Accessories,62.59,TrendyFashion
+586,Boots,Footwear,138.14,UrbanStyle
+587,Jeans,Clothing,17.95,UrbanStyle
+588,Jewelry Max,Accessories,35.29,ClassicBrand
+589,Jewelry Mini,Accessories,95.54,TrendyFashion
+590,Perfume,Beauty,55.06,UrbanStyle
+591,Boots Plus,Footwear,84.68,ModernTech
+592,Belt,Accessories,65.81,QualityPlus
+593,Sneakers,Footwear,63.29,TrendyFashion
+594,Sneakers,Footwear,52.57,TrendyFashion
+595,Camera Max,Electronics,258.66,TrendyFashion
+596,Jeans,Clothing,37.97,ModernTech
+597,Dress,Clothing,52.94,TechCorp
+598,Sneakers Pro,Footwear,39.33,ElegantLife
+599,Perfume Plus,Beauty,58.85,ElegantLife
+600,Book,Media,29.66,ElegantLife
+601,Socks,Accessories,72.83,ClassicBrand
+602,Tablet,Electronics,291.24,ComfortWear
+603,Sneakers Lite,Footwear,67.14,ClassicBrand
+604,Jeans,Clothing,67.9,UrbanStyle
+605,Watch,Accessories,71.63,SportMax
+606,Book Lite,Media,9.07,ClassicBrand
+607,Boots,Footwear,139.31,ElegantLife
+608,Jeans Plus,Clothing,68.46,ElegantLife
+609,Phone,Electronics,477.41,ModernTech
+610,Laptop,Electronics,376.57,ElegantLife
+611,Tablet,Electronics,326.04,ClassicBrand
+612,Camera,Electronics,238.21,SportMax
+613,Phone,Electronics,469.73,StyleBrand
+614,Socks Pro,Accessories,87.95,TrendyFashion
+615,Sneakers,Footwear,35.43,ElegantLife
+616,Boots,Footwear,33.16,ClassicBrand
+617,Phone,Electronics,219.41,ComfortWear
+618,Sunglasses Plus,Accessories,82.95,ClassicBrand
+619,Jewelry Pro,Accessories,98.85,ModernTech
+620,Sneakers,Footwear,48.05,ModernTech
+621,Socks Mini,Accessories,63.47,TechCorp
+622,Headphones Lite,Electronics,221.4,TechCorp
+623,Sunglasses,Accessories,97.29,ElegantLife
+624,Perfume,Beauty,52.9,TechCorp
+625,Headphones,Electronics,427.25,ElegantLife
+626,Sneakers Plus,Footwear,86.24,QualityPlus
+627,Laptop,Electronics,236.67,ElegantLife
+628,Belt Lite,Accessories,34.61,StyleBrand
+629,Tablet,Electronics,75.37,TrendyFashion
+630,Book Plus,Media,26.62,StyleBrand
+631,Headphones,Electronics,415.81,UrbanStyle
+632,Boots Lite,Footwear,149.97,ClassicBrand
+633,Sneakers Max,Footwear,149.6,ClassicBrand
+634,Sneakers,Footwear,96.65,ElegantLife
+635,Sneakers,Footwear,122.28,TrendyFashion
+636,Boots,Footwear,143.37,ComfortWear
+637,Socks,Accessories,86.47,ElegantLife
+638,Jacket,Outerwear,79.58,UrbanStyle
+639,Belt Mini,Accessories,50.55,ClassicBrand
+640,Perfume,Beauty,20.81,ElegantLife
+641,Book,Media,28.85,ComfortWear
+642,Sneakers,Footwear,102.74,StyleBrand
+643,Tablet,Electronics,152.89,TrendyFashion
+644,Phone Plus,Electronics,352.27,QualityPlus
+645,Sneakers,Footwear,104.18,ClassicBrand
+646,Camera Mini,Electronics,211.17,ElegantLife
+647,Perfume,Beauty,20.11,ComfortWear
+648,Hat,Accessories,70.44,ModernTech
+649,Jeans,Clothing,48.82,StyleBrand
+650,Boots Lite,Footwear,122.68,ComfortWear
+651,Sunglasses,Accessories,56.81,TrendyFashion
+652,Sneakers Mini,Footwear,132.26,SportMax
+653,Dress,Clothing,50.87,ComfortWear
+654,Jewelry Lite,Accessories,60.48,TrendyFashion
+655,Perfume Mini,Beauty,54.45,QualityPlus
+656,Jewelry,Accessories,46.31,ElegantLife
+657,Perfume,Beauty,21.03,TechCorp
+658,T-shirt Mini,Clothing,16.87,StyleBrand
+659,Dress,Clothing,64.08,UrbanStyle
+660,Phone,Electronics,329.14,QualityPlus
+661,Tablet Plus,Electronics,366.84,TrendyFashion
+662,Tablet,Electronics,145.83,UrbanStyle
+663,Laptop,Electronics,111.37,SportMax
+664,Jeans,Clothing,15.95,ComfortWear
+665,Tablet Mini,Electronics,207.76,ClassicBrand
+666,Hat,Accessories,63.09,ElegantLife
+667,Watch,Accessories,45.3,ElegantLife
+668,Hat,Accessories,49.37,ElegantLife
+669,Jacket Pro,Outerwear,184.67,ElegantLife
+670,Dress Pro,Clothing,37.64,ClassicBrand
+671,Jeans,Clothing,48.41,SportMax
+672,Jewelry Lite,Accessories,80.53,ModernTech
+673,Watch,Accessories,45.69,QualityPlus
+674,Backpack,Bags,84.1,ComfortWear
+675,Camera,Electronics,438.06,ClassicBrand
+676,Boots Max,Footwear,143.94,ClassicBrand
+677,Camera,Electronics,116.18,ClassicBrand
+678,Backpack,Bags,113.03,QualityPlus
+679,Jeans,Clothing,46.99,SportMax
+680,Tablet,Electronics,166.21,SportMax
+681,Jacket Plus,Outerwear,113.46,ModernTech
+682,Sunglasses,Accessories,98.2,ModernTech
+683,Laptop,Electronics,271.68,TechCorp
+684,Backpack,Bags,56.23,ElegantLife
+685,Sneakers,Footwear,106.01,ModernTech
+686,Book,Media,11.0,SportMax
+687,Jewelry Pro,Accessories,16.83,QualityPlus
+688,Laptop,Electronics,108.0,ElegantLife
+689,Watch,Accessories,21.52,TrendyFashion
+690,Hat,Accessories,23.67,UrbanStyle
+691,Laptop Pro,Electronics,112.47,TrendyFashion
+692,Hat,Accessories,67.68,ElegantLife
+693,Camera Mini,Electronics,131.85,ClassicBrand
+694,Hat,Accessories,41.11,ElegantLife
+695,Watch,Accessories,90.71,ComfortWear
+696,Jewelry,Accessories,52.66,SportMax
+697,Camera,Electronics,350.4,TrendyFashion
+698,Perfume,Beauty,22.75,SportMax
+699,T-shirt,Clothing,27.5,ElegantLife
+700,Jacket,Outerwear,46.54,ModernTech
+701,T-shirt,Clothing,25.98,QualityPlus
+702,Perfume Pro,Beauty,27.54,QualityPlus
+703,Perfume Mini,Beauty,22.97,ClassicBrand
+704,Laptop,Electronics,89.92,ComfortWear
+705,Belt,Accessories,20.86,TechCorp
+706,Jacket Plus,Outerwear,113.72,UrbanStyle
+707,Phone,Electronics,142.85,ComfortWear
+708,Backpack,Bags,59.61,ModernTech
+709,Jewelry,Accessories,55.31,ClassicBrand
+710,Jeans,Clothing,59.88,ComfortWear
+711,Book,Media,5.98,ElegantLife
+712,Tablet,Electronics,409.73,TrendyFashion
+713,Socks,Accessories,66.51,ClassicBrand
+714,Watch,Accessories,17.36,TrendyFashion
+715,Dress,Clothing,71.78,QualityPlus
+716,Belt,Accessories,92.88,SportMax
+717,Belt,Accessories,15.5,SportMax
+718,Backpack,Bags,51.3,ClassicBrand
+719,Sunglasses,Accessories,82.56,TrendyFashion
+720,Dress Mini,Clothing,63.64,SportMax
+721,Laptop,Electronics,133.03,ModernTech
+722,Hat Pro,Accessories,28.84,SportMax
+723,Sunglasses,Accessories,43.34,ClassicBrand
+724,Tablet Mini,Electronics,268.04,UrbanStyle
+725,Dress,Clothing,55.19,TrendyFashion
+726,Hat,Accessories,43.2,StyleBrand
+727,Perfume Mini,Beauty,35.81,UrbanStyle
+728,Belt Max,Accessories,77.27,UrbanStyle
+729,Watch Lite,Accessories,13.3,ClassicBrand
+730,T-shirt,Clothing,31.41,TrendyFashion
+731,Socks,Accessories,74.2,ModernTech
+732,Tablet,Electronics,452.84,ClassicBrand
+733,Boots Pro,Footwear,91.4,ElegantLife
+734,Sneakers Pro,Footwear,93.85,QualityPlus
+735,Socks,Accessories,19.65,ModernTech
+736,Socks,Accessories,50.27,TechCorp
+737,Laptop Plus,Electronics,289.68,ClassicBrand
+738,Jeans Mini,Clothing,30.76,TechCorp
+739,Jacket Mini,Outerwear,83.08,ElegantLife
+740,Camera,Electronics,219.78,ClassicBrand
+741,Hat,Accessories,11.81,TrendyFashion
+742,Backpack,Bags,55.6,StyleBrand
+743,Headphones,Electronics,145.15,SportMax
+744,T-shirt,Clothing,36.29,ElegantLife
+745,Perfume Max,Beauty,20.39,UrbanStyle
+746,Phone,Electronics,450.74,TrendyFashion
+747,Laptop Lite,Electronics,317.12,StyleBrand
+748,Tablet,Electronics,355.6,ElegantLife
+749,T-shirt,Clothing,66.3,SportMax
+750,Headphones,Electronics,274.3,SportMax
+751,Boots,Footwear,40.43,QualityPlus
+752,T-shirt,Clothing,49.91,SportMax
+753,Belt,Accessories,62.82,TechCorp
+754,Headphones Mini,Electronics,385.45,SportMax
+755,Boots,Footwear,81.8,StyleBrand
+756,Boots,Footwear,45.31,ElegantLife
+757,Belt,Accessories,35.54,ComfortWear
+758,Headphones,Electronics,213.39,QualityPlus
+759,Book,Media,21.15,ClassicBrand
+760,Backpack,Bags,79.22,UrbanStyle
+761,Jewelry,Accessories,42.05,StyleBrand
+762,Camera Mini,Electronics,493.93,ElegantLife
+763,Jacket,Outerwear,136.92,TechCorp
+764,Camera,Electronics,156.75,UrbanStyle
+765,Hat,Accessories,19.16,ComfortWear
+766,Camera Lite,Electronics,118.79,ClassicBrand
+767,Perfume Mini,Beauty,26.07,ClassicBrand
+768,Headphones,Electronics,122.31,TechCorp
+769,Camera,Electronics,133.96,ModernTech
+770,Jeans,Clothing,33.53,TrendyFashion
+771,Boots,Footwear,50.8,TechCorp
+772,T-shirt,Clothing,73.29,UrbanStyle
+773,Jeans,Clothing,20.22,ModernTech
+774,Sneakers,Footwear,92.94,TrendyFashion
+775,Sneakers Max,Footwear,79.25,ClassicBrand
+776,Socks,Accessories,98.41,ComfortWear
+777,Phone,Electronics,100.42,ElegantLife
+778,Laptop,Electronics,229.04,ClassicBrand
+779,Laptop Mini,Electronics,486.26,ModernTech
+780,Hat Mini,Accessories,87.9,ElegantLife
+781,Laptop Lite,Electronics,417.68,TrendyFashion
+782,T-shirt,Clothing,31.76,TechCorp
+783,Headphones,Electronics,126.9,TrendyFashion
+784,Laptop Plus,Electronics,350.89,UrbanStyle
+785,Hat Pro,Accessories,93.64,SportMax
+786,Jeans,Clothing,51.19,ModernTech
+787,T-shirt Pro,Clothing,52.15,UrbanStyle
+788,Jewelry,Accessories,35.2,TechCorp
+789,Jeans,Clothing,65.02,UrbanStyle
+790,Laptop Lite,Electronics,134.17,ClassicBrand
+791,Jeans,Clothing,36.04,ComfortWear
+792,Boots,Footwear,81.05,UrbanStyle
+793,Perfume,Beauty,37.84,ElegantLife
+794,Watch,Accessories,31.82,UrbanStyle
+795,Hat Plus,Accessories,20.34,TrendyFashion
+796,Dress,Clothing,54.69,TechCorp
+797,Perfume,Beauty,27.99,ComfortWear
+798,Phone,Electronics,311.56,TrendyFashion
+799,Sunglasses,Accessories,23.89,ModernTech
+800,Watch,Accessories,53.3,ModernTech
+801,Boots Mini,Footwear,93.91,ModernTech
+802,Tablet,Electronics,73.32,UrbanStyle
+803,Boots,Footwear,70.39,ComfortWear
+804,Jeans,Clothing,23.74,TrendyFashion
+805,Phone,Electronics,78.52,TrendyFashion
+806,Laptop Plus,Electronics,495.48,UrbanStyle
+807,Sneakers,Footwear,68.68,ClassicBrand
+808,Sneakers,Footwear,127.18,TrendyFashion
+809,Backpack Mini,Bags,49.19,TechCorp
+810,Jewelry,Accessories,71.34,TechCorp
+811,Backpack,Bags,97.22,QualityPlus
+812,Book,Media,19.89,UrbanStyle
+813,Watch,Accessories,52.44,SportMax
+814,T-shirt,Clothing,41.77,UrbanStyle
+815,Jacket,Outerwear,95.82,ClassicBrand
+816,Jewelry,Accessories,93.66,UrbanStyle
+817,Belt,Accessories,84.76,TrendyFashion
+818,Boots,Footwear,145.8,ModernTech
+819,Sunglasses Mini,Accessories,21.19,SportMax
+820,Tablet Max,Electronics,378.89,ClassicBrand
+821,Watch,Accessories,94.45,UrbanStyle
+822,Phone,Electronics,131.55,TechCorp
+823,Belt Mini,Accessories,15.98,ComfortWear
+824,Perfume,Beauty,48.35,QualityPlus
+825,Boots Lite,Footwear,98.94,ComfortWear
+826,Laptop,Electronics,428.82,QualityPlus
+827,Tablet,Electronics,112.9,TrendyFashion
+828,Watch,Accessories,81.57,SportMax
+829,Tablet,Electronics,140.73,ClassicBrand
+830,Sunglasses Mini,Accessories,24.73,ComfortWear
+831,Tablet,Electronics,123.92,ComfortWear
+832,Book,Media,25.36,TechCorp
+833,Sneakers,Footwear,109.82,TechCorp
+834,Phone,Electronics,285.38,ComfortWear
+835,Belt,Accessories,42.29,StyleBrand
+836,T-shirt,Clothing,72.02,UrbanStyle
+837,Sunglasses,Accessories,45.32,TechCorp
+838,Jewelry,Accessories,83.49,ClassicBrand
+839,T-shirt,Clothing,43.54,TechCorp
+840,Phone Plus,Electronics,219.62,TechCorp
+841,Book Max,Media,16.57,SportMax
+842,Socks,Accessories,37.12,StyleBrand
+843,Camera Mini,Electronics,386.42,ComfortWear
+844,Camera,Electronics,276.22,SportMax
+845,Dress Max,Clothing,30.09,ModernTech
+846,Headphones Lite,Electronics,454.81,QualityPlus
+847,Boots,Footwear,76.07,StyleBrand
+848,Jeans,Clothing,50.33,StyleBrand
+849,Laptop,Electronics,457.91,TrendyFashion
+850,T-shirt Max,Clothing,55.58,ComfortWear
+851,Watch,Accessories,20.52,QualityPlus
+852,Jacket,Outerwear,190.37,TrendyFashion
+853,Belt,Accessories,66.49,UrbanStyle
+854,Perfume Pro,Beauty,30.07,ClassicBrand
+855,Dress,Clothing,24.05,TrendyFashion
+856,Jeans,Clothing,66.61,ComfortWear
+857,Watch,Accessories,65.81,TechCorp
+858,Perfume,Beauty,39.01,ComfortWear
+859,Laptop Mini,Electronics,452.25,StyleBrand
+860,Belt,Accessories,80.97,QualityPlus
+861,Laptop,Electronics,118.25,TrendyFashion
+862,Hat,Accessories,38.05,StyleBrand
+863,Sunglasses Lite,Accessories,32.36,TechCorp
+864,Sneakers,Footwear,119.27,ElegantLife
+865,Jewelry,Accessories,13.02,QualityPlus
+866,Watch,Accessories,61.29,TechCorp
+867,Headphones Mini,Electronics,393.11,ClassicBrand
+868,Laptop Mini,Electronics,444.54,ModernTech
+869,Laptop,Electronics,203.94,StyleBrand
+870,Boots,Footwear,128.55,UrbanStyle
+871,Sneakers Lite,Footwear,43.28,SportMax
+872,Laptop,Electronics,430.9,ElegantLife
+873,Sneakers,Footwear,45.3,TechCorp
+874,Headphones,Electronics,228.78,ElegantLife
+875,Jacket Max,Outerwear,167.57,ComfortWear
+876,Headphones,Electronics,117.46,TrendyFashion
+877,Phone Plus,Electronics,153.16,StyleBrand
+878,Book,Media,23.06,StyleBrand
+879,Watch Max,Accessories,74.8,ModernTech
+880,Laptop,Electronics,338.52,StyleBrand
+881,Book,Media,22.35,UrbanStyle
+882,Socks Plus,Accessories,58.85,ModernTech
+883,Boots,Footwear,60.22,SportMax
+884,Sneakers,Footwear,71.48,ComfortWear
+885,Phone,Electronics,131.72,SportMax
+886,Sneakers Lite,Footwear,139.01,ElegantLife
+887,Tablet,Electronics,312.53,QualityPlus
+888,Headphones Pro,Electronics,230.38,StyleBrand
+889,Laptop,Electronics,257.9,ElegantLife
+890,Laptop,Electronics,476.28,ElegantLife
+891,Phone Plus,Electronics,119.01,QualityPlus
+892,Jewelry,Accessories,62.76,UrbanStyle
+893,Socks,Accessories,55.53,ModernTech
+894,Boots,Footwear,103.37,ClassicBrand
+895,Belt,Accessories,11.63,ElegantLife
+896,Laptop Mini,Electronics,442.46,ElegantLife
+897,Backpack,Bags,113.55,QualityPlus
+898,Socks Max,Accessories,60.86,TrendyFashion
+899,Backpack,Bags,91.18,ClassicBrand
+900,Sneakers,Footwear,140.7,ModernTech
+901,Hat Lite,Accessories,73.65,SportMax
+902,Phone Mini,Electronics,118.64,ModernTech
+903,Tablet,Electronics,309.33,QualityPlus
+904,Camera,Electronics,323.02,ModernTech
+905,Sunglasses,Accessories,48.17,TrendyFashion
+906,Sneakers,Footwear,118.37,StyleBrand
+907,Sunglasses,Accessories,94.09,ComfortWear
+908,Jeans,Clothing,75.16,QualityPlus
+909,Laptop,Electronics,252.88,ElegantLife
+910,Phone Plus,Electronics,100.96,StyleBrand
+911,Belt,Accessories,98.64,TrendyFashion
+912,Book,Media,25.97,QualityPlus
+913,Belt,Accessories,21.22,ClassicBrand
+914,Headphones,Electronics,464.38,QualityPlus
+915,Hat,Accessories,88.29,ElegantLife
+916,Tablet Pro,Electronics,283.48,StyleBrand
+917,Jacket,Outerwear,134.6,ComfortWear
+918,Watch,Accessories,45.91,ClassicBrand
+919,Camera,Electronics,74.64,ClassicBrand
+920,Jacket,Outerwear,93.63,ClassicBrand
+921,Headphones Pro,Electronics,411.28,ElegantLife
+922,Jacket,Outerwear,40.74,TechCorp
+923,Jacket,Outerwear,93.36,ComfortWear
+924,Belt Lite,Accessories,45.84,TrendyFashion
+925,Watch,Accessories,58.37,TrendyFashion
+926,Headphones,Electronics,463.94,UrbanStyle
+927,Socks,Accessories,41.17,ComfortWear
+928,Phone Mini,Electronics,206.13,ModernTech
+929,Backpack,Bags,95.06,ClassicBrand
+930,Laptop,Electronics,253.5,TechCorp
+931,Backpack,Bags,46.34,SportMax
+932,Sneakers Mini,Footwear,84.29,QualityPlus
+933,Socks,Accessories,22.68,ElegantLife
+934,Headphones Max,Electronics,129.37,StyleBrand
+935,Camera,Electronics,274.27,ElegantLife
+936,Jewelry,Accessories,47.7,ModernTech
+937,Sunglasses,Accessories,92.34,ElegantLife
+938,Jewelry,Accessories,42.62,ComfortWear
+939,Boots,Footwear,99.67,QualityPlus
+940,Hat Plus,Accessories,66.9,ElegantLife
+941,Jacket,Outerwear,42.1,ComfortWear
+942,Hat,Accessories,69.72,TrendyFashion
+943,Jewelry,Accessories,26.02,ComfortWear
+944,Phone,Electronics,482.48,ComfortWear
+945,Book,Media,8.72,ComfortWear
+946,Tablet Plus,Electronics,236.58,SportMax
+947,Headphones Plus,Electronics,88.41,QualityPlus
+948,T-shirt Max,Clothing,79.8,ClassicBrand
+949,Book,Media,17.55,TrendyFashion
+950,Phone,Electronics,317.92,ClassicBrand
+951,Headphones Mini,Electronics,80.18,ClassicBrand
+952,T-shirt Plus,Clothing,63.75,UrbanStyle
+953,Belt Max,Accessories,28.89,TrendyFashion
+954,Perfume,Beauty,55.41,ClassicBrand
+955,Jacket Mini,Outerwear,72.82,QualityPlus
+956,Sunglasses,Accessories,27.16,TrendyFashion
+957,Jeans,Clothing,17.38,ClassicBrand
+958,Phone,Electronics,262.43,StyleBrand
+959,Belt,Accessories,60.84,SportMax
+960,Jeans Pro,Clothing,19.27,ClassicBrand
+961,Headphones,Electronics,398.99,StyleBrand
+962,Belt,Accessories,50.8,UrbanStyle
+963,Perfume,Beauty,38.6,ElegantLife
+964,Jewelry Lite,Accessories,49.67,ModernTech
+965,Backpack,Bags,63.07,UrbanStyle
+966,Perfume,Beauty,40.18,ElegantLife
+967,Jewelry Plus,Accessories,23.97,TrendyFashion
+968,Boots Mini,Footwear,51.83,QualityPlus
+969,Jacket,Outerwear,177.89,ComfortWear
+970,Phone,Electronics,475.75,TechCorp
+971,Hat Plus,Accessories,43.6,ComfortWear
+972,Belt,Accessories,34.37,ModernTech
+973,Perfume,Beauty,43.98,SportMax
+974,Laptop Pro,Electronics,233.93,ClassicBrand
+975,Laptop,Electronics,61.42,TrendyFashion
+976,Sunglasses,Accessories,24.05,ClassicBrand
+977,Watch Pro,Accessories,74.44,QualityPlus
+978,Headphones,Electronics,346.52,ElegantLife
+979,Book Max,Media,5.68,ModernTech
+980,Backpack Plus,Bags,46.09,ClassicBrand
+981,Watch,Accessories,30.8,TrendyFashion
+982,Perfume,Beauty,45.24,ClassicBrand
+983,Jeans Max,Clothing,16.28,TechCorp
+984,T-shirt,Clothing,21.77,StyleBrand
+985,Socks,Accessories,81.99,ClassicBrand
+986,Phone,Electronics,130.35,UrbanStyle
+987,Hat Plus,Accessories,68.75,SportMax
+988,Sneakers Plus,Footwear,58.58,ElegantLife
+989,Socks,Accessories,18.95,TechCorp
+990,Boots,Footwear,59.18,UrbanStyle
+991,Sneakers Max,Footwear,116.67,StyleBrand
+992,Sneakers,Footwear,132.68,ComfortWear
+993,Camera Plus,Electronics,423.6,ClassicBrand
+994,Jacket,Outerwear,103.55,ModernTech
+995,Tablet Pro,Electronics,350.64,StyleBrand
+996,Jacket,Outerwear,72.8,StyleBrand
+997,Boots,Footwear,65.18,ComfortWear
+998,Hat Mini,Accessories,90.67,ComfortWear
+999,T-shirt,Clothing,15.85,QualityPlus
+1000,Headphones,Electronics,88.48,ElegantLife
+1001,Hat,Accessories,28.71,ModernTech
+1002,Headphones Pro,Electronics,61.94,UrbanStyle
+1003,Hat,Accessories,26.33,StyleBrand
+1004,Laptop,Electronics,312.37,ElegantLife
+1005,Watch Pro,Accessories,47.93,ComfortWear
+1006,Belt,Accessories,90.34,TrendyFashion
+1007,Jewelry,Accessories,83.57,SportMax
+1008,T-shirt Mini,Clothing,37.22,SportMax
+1009,Camera,Electronics,166.74,UrbanStyle
+1010,Boots,Footwear,75.56,TechCorp
+1011,Belt,Accessories,63.13,ClassicBrand
+1012,Belt,Accessories,34.13,ClassicBrand
+1013,Sneakers,Footwear,104.9,TrendyFashion
+1014,T-shirt,Clothing,41.61,ElegantLife
+1015,Hat,Accessories,59.68,ModernTech
+1016,Perfume,Beauty,34.63,ModernTech
+1017,Socks,Accessories,36.5,ClassicBrand
+1018,Sneakers,Footwear,143.81,TechCorp
+1019,T-shirt Pro,Clothing,64.63,SportMax
+1020,Laptop Mini,Electronics,113.05,TrendyFashion
+1021,Phone,Electronics,440.81,ModernTech
+1022,Sneakers,Footwear,88.49,TrendyFashion
+1023,Hat Pro,Accessories,90.51,SportMax
+1024,Camera,Electronics,409.93,UrbanStyle
+1025,Hat,Accessories,48.27,TrendyFashion
+1026,Perfume,Beauty,16.01,StyleBrand
+1027,Phone Pro,Electronics,170.9,UrbanStyle
+1028,Phone,Electronics,293.74,StyleBrand
+1029,Jewelry,Accessories,67.01,TechCorp
+1030,Socks Lite,Accessories,33.21,StyleBrand
+1031,T-shirt,Clothing,24.06,ComfortWear
+1032,Sunglasses,Accessories,85.14,TrendyFashion
+1033,Dress,Clothing,78.99,ComfortWear
+1034,Dress,Clothing,49.17,StyleBrand
+1035,T-shirt,Clothing,26.16,ElegantLife
+1036,Dress Mini,Clothing,32.7,TrendyFashion
+1037,Sneakers,Footwear,32.21,ClassicBrand
+1038,Sunglasses,Accessories,92.29,TechCorp
+1039,Perfume,Beauty,20.3,ComfortWear
+1040,Dress,Clothing,52.47,StyleBrand
+1041,Jacket,Outerwear,83.85,UrbanStyle
+1042,T-shirt,Clothing,51.02,TechCorp
+1043,T-shirt Plus,Clothing,57.34,UrbanStyle
+1044,Laptop Pro,Electronics,423.38,ComfortWear
+1045,Book Lite,Media,10.16,ModernTech
+1046,Phone Pro,Electronics,54.95,ElegantLife
+1047,Perfume Pro,Beauty,21.16,ElegantLife
+1048,Socks,Accessories,91.0,UrbanStyle
+1049,Jeans Max,Clothing,71.8,ModernTech
+1050,Boots,Footwear,101.69,SportMax
+1051,Book Lite,Media,20.01,ClassicBrand
+1052,Boots,Footwear,109.8,QualityPlus
+1053,Jewelry,Accessories,25.78,UrbanStyle
+1054,Perfume,Beauty,56.15,ClassicBrand
+1055,Backpack,Bags,64.78,TrendyFashion
+1056,Belt Max,Accessories,44.48,ComfortWear
+1057,T-shirt,Clothing,48.73,UrbanStyle
+1058,T-shirt Max,Clothing,18.05,ElegantLife
+1059,Boots Lite,Footwear,49.95,StyleBrand
+1060,Phone,Electronics,382.12,ClassicBrand
+1061,Hat Lite,Accessories,17.45,SportMax
+1062,Camera,Electronics,321.42,ModernTech
+1063,Sunglasses,Accessories,32.08,ClassicBrand
+1064,Sneakers Lite,Footwear,76.72,QualityPlus
+1065,Laptop,Electronics,179.91,StyleBrand
+1066,Jeans,Clothing,38.12,ModernTech
+1067,Hat Plus,Accessories,74.71,UrbanStyle
+1068,Laptop,Electronics,183.7,ElegantLife
+1069,Dress Lite,Clothing,51.82,UrbanStyle
+1070,Hat Pro,Accessories,52.84,QualityPlus
+1071,Socks,Accessories,69.73,ClassicBrand
+1072,Phone,Electronics,471.57,StyleBrand
+1073,Backpack,Bags,94.59,ClassicBrand
+1074,Dress Plus,Clothing,28.97,StyleBrand
+1075,Jewelry Plus,Accessories,12.81,TechCorp
+1076,Hat,Accessories,33.6,StyleBrand
+1077,Sunglasses,Accessories,63.56,ModernTech
+1078,Boots,Footwear,36.17,SportMax
+1079,Socks,Accessories,54.67,TechCorp
+1080,Headphones,Electronics,318.58,TrendyFashion
+1081,Belt,Accessories,40.08,StyleBrand
+1082,Hat Lite,Accessories,79.38,StyleBrand
+1083,Hat,Accessories,19.59,UrbanStyle
+1084,Sunglasses,Accessories,16.76,StyleBrand
+1085,Dress Pro,Clothing,62.33,StyleBrand
+1086,Backpack,Bags,72.07,ClassicBrand
+1087,Sneakers Max,Footwear,112.61,ElegantLife
+1088,Jeans,Clothing,43.26,ComfortWear
+1089,Phone,Electronics,160.88,ModernTech
+1090,Laptop Lite,Electronics,418.6,ModernTech
+1091,Socks Lite,Accessories,81.95,SportMax
+1092,Jeans,Clothing,60.16,QualityPlus
+1093,Belt,Accessories,34.49,SportMax
+1094,Book Plus,Media,19.76,ClassicBrand
+1095,Laptop,Electronics,212.44,ComfortWear
+1096,Camera,Electronics,91.21,UrbanStyle
+1097,Book,Media,27.93,TechCorp
+1098,Sunglasses,Accessories,22.31,ClassicBrand
+1099,Tablet,Electronics,477.61,ElegantLife
+1100,Camera,Electronics,250.7,ElegantLife
+1101,Socks,Accessories,26.66,TechCorp
+1102,Belt,Accessories,58.77,TechCorp
+1103,Dress,Clothing,71.74,TechCorp
+1104,Tablet,Electronics,379.5,TrendyFashion
+1105,Perfume,Beauty,51.3,UrbanStyle
+1106,Jacket,Outerwear,145.41,UrbanStyle
+1107,Dress,Clothing,60.0,TrendyFashion
+1108,Jeans,Clothing,70.2,UrbanStyle
+1109,Laptop,Electronics,162.35,ElegantLife
+1110,Socks Plus,Accessories,54.05,ComfortWear
+1111,Sunglasses Plus,Accessories,29.91,QualityPlus
+1112,Perfume Lite,Beauty,59.45,QualityPlus
+1113,Tablet,Electronics,474.83,TrendyFashion
+1114,Tablet Lite,Electronics,67.74,TechCorp
+1115,Jewelry Max,Accessories,73.5,UrbanStyle
+1116,T-shirt,Clothing,75.14,ElegantLife
+1117,Backpack,Bags,42.15,ComfortWear
+1118,Socks Lite,Accessories,61.12,ElegantLife
+1119,Perfume,Beauty,56.2,ComfortWear
+1120,Camera,Electronics,65.28,ElegantLife
+1121,Sunglasses,Accessories,72.77,ModernTech
+1122,Watch,Accessories,36.76,SportMax
+1123,Socks,Accessories,93.2,ModernTech
+1124,Tablet Mini,Electronics,486.98,ElegantLife
+1125,Jewelry Mini,Accessories,94.98,ElegantLife
+1126,Socks,Accessories,52.68,ModernTech
+1127,Boots Pro,Footwear,133.45,ComfortWear
+1128,Perfume,Beauty,53.0,ModernTech
+1129,Perfume Plus,Beauty,29.36,TechCorp
+1130,Jewelry,Accessories,84.6,UrbanStyle
+1131,Jacket Pro,Outerwear,45.92,ClassicBrand
+1132,Belt,Accessories,63.66,ElegantLife
+1133,Socks,Accessories,30.7,StyleBrand
+1134,Watch Lite,Accessories,20.85,ClassicBrand
+1135,Belt,Accessories,16.93,StyleBrand
+1136,Jacket Max,Outerwear,151.41,TechCorp
+1137,Phone,Electronics,202.94,ComfortWear
+1138,Tablet,Electronics,376.15,ModernTech
+1139,Laptop,Electronics,79.41,StyleBrand
+1140,Perfume Pro,Beauty,29.19,UrbanStyle
+1141,Jeans Plus,Clothing,50.07,SportMax
+1142,Jacket,Outerwear,166.52,StyleBrand
+1143,Laptop,Electronics,193.44,ComfortWear
+1144,Book,Media,20.65,StyleBrand
+1145,Jewelry,Accessories,89.74,ClassicBrand
+1146,Phone,Electronics,327.14,ComfortWear
+1147,Phone Plus,Electronics,154.83,ComfortWear
+1148,Backpack,Bags,27.32,UrbanStyle
+1149,Book Plus,Media,26.75,TrendyFashion
+1150,Boots Max,Footwear,32.55,UrbanStyle
+1151,Perfume,Beauty,54.36,TrendyFashion
+1152,Hat,Accessories,57.6,TechCorp
+1153,Phone Mini,Electronics,472.58,StyleBrand
+1154,Tablet Lite,Electronics,409.45,UrbanStyle
+1155,Socks,Accessories,99.81,SportMax
+1156,Tablet,Electronics,207.82,StyleBrand
+1157,Laptop,Electronics,395.23,ClassicBrand
+1158,Dress,Clothing,41.13,StyleBrand
+1159,Laptop,Electronics,265.94,ComfortWear
+1160,Laptop Pro,Electronics,332.38,ElegantLife
+1161,Dress,Clothing,71.79,ClassicBrand
+1162,Belt,Accessories,98.57,SportMax
+1163,Hat Plus,Accessories,79.14,StyleBrand
+1164,Book,Media,15.44,ModernTech
+1165,Perfume,Beauty,33.96,UrbanStyle
+1166,Laptop,Electronics,381.91,TrendyFashion
+1167,Book,Media,10.97,ClassicBrand
+1168,Belt Max,Accessories,19.94,ClassicBrand
+1169,Jeans,Clothing,38.05,TrendyFashion
+1170,Camera,Electronics,179.26,QualityPlus
+1171,Jewelry Max,Accessories,36.67,ComfortWear
+1172,Socks,Accessories,31.02,ComfortWear
+1173,Backpack Pro,Bags,29.0,ComfortWear
+1174,Phone,Electronics,58.04,UrbanStyle
+1175,Hat Pro,Accessories,98.9,QualityPlus
+1176,Sneakers,Footwear,81.33,ModernTech
+1177,Book,Media,14.61,ElegantLife
+1178,Camera,Electronics,355.84,ClassicBrand
+1179,T-shirt,Clothing,29.19,QualityPlus
+1180,Phone,Electronics,477.48,StyleBrand
+1181,Hat,Accessories,80.77,QualityPlus
+1182,Jacket,Outerwear,54.31,StyleBrand
+1183,Jacket,Outerwear,106.81,SportMax
+1184,Sunglasses Max,Accessories,89.12,ModernTech
+1185,Perfume,Beauty,57.51,QualityPlus
+1186,Socks,Accessories,52.07,SportMax
+1187,Jewelry,Accessories,65.21,QualityPlus
+1188,Laptop,Electronics,125.17,TechCorp
+1189,Watch Max,Accessories,99.21,UrbanStyle
+1190,Dress Plus,Clothing,30.06,ElegantLife
+1191,Boots,Footwear,143.13,SportMax
+1192,Jacket Max,Outerwear,143.94,UrbanStyle
+1193,Watch,Accessories,64.7,SportMax
+1194,Jewelry Lite,Accessories,56.14,StyleBrand
+1195,Phone,Electronics,153.8,ClassicBrand
+1196,Sunglasses,Accessories,25.89,TechCorp
+1197,Socks,Accessories,29.84,StyleBrand
+1198,Camera Mini,Electronics,133.9,ModernTech
+1199,Perfume Lite,Beauty,50.08,TechCorp
+1200,Jeans Pro,Clothing,37.76,UrbanStyle
+1201,Sunglasses Max,Accessories,15.21,UrbanStyle
+1202,Camera,Electronics,486.1,ModernTech
+1203,Jacket Max,Outerwear,181.41,TechCorp
+1204,Jewelry Max,Accessories,93.5,ClassicBrand
+1205,Perfume,Beauty,59.77,TrendyFashion
+1206,Socks,Accessories,25.65,SportMax
+1207,Sneakers Pro,Footwear,77.55,SportMax
+1208,Socks,Accessories,78.24,QualityPlus
+1209,Backpack,Bags,91.12,UrbanStyle
+1210,Backpack,Bags,39.62,SportMax
+1211,Camera,Electronics,417.12,TechCorp
+1212,T-shirt,Clothing,29.59,ClassicBrand
+1213,Socks,Accessories,30.14,QualityPlus
+1214,Belt,Accessories,58.33,SportMax
+1215,Boots,Footwear,101.15,SportMax
+1216,Laptop,Electronics,311.04,ElegantLife
+1217,Backpack,Bags,33.69,ClassicBrand
+1218,Camera,Electronics,444.86,QualityPlus
+1219,Jacket,Outerwear,82.5,TechCorp
+1220,Sunglasses,Accessories,21.66,TrendyFashion
+1221,Jewelry Pro,Accessories,89.99,SportMax
+1222,Tablet,Electronics,480.04,StyleBrand
+1223,Dress,Clothing,71.04,ElegantLife
+1224,Dress Mini,Clothing,67.62,SportMax
+1225,Belt,Accessories,68.97,TechCorp
+1226,Jewelry,Accessories,59.58,ModernTech
+1227,Hat,Accessories,17.83,TechCorp
+1228,Boots,Footwear,79.01,SportMax
+1229,Laptop,Electronics,217.71,ModernTech
+1230,Perfume,Beauty,26.69,QualityPlus
+1231,Watch,Accessories,75.11,UrbanStyle
+1232,Tablet,Electronics,273.14,ElegantLife
+1233,Socks Pro,Accessories,17.29,TrendyFashion
+1234,Tablet,Electronics,149.08,ComfortWear
+1235,Book,Media,22.08,ComfortWear
+1236,Watch Lite,Accessories,16.85,StyleBrand
+1237,Boots,Footwear,132.14,ModernTech
+1238,Watch Plus,Accessories,54.56,ElegantLife
+1239,Headphones,Electronics,266.26,StyleBrand
+1240,Perfume,Beauty,41.66,QualityPlus
+1241,Sneakers,Footwear,128.96,ClassicBrand
+1242,Camera,Electronics,206.51,StyleBrand
+1243,Laptop Pro,Electronics,355.11,TrendyFashion
+1244,Hat,Accessories,60.92,ComfortWear
+1245,Watch,Accessories,34.03,ModernTech
+1246,Headphones,Electronics,445.38,ComfortWear
+1247,Socks,Accessories,81.77,StyleBrand
+1248,Socks,Accessories,69.26,ElegantLife
+1249,T-shirt Lite,Clothing,70.29,ClassicBrand
+1250,Perfume,Beauty,54.03,ComfortWear
+1251,Sneakers,Footwear,115.0,ComfortWear
+1252,Phone,Electronics,426.66,ModernTech
+1253,Tablet Mini,Electronics,363.86,ModernTech
+1254,Backpack,Bags,89.61,ElegantLife
+1255,Watch Pro,Accessories,65.68,TrendyFashion
+1256,Belt,Accessories,77.74,UrbanStyle
+1257,Sunglasses Max,Accessories,24.27,SportMax
+1258,Camera,Electronics,446.39,QualityPlus
+1259,Sneakers Plus,Footwear,134.62,TechCorp
+1260,Headphones,Electronics,63.16,TrendyFashion
+1261,Watch,Accessories,84.32,ModernTech
+1262,Hat,Accessories,21.6,ElegantLife
+1263,Tablet,Electronics,200.8,ElegantLife
+1264,Socks Lite,Accessories,76.92,ModernTech
+1265,Hat,Accessories,24.47,UrbanStyle
+1266,Perfume Plus,Beauty,51.81,TrendyFashion
+1267,Jeans,Clothing,69.09,ModernTech
+1268,Dress,Clothing,47.99,TrendyFashion
+1269,Jewelry,Accessories,10.57,TechCorp
+1270,T-shirt,Clothing,33.66,TechCorp
+1271,Phone,Electronics,327.62,ClassicBrand
+1272,Book,Media,29.53,SportMax
+1273,Hat,Accessories,66.86,UrbanStyle
+1274,T-shirt,Clothing,31.89,SportMax
+1275,Jacket Mini,Outerwear,141.44,TrendyFashion
+1276,Hat,Accessories,58.6,ModernTech
+1277,Jacket,Outerwear,164.78,TrendyFashion
+1278,Jacket Pro,Outerwear,57.12,SportMax
+1279,Tablet,Electronics,392.46,UrbanStyle
+1280,Dress,Clothing,50.18,TrendyFashion
+1281,Sunglasses Pro,Accessories,96.67,ModernTech
+1282,Book,Media,13.55,ClassicBrand
+1283,Tablet Pro,Electronics,334.68,ElegantLife
+1284,Sneakers,Footwear,141.84,StyleBrand
+1285,Tablet,Electronics,96.13,ComfortWear
+1286,Camera,Electronics,471.75,StyleBrand
+1287,Jacket,Outerwear,150.06,SportMax
+1288,Headphones Pro,Electronics,80.53,SportMax
+1289,Jacket,Outerwear,88.15,ComfortWear
+1290,Boots,Footwear,114.98,ElegantLife
+1291,Watch,Accessories,16.06,ModernTech
+1292,Jacket Lite,Outerwear,133.15,TechCorp
+1293,Socks,Accessories,41.13,ElegantLife
+1294,Headphones Pro,Electronics,329.41,QualityPlus
+1295,Sunglasses Max,Accessories,14.12,ElegantLife
+1296,Laptop Max,Electronics,442.19,ClassicBrand
+1297,Tablet,Electronics,488.07,ModernTech
+1298,Socks Pro,Accessories,97.2,StyleBrand
+1299,Socks,Accessories,77.47,StyleBrand
+1300,Perfume,Beauty,20.85,ClassicBrand
+1301,Headphones,Electronics,391.22,ComfortWear
+1302,Sunglasses Lite,Accessories,12.21,QualityPlus
+1303,Tablet Max,Electronics,59.96,ClassicBrand
+1304,Headphones Plus,Electronics,195.62,TechCorp
+1305,T-shirt,Clothing,46.76,TrendyFashion
+1306,Perfume Plus,Beauty,49.67,QualityPlus
+1307,Camera,Electronics,357.48,TrendyFashion
+1308,Jewelry,Accessories,50.13,StyleBrand
+1309,Belt,Accessories,34.63,ClassicBrand
+1310,Laptop,Electronics,498.71,ComfortWear
+1311,Book Lite,Media,15.65,QualityPlus
+1312,Camera,Electronics,253.12,ClassicBrand
+1313,Socks,Accessories,24.73,StyleBrand
+1314,Watch,Accessories,81.53,UrbanStyle
+1315,Dress,Clothing,60.09,TechCorp
+1316,Book,Media,10.52,ModernTech
+1317,Belt,Accessories,17.41,StyleBrand
+1318,Perfume Max,Beauty,45.62,ClassicBrand
+1319,Headphones Max,Electronics,344.53,ElegantLife
+1320,T-shirt,Clothing,32.76,StyleBrand
+1321,Jeans,Clothing,76.81,TrendyFashion
+1322,Sneakers,Footwear,48.13,QualityPlus
+1323,Boots,Footwear,81.88,TrendyFashion
+1324,Headphones,Electronics,474.63,ElegantLife
+1325,Jeans,Clothing,42.28,UrbanStyle
+1326,Watch,Accessories,67.47,TrendyFashion
+1327,Jewelry,Accessories,45.78,ClassicBrand
+1328,Sunglasses Lite,Accessories,34.68,ClassicBrand
+1329,T-shirt,Clothing,78.96,ElegantLife
+1330,Boots,Footwear,79.12,TrendyFashion
+1331,Jacket,Outerwear,183.06,TechCorp
+1332,Tablet,Electronics,153.48,ComfortWear
+1333,Phone Lite,Electronics,145.9,StyleBrand
+1334,Backpack,Bags,27.96,StyleBrand
+1335,Laptop,Electronics,343.25,UrbanStyle
+1336,Backpack Max,Bags,60.01,ElegantLife
+1337,Jeans Max,Clothing,71.18,QualityPlus
+1338,Headphones,Electronics,262.94,QualityPlus
+1339,Hat Pro,Accessories,97.14,ClassicBrand
+1340,Book,Media,9.64,ModernTech
+1341,Tablet,Electronics,440.88,TrendyFashion
+1342,Socks Lite,Accessories,79.89,QualityPlus
+1343,Jacket,Outerwear,163.35,ModernTech
+1344,Jewelry,Accessories,86.03,ElegantLife
+1345,Laptop,Electronics,392.46,ModernTech
+1346,Belt,Accessories,66.36,SportMax
+1347,Watch,Accessories,21.81,SportMax
+1348,Hat,Accessories,12.93,ComfortWear
+1349,Camera,Electronics,464.38,SportMax
+1350,Book,Media,20.42,ElegantLife
+1351,Book Mini,Media,24.91,UrbanStyle
+1352,Boots,Footwear,87.78,ElegantLife
+1353,Hat,Accessories,20.56,ComfortWear
+1354,Watch,Accessories,21.27,StyleBrand
+1355,Book,Media,22.14,ClassicBrand
+1356,Phone Max,Electronics,243.64,TrendyFashion
+1357,T-shirt Max,Clothing,28.03,TrendyFashion
+1358,Hat,Accessories,54.24,TechCorp
+1359,Backpack,Bags,31.1,SportMax
+1360,Socks,Accessories,62.38,SportMax
+1361,Hat,Accessories,34.21,TechCorp
+1362,Boots,Footwear,125.71,UrbanStyle
+1363,Jeans,Clothing,35.17,ElegantLife
+1364,Jacket,Outerwear,112.84,QualityPlus
+1365,Book,Media,5.29,UrbanStyle
+1366,Book Plus,Media,6.81,ModernTech
+1367,Jeans,Clothing,40.51,ModernTech
+1368,Watch Plus,Accessories,53.19,TrendyFashion
+1369,Backpack,Bags,82.0,QualityPlus
+1370,Headphones,Electronics,181.25,UrbanStyle
+1371,Sunglasses,Accessories,72.55,QualityPlus
+1372,Jewelry,Accessories,87.41,UrbanStyle
+1373,Backpack,Bags,99.09,SportMax
+1374,Sneakers,Footwear,34.75,ComfortWear
+1375,Camera,Electronics,266.23,StyleBrand
+1376,Phone,Electronics,97.22,SportMax
+1377,Hat,Accessories,31.78,ComfortWear
+1378,Dress,Clothing,79.13,TechCorp
+1379,Hat Plus,Accessories,22.82,TechCorp
+1380,Jewelry,Accessories,54.9,TechCorp
+1381,Jewelry,Accessories,65.63,SportMax
+1382,Perfume,Beauty,46.61,TrendyFashion
+1383,Watch Lite,Accessories,60.37,TrendyFashion
+1384,Camera,Electronics,54.4,StyleBrand
+1385,Socks,Accessories,39.38,ModernTech
+1386,Laptop,Electronics,282.97,StyleBrand
+1387,Backpack,Bags,33.35,ElegantLife
+1388,Boots,Footwear,72.08,UrbanStyle
+1389,Jewelry,Accessories,12.99,TrendyFashion
+1390,Book Plus,Media,6.96,TechCorp
+1391,Headphones,Electronics,228.62,UrbanStyle
+1392,Jewelry Pro,Accessories,21.94,QualityPlus
+1393,Watch,Accessories,61.08,ModernTech
+1394,Jacket Plus,Outerwear,150.31,ModernTech
+1395,T-shirt,Clothing,67.04,TrendyFashion
+1396,Sunglasses,Accessories,28.01,TrendyFashion
+1397,Headphones Lite,Electronics,125.37,ClassicBrand
+1398,Watch Pro,Accessories,19.41,TrendyFashion
+1399,Socks,Accessories,67.28,TrendyFashion
+1400,Sneakers,Footwear,114.78,UrbanStyle
+1401,Backpack,Bags,28.0,ModernTech
+1402,Backpack,Bags,113.94,TrendyFashion
+1403,Phone,Electronics,73.39,StyleBrand
+1404,Hat,Accessories,58.72,TechCorp
+1405,Watch Pro,Accessories,73.82,TechCorp
+1406,Socks,Accessories,88.39,SportMax
+1407,Perfume,Beauty,47.13,UrbanStyle
+1408,Phone,Electronics,410.78,ModernTech
+1409,Laptop,Electronics,202.75,ModernTech
+1410,Laptop,Electronics,416.67,StyleBrand
+1411,Jewelry,Accessories,17.21,StyleBrand
+1412,Perfume,Beauty,55.27,TechCorp
+1413,Sneakers,Footwear,95.71,ElegantLife
+1414,Jacket,Outerwear,170.77,SportMax
+1415,Boots Max,Footwear,84.28,QualityPlus
+1416,Laptop,Electronics,339.61,ModernTech
+1417,T-shirt Lite,Clothing,49.22,ClassicBrand
+1418,Hat,Accessories,75.84,ModernTech
+1419,Book,Media,7.04,SportMax
+1420,Hat,Accessories,15.43,SportMax
+1421,Sunglasses,Accessories,32.24,TechCorp
+1422,Book Pro,Media,8.99,ComfortWear
+1423,Perfume,Beauty,54.23,QualityPlus
+1424,Book,Media,10.48,StyleBrand
+1425,Sunglasses,Accessories,97.83,UrbanStyle
+1426,Camera Lite,Electronics,201.6,ComfortWear
+1427,Jewelry Lite,Accessories,26.39,SportMax
+1428,Perfume,Beauty,50.54,TechCorp
+1429,Book,Media,21.47,ClassicBrand
+1430,Sneakers,Footwear,89.78,SportMax
+1431,Dress Mini,Clothing,51.1,StyleBrand
+1432,Tablet,Electronics,373.64,ElegantLife
+1433,Belt Pro,Accessories,30.56,StyleBrand
+1434,Backpack,Bags,119.65,ElegantLife
+1435,Watch,Accessories,97.73,QualityPlus
+1436,Perfume,Beauty,44.26,ComfortWear
+1437,Sunglasses,Accessories,27.96,ElegantLife
+1438,Socks,Accessories,71.22,TechCorp
+1439,Belt Plus,Accessories,16.5,ModernTech
+1440,Hat,Accessories,12.76,ElegantLife
+1441,Headphones,Electronics,165.96,ClassicBrand
+1442,Boots,Footwear,85.51,ClassicBrand
+1443,Socks Plus,Accessories,88.14,QualityPlus
+1444,Hat Pro,Accessories,75.45,TrendyFashion
+1445,Sneakers,Footwear,119.12,TechCorp
+1446,T-shirt,Clothing,42.66,QualityPlus
+1447,Perfume,Beauty,30.57,UrbanStyle
+1448,Book,Media,14.28,SportMax
+1449,Book,Media,29.69,ClassicBrand
+1450,Hat,Accessories,13.61,ElegantLife
+1451,Perfume Mini,Beauty,54.02,SportMax
+1452,Camera,Electronics,310.4,StyleBrand
+1453,Camera,Electronics,247.38,TechCorp
+1454,Jewelry,Accessories,75.27,ComfortWear
+1455,Hat Mini,Accessories,53.8,ClassicBrand
+1456,Perfume,Beauty,54.3,ComfortWear
+1457,Tablet Max,Electronics,455.32,ElegantLife
+1458,Belt Lite,Accessories,47.95,StyleBrand
+1459,Jeans,Clothing,32.99,UrbanStyle
+1460,Sunglasses,Accessories,63.31,ModernTech
+1461,Headphones Plus,Electronics,460.56,TechCorp
+1462,Jacket,Outerwear,73.71,TrendyFashion
+1463,Dress,Clothing,55.49,SportMax
+1464,Perfume,Beauty,43.42,ComfortWear
+1465,Laptop,Electronics,379.9,ElegantLife
+1466,Sneakers Lite,Footwear,45.79,TrendyFashion
+1467,Camera,Electronics,372.12,ModernTech
+1468,Sunglasses,Accessories,91.81,ClassicBrand
+1469,Jewelry,Accessories,26.17,TechCorp
+1470,Hat Pro,Accessories,31.38,ClassicBrand
+1471,Camera Lite,Electronics,487.13,SportMax
+1472,Socks,Accessories,26.29,ElegantLife
+1473,Jacket,Outerwear,176.7,UrbanStyle
+1474,Watch,Accessories,54.31,StyleBrand
+1475,Tablet Lite,Electronics,161.25,ClassicBrand
+1476,Phone Lite,Electronics,441.84,TechCorp
+1477,Perfume Mini,Beauty,35.04,QualityPlus
+1478,Jeans Lite,Clothing,48.46,QualityPlus
+1479,Dress,Clothing,38.35,ComfortWear
+1480,Laptop,Electronics,316.83,QualityPlus
+1481,T-shirt,Clothing,25.63,SportMax
+1482,Backpack,Bags,62.15,ClassicBrand
+1483,Tablet Max,Electronics,486.24,ClassicBrand
+1484,Jewelry,Accessories,33.23,ComfortWear
+1485,Socks,Accessories,69.11,QualityPlus
+1486,Dress,Clothing,36.14,ComfortWear
+1487,Watch,Accessories,79.61,ClassicBrand
+1488,Sneakers,Footwear,45.7,UrbanStyle
+1489,Hat Mini,Accessories,97.28,StyleBrand
+1490,Camera,Electronics,254.21,ModernTech
+1491,Jewelry Mini,Accessories,31.24,StyleBrand
+1492,Jewelry,Accessories,16.61,TechCorp
+1493,Book,Media,9.24,TrendyFashion
+1494,Sneakers,Footwear,92.37,ClassicBrand
+1495,Jewelry,Accessories,40.33,TrendyFashion
+1496,Phone,Electronics,423.0,TrendyFashion
+1497,Jeans,Clothing,43.01,TrendyFashion
+1498,Tablet,Electronics,161.92,ModernTech
+1499,Perfume,Beauty,42.77,StyleBrand
+1500,Dress,Clothing,60.94,ClassicBrand
+1501,Sneakers,Footwear,50.05,SportMax
+1502,Book Pro,Media,9.19,ModernTech
+1503,T-shirt,Clothing,17.38,QualityPlus
+1504,Camera,Electronics,381.38,TechCorp
+1505,Backpack,Bags,88.06,ElegantLife
+1506,Jacket,Outerwear,115.94,ComfortWear
+1507,Perfume Mini,Beauty,52.99,SportMax
+1508,Phone,Electronics,412.55,QualityPlus
+1509,Dress,Clothing,53.05,ModernTech
+1510,Phone,Electronics,440.72,TrendyFashion
+1511,Tablet,Electronics,142.63,ComfortWear
+1512,Book Plus,Media,7.8,ClassicBrand
+1513,Perfume,Beauty,27.14,ElegantLife
+1514,Laptop,Electronics,75.69,ComfortWear
+1515,Jacket,Outerwear,124.99,UrbanStyle
+1516,Socks Max,Accessories,94.29,StyleBrand
+1517,Watch,Accessories,13.54,TrendyFashion
+1518,Jeans,Clothing,22.94,ComfortWear
+1519,T-shirt,Clothing,44.39,StyleBrand
+1520,Tablet,Electronics,470.24,QualityPlus
+1521,Sneakers Pro,Footwear,67.94,SportMax
+1522,Jewelry,Accessories,55.65,TechCorp
+1523,Laptop,Electronics,68.71,QualityPlus
+1524,Boots Lite,Footwear,47.8,QualityPlus
+1525,Tablet Mini,Electronics,493.98,ClassicBrand
+1526,Boots Mini,Footwear,145.81,UrbanStyle
+1527,Camera,Electronics,52.22,TrendyFashion
+1528,Jewelry,Accessories,95.66,ComfortWear
+1529,Sunglasses,Accessories,67.52,UrbanStyle
+1530,Socks,Accessories,88.11,StyleBrand
+1531,Laptop,Electronics,254.63,ElegantLife
+1532,Laptop Pro,Electronics,282.02,QualityPlus
+1533,Sneakers,Footwear,88.66,StyleBrand
+1534,Book,Media,21.67,QualityPlus
+1535,Dress,Clothing,24.08,UrbanStyle
+1536,Backpack,Bags,27.85,ClassicBrand
+1537,Perfume Max,Beauty,28.86,TechCorp
+1538,Camera,Electronics,367.11,StyleBrand
+1539,Camera,Electronics,140.83,SportMax
+1540,Jacket,Outerwear,147.75,TrendyFashion
+1541,Book Max,Media,29.25,QualityPlus
+1542,Laptop,Electronics,92.26,QualityPlus
+1543,Belt,Accessories,70.53,ElegantLife
+1544,Headphones,Electronics,249.69,ClassicBrand
+1545,T-shirt Pro,Clothing,71.43,ClassicBrand
+1546,Laptop,Electronics,129.72,UrbanStyle
+1547,Belt,Accessories,72.34,ElegantLife
+1548,Sunglasses,Accessories,85.43,TrendyFashion
+1549,Dress Max,Clothing,76.4,UrbanStyle
+1550,Watch,Accessories,71.49,StyleBrand
+1551,Socks,Accessories,54.75,ClassicBrand
+1552,Backpack Lite,Bags,83.7,QualityPlus
+1553,Tablet Lite,Electronics,441.01,UrbanStyle
+1554,Dress Lite,Clothing,52.09,UrbanStyle
+1555,Jewelry Pro,Accessories,12.73,ElegantLife
+1556,Jacket,Outerwear,188.95,StyleBrand
+1557,Tablet Mini,Electronics,360.29,QualityPlus
+1558,Jeans,Clothing,58.97,ClassicBrand
+1559,Watch,Accessories,29.41,ClassicBrand
+1560,Perfume,Beauty,44.65,SportMax
+1561,Camera,Electronics,227.24,SportMax
+1562,Perfume Max,Beauty,44.31,ComfortWear
+1563,Tablet Plus,Electronics,97.97,TrendyFashion
+1564,Laptop,Electronics,346.03,ComfortWear
+1565,Jacket,Outerwear,199.91,TrendyFashion
+1566,T-shirt,Clothing,18.13,TechCorp
+1567,Laptop Plus,Electronics,489.73,QualityPlus
+1568,Jewelry Plus,Accessories,46.62,SportMax
+1569,Belt,Accessories,88.37,SportMax
+1570,Jewelry,Accessories,80.41,ElegantLife
+1571,Tablet Plus,Electronics,305.16,ModernTech
+1572,Sunglasses Lite,Accessories,76.46,ModernTech
+1573,Perfume,Beauty,54.53,ComfortWear
+1574,Belt,Accessories,46.37,StyleBrand
+1575,Belt,Accessories,39.43,TrendyFashion
+1576,Laptop Lite,Electronics,350.42,UrbanStyle
+1577,Tablet Max,Electronics,413.53,TechCorp
+1578,Hat,Accessories,78.61,TrendyFashion
+1579,Watch,Accessories,81.8,ClassicBrand
+1580,Book Pro,Media,15.89,QualityPlus
+1581,Socks Plus,Accessories,83.61,TechCorp
+1582,Tablet,Electronics,104.09,StyleBrand
+1583,Watch,Accessories,59.0,SportMax
+1584,Book,Media,5.14,TrendyFashion
+1585,Dress Pro,Clothing,36.1,ElegantLife
+1586,Sunglasses Mini,Accessories,42.98,QualityPlus
+1587,Book,Media,14.9,ComfortWear
+1588,Boots,Footwear,113.46,ElegantLife
+1589,Camera,Electronics,224.85,ClassicBrand
+1590,Headphones,Electronics,251.91,StyleBrand
+1591,Boots,Footwear,58.51,ClassicBrand
+1592,Hat,Accessories,43.59,ComfortWear
+1593,Watch,Accessories,30.45,ModernTech
+1594,Perfume,Beauty,18.29,ModernTech
+1595,Sneakers Lite,Footwear,102.41,StyleBrand
+1596,Watch,Accessories,70.14,ElegantLife
+1597,Dress,Clothing,55.27,QualityPlus
+1598,Dress,Clothing,45.13,ClassicBrand
+1599,Sunglasses,Accessories,44.18,QualityPlus
+1600,Headphones Pro,Electronics,438.5,ModernTech
+1601,Hat,Accessories,56.72,UrbanStyle
+1602,Sneakers Pro,Footwear,87.5,UrbanStyle
+1603,Jacket,Outerwear,44.1,StyleBrand
+1604,Tablet Max,Electronics,203.56,TrendyFashion
+1605,Camera Mini,Electronics,221.09,StyleBrand
+1606,Hat,Accessories,45.89,StyleBrand
+1607,Laptop Plus,Electronics,311.08,SportMax
+1608,Headphones Lite,Electronics,290.12,ComfortWear
+1609,T-shirt,Clothing,54.51,TechCorp
+1610,Watch,Accessories,78.84,ClassicBrand
+1611,Book,Media,25.32,SportMax
+1612,Hat Mini,Accessories,74.63,TrendyFashion
+1613,Headphones,Electronics,479.99,QualityPlus
+1614,Book,Media,5.46,SportMax
+1615,Tablet Pro,Electronics,138.1,TrendyFashion
+1616,Headphones,Electronics,53.4,SportMax
+1617,Dress,Clothing,57.09,ComfortWear
+1618,T-shirt,Clothing,73.37,TrendyFashion
+1619,Hat Mini,Accessories,31.91,ElegantLife
+1620,T-shirt,Clothing,75.26,ClassicBrand
+1621,Tablet Max,Electronics,77.12,SportMax
+1622,Boots Pro,Footwear,142.13,QualityPlus
+1623,Book Mini,Media,13.79,ElegantLife
+1624,Phone Max,Electronics,95.64,ModernTech
+1625,Laptop Max,Electronics,268.64,UrbanStyle
+1626,Belt,Accessories,33.11,TrendyFashion
+1627,Jewelry Mini,Accessories,35.64,SportMax
+1628,Dress Pro,Clothing,34.97,ModernTech
+1629,Socks Max,Accessories,82.27,ComfortWear
+1630,Jewelry Mini,Accessories,58.52,ClassicBrand
+1631,Tablet,Electronics,190.09,UrbanStyle
+1632,Hat,Accessories,64.93,TechCorp
+1633,T-shirt,Clothing,61.55,ComfortWear
+1634,Boots Max,Footwear,62.71,SportMax
+1635,T-shirt Pro,Clothing,41.88,UrbanStyle
+1636,Tablet,Electronics,104.85,UrbanStyle
+1637,Boots,Footwear,51.74,ClassicBrand
+1638,Headphones,Electronics,356.5,TechCorp
+1639,Hat Max,Accessories,26.33,TechCorp
+1640,Sneakers,Footwear,93.02,TrendyFashion
+1641,Backpack,Bags,92.36,SportMax
+1642,T-shirt,Clothing,21.95,StyleBrand
+1643,Belt,Accessories,61.06,ModernTech
+1644,Headphones,Electronics,165.45,UrbanStyle
+1645,Jeans,Clothing,77.59,UrbanStyle
+1646,Jacket,Outerwear,117.37,TrendyFashion
+1647,Backpack,Bags,101.57,ClassicBrand
+1648,Boots Pro,Footwear,96.03,ElegantLife
+1649,Book Max,Media,6.09,TrendyFashion
+1650,Boots,Footwear,105.98,UrbanStyle
+1651,Jeans,Clothing,76.84,UrbanStyle
+1652,Belt,Accessories,64.15,ModernTech
+1653,Socks,Accessories,83.73,SportMax
+1654,Laptop Pro,Electronics,447.89,UrbanStyle
+1655,Perfume,Beauty,25.26,ClassicBrand
+1656,Hat,Accessories,29.08,ElegantLife
+1657,Belt,Accessories,64.99,ComfortWear
+1658,Jewelry,Accessories,46.99,ElegantLife
+1659,Jeans,Clothing,69.59,TechCorp
+1660,Hat,Accessories,91.0,TrendyFashion
+1661,Hat Mini,Accessories,41.81,ClassicBrand
+1662,Sunglasses,Accessories,31.32,ClassicBrand
+1663,T-shirt,Clothing,65.73,ModernTech
+1664,Hat,Accessories,34.73,SportMax
+1665,Tablet,Electronics,420.18,ClassicBrand
+1666,Book Lite,Media,15.59,ClassicBrand
+1667,Book,Media,21.69,ElegantLife
+1668,Headphones,Electronics,92.99,SportMax
+1669,Jewelry Mini,Accessories,66.15,TrendyFashion
+1670,Hat Plus,Accessories,50.66,ClassicBrand
+1671,Book,Media,19.67,ElegantLife
+1672,Camera,Electronics,125.61,ModernTech
+1673,T-shirt,Clothing,62.9,QualityPlus
+1674,Jewelry,Accessories,87.65,UrbanStyle
+1675,Sneakers,Footwear,56.01,TrendyFashion
+1676,Backpack,Bags,34.09,TrendyFashion
+1677,Book,Media,5.59,ComfortWear
+1678,Watch,Accessories,67.78,ModernTech
+1679,Jacket,Outerwear,137.14,StyleBrand
+1680,Sneakers,Footwear,95.6,TechCorp
+1681,Hat,Accessories,30.88,ComfortWear
+1682,Backpack,Bags,62.14,StyleBrand
+1683,Jacket,Outerwear,135.12,TechCorp
+1684,Laptop,Electronics,273.55,ClassicBrand
+1685,Perfume Lite,Beauty,59.45,SportMax
+1686,Jewelry Lite,Accessories,22.28,StyleBrand
+1687,Tablet,Electronics,362.82,StyleBrand
+1688,Jeans,Clothing,41.28,ElegantLife
+1689,Phone,Electronics,242.69,ElegantLife
+1690,Jeans Pro,Clothing,61.64,QualityPlus
+1691,Sneakers Lite,Footwear,113.09,SportMax
+1692,Camera Lite,Electronics,496.07,StyleBrand
+1693,Book Mini,Media,8.21,ModernTech
+1694,Belt,Accessories,19.37,QualityPlus
+1695,Socks,Accessories,75.19,TrendyFashion
+1696,Phone,Electronics,310.27,StyleBrand
+1697,Perfume,Beauty,27.34,ElegantLife
+1698,Phone Lite,Electronics,85.74,StyleBrand
+1699,Book,Media,7.14,ModernTech
+1700,Socks,Accessories,90.48,TrendyFashion
+1701,Headphones,Electronics,136.34,ElegantLife
+1702,Book,Media,13.08,ElegantLife
+1703,Phone,Electronics,152.0,ModernTech
+1704,Watch Mini,Accessories,41.95,QualityPlus
+1705,Backpack,Bags,31.6,ModernTech
+1706,Dress,Clothing,48.74,ElegantLife
+1707,Headphones Pro,Electronics,80.43,ModernTech
+1708,Boots Lite,Footwear,126.04,QualityPlus
+1709,Boots,Footwear,58.05,TechCorp
+1710,Belt,Accessories,58.6,UrbanStyle
+1711,T-shirt,Clothing,72.21,SportMax
+1712,Camera,Electronics,342.89,TrendyFashion
+1713,Perfume Max,Beauty,38.98,ComfortWear
+1714,Sunglasses Plus,Accessories,39.19,ComfortWear
+1715,Perfume Plus,Beauty,29.99,UrbanStyle
+1716,Sneakers,Footwear,110.34,QualityPlus
+1717,Backpack,Bags,119.44,StyleBrand
+1718,Tablet,Electronics,347.83,ComfortWear
+1719,Perfume,Beauty,40.1,StyleBrand
+1720,Boots,Footwear,117.68,TechCorp
+1721,Perfume Pro,Beauty,35.93,ModernTech
+1722,Watch,Accessories,15.41,ElegantLife
+1723,Phone,Electronics,303.03,ModernTech
+1724,Jacket,Outerwear,193.22,UrbanStyle
+1725,Jewelry,Accessories,25.78,TechCorp
+1726,Laptop,Electronics,360.5,TechCorp
+1727,Jeans,Clothing,28.06,ElegantLife
+1728,Hat,Accessories,58.22,ElegantLife
+1729,Belt Max,Accessories,18.7,ComfortWear
+1730,Headphones,Electronics,252.67,QualityPlus
+1731,Sneakers,Footwear,120.74,UrbanStyle
+1732,Laptop Pro,Electronics,206.41,ComfortWear
+1733,Tablet,Electronics,349.21,QualityPlus
+1734,Book Max,Media,24.89,ModernTech
+1735,Camera,Electronics,467.23,ModernTech
+1736,Hat,Accessories,31.12,ComfortWear
+1737,Backpack,Bags,62.94,ClassicBrand
+1738,Perfume,Beauty,21.86,UrbanStyle
+1739,Camera Plus,Electronics,496.62,UrbanStyle
+1740,Phone,Electronics,467.15,ElegantLife
+1741,Perfume Max,Beauty,39.3,StyleBrand
+1742,Phone,Electronics,428.91,ElegantLife
+1743,Watch,Accessories,56.89,ElegantLife
+1744,T-shirt Plus,Clothing,55.53,SportMax
+1745,Jewelry,Accessories,18.02,ClassicBrand
+1746,Headphones,Electronics,389.87,TechCorp
+1747,Belt,Accessories,21.49,UrbanStyle
+1748,Hat Pro,Accessories,84.35,StyleBrand
+1749,Belt,Accessories,80.38,QualityPlus
+1750,Boots,Footwear,115.05,TechCorp
+1751,Jacket,Outerwear,45.79,SportMax
+1752,T-shirt Mini,Clothing,34.7,ElegantLife
+1753,Backpack,Bags,50.0,UrbanStyle
+1754,Dress,Clothing,38.41,TrendyFashion
+1755,Hat,Accessories,17.89,TechCorp
+1756,Camera Pro,Electronics,471.63,TechCorp
+1757,Boots,Footwear,96.46,UrbanStyle
+1758,Jewelry Pro,Accessories,37.5,SportMax
+1759,Sneakers,Footwear,77.64,ModernTech
+1760,Sunglasses Max,Accessories,50.25,StyleBrand
+1761,Belt,Accessories,64.05,ModernTech
+1762,Jacket,Outerwear,122.51,ElegantLife
+1763,Jewelry Lite,Accessories,92.75,TrendyFashion
+1764,Camera,Electronics,273.63,ClassicBrand
+1765,T-shirt Mini,Clothing,79.49,TechCorp
+1766,Boots,Footwear,132.17,ElegantLife
+1767,Socks,Accessories,28.77,TechCorp
+1768,Sunglasses,Accessories,93.75,ElegantLife
+1769,Belt Pro,Accessories,20.47,TrendyFashion
+1770,Dress,Clothing,68.13,ModernTech
+1771,T-shirt,Clothing,39.74,TrendyFashion
+1772,Belt,Accessories,89.02,ComfortWear
+1773,Laptop Max,Electronics,440.63,ComfortWear
+1774,Camera,Electronics,412.67,QualityPlus
+1775,Belt Lite,Accessories,81.1,ModernTech
+1776,Phone,Electronics,187.11,SportMax
+1777,Watch,Accessories,17.28,ClassicBrand
+1778,Backpack,Bags,63.28,ComfortWear
+1779,Backpack,Bags,41.48,ComfortWear
+1780,Camera,Electronics,362.73,ComfortWear
+1781,Hat,Accessories,41.15,QualityPlus
+1782,Watch,Accessories,97.8,StyleBrand
+1783,Jacket,Outerwear,142.56,ComfortWear
+1784,Hat,Accessories,84.02,TechCorp
+1785,Phone,Electronics,109.64,ModernTech
+1786,Dress,Clothing,71.03,ComfortWear
+1787,Jacket Mini,Outerwear,187.64,ComfortWear
+1788,Jewelry,Accessories,53.84,SportMax
+1789,Jewelry,Accessories,64.56,UrbanStyle
+1790,Belt,Accessories,78.83,TechCorp
+1791,Tablet,Electronics,128.68,ComfortWear
+1792,Jewelry,Accessories,55.23,ClassicBrand
+1793,Sunglasses,Accessories,45.88,ComfortWear
+1794,Tablet Lite,Electronics,115.87,ClassicBrand
+1795,Belt,Accessories,43.08,TechCorp
+1796,T-shirt,Clothing,19.43,SportMax
+1797,Belt,Accessories,12.32,UrbanStyle
+1798,Sneakers,Footwear,46.22,ComfortWear
+1799,Headphones,Electronics,483.4,QualityPlus
+1800,Watch,Accessories,59.46,ClassicBrand
+1801,Phone,Electronics,484.62,ModernTech
+1802,Jewelry,Accessories,48.92,ModernTech
+1803,Laptop,Electronics,190.32,QualityPlus
+1804,Perfume,Beauty,37.78,QualityPlus
+1805,Jeans Max,Clothing,43.57,TrendyFashion
+1806,Jeans,Clothing,21.87,UrbanStyle
+1807,Laptop,Electronics,338.37,TechCorp
+1808,Camera Max,Electronics,147.22,TechCorp
+1809,Laptop,Electronics,328.81,SportMax
+1810,Boots Plus,Footwear,108.02,ClassicBrand
+1811,Jewelry,Accessories,23.68,TechCorp
+1812,Hat,Accessories,15.52,ClassicBrand
+1813,Headphones,Electronics,401.34,StyleBrand
+1814,Jacket,Outerwear,113.57,ComfortWear
+1815,Book,Media,6.45,ComfortWear
+1816,Watch Max,Accessories,99.54,ClassicBrand
+1817,Perfume,Beauty,17.6,UrbanStyle
+1818,Sneakers,Footwear,113.4,SportMax
+1819,Socks Max,Accessories,98.53,StyleBrand
+1820,Sunglasses,Accessories,31.53,StyleBrand
+1821,Laptop,Electronics,114.01,TrendyFashion
+1822,Socks,Accessories,20.92,ModernTech
+1823,Jeans,Clothing,34.71,ComfortWear
+1824,Perfume Lite,Beauty,19.55,ComfortWear
+1825,Socks,Accessories,72.29,TechCorp
+1826,Boots Lite,Footwear,37.48,ClassicBrand
+1827,Jacket,Outerwear,121.51,ComfortWear
+1828,T-shirt,Clothing,79.79,QualityPlus
+1829,T-shirt,Clothing,67.91,ClassicBrand
+1830,Tablet,Electronics,326.85,TrendyFashion
+1831,Jewelry Mini,Accessories,37.56,ClassicBrand
+1832,Tablet,Electronics,330.75,ClassicBrand
+1833,Sneakers,Footwear,93.24,QualityPlus
+1834,Belt Mini,Accessories,48.35,TrendyFashion
+1835,Backpack Pro,Bags,37.42,TechCorp
+1836,Sunglasses Pro,Accessories,89.79,TechCorp
+1837,Perfume Pro,Beauty,35.24,QualityPlus
+1838,Jeans,Clothing,27.65,StyleBrand
+1839,Socks,Accessories,43.1,ComfortWear
+1840,Jewelry,Accessories,47.27,QualityPlus
+1841,Book,Media,25.69,ComfortWear
+1842,Perfume,Beauty,48.01,ElegantLife
+1843,Sneakers,Footwear,122.32,SportMax
+1844,Laptop,Electronics,54.96,StyleBrand
+1845,Book Lite,Media,15.4,StyleBrand
+1846,Jacket,Outerwear,117.02,SportMax
+1847,Phone Lite,Electronics,58.64,TrendyFashion
+1848,Jewelry Mini,Accessories,33.38,TechCorp
+1849,Sneakers,Footwear,121.23,ClassicBrand
+1850,Jewelry,Accessories,22.34,SportMax
+1851,Watch,Accessories,58.18,SportMax
+1852,Jewelry,Accessories,29.37,ElegantLife
+1853,Jewelry,Accessories,11.09,QualityPlus
+1854,Tablet,Electronics,158.54,ClassicBrand
+1855,Jewelry,Accessories,97.83,UrbanStyle
+1856,Backpack Max,Bags,101.15,TechCorp
+1857,Jacket,Outerwear,193.53,UrbanStyle
+1858,Phone Plus,Electronics,269.53,ModernTech
+1859,Book Lite,Media,7.74,UrbanStyle
+1860,Boots,Footwear,95.76,SportMax
+1861,Boots,Footwear,84.53,SportMax
+1862,Watch Plus,Accessories,85.99,TechCorp
+1863,Watch,Accessories,18.83,ModernTech
+1864,Jewelry,Accessories,53.94,TechCorp
+1865,Backpack,Bags,39.25,ElegantLife
+1866,Tablet,Electronics,196.1,ClassicBrand
+1867,Hat Max,Accessories,76.36,ClassicBrand
+1868,Book,Media,16.9,ElegantLife
+1869,Phone,Electronics,219.15,TechCorp
+1870,Boots,Footwear,77.34,QualityPlus
+1871,Watch,Accessories,51.35,TrendyFashion
+1872,Backpack,Bags,99.58,QualityPlus
+1873,Sunglasses,Accessories,90.29,StyleBrand
+1874,Dress,Clothing,77.1,TechCorp
+1875,Laptop,Electronics,404.11,TrendyFashion
+1876,Perfume,Beauty,29.19,QualityPlus
+1877,Jewelry,Accessories,71.93,StyleBrand
+1878,Boots,Footwear,82.51,ElegantLife
+1879,Dress Lite,Clothing,31.55,ModernTech
+1880,Sunglasses,Accessories,85.68,ClassicBrand
+1881,Boots,Footwear,34.61,UrbanStyle
+1882,Socks,Accessories,91.16,StyleBrand
+1883,Jeans,Clothing,45.0,UrbanStyle
+1884,Headphones Max,Electronics,336.74,TrendyFashion
+1885,Camera Max,Electronics,346.71,ComfortWear
+1886,Camera,Electronics,452.8,SportMax
+1887,Hat,Accessories,67.3,StyleBrand
+1888,Camera Pro,Electronics,326.27,ComfortWear
+1889,Headphones,Electronics,79.99,ModernTech
+1890,Camera Pro,Electronics,283.28,StyleBrand
+1891,Jewelry,Accessories,23.52,StyleBrand
+1892,Jeans,Clothing,62.93,StyleBrand
+1893,Boots,Footwear,91.47,TechCorp
+1894,Boots,Footwear,111.63,UrbanStyle
+1895,Backpack Plus,Bags,28.96,SportMax
+1896,Headphones Lite,Electronics,88.16,StyleBrand
+1897,Dress Mini,Clothing,61.56,StyleBrand
+1898,Book Mini,Media,6.8,TrendyFashion
+1899,Sunglasses,Accessories,16.41,TrendyFashion
+1900,Hat,Accessories,11.09,SportMax
+1901,Socks,Accessories,96.09,StyleBrand
+1902,Watch,Accessories,76.38,TrendyFashion
+1903,Hat,Accessories,41.79,TechCorp
+1904,Jeans,Clothing,34.27,StyleBrand
+1905,Sneakers,Footwear,71.96,ModernTech
+1906,Jewelry,Accessories,79.72,QualityPlus
+1907,Headphones,Electronics,347.62,QualityPlus
+1908,Watch,Accessories,26.67,UrbanStyle
+1909,Book,Media,9.35,StyleBrand
+1910,Headphones Max,Electronics,94.28,QualityPlus
+1911,Jacket,Outerwear,145.65,ClassicBrand
+1912,Headphones Lite,Electronics,393.97,ClassicBrand
+1913,Hat Plus,Accessories,33.85,QualityPlus
+1914,Laptop,Electronics,59.43,ComfortWear
+1915,Watch,Accessories,17.4,ElegantLife
+1916,T-shirt,Clothing,77.91,StyleBrand
+1917,Sunglasses,Accessories,36.59,ClassicBrand
+1918,Socks,Accessories,79.23,SportMax
+1919,Jewelry Pro,Accessories,66.22,QualityPlus
+1920,Laptop,Electronics,221.87,StyleBrand
+1921,Sneakers,Footwear,54.68,SportMax
+1922,Laptop,Electronics,104.62,QualityPlus
+1923,Jewelry,Accessories,65.35,UrbanStyle
+1924,Tablet Lite,Electronics,398.59,ModernTech
+1925,Perfume,Beauty,43.98,ModernTech
+1926,Phone,Electronics,288.64,QualityPlus
+1927,Book Pro,Media,6.05,UrbanStyle
+1928,Perfume Mini,Beauty,58.58,ClassicBrand
+1929,Headphones,Electronics,409.42,ElegantLife
+1930,Headphones,Electronics,181.77,ComfortWear
+1931,Laptop,Electronics,490.99,StyleBrand
+1932,Jewelry,Accessories,64.17,ModernTech
+1933,Jeans Lite,Clothing,52.86,StyleBrand
+1934,Perfume,Beauty,48.66,TechCorp
+1935,Hat,Accessories,83.06,ClassicBrand
+1936,Laptop,Electronics,345.42,QualityPlus
+1937,Backpack,Bags,37.17,UrbanStyle
+1938,Watch,Accessories,40.44,SportMax
+1939,Boots,Footwear,141.37,ModernTech
+1940,Sunglasses,Accessories,30.22,StyleBrand
+1941,Jewelry,Accessories,43.5,TrendyFashion
+1942,Hat Mini,Accessories,48.89,SportMax
+1943,Jeans,Clothing,43.56,TechCorp
+1944,Sunglasses,Accessories,65.16,StyleBrand
+1945,T-shirt,Clothing,76.3,UrbanStyle
+1946,Perfume,Beauty,25.83,ModernTech
+1947,Laptop,Electronics,104.68,ModernTech
+1948,Book,Media,9.94,UrbanStyle
+1949,Tablet Max,Electronics,449.12,ComfortWear
+1950,Sunglasses Lite,Accessories,68.12,ModernTech
+1951,Hat Pro,Accessories,35.73,TechCorp
+1952,Hat,Accessories,83.44,ClassicBrand
+1953,Hat Max,Accessories,87.52,StyleBrand
+1954,Headphones,Electronics,430.93,QualityPlus
+1955,Jewelry,Accessories,92.7,ComfortWear
+1956,Phone,Electronics,163.51,TrendyFashion
+1957,Laptop Max,Electronics,389.77,ElegantLife
+1958,Jewelry,Accessories,51.45,TechCorp
+1959,Belt Mini,Accessories,85.78,TrendyFashion
+1960,Perfume Pro,Beauty,47.78,ElegantLife
+1961,Perfume,Beauty,49.94,ClassicBrand
+1962,Jacket,Outerwear,144.99,QualityPlus
+1963,Sneakers,Footwear,51.29,ComfortWear
+1964,Camera,Electronics,295.26,SportMax
+1965,Sneakers,Footwear,148.16,TrendyFashion
+1966,Sneakers,Footwear,142.49,UrbanStyle
+1967,Sneakers,Footwear,35.18,TrendyFashion
+1968,Boots Plus,Footwear,49.78,QualityPlus
+1969,Book,Media,8.29,TechCorp
+1970,Camera,Electronics,376.69,ClassicBrand
+1971,Watch,Accessories,83.6,ModernTech
+1972,Boots Mini,Footwear,55.62,SportMax
+1973,Boots Max,Footwear,90.7,QualityPlus
+1974,Perfume,Beauty,52.83,ComfortWear
+1975,Boots Max,Footwear,117.94,QualityPlus
+1976,Sneakers,Footwear,95.07,ComfortWear
+1977,Dress Plus,Clothing,53.37,SportMax
+1978,Dress Pro,Clothing,48.04,SportMax
+1979,Jewelry,Accessories,36.78,ComfortWear
+1980,Hat,Accessories,60.85,ClassicBrand
+1981,Socks,Accessories,72.0,SportMax
+1982,Belt Mini,Accessories,88.6,ClassicBrand
+1983,Jeans,Clothing,56.36,ElegantLife
+1984,Hat,Accessories,78.5,QualityPlus
+1985,Hat,Accessories,24.41,ClassicBrand
+1986,Phone Max,Electronics,257.7,ModernTech
+1987,Socks,Accessories,10.84,UrbanStyle
+1988,Sunglasses,Accessories,32.2,TechCorp
+1989,Jacket Max,Outerwear,156.23,TechCorp
+1990,Tablet,Electronics,496.31,SportMax
+1991,Book,Media,7.48,UrbanStyle
+1992,Laptop Mini,Electronics,230.67,ClassicBrand
+1993,Phone Max,Electronics,410.03,TechCorp
+1994,Laptop,Electronics,141.82,ElegantLife
+1995,Jeans,Clothing,51.08,StyleBrand
+1996,Sunglasses,Accessories,75.98,ModernTech
+1997,Dress Pro,Clothing,55.04,ElegantLife
+1998,Dress,Clothing,27.22,QualityPlus
+1999,Belt,Accessories,41.98,QualityPlus
+2000,Camera,Electronics,402.71,ElegantLife
+2001,Socks,Accessories,59.88,ElegantLife
+2002,T-shirt Pro,Clothing,15.34,StyleBrand
+2003,Camera,Electronics,392.45,StyleBrand
+2004,Sunglasses,Accessories,13.18,UrbanStyle
+2005,Dress Mini,Clothing,63.47,UrbanStyle
+2006,Sneakers,Footwear,54.3,TechCorp
+2007,Backpack,Bags,116.02,QualityPlus
+2008,Jacket,Outerwear,98.87,StyleBrand
+2009,Hat,Accessories,39.42,ModernTech
+2010,Perfume,Beauty,21.7,ComfortWear
+2011,Socks Pro,Accessories,37.5,SportMax
+2012,Headphones,Electronics,444.49,SportMax
+2013,Watch Pro,Accessories,99.67,SportMax
+2014,Dress,Clothing,38.94,TechCorp
+2015,Watch Plus,Accessories,50.37,TechCorp
+2016,Socks Lite,Accessories,74.99,ClassicBrand
+2017,Jewelry Max,Accessories,89.76,ModernTech
+2018,Jacket,Outerwear,134.89,ComfortWear
+2019,Phone,Electronics,226.19,UrbanStyle
+2020,Jacket,Outerwear,106.02,ClassicBrand
+2021,Jacket Mini,Outerwear,151.3,TechCorp
+2022,Dress Max,Clothing,15.21,ClassicBrand
+2023,Hat,Accessories,65.76,TechCorp
+2024,Laptop Plus,Electronics,209.97,SportMax
+2025,Laptop Max,Electronics,407.39,QualityPlus
+2026,Tablet,Electronics,91.85,ModernTech
+2027,Sneakers Max,Footwear,100.58,TrendyFashion
+2028,Tablet,Electronics,266.44,StyleBrand
+2029,Sunglasses,Accessories,67.81,ElegantLife
+2030,Laptop,Electronics,79.18,TechCorp
+2031,Sneakers,Footwear,99.6,ElegantLife
+2032,Watch,Accessories,60.53,StyleBrand
+2033,Boots Pro,Footwear,97.28,UrbanStyle
+2034,Laptop Max,Electronics,321.57,UrbanStyle
+2035,Jacket,Outerwear,148.23,ElegantLife
+2036,Headphones Lite,Electronics,412.25,UrbanStyle
+2037,T-shirt Max,Clothing,32.54,QualityPlus
+2038,Sneakers,Footwear,129.01,TrendyFashion
+2039,Tablet,Electronics,274.22,TrendyFashion
+2040,Headphones Pro,Electronics,84.68,TechCorp
+2041,Watch,Accessories,15.27,TechCorp
+2042,Backpack,Bags,56.75,TrendyFashion
+2043,Book,Media,24.62,ComfortWear
+2044,Belt Lite,Accessories,73.69,StyleBrand
+2045,Tablet,Electronics,404.88,TechCorp
+2046,Jewelry Lite,Accessories,56.55,TechCorp
+2047,T-shirt,Clothing,43.61,ComfortWear
+2048,Boots,Footwear,47.69,StyleBrand
+2049,Socks Pro,Accessories,39.54,QualityPlus
+2050,Jacket,Outerwear,109.44,ClassicBrand
+2051,Jewelry Lite,Accessories,17.97,UrbanStyle
+2052,Phone,Electronics,149.28,ElegantLife
+2053,Laptop Mini,Electronics,319.2,ElegantLife
+2054,Book,Media,23.39,ComfortWear
+2055,Backpack,Bags,119.84,TechCorp
+2056,Watch Lite,Accessories,93.98,StyleBrand
+2057,Phone,Electronics,339.15,ComfortWear
+2058,Book,Media,15.53,ComfortWear
+2059,Perfume Mini,Beauty,43.63,TechCorp
+2060,Laptop Max,Electronics,403.54,ComfortWear
+2061,Sneakers Pro,Footwear,44.2,TechCorp
+2062,Perfume,Beauty,33.45,SportMax
+2063,Tablet Plus,Electronics,427.91,ComfortWear
+2064,Camera,Electronics,222.72,ClassicBrand
+2065,Socks,Accessories,61.47,QualityPlus
+2066,Jewelry,Accessories,62.9,ComfortWear
+2067,Jewelry,Accessories,26.6,StyleBrand
+2068,Boots,Footwear,73.47,ElegantLife
+2069,Book Mini,Media,13.36,UrbanStyle
+2070,Jacket,Outerwear,44.19,QualityPlus
+2071,Book Lite,Media,5.6,TrendyFashion
+2072,Dress Lite,Clothing,69.06,TechCorp
+2073,Tablet Pro,Electronics,172.88,ClassicBrand
+2074,Jeans Max,Clothing,48.68,ElegantLife
+2075,Dress,Clothing,34.42,ElegantLife
+2076,Headphones Pro,Electronics,473.31,TechCorp
+2077,Book Pro,Media,11.48,ComfortWear
+2078,Tablet Lite,Electronics,243.35,TrendyFashion
+2079,Headphones,Electronics,442.73,QualityPlus
+2080,Phone,Electronics,428.87,UrbanStyle
+2081,Watch,Accessories,26.75,UrbanStyle
+2082,Watch Max,Accessories,82.24,UrbanStyle
+2083,Backpack,Bags,68.53,ModernTech
+2084,Sneakers,Footwear,87.96,ClassicBrand
+2085,Jeans Mini,Clothing,23.68,ModernTech
+2086,Headphones,Electronics,86.27,ComfortWear
+2087,Hat,Accessories,75.51,ClassicBrand
+2088,Sunglasses Lite,Accessories,54.68,SportMax
+2089,Jeans Lite,Clothing,43.4,QualityPlus
+2090,Jacket,Outerwear,156.72,ClassicBrand
+2091,Socks Plus,Accessories,78.9,ElegantLife
+2092,Jewelry,Accessories,24.3,ComfortWear
+2093,Jewelry,Accessories,64.92,ComfortWear
+2094,Book Mini,Media,8.38,UrbanStyle
+2095,Tablet,Electronics,388.12,UrbanStyle
+2096,Headphones Max,Electronics,345.63,SportMax
+2097,Belt,Accessories,96.1,UrbanStyle
+2098,Perfume,Beauty,18.1,UrbanStyle
+2099,Perfume,Beauty,17.57,ComfortWear
+2100,T-shirt,Clothing,33.34,ModernTech
+2101,Jeans,Clothing,32.01,ClassicBrand
+2102,Camera,Electronics,161.14,TechCorp
+2103,Laptop,Electronics,457.81,ClassicBrand
+2104,Jacket,Outerwear,79.93,ClassicBrand
+2105,Sneakers,Footwear,62.63,TrendyFashion
+2106,Phone Plus,Electronics,391.73,UrbanStyle
+2107,Belt Plus,Accessories,50.48,StyleBrand
+2108,Socks,Accessories,79.9,ClassicBrand
+2109,Perfume,Beauty,17.94,TechCorp
+2110,Headphones,Electronics,269.41,ComfortWear
+2111,Laptop,Electronics,65.13,ComfortWear
+2112,Sunglasses,Accessories,15.64,ClassicBrand
+2113,T-shirt,Clothing,73.92,StyleBrand
+2114,Watch Max,Accessories,22.53,TrendyFashion
+2115,Dress,Clothing,49.61,QualityPlus
+2116,Backpack,Bags,64.05,StyleBrand
+2117,Watch,Accessories,41.26,TechCorp
+2118,Sunglasses Plus,Accessories,90.99,TechCorp
+2119,Headphones Plus,Electronics,59.82,QualityPlus
+2120,Socks,Accessories,69.74,TrendyFashion
+2121,Book Plus,Media,29.08,UrbanStyle
+2122,Belt Max,Accessories,60.42,TrendyFashion
+2123,Perfume,Beauty,57.16,UrbanStyle
+2124,Belt,Accessories,14.7,ElegantLife
+2125,Dress,Clothing,42.22,TrendyFashion
+2126,Dress Plus,Clothing,31.91,TechCorp
+2127,Headphones,Electronics,378.87,ClassicBrand
+2128,Jacket,Outerwear,197.01,ClassicBrand
+2129,Book,Media,11.41,SportMax
+2130,Sunglasses Max,Accessories,68.88,StyleBrand
+2131,Sneakers,Footwear,53.77,StyleBrand
+2132,Socks,Accessories,60.88,SportMax
+2133,Sneakers Pro,Footwear,85.67,StyleBrand
+2134,Hat Lite,Accessories,97.48,ClassicBrand
+2135,Camera Mini,Electronics,323.84,TechCorp
+2136,Hat,Accessories,41.46,ClassicBrand
+2137,Headphones Pro,Electronics,101.34,TechCorp
+2138,T-shirt,Clothing,24.83,UrbanStyle
+2139,Camera,Electronics,151.39,ElegantLife
+2140,Watch,Accessories,32.59,ElegantLife
+2141,Camera,Electronics,432.78,TrendyFashion
+2142,Boots Plus,Footwear,97.35,QualityPlus
+2143,Socks Plus,Accessories,57.11,SportMax
+2144,Boots Plus,Footwear,43.77,TechCorp
+2145,Headphones,Electronics,437.06,ComfortWear
+2146,Socks Lite,Accessories,75.05,TrendyFashion
+2147,Hat Pro,Accessories,16.09,ComfortWear
+2148,Watch Plus,Accessories,73.71,QualityPlus
+2149,Sunglasses Pro,Accessories,58.92,ComfortWear
+2150,Watch Max,Accessories,17.36,ElegantLife
+2151,Book,Media,16.46,ComfortWear
+2152,Jacket,Outerwear,117.55,TechCorp
+2153,Tablet,Electronics,124.6,ComfortWear
+2154,Watch Mini,Accessories,95.11,ComfortWear
+2155,Camera,Electronics,432.49,ElegantLife
+2156,Boots,Footwear,110.28,ClassicBrand
+2157,Perfume,Beauty,35.8,ComfortWear
+2158,Headphones,Electronics,235.29,ElegantLife
+2159,Tablet Mini,Electronics,342.94,TechCorp
+2160,Jacket Mini,Outerwear,127.27,SportMax
+2161,Belt,Accessories,15.6,ClassicBrand
+2162,Watch,Accessories,56.13,TechCorp
+2163,Backpack,Bags,101.61,QualityPlus
+2164,Dress Mini,Clothing,44.85,UrbanStyle
+2165,Headphones,Electronics,73.38,StyleBrand
+2166,Laptop,Electronics,403.83,UrbanStyle
+2167,Jewelry,Accessories,28.12,QualityPlus
+2168,Jeans,Clothing,31.81,ElegantLife
+2169,Phone,Electronics,124.12,ElegantLife
+2170,T-shirt,Clothing,36.46,SportMax
+2171,Boots,Footwear,120.81,ClassicBrand
+2172,Sneakers,Footwear,92.33,UrbanStyle
+2173,Headphones,Electronics,142.2,ModernTech
+2174,Boots,Footwear,135.34,ComfortWear
+2175,Phone Mini,Electronics,445.81,ModernTech
+2176,Jewelry Plus,Accessories,88.35,StyleBrand
+2177,Tablet,Electronics,157.46,TrendyFashion
+2178,Sneakers,Footwear,84.15,QualityPlus
+2179,Sneakers,Footwear,148.2,TechCorp
+2180,Dress Max,Clothing,65.18,ModernTech
+2181,Perfume Max,Beauty,16.22,ComfortWear
+2182,Boots,Footwear,37.82,TrendyFashion
+2183,Boots,Footwear,85.67,QualityPlus
+2184,Book Pro,Media,27.73,ClassicBrand
+2185,Hat,Accessories,58.48,SportMax
+2186,Tablet,Electronics,274.02,StyleBrand
+2187,Boots Lite,Footwear,42.66,ModernTech
+2188,T-shirt,Clothing,57.69,StyleBrand
+2189,Tablet,Electronics,419.95,StyleBrand
+2190,Sunglasses,Accessories,44.24,QualityPlus
+2191,Phone,Electronics,399.03,SportMax
+2192,Tablet,Electronics,484.01,StyleBrand
+2193,Perfume,Beauty,24.17,TechCorp
+2194,Socks Plus,Accessories,57.1,QualityPlus
+2195,Headphones,Electronics,179.21,ComfortWear
+2196,Jeans,Clothing,66.54,SportMax
+2197,Sunglasses Mini,Accessories,61.98,TechCorp
+2198,Sneakers Lite,Footwear,106.15,TrendyFashion
+2199,Jacket,Outerwear,167.67,QualityPlus
+2200,Book,Media,14.9,ElegantLife
+2201,Boots,Footwear,139.81,SportMax
+2202,Sunglasses,Accessories,57.97,StyleBrand
+2203,Sunglasses Mini,Accessories,24.22,ComfortWear
+2204,Boots,Footwear,113.51,ElegantLife
+2205,Phone,Electronics,406.97,ElegantLife
+2206,Socks Mini,Accessories,38.51,StyleBrand
+2207,Belt,Accessories,87.15,UrbanStyle
+2208,Book,Media,27.65,QualityPlus
+2209,Camera,Electronics,174.61,TrendyFashion
+2210,Jacket,Outerwear,197.36,ModernTech
+2211,Sneakers,Footwear,46.89,StyleBrand
+2212,T-shirt,Clothing,28.13,ClassicBrand
+2213,Sunglasses,Accessories,26.58,ComfortWear
+2214,Jewelry,Accessories,90.46,TrendyFashion
+2215,Watch,Accessories,68.89,ComfortWear
+2216,T-shirt Lite,Clothing,24.89,StyleBrand
+2217,Belt Lite,Accessories,49.63,SportMax
+2218,Sneakers,Footwear,103.84,ModernTech
+2219,Jacket Max,Outerwear,53.35,StyleBrand
+2220,Phone Pro,Electronics,447.09,TechCorp
+2221,Camera Pro,Electronics,411.62,QualityPlus
+2222,Dress Pro,Clothing,47.84,TechCorp
+2223,Jacket,Outerwear,194.74,StyleBrand
+2224,Backpack,Bags,64.69,QualityPlus
+2225,Socks Lite,Accessories,98.57,ElegantLife
+2226,Dress,Clothing,58.41,QualityPlus
+2227,Socks,Accessories,67.12,TrendyFashion
+2228,Jewelry,Accessories,24.94,UrbanStyle
+2229,Sneakers,Footwear,135.83,StyleBrand
+2230,T-shirt Lite,Clothing,42.79,TrendyFashion
+2231,Boots,Footwear,49.47,ComfortWear
+2232,Book,Media,5.32,TechCorp
+2233,Jacket,Outerwear,129.56,UrbanStyle
+2234,Tablet,Electronics,287.33,ElegantLife
+2235,Socks,Accessories,74.74,ClassicBrand
+2236,Jacket,Outerwear,182.44,ComfortWear
+2237,Laptop Lite,Electronics,85.73,ModernTech
+2238,Phone,Electronics,379.17,StyleBrand
+2239,Watch,Accessories,26.87,StyleBrand
+2240,Camera,Electronics,436.18,ComfortWear
+2241,Sunglasses,Accessories,83.72,SportMax
+2242,Jeans,Clothing,50.15,StyleBrand
+2243,Jacket Mini,Outerwear,153.64,ModernTech
+2244,Boots Max,Footwear,67.72,ClassicBrand
+2245,Boots Pro,Footwear,86.54,ModernTech
+2246,Tablet Max,Electronics,419.74,ElegantLife
+2247,Jacket,Outerwear,113.48,ModernTech
+2248,Sneakers Max,Footwear,72.94,StyleBrand
+2249,Perfume,Beauty,37.24,StyleBrand
+2250,Socks,Accessories,84.54,StyleBrand
+2251,Backpack Max,Bags,56.84,ElegantLife
+2252,Jacket,Outerwear,67.8,UrbanStyle
+2253,Tablet,Electronics,370.41,SportMax
+2254,Perfume Max,Beauty,52.17,QualityPlus
+2255,Sunglasses,Accessories,19.06,ClassicBrand
+2256,Laptop,Electronics,157.94,ClassicBrand
+2257,Hat Plus,Accessories,22.78,ClassicBrand
+2258,Tablet Lite,Electronics,206.57,ClassicBrand
+2259,T-shirt,Clothing,44.27,StyleBrand
+2260,Sneakers,Footwear,119.86,ClassicBrand
+2261,Socks,Accessories,68.6,ModernTech
+2262,Watch,Accessories,65.88,ComfortWear
+2263,Jewelry,Accessories,41.71,StyleBrand
+2264,Camera,Electronics,428.65,ClassicBrand
+2265,Backpack,Bags,69.77,SportMax
+2266,Tablet Plus,Electronics,490.6,TrendyFashion
+2267,Book Pro,Media,20.85,TrendyFashion
+2268,Phone,Electronics,106.82,StyleBrand
+2269,Watch,Accessories,70.86,ModernTech
+2270,Jeans Plus,Clothing,36.13,TechCorp
+2271,Socks,Accessories,71.77,ClassicBrand
+2272,Boots,Footwear,38.36,ModernTech
+2273,Jacket,Outerwear,67.98,QualityPlus
+2274,Book,Media,26.39,TrendyFashion
+2275,Tablet,Electronics,152.23,TrendyFashion
+2276,Camera,Electronics,426.67,TechCorp
+2277,Tablet,Electronics,175.67,QualityPlus
+2278,Jewelry,Accessories,67.86,ElegantLife
+2279,Boots Mini,Footwear,113.3,ElegantLife
+2280,Jeans,Clothing,48.32,ComfortWear
+2281,Sunglasses Plus,Accessories,37.48,QualityPlus
+2282,Laptop,Electronics,145.69,StyleBrand
+2283,Sunglasses,Accessories,12.99,ModernTech
+2284,Belt Plus,Accessories,37.36,UrbanStyle
+2285,Perfume,Beauty,44.39,StyleBrand
+2286,Sneakers Lite,Footwear,142.6,SportMax
+2287,T-shirt,Clothing,71.63,TrendyFashion
+2288,Headphones,Electronics,394.73,ModernTech
+2289,Phone Max,Electronics,404.8,SportMax
+2290,Perfume,Beauty,44.92,TechCorp
+2291,Laptop,Electronics,167.13,QualityPlus
+2292,Perfume,Beauty,55.82,StyleBrand
+2293,Jacket,Outerwear,147.32,UrbanStyle
+2294,Camera Plus,Electronics,302.2,ElegantLife
+2295,Sunglasses Pro,Accessories,19.99,ModernTech
+2296,Book Pro,Media,16.18,UrbanStyle
+2297,Boots,Footwear,85.24,QualityPlus
+2298,Belt,Accessories,87.81,QualityPlus
+2299,Sneakers Plus,Footwear,95.6,QualityPlus
+2300,Dress,Clothing,39.73,StyleBrand
+2301,Camera,Electronics,489.56,ClassicBrand
+2302,Sunglasses,Accessories,19.96,StyleBrand
+2303,Boots,Footwear,80.71,TrendyFashion
+2304,Phone,Electronics,68.91,TrendyFashion
+2305,Phone Mini,Electronics,382.96,ModernTech
+2306,Headphones Pro,Electronics,463.13,TrendyFashion
+2307,Camera,Electronics,176.02,ComfortWear
+2308,Backpack Mini,Bags,106.54,ClassicBrand
+2309,Jewelry,Accessories,36.3,ModernTech
+2310,Jeans Max,Clothing,74.2,TrendyFashion
+2311,Hat Plus,Accessories,77.86,UrbanStyle
+2312,Phone,Electronics,412.21,ModernTech
+2313,Sneakers,Footwear,32.16,UrbanStyle
+2314,Dress,Clothing,77.58,SportMax
+2315,Dress Lite,Clothing,62.23,QualityPlus
+2316,Jacket Lite,Outerwear,88.76,ComfortWear
+2317,Boots,Footwear,129.53,ClassicBrand
+2318,Phone,Electronics,176.68,ModernTech
+2319,Jeans Lite,Clothing,71.73,UrbanStyle
+2320,T-shirt,Clothing,22.32,SportMax
+2321,Dress Pro,Clothing,60.74,TrendyFashion
+2322,Tablet Pro,Electronics,293.31,TechCorp
+2323,Watch Pro,Accessories,18.69,QualityPlus
+2324,Phone,Electronics,158.85,ElegantLife
+2325,Sneakers,Footwear,31.49,ModernTech
+2326,Hat Mini,Accessories,52.19,UrbanStyle
+2327,Jacket,Outerwear,88.2,TrendyFashion
+2328,Perfume Pro,Beauty,41.93,TrendyFashion
+2329,Belt Plus,Accessories,36.75,QualityPlus
+2330,Watch,Accessories,36.99,QualityPlus
+2331,Belt Pro,Accessories,76.89,ModernTech
+2332,Socks,Accessories,14.33,UrbanStyle
+2333,Headphones Mini,Electronics,456.3,ModernTech
+2334,Jeans,Clothing,70.4,ClassicBrand
+2335,Jacket,Outerwear,146.85,ElegantLife
+2336,Tablet,Electronics,316.95,UrbanStyle
+2337,Hat,Accessories,90.31,ElegantLife
+2338,Sunglasses Mini,Accessories,26.68,SportMax
+2339,Jeans,Clothing,20.13,TechCorp
+2340,Belt,Accessories,31.56,SportMax
+2341,Boots,Footwear,125.35,ElegantLife
+2342,Jacket,Outerwear,45.55,TrendyFashion
+2343,Headphones Max,Electronics,312.26,ModernTech
+2344,Dress Lite,Clothing,79.7,SportMax
+2345,Boots,Footwear,132.68,UrbanStyle
+2346,Socks,Accessories,56.93,ClassicBrand
+2347,Phone Pro,Electronics,78.64,TechCorp
+2348,Tablet,Electronics,424.12,ClassicBrand
+2349,Watch,Accessories,63.91,ModernTech
+2350,Jacket,Outerwear,58.39,ComfortWear
+2351,Camera,Electronics,92.24,StyleBrand
+2352,Jewelry,Accessories,91.87,TrendyFashion
+2353,Headphones,Electronics,351.14,TechCorp
+2354,Socks,Accessories,84.64,ClassicBrand
+2355,Hat,Accessories,89.11,TechCorp
+2356,Boots,Footwear,98.61,ElegantLife
+2357,Jacket Lite,Outerwear,122.79,ComfortWear
+2358,Jewelry,Accessories,48.74,ModernTech
+2359,Watch,Accessories,38.53,ClassicBrand
+2360,Hat Mini,Accessories,49.11,SportMax
+2361,Watch Max,Accessories,79.65,SportMax
+2362,Sunglasses,Accessories,64.17,ComfortWear
+2363,Laptop Pro,Electronics,451.64,QualityPlus
+2364,Book,Media,16.08,QualityPlus
+2365,Sneakers Lite,Footwear,102.85,ClassicBrand
+2366,Jeans,Clothing,56.03,ModernTech
+2367,Jewelry Plus,Accessories,63.25,SportMax
+2368,Socks Mini,Accessories,73.24,QualityPlus
+2369,Phone,Electronics,156.85,ClassicBrand
+2370,Tablet Lite,Electronics,280.56,StyleBrand
+2371,Backpack Max,Bags,34.9,SportMax
+2372,Laptop,Electronics,223.03,ComfortWear
+2373,Backpack Plus,Bags,71.33,QualityPlus
+2374,Backpack Lite,Bags,86.96,ModernTech
+2375,T-shirt,Clothing,76.78,SportMax
+2376,Belt,Accessories,64.06,QualityPlus
+2377,Belt,Accessories,76.92,ElegantLife
+2378,Headphones Lite,Electronics,277.82,StyleBrand
+2379,Watch,Accessories,67.07,ModernTech
+2380,Laptop,Electronics,81.92,ModernTech
+2381,Dress Pro,Clothing,31.54,StyleBrand
+2382,Jeans,Clothing,38.52,ElegantLife
+2383,Tablet,Electronics,262.62,ElegantLife
+2384,Jewelry Mini,Accessories,14.11,TechCorp
+2385,Jewelry,Accessories,22.6,ModernTech
+2386,Laptop Mini,Electronics,174.57,ElegantLife
+2387,Jeans Lite,Clothing,78.15,QualityPlus
+2388,Camera,Electronics,199.11,ClassicBrand
+2389,Headphones Mini,Electronics,266.92,ComfortWear
+2390,Phone Plus,Electronics,138.24,ComfortWear
+2391,Jeans,Clothing,54.7,ComfortWear
+2392,Dress,Clothing,33.24,ElegantLife
+2393,Boots,Footwear,54.84,SportMax
+2394,Dress,Clothing,48.58,TrendyFashion
+2395,Socks,Accessories,10.5,ElegantLife
+2396,Tablet,Electronics,53.45,ComfortWear
+2397,Headphones Pro,Electronics,148.58,TechCorp
+2398,Belt Plus,Accessories,13.3,ComfortWear
+2399,Socks,Accessories,19.72,ClassicBrand
+2400,Tablet,Electronics,202.49,TechCorp
+2401,Book,Media,25.06,ClassicBrand
+2402,Jacket Pro,Outerwear,131.53,ComfortWear
+2403,Backpack Lite,Bags,73.7,SportMax
+2404,Camera,Electronics,182.07,SportMax
+2405,Perfume,Beauty,56.93,UrbanStyle
+2406,T-shirt,Clothing,40.81,TrendyFashion
+2407,Socks,Accessories,17.84,ModernTech
+2408,Belt,Accessories,65.54,ClassicBrand
+2409,Watch Pro,Accessories,20.25,TechCorp
+2410,Laptop,Electronics,205.35,ElegantLife
+2411,Jacket Pro,Outerwear,121.19,ElegantLife
+2412,Headphones,Electronics,443.4,ClassicBrand
+2413,Dress,Clothing,47.08,QualityPlus
+2414,Watch,Accessories,73.2,TechCorp
+2415,Headphones,Electronics,496.77,ElegantLife
+2416,Perfume Pro,Beauty,20.92,ComfortWear
+2417,Boots,Footwear,62.97,ElegantLife
+2418,Sneakers,Footwear,77.35,TrendyFashion
+2419,Laptop,Electronics,239.82,StyleBrand
+2420,Socks,Accessories,46.99,UrbanStyle
+2421,Laptop Lite,Electronics,458.42,StyleBrand
+2422,Socks,Accessories,74.26,ModernTech
+2423,Boots Max,Footwear,102.95,ComfortWear
+2424,Phone,Electronics,189.22,SportMax
+2425,Jewelry,Accessories,84.14,ComfortWear
+2426,Jacket,Outerwear,192.81,ElegantLife
+2427,Tablet,Electronics,419.54,ClassicBrand
+2428,Tablet,Electronics,50.7,SportMax
+2429,Phone,Electronics,336.38,StyleBrand
+2430,Sunglasses Max,Accessories,14.6,QualityPlus
+2431,Sneakers,Footwear,60.91,TechCorp
+2432,Headphones,Electronics,76.79,UrbanStyle
+2433,Hat,Accessories,64.34,ClassicBrand
+2434,Camera Max,Electronics,358.97,StyleBrand
+2435,Sneakers,Footwear,43.74,ClassicBrand
+2436,Hat,Accessories,44.55,SportMax
+2437,Camera Pro,Electronics,255.31,ModernTech
+2438,Book,Media,14.23,StyleBrand
+2439,Camera,Electronics,104.46,StyleBrand
+2440,Phone,Electronics,238.53,StyleBrand
+2441,Perfume,Beauty,48.8,SportMax
+2442,Perfume,Beauty,18.2,StyleBrand
+2443,T-shirt,Clothing,20.21,StyleBrand
+2444,Headphones,Electronics,209.65,ComfortWear
+2445,Laptop Plus,Electronics,473.78,TechCorp
+2446,Watch,Accessories,70.17,QualityPlus
+2447,Headphones,Electronics,355.4,QualityPlus
+2448,Watch Pro,Accessories,42.57,ComfortWear
+2449,Jewelry,Accessories,63.43,SportMax
+2450,Jacket,Outerwear,41.62,ModernTech
+2451,T-shirt Lite,Clothing,56.35,ModernTech
+2452,Tablet,Electronics,460.98,ClassicBrand
+2453,Jewelry,Accessories,65.13,ClassicBrand
+2454,Jewelry,Accessories,88.63,ElegantLife
+2455,Laptop Lite,Electronics,375.79,SportMax
+2456,T-shirt Pro,Clothing,22.84,UrbanStyle
+2457,Backpack Lite,Bags,110.73,TechCorp
+2458,Belt,Accessories,15.98,ModernTech
+2459,Book Max,Media,18.35,UrbanStyle
+2460,Hat,Accessories,22.79,ClassicBrand
+2461,Jacket,Outerwear,41.87,ComfortWear
+2462,Headphones,Electronics,239.92,ClassicBrand
+2463,Headphones Plus,Electronics,182.77,QualityPlus
+2464,Perfume Pro,Beauty,36.87,ModernTech
+2465,Jacket,Outerwear,132.35,ModernTech
+2466,Tablet,Electronics,69.68,QualityPlus
+2467,Book Max,Media,8.08,SportMax
+2468,Tablet,Electronics,301.39,TrendyFashion
+2469,Jewelry Pro,Accessories,40.89,ClassicBrand
+2470,Camera,Electronics,378.13,TechCorp
+2471,Watch Max,Accessories,68.71,TrendyFashion
+2472,Tablet,Electronics,430.52,StyleBrand
+2473,Sunglasses,Accessories,72.32,ClassicBrand
+2474,T-shirt Lite,Clothing,42.95,ComfortWear
+2475,Tablet,Electronics,352.83,ElegantLife
+2476,Camera,Electronics,173.92,UrbanStyle
+2477,Watch,Accessories,37.57,QualityPlus
+2478,Headphones,Electronics,405.04,ComfortWear
+2479,Laptop,Electronics,250.89,ModernTech
+2480,Sunglasses,Accessories,81.85,ClassicBrand
+2481,Socks Pro,Accessories,84.02,QualityPlus
+2482,Tablet Lite,Electronics,435.9,ComfortWear
+2483,Jewelry Max,Accessories,92.5,ClassicBrand
+2484,Tablet Mini,Electronics,243.94,SportMax
+2485,Jeans,Clothing,35.73,TechCorp
+2486,Dress,Clothing,52.84,ElegantLife
+2487,Socks Pro,Accessories,43.41,TrendyFashion
+2488,Watch Lite,Accessories,64.1,ModernTech
+2489,Jacket Plus,Outerwear,152.89,TrendyFashion
+2490,Watch,Accessories,71.96,ElegantLife
+2491,Book,Media,14.36,SportMax
+2492,Camera,Electronics,125.09,QualityPlus
+2493,Jeans,Clothing,42.98,ClassicBrand
+2494,Jacket,Outerwear,62.82,StyleBrand
+2495,Jewelry,Accessories,90.11,StyleBrand
+2496,Jeans Pro,Clothing,37.48,TrendyFashion
+2497,Backpack Plus,Bags,39.67,ElegantLife
+2498,Headphones,Electronics,61.45,TrendyFashion
+2499,Jacket,Outerwear,143.33,ComfortWear
+2500,Watch Lite,Accessories,67.32,ComfortWear
+2501,Headphones,Electronics,203.27,ModernTech
+2502,T-shirt,Clothing,19.66,UrbanStyle
+2503,Tablet Lite,Electronics,234.33,ElegantLife
+2504,Sneakers,Footwear,67.35,SportMax
+2505,Phone,Electronics,354.7,ElegantLife
+2506,Belt,Accessories,64.52,ComfortWear
+2507,Camera,Electronics,214.07,ModernTech
+2508,Hat,Accessories,29.61,ModernTech
+2509,Phone,Electronics,494.62,ClassicBrand
+2510,Camera,Electronics,254.3,ElegantLife
+2511,Headphones,Electronics,359.72,ComfortWear
+2512,Camera Plus,Electronics,113.25,StyleBrand
+2513,Laptop,Electronics,268.52,ComfortWear
+2514,Laptop,Electronics,62.39,TechCorp
+2515,Hat Mini,Accessories,55.49,QualityPlus
+2516,Boots,Footwear,145.68,ModernTech
+2517,Book,Media,14.61,SportMax
+2518,Watch Plus,Accessories,13.51,ElegantLife
+2519,Camera,Electronics,63.93,QualityPlus
+2520,Laptop,Electronics,224.59,ClassicBrand
+2521,Book,Media,9.0,QualityPlus
+2522,Headphones,Electronics,60.51,ElegantLife
+2523,Laptop,Electronics,390.3,UrbanStyle
+2524,Sneakers,Footwear,85.02,TechCorp
+2525,Laptop,Electronics,180.16,ComfortWear
+2526,Book Mini,Media,27.5,SportMax
+2527,Book,Media,7.9,SportMax
+2528,Socks Mini,Accessories,96.03,TechCorp
+2529,Perfume Plus,Beauty,29.13,SportMax
+2530,Phone Pro,Electronics,449.78,TrendyFashion
+2531,Sunglasses,Accessories,64.26,SportMax
+2532,Sunglasses Pro,Accessories,84.4,StyleBrand
+2533,Headphones,Electronics,492.81,SportMax
+2534,T-shirt,Clothing,33.75,ClassicBrand
+2535,Belt,Accessories,96.5,QualityPlus
+2536,Book Plus,Media,14.74,QualityPlus
+2537,Boots,Footwear,76.26,QualityPlus
+2538,Laptop,Electronics,203.17,TrendyFashion
+2539,Jacket,Outerwear,126.63,ElegantLife
+2540,Backpack,Bags,39.64,ElegantLife
+2541,Hat,Accessories,59.83,ModernTech
+2542,Sneakers Lite,Footwear,95.0,StyleBrand
+2543,Tablet,Electronics,392.86,UrbanStyle
+2544,Sunglasses,Accessories,85.03,TrendyFashion
+2545,Book,Media,16.01,TrendyFashion
+2546,Dress,Clothing,34.65,QualityPlus
+2547,Phone,Electronics,166.7,ClassicBrand
+2548,Tablet,Electronics,137.58,ModernTech
+2549,Hat Max,Accessories,15.19,TrendyFashion
+2550,Hat,Accessories,40.82,TrendyFashion
+2551,Jacket,Outerwear,83.24,UrbanStyle
+2552,Jeans,Clothing,77.82,ComfortWear
+2553,Sunglasses,Accessories,60.19,StyleBrand
+2554,Phone Mini,Electronics,206.27,StyleBrand
+2555,Boots,Footwear,99.66,TechCorp
+2556,Jacket,Outerwear,62.27,ElegantLife
+2557,Sunglasses Pro,Accessories,49.96,SportMax
+2558,Hat,Accessories,66.36,ComfortWear
+2559,Phone,Electronics,270.0,TechCorp
+2560,Boots Max,Footwear,78.21,SportMax
+2561,T-shirt,Clothing,79.6,StyleBrand
+2562,Sneakers,Footwear,135.64,TechCorp
+2563,Perfume,Beauty,43.05,SportMax
+2564,Watch,Accessories,61.24,ModernTech
+2565,Jewelry,Accessories,65.86,ComfortWear
+2566,Camera,Electronics,140.59,ClassicBrand
+2567,Headphones,Electronics,227.81,ComfortWear
+2568,Watch,Accessories,13.55,StyleBrand
+2569,Jewelry,Accessories,52.8,ModernTech
+2570,Laptop,Electronics,294.36,ElegantLife
+2571,Headphones,Electronics,152.49,SportMax
+2572,Socks,Accessories,96.76,TechCorp
+2573,Boots,Footwear,139.13,TrendyFashion
+2574,Book Mini,Media,23.05,StyleBrand
+2575,Book,Media,18.33,QualityPlus
+2576,Perfume Max,Beauty,54.15,TrendyFashion
+2577,Camera Mini,Electronics,108.79,TechCorp
+2578,Socks Lite,Accessories,81.15,TechCorp
+2579,Belt,Accessories,21.23,QualityPlus
+2580,Book,Media,24.86,QualityPlus
+2581,Perfume,Beauty,27.41,TechCorp
+2582,T-shirt,Clothing,72.01,ElegantLife
+2583,Phone,Electronics,474.82,TechCorp
+2584,Watch Pro,Accessories,23.39,ModernTech
+2585,Jacket Lite,Outerwear,114.03,TrendyFashion
+2586,Socks,Accessories,98.29,SportMax
+2587,Hat,Accessories,53.51,SportMax
+2588,Socks,Accessories,87.72,TechCorp
+2589,Watch Pro,Accessories,62.99,ComfortWear
+2590,Boots Lite,Footwear,75.04,ModernTech
+2591,Phone Pro,Electronics,178.6,ElegantLife
+2592,Jeans Mini,Clothing,28.21,UrbanStyle
+2593,Perfume,Beauty,49.28,UrbanStyle
+2594,Camera,Electronics,223.94,ModernTech
+2595,Dress,Clothing,48.23,TechCorp
+2596,Book Pro,Media,17.31,ModernTech
+2597,Phone,Electronics,309.78,UrbanStyle
+2598,T-shirt,Clothing,71.26,SportMax
+2599,Perfume Mini,Beauty,59.13,StyleBrand
+2600,Hat,Accessories,46.68,SportMax
+2601,Headphones,Electronics,422.38,StyleBrand
+2602,Camera,Electronics,394.04,UrbanStyle
+2603,Hat,Accessories,61.62,ElegantLife
+2604,Socks,Accessories,96.04,UrbanStyle
+2605,Phone,Electronics,140.21,TrendyFashion
+2606,T-shirt,Clothing,22.1,ClassicBrand
+2607,Jewelry,Accessories,86.86,SportMax
+2608,Socks Max,Accessories,49.52,TechCorp
+2609,Dress Max,Clothing,70.05,QualityPlus
+2610,Sunglasses,Accessories,90.38,UrbanStyle
+2611,Camera Mini,Electronics,78.11,SportMax
+2612,Perfume,Beauty,54.76,StyleBrand
+2613,Laptop,Electronics,251.74,StyleBrand
+2614,Book,Media,17.76,SportMax
+2615,Backpack,Bags,84.53,QualityPlus
+2616,Watch,Accessories,93.37,ElegantLife
+2617,Headphones Plus,Electronics,58.6,SportMax
+2618,Watch,Accessories,52.92,UrbanStyle
+2619,Jewelry Lite,Accessories,71.89,ElegantLife
+2620,T-shirt,Clothing,61.98,QualityPlus
+2621,T-shirt,Clothing,60.01,ComfortWear
+2622,Tablet,Electronics,110.5,ModernTech
+2623,Sneakers Max,Footwear,65.93,TrendyFashion
+2624,Jacket,Outerwear,97.39,ElegantLife
+2625,Laptop,Electronics,412.0,QualityPlus
+2626,Socks Plus,Accessories,35.09,TechCorp
+2627,Backpack Pro,Bags,45.02,ClassicBrand
+2628,Dress Mini,Clothing,77.23,ElegantLife
+2629,Boots Max,Footwear,31.06,UrbanStyle
+2630,Sunglasses Mini,Accessories,99.8,TechCorp
+2631,Backpack Max,Bags,89.3,TechCorp
+2632,Jacket,Outerwear,172.56,SportMax
+2633,Tablet,Electronics,182.58,ComfortWear
+2634,Perfume,Beauty,15.64,QualityPlus
+2635,Sneakers Pro,Footwear,118.54,QualityPlus
+2636,Hat,Accessories,85.07,SportMax
+2637,Belt,Accessories,76.64,TrendyFashion
+2638,Dress,Clothing,24.29,UrbanStyle
+2639,T-shirt,Clothing,63.97,TrendyFashion
+2640,Book Max,Media,24.22,ClassicBrand
+2641,Jeans,Clothing,57.81,ElegantLife
+2642,Phone Mini,Electronics,394.75,SportMax
+2643,Headphones,Electronics,430.66,ClassicBrand
+2644,Jeans Max,Clothing,54.88,UrbanStyle
+2645,Book,Media,7.22,ClassicBrand
+2646,Laptop,Electronics,269.43,UrbanStyle
+2647,Perfume,Beauty,18.49,TechCorp
+2648,Belt,Accessories,46.68,ModernTech
+2649,Belt Plus,Accessories,46.64,UrbanStyle
+2650,Sneakers Max,Footwear,37.92,StyleBrand
+2651,T-shirt,Clothing,37.67,QualityPlus
+2652,Watch Max,Accessories,19.99,SportMax
+2653,Belt,Accessories,82.74,ElegantLife
+2654,Watch,Accessories,95.29,TrendyFashion
+2655,Sneakers,Footwear,38.68,QualityPlus
+2656,Jacket,Outerwear,192.82,ClassicBrand
+2657,Sneakers,Footwear,92.71,TechCorp
+2658,Laptop,Electronics,184.8,ElegantLife
+2659,Sneakers Max,Footwear,39.22,ComfortWear
+2660,Jeans,Clothing,47.54,SportMax
+2661,Phone Pro,Electronics,407.53,StyleBrand
+2662,Book Max,Media,22.68,TechCorp
+2663,Laptop,Electronics,72.6,StyleBrand
+2664,Phone,Electronics,82.81,UrbanStyle
+2665,Jewelry,Accessories,46.26,TechCorp
+2666,Headphones,Electronics,182.88,ModernTech
+2667,Jewelry,Accessories,30.91,StyleBrand
+2668,T-shirt,Clothing,33.27,ClassicBrand
+2669,Perfume Pro,Beauty,51.16,UrbanStyle
+2670,Jewelry,Accessories,93.63,StyleBrand
+2671,Backpack Mini,Bags,63.48,QualityPlus
+2672,Dress,Clothing,73.9,ElegantLife
+2673,Jewelry Lite,Accessories,38.93,ClassicBrand
+2674,Jeans Mini,Clothing,45.97,TechCorp
+2675,Phone,Electronics,151.71,TrendyFashion
+2676,Sunglasses,Accessories,67.64,SportMax
+2677,Book Plus,Media,29.47,ComfortWear
+2678,Jewelry Pro,Accessories,64.31,ElegantLife
+2679,Camera,Electronics,211.02,QualityPlus
+2680,Hat Mini,Accessories,68.3,TechCorp
+2681,Jeans,Clothing,22.99,ModernTech
+2682,Backpack,Bags,109.42,UrbanStyle
+2683,Watch,Accessories,55.28,UrbanStyle
+2684,Headphones,Electronics,252.21,QualityPlus
+2685,Perfume,Beauty,41.36,QualityPlus
+2686,Jewelry,Accessories,66.23,SportMax
+2687,Socks,Accessories,16.46,StyleBrand
+2688,Jeans Pro,Clothing,59.37,ClassicBrand
+2689,Belt,Accessories,31.77,UrbanStyle
+2690,Backpack,Bags,92.83,UrbanStyle
+2691,Watch Lite,Accessories,84.03,ModernTech
+2692,T-shirt Plus,Clothing,67.26,ElegantLife
+2693,T-shirt Plus,Clothing,50.91,TrendyFashion
+2694,Headphones,Electronics,284.08,UrbanStyle
+2695,Sunglasses,Accessories,22.86,TechCorp
+2696,Backpack Lite,Bags,98.66,UrbanStyle
+2697,Dress,Clothing,32.64,ComfortWear
+2698,Book Pro,Media,17.42,UrbanStyle
+2699,Socks,Accessories,35.58,SportMax
+2700,T-shirt,Clothing,23.7,ComfortWear
+2701,Jacket,Outerwear,140.73,ElegantLife
+2702,Boots Plus,Footwear,36.52,ClassicBrand
+2703,Socks,Accessories,77.38,TrendyFashion
+2704,Jewelry,Accessories,38.58,ModernTech
+2705,Sneakers Lite,Footwear,30.02,StyleBrand
+2706,Backpack,Bags,73.56,UrbanStyle
+2707,Sunglasses,Accessories,14.22,ElegantLife
+2708,Belt,Accessories,34.86,TechCorp
+2709,Perfume,Beauty,46.81,UrbanStyle
+2710,Boots,Footwear,37.52,ComfortWear
+2711,Jeans,Clothing,69.56,SportMax
+2712,Camera,Electronics,51.72,QualityPlus
+2713,Backpack,Bags,48.45,StyleBrand
+2714,Jewelry Max,Accessories,76.68,StyleBrand
+2715,Camera,Electronics,192.32,ElegantLife
+2716,Headphones,Electronics,95.85,ComfortWear
+2717,Sunglasses,Accessories,42.42,TrendyFashion
+2718,Tablet Max,Electronics,171.68,ClassicBrand
+2719,Perfume Lite,Beauty,52.92,TechCorp
+2720,Headphones,Electronics,191.01,UrbanStyle
+2721,Boots,Footwear,124.67,ModernTech
+2722,Perfume,Beauty,55.13,ComfortWear
+2723,Sunglasses,Accessories,49.04,SportMax
+2724,Hat Mini,Accessories,91.89,StyleBrand
+2725,Sunglasses,Accessories,43.96,UrbanStyle
+2726,Headphones,Electronics,483.84,TrendyFashion
+2727,Phone,Electronics,90.18,ClassicBrand
+2728,Phone,Electronics,359.16,ElegantLife
+2729,Watch,Accessories,54.44,SportMax
+2730,Socks Pro,Accessories,44.89,ClassicBrand
+2731,Sunglasses Mini,Accessories,66.94,StyleBrand
+2732,Camera,Electronics,366.74,TrendyFashion
+2733,Dress Pro,Clothing,15.28,UrbanStyle
+2734,Sunglasses,Accessories,25.03,TechCorp
+2735,Watch,Accessories,74.17,UrbanStyle
+2736,Dress,Clothing,58.32,SportMax
+2737,Dress,Clothing,77.79,UrbanStyle
+2738,Hat,Accessories,78.49,TrendyFashion
+2739,T-shirt Plus,Clothing,76.8,SportMax
+2740,Laptop,Electronics,366.14,ModernTech
+2741,T-shirt,Clothing,34.37,ClassicBrand
+2742,Hat Lite,Accessories,19.48,ModernTech
+2743,Tablet,Electronics,401.82,UrbanStyle
+2744,Book,Media,21.1,ClassicBrand
+2745,Headphones,Electronics,71.68,ElegantLife
+2746,Watch,Accessories,42.4,UrbanStyle
+2747,Phone,Electronics,480.56,UrbanStyle
+2748,Book,Media,17.51,TechCorp
+2749,Perfume,Beauty,34.47,ComfortWear
+2750,T-shirt,Clothing,44.75,ClassicBrand
+2751,Sunglasses Max,Accessories,28.8,ElegantLife
+2752,Laptop Mini,Electronics,215.92,TrendyFashion
+2753,T-shirt,Clothing,39.04,QualityPlus
+2754,Hat,Accessories,14.71,ComfortWear
+2755,Watch,Accessories,79.08,QualityPlus
+2756,Jewelry,Accessories,47.49,QualityPlus
+2757,Laptop Max,Electronics,419.98,ModernTech
+2758,Sneakers,Footwear,132.04,TrendyFashion
+2759,Tablet,Electronics,145.4,StyleBrand
+2760,Headphones Pro,Electronics,345.81,SportMax
+2761,Book Mini,Media,16.81,ComfortWear
+2762,Tablet Pro,Electronics,446.07,TechCorp
+2763,Laptop Plus,Electronics,147.08,SportMax
+2764,Camera,Electronics,355.02,StyleBrand
+2765,Sunglasses Plus,Accessories,64.7,TrendyFashion
+2766,Phone Pro,Electronics,182.89,ModernTech
+2767,Hat,Accessories,22.29,TrendyFashion
+2768,Sneakers,Footwear,108.2,ModernTech
+2769,Backpack,Bags,95.17,ComfortWear
+2770,Boots,Footwear,67.88,ModernTech
+2771,Tablet,Electronics,340.17,ComfortWear
+2772,Boots Max,Footwear,77.42,QualityPlus
+2773,Dress Lite,Clothing,61.36,UrbanStyle
+2774,Headphones,Electronics,139.65,StyleBrand
+2775,Jewelry,Accessories,90.12,UrbanStyle
+2776,Perfume,Beauty,27.93,ClassicBrand
+2777,Perfume,Beauty,31.55,TechCorp
+2778,Boots,Footwear,36.97,ClassicBrand
+2779,Boots,Footwear,43.38,ModernTech
+2780,Socks Mini,Accessories,56.43,ModernTech
+2781,Phone,Electronics,170.42,ClassicBrand
+2782,Socks Pro,Accessories,85.19,QualityPlus
+2783,Belt Mini,Accessories,11.32,ComfortWear
+2784,Boots,Footwear,75.49,StyleBrand
+2785,Backpack,Bags,57.05,ClassicBrand
+2786,Book,Media,5.48,StyleBrand
+2787,Sneakers,Footwear,44.92,StyleBrand
+2788,Watch,Accessories,47.23,ModernTech
+2789,Dress,Clothing,47.04,UrbanStyle
+2790,Headphones Max,Electronics,231.93,TechCorp
+2791,Laptop,Electronics,288.92,ElegantLife
+2792,Backpack Plus,Bags,81.54,ModernTech
+2793,Jacket,Outerwear,41.59,ComfortWear
+2794,Headphones,Electronics,258.84,ClassicBrand
+2795,Sneakers,Footwear,145.62,TrendyFashion
+2796,Headphones,Electronics,283.56,ComfortWear
+2797,Dress Pro,Clothing,59.04,ComfortWear
+2798,Jewelry Pro,Accessories,38.07,StyleBrand
+2799,Book Pro,Media,24.35,ModernTech
+2800,Dress,Clothing,65.24,ComfortWear
+2801,Socks,Accessories,56.92,UrbanStyle
+2802,Book,Media,29.4,UrbanStyle
+2803,Jeans,Clothing,23.16,TrendyFashion
+2804,Jacket,Outerwear,42.71,ModernTech
+2805,Headphones,Electronics,396.57,TechCorp
+2806,Jeans,Clothing,67.47,ModernTech
+2807,Belt,Accessories,20.82,ElegantLife
+2808,Backpack Pro,Bags,50.23,StyleBrand
+2809,T-shirt,Clothing,16.14,ElegantLife
+2810,Sneakers,Footwear,65.2,UrbanStyle
+2811,Jacket,Outerwear,163.7,ComfortWear
+2812,Jeans,Clothing,48.67,ModernTech
+2813,Watch,Accessories,41.33,ElegantLife
+2814,Backpack Mini,Bags,60.32,QualityPlus
+2815,Laptop Lite,Electronics,50.61,ModernTech
+2816,Jacket,Outerwear,87.97,ElegantLife
+2817,T-shirt,Clothing,57.02,ModernTech
+2818,T-shirt Lite,Clothing,78.32,ModernTech
+2819,Sneakers,Footwear,131.65,SportMax
+2820,Sunglasses Lite,Accessories,12.12,TechCorp
+2821,Phone,Electronics,454.35,SportMax
+2822,Tablet,Electronics,402.44,StyleBrand
+2823,Perfume Pro,Beauty,50.12,ComfortWear
+2824,Jewelry,Accessories,51.22,ElegantLife
+2825,Laptop,Electronics,229.1,ComfortWear
+2826,Watch Pro,Accessories,37.26,ClassicBrand
+2827,Jewelry,Accessories,15.91,QualityPlus
+2828,Camera,Electronics,152.71,UrbanStyle
+2829,T-shirt Pro,Clothing,31.03,UrbanStyle
+2830,Boots,Footwear,88.09,UrbanStyle
+2831,Belt Lite,Accessories,77.27,QualityPlus
+2832,Sunglasses Lite,Accessories,52.64,ClassicBrand
+2833,Laptop,Electronics,76.03,UrbanStyle
+2834,Belt,Accessories,96.2,QualityPlus
+2835,Headphones Plus,Electronics,474.23,ElegantLife
+2836,Jeans,Clothing,66.04,TrendyFashion
+2837,Phone,Electronics,496.1,SportMax
+2838,Belt,Accessories,59.0,ElegantLife
+2839,Backpack Lite,Bags,116.46,TrendyFashion
+2840,Belt,Accessories,16.8,QualityPlus
+2841,Camera Pro,Electronics,214.56,ElegantLife
+2842,Sneakers Lite,Footwear,57.05,ClassicBrand
+2843,Jeans,Clothing,27.73,ComfortWear
+2844,Hat Mini,Accessories,22.67,StyleBrand
+2845,Backpack,Bags,84.13,UrbanStyle
+2846,Phone,Electronics,401.59,ClassicBrand
+2847,Backpack,Bags,79.94,UrbanStyle
+2848,Jewelry,Accessories,23.23,UrbanStyle
+2849,Perfume,Beauty,51.5,ClassicBrand
+2850,Backpack,Bags,85.42,SportMax
+2851,Tablet,Electronics,224.67,StyleBrand
+2852,Sunglasses,Accessories,70.67,ModernTech
+2853,Tablet,Electronics,166.96,ClassicBrand
+2854,Jewelry,Accessories,41.07,ModernTech
+2855,Tablet,Electronics,462.87,TechCorp
+2856,Phone,Electronics,180.73,StyleBrand
+2857,Boots,Footwear,86.4,QualityPlus
+2858,Book Max,Media,27.25,ComfortWear
+2859,Boots Mini,Footwear,114.93,ClassicBrand
+2860,Jewelry Lite,Accessories,15.6,ClassicBrand
+2861,Tablet Lite,Electronics,116.29,UrbanStyle
+2862,T-shirt,Clothing,15.51,TechCorp
+2863,Sunglasses,Accessories,66.78,ClassicBrand
+2864,Phone,Electronics,251.45,ModernTech
+2865,Sunglasses,Accessories,22.08,ModernTech
+2866,Perfume,Beauty,58.11,StyleBrand
+2867,Jeans,Clothing,49.43,StyleBrand
+2868,Perfume Max,Beauty,25.89,ComfortWear
+2869,Dress,Clothing,47.54,ElegantLife
+2870,Tablet,Electronics,355.83,ElegantLife
+2871,Laptop,Electronics,84.31,ModernTech
+2872,Belt Plus,Accessories,34.72,ClassicBrand
+2873,T-shirt Max,Clothing,67.45,ComfortWear
+2874,Hat Mini,Accessories,51.37,SportMax
+2875,Socks Pro,Accessories,59.19,TechCorp
+2876,Laptop,Electronics,244.77,ModernTech
+2877,Sneakers,Footwear,35.27,TrendyFashion
+2878,Phone,Electronics,124.59,ComfortWear
+2879,Dress,Clothing,43.96,SportMax
+2880,Book,Media,10.23,ModernTech
+2881,Phone Mini,Electronics,72.49,StyleBrand
+2882,Sunglasses Lite,Accessories,85.93,ComfortWear
+2883,Laptop Lite,Electronics,491.54,SportMax
+2884,Tablet Max,Electronics,406.91,TechCorp
+2885,Camera,Electronics,434.2,ModernTech
+2886,Phone Lite,Electronics,158.89,ComfortWear
+2887,Hat,Accessories,96.46,UrbanStyle
+2888,Camera,Electronics,138.62,StyleBrand
+2889,Backpack Lite,Bags,115.39,ComfortWear
+2890,Backpack,Bags,119.51,SportMax
+2891,Phone,Electronics,370.28,ClassicBrand
+2892,Jewelry,Accessories,98.3,StyleBrand
+2893,Socks Max,Accessories,61.26,StyleBrand
+2894,Jacket Pro,Outerwear,81.53,SportMax
+2895,Perfume,Beauty,34.66,UrbanStyle
+2896,Jacket Pro,Outerwear,134.97,TechCorp
+2897,Perfume Mini,Beauty,18.29,TechCorp
+2898,T-shirt,Clothing,55.45,ModernTech
+2899,Dress,Clothing,78.78,ClassicBrand
+2900,Watch,Accessories,27.11,QualityPlus
+2901,Sunglasses,Accessories,81.33,ElegantLife
+2902,Belt,Accessories,91.71,ElegantLife
+2903,Laptop Plus,Electronics,474.67,QualityPlus
+2904,Watch Max,Accessories,96.41,StyleBrand
+2905,Hat,Accessories,56.93,TechCorp
+2906,Camera,Electronics,489.79,SportMax
+2907,Belt,Accessories,78.16,ElegantLife
+2908,Tablet,Electronics,122.75,TrendyFashion
+2909,Backpack,Bags,70.31,TechCorp
+2910,Watch,Accessories,74.65,TechCorp
+2911,Jeans,Clothing,31.08,ElegantLife
+2912,Belt,Accessories,67.66,QualityPlus
+2913,Jewelry,Accessories,69.99,StyleBrand
+2914,Tablet,Electronics,123.21,StyleBrand
+2915,Boots Lite,Footwear,97.81,QualityPlus
+2916,Camera,Electronics,397.23,QualityPlus
+2917,Camera Pro,Electronics,274.5,TechCorp
+2918,Boots,Footwear,31.45,TrendyFashion
+2919,Headphones,Electronics,54.07,ComfortWear
+2920,Jacket,Outerwear,97.12,ClassicBrand
+2921,Belt Pro,Accessories,93.36,UrbanStyle
+2922,Jacket,Outerwear,76.59,ModernTech
+2923,T-shirt,Clothing,56.23,ComfortWear
+2924,Watch,Accessories,29.99,ModernTech
+2925,Belt,Accessories,38.95,SportMax
+2926,Jacket,Outerwear,175.69,ComfortWear
+2927,Tablet,Electronics,377.99,StyleBrand
+2928,Watch,Accessories,18.59,UrbanStyle
+2929,Jewelry,Accessories,48.58,StyleBrand
+2930,Laptop,Electronics,63.13,ModernTech
+2931,Book,Media,17.02,ModernTech
+2932,Belt Pro,Accessories,69.62,SportMax
+2933,Jacket,Outerwear,58.96,StyleBrand
+2934,Perfume,Beauty,28.0,UrbanStyle
+2935,Jacket,Outerwear,103.65,QualityPlus
+2936,Watch,Accessories,92.76,ModernTech
+2937,T-shirt Mini,Clothing,79.56,SportMax
+2938,Backpack,Bags,29.27,ModernTech
+2939,Watch,Accessories,78.49,ElegantLife
+2940,Hat,Accessories,43.46,TrendyFashion
+2941,Perfume Pro,Beauty,32.66,UrbanStyle
+2942,Book,Media,23.86,ClassicBrand
+2943,Boots,Footwear,140.21,UrbanStyle
+2944,Headphones,Electronics,477.92,ComfortWear
+2945,Hat,Accessories,61.94,TechCorp
+2946,Boots,Footwear,72.85,TrendyFashion
+2947,Jacket,Outerwear,166.01,SportMax
+2948,Perfume,Beauty,26.3,ClassicBrand
+2949,Backpack Max,Bags,78.59,ClassicBrand
+2950,Jeans Lite,Clothing,38.31,ElegantLife
+2951,Belt,Accessories,69.1,TechCorp
+2952,Socks,Accessories,31.64,ClassicBrand
+2953,Boots,Footwear,52.99,ComfortWear
+2954,Book,Media,27.96,ModernTech
+2955,Tablet,Electronics,95.81,ElegantLife
+2956,Laptop,Electronics,277.68,StyleBrand
+2957,Boots,Footwear,56.5,SportMax
+2958,Backpack,Bags,28.7,TrendyFashion
+2959,Hat,Accessories,13.24,ElegantLife
+2960,Perfume,Beauty,22.88,TechCorp
+2961,Boots,Footwear,134.01,ClassicBrand
+2962,Perfume,Beauty,27.71,ComfortWear
+2963,Tablet,Electronics,477.71,SportMax
+2964,Backpack,Bags,80.25,UrbanStyle
+2965,Backpack,Bags,66.48,TechCorp
+2966,Perfume,Beauty,41.1,StyleBrand
+2967,Hat,Accessories,56.5,ModernTech
+2968,Phone,Electronics,391.45,ComfortWear
+2969,Jacket,Outerwear,85.2,ElegantLife
+2970,Socks Mini,Accessories,41.77,TechCorp
+2971,Watch,Accessories,90.47,QualityPlus
+2972,Hat Pro,Accessories,95.18,ModernTech
+2973,Belt,Accessories,90.33,ModernTech
+2974,Jewelry,Accessories,47.75,ComfortWear
+2975,Laptop,Electronics,401.16,StyleBrand
+2976,Laptop,Electronics,264.35,SportMax
+2977,Headphones Pro,Electronics,273.89,ElegantLife
+2978,Sneakers,Footwear,54.56,StyleBrand
+2979,Camera Mini,Electronics,316.01,UrbanStyle
+2980,Perfume Pro,Beauty,23.38,ClassicBrand
+2981,Perfume,Beauty,29.92,ComfortWear
+2982,Phone,Electronics,434.76,SportMax
+2983,Jacket Mini,Outerwear,73.13,ElegantLife
+2984,Socks,Accessories,16.4,ModernTech
+2985,T-shirt,Clothing,19.49,ModernTech
+2986,Book,Media,28.52,TrendyFashion
+2987,Camera,Electronics,278.11,QualityPlus
+2988,Jacket,Outerwear,105.51,UrbanStyle
+2989,Jacket,Outerwear,169.74,ComfortWear
+2990,Socks,Accessories,85.22,TechCorp
+2991,Watch Mini,Accessories,39.9,StyleBrand
+2992,Backpack Plus,Bags,90.89,ComfortWear
+2993,Jeans,Clothing,65.12,StyleBrand
+2994,Camera,Electronics,344.59,SportMax
+2995,Book,Media,8.79,ComfortWear
+2996,T-shirt,Clothing,71.93,UrbanStyle
+2997,Camera,Electronics,292.59,SportMax
+2998,Headphones,Electronics,177.11,ComfortWear
+2999,Watch,Accessories,48.27,TrendyFashion
+3000,Sunglasses,Accessories,13.38,QualityPlus
+3001,Backpack,Bags,37.15,StyleBrand
+3002,Jeans Lite,Clothing,64.76,UrbanStyle
+3003,Boots,Footwear,30.0,UrbanStyle
+3004,Jewelry Plus,Accessories,47.49,TrendyFashion
+3005,Dress,Clothing,48.96,ComfortWear
+3006,Phone,Electronics,74.59,StyleBrand
+3007,Dress,Clothing,78.25,ModernTech
+3008,Socks,Accessories,30.35,ModernTech
+3009,Dress,Clothing,34.77,ModernTech
+3010,Hat Plus,Accessories,37.35,TrendyFashion
+3011,Backpack,Bags,46.89,ElegantLife
+3012,Camera Lite,Electronics,50.66,QualityPlus
+3013,Watch,Accessories,75.64,ModernTech
+3014,Jewelry Pro,Accessories,97.02,UrbanStyle
+3015,Book,Media,10.61,StyleBrand
+3016,Phone,Electronics,348.37,StyleBrand
+3017,Sneakers,Footwear,119.03,ElegantLife
+3018,Dress,Clothing,70.15,ComfortWear
+3019,Belt Max,Accessories,48.04,SportMax
+3020,Belt,Accessories,37.26,ModernTech
+3021,Jacket,Outerwear,92.05,ComfortWear
+3022,Boots,Footwear,115.51,QualityPlus
+3023,Tablet,Electronics,417.55,StyleBrand
+3024,Perfume,Beauty,23.17,SportMax
+3025,Jewelry,Accessories,43.38,StyleBrand
+3026,Socks,Accessories,91.17,ElegantLife
+3027,Laptop,Electronics,413.01,ComfortWear
+3028,Book,Media,29.62,TrendyFashion
+3029,Laptop,Electronics,389.41,ClassicBrand
+3030,Dress,Clothing,40.56,TechCorp
+3031,Hat Mini,Accessories,63.16,ComfortWear
+3032,Dress,Clothing,57.97,TechCorp
+3033,Sunglasses,Accessories,17.06,UrbanStyle
+3034,Phone Plus,Electronics,295.02,ClassicBrand
+3035,Headphones Max,Electronics,369.19,TrendyFashion
+3036,Camera,Electronics,125.29,UrbanStyle
+3037,Sneakers,Footwear,123.68,SportMax
+3038,Watch,Accessories,62.54,StyleBrand
+3039,Sneakers,Footwear,144.27,UrbanStyle
+3040,Socks Plus,Accessories,13.82,QualityPlus
+3041,Book,Media,11.63,ClassicBrand
+3042,T-shirt,Clothing,54.1,ModernTech
+3043,Hat,Accessories,36.69,ClassicBrand
+3044,Book,Media,22.86,StyleBrand
+3045,Jewelry,Accessories,78.31,UrbanStyle
+3046,T-shirt,Clothing,21.66,ModernTech
+3047,Sunglasses,Accessories,56.25,UrbanStyle
+3048,Camera Max,Electronics,279.0,QualityPlus
+3049,Socks,Accessories,43.24,TrendyFashion
+3050,Socks,Accessories,93.96,StyleBrand
+3051,Hat,Accessories,84.48,TrendyFashion
+3052,Jeans,Clothing,60.32,ModernTech
+3053,Socks,Accessories,74.29,ElegantLife
+3054,Watch,Accessories,51.55,UrbanStyle
+3055,Jacket Plus,Outerwear,187.36,SportMax
+3056,Dress Mini,Clothing,60.15,UrbanStyle
+3057,Laptop,Electronics,378.04,UrbanStyle
+3058,Camera,Electronics,437.76,TechCorp
+3059,Jewelry Pro,Accessories,34.67,ClassicBrand
+3060,Jewelry,Accessories,82.64,ClassicBrand
+3061,Sunglasses Lite,Accessories,27.57,StyleBrand
+3062,Laptop Max,Electronics,205.4,ElegantLife
+3063,Tablet Mini,Electronics,201.02,UrbanStyle
+3064,Hat Max,Accessories,98.07,ModernTech
+3065,T-shirt,Clothing,70.67,ComfortWear
+3066,Dress,Clothing,60.58,UrbanStyle
+3067,Sunglasses,Accessories,75.44,SportMax
+3068,Socks,Accessories,60.59,TrendyFashion
+3069,Jacket,Outerwear,191.53,ClassicBrand
+3070,Headphones Max,Electronics,273.32,ComfortWear
+3071,T-shirt,Clothing,39.73,ElegantLife
+3072,Backpack Pro,Bags,40.49,StyleBrand
+3073,Hat,Accessories,80.76,ModernTech
+3074,Watch Lite,Accessories,76.1,TechCorp
+3075,Tablet Max,Electronics,222.96,SportMax
+3076,Book,Media,5.63,ClassicBrand
+3077,Hat,Accessories,85.51,ElegantLife
+3078,Laptop,Electronics,55.14,TrendyFashion
+3079,Laptop Pro,Electronics,366.66,ComfortWear
+3080,T-shirt Mini,Clothing,78.07,ComfortWear
+3081,T-shirt Plus,Clothing,43.45,UrbanStyle
+3082,Phone,Electronics,155.74,QualityPlus
+3083,Phone Max,Electronics,367.19,ClassicBrand
+3084,Sneakers Lite,Footwear,128.06,ModernTech
+3085,Camera Pro,Electronics,295.89,ComfortWear
+3086,Dress,Clothing,77.86,UrbanStyle
+3087,Phone,Electronics,73.25,UrbanStyle
+3088,Jacket,Outerwear,120.77,TrendyFashion
+3089,Backpack,Bags,93.25,QualityPlus
+3090,Hat Max,Accessories,87.64,UrbanStyle
+3091,Jeans,Clothing,26.65,SportMax
+3092,Hat Lite,Accessories,82.0,ModernTech
+3093,Sneakers,Footwear,96.32,TechCorp
+3094,Camera,Electronics,228.45,SportMax
+3095,Belt,Accessories,21.85,UrbanStyle
+3096,Tablet,Electronics,439.38,TechCorp
+3097,Jeans Plus,Clothing,25.22,SportMax
+3098,Dress,Clothing,35.14,ElegantLife
+3099,Belt,Accessories,36.1,ElegantLife
+3100,Socks Plus,Accessories,88.43,TechCorp

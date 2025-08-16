@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classification de Fidélité</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+body {
+    background: linear-gradient(135deg, #eef2f7, #dce3f0);
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    color: #2c3e50;
+}
+
+/* Conteneur principal */
+.main-container {
+    background: #ffffff;
+    border-radius: 18px;
+    box-shadow: 0 10px 35px rgba(0,0,0,0.15);
+    padding: 2.5rem;
+    margin: 2rem auto;
+    max-width: 1200px;
+    transition: transform 0.2s ease;
+}
+.main-container:hover {
+    transform: translateY(-3px);
+}
+
+/* Titres */
+h1, h3 {
+    font-weight: 700;
+    color: #2c3e50;
+}
+
+/* Inputs et sélecteurs */
+.form-control, .form-select {
+    border-radius: 10px;
+    border: 1px solid #d1d5db;
+}
+.form-control:focus, .form-select:focus {
+    border-color: #4e73df;
+    box-shadow: 0 0 0 0.25rem rgba(78, 115, 223, 0.35);
+}
+
+/* Boutons */
+.btn-primary {
+    background: linear-gradient(90deg, #4e73df, #1cc88a);
+    border: none;
+    border-radius: 30px;
+    padding: 12px 30px;
+    transition: all 0.3s ease;
+}
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+}
+
+.btn-success {
+    background: linear-gradient(90deg, #1cc88a, #2ecc71);
+    border: none;
+    border-radius: 30px;
+    padding: 10px 25px;
+}
+.btn-success:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
+
+/* Cartes résultats */
+.result-card {
+    border-radius: 18px;
+    border: none;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+    padding: 2rem;
+    margin-bottom: 2rem;
+    background: #fdfdfd;
+}
+
+.loyal {
+    background: linear-gradient(120deg, #1cc88a, #27ae60);
+    color: white;
+}
+
+.non-loyal {
+    background: linear-gradient(120deg, #e74a3b, #c0392b);
+    color: white;
+}
+
+/* Table */
+table {
+    border-radius: 12px;
+    overflow: hidden;
+}
+thead.table-primary {
+    background: linear-gradient(90deg, #4e73df, #1cc88a);
+    color: white;
+}
+
+/* Cartes de recommandations */
+.card {
+    border-radius: 15px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+    background: #ffffff;
+    transition: transform 0.2s ease;
+}
+.card:hover {
+    transform: translateY(-4px);
+}
+
+/* Texte secondaire */
+.text-muted {
+    font-size: 0.95rem;
+    color: #6c757d !important;
+}
+
+/* Logo */
+.app-header {
+    display: flex;
+    align-items: center;
+    margin: 20px auto;
+    max-width: 1200px;
+}
+.app-header img {
+    height: 55px;
+    width: auto;
+    margin-right: 12px;
+}
+.logo-text {
+    font-size: 26px;
+    font-weight: bold;
+    background-image: linear-gradient(45deg, #4e73df, #89d6ba, #f8e36b);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header avec logo et nom de l'entreprise -->
+        <div class="app-header">
+            <img src="/static/images/hayrohy.png" alt="Logo HayRohy">
+            <h2 class="logo-text">HayRohy</h2>
+        </div>
+
+        <div class="main-container">
+            <div class="text-center mb-4">
+                <h1><i class="fas fa-chart-line text-primary"></i> Analyse de Fidélité Client</h1>
+                <p class="text-muted">Découvrez la fidélité de vos clients grâce à l'intelligence artificielle</p>
+            </div>
+
+            <!-- Formulaire -->
+            <form id="loyaltyForm">
+                <div class="row g-3 mb-4">
+                    <div class="col-md-3">
+                        <label for="age" class="form-label">Âge</label>
+                        <input type="number" class="form-control" id="age" min="0" max="100" required>
+                    </div>
+                    <div class="col-md-3">
+                        <label for="gender" class="form-label">Genre</label>
+                        <select class="form-select" id="gender" required>
+                            <option value="">Sélectionner...</option>
+                            <option value="Male">Homme</option>
+                            <option value="Female">Femme</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <label for="totalSpent" class="form-label">Total Dépensé ($)</label>
+                        <input type="number" class="form-control" id="totalSpent" min="0" step="0.01" required>
+                    </div>
+                    <div class="col-md-3">
+                        <label for="quantity" class="form-label">Quantité</label>
+                        <input type="number" class="form-control" id="quantity" min="0" required>
+                    </div>
+                </div>
+
+                <div class="row g-3 mb-4">
+                    <div class="col-md-3">
+                        <label for="channel" class="form-label">Canal</label>
+                        <select class="form-select" id="channel" required>
+                            <option value="">Sélectionner...</option>
+                            <option value="Email">Email</option>
+                            <option value="Social">Social</option>
+                            <option value="In-Store">En magasin</option>
+                            <option value="Online">En ligne</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <label for="category" class="form-label">Catégorie</label>
+                        <select class="form-select" id="category" required>
+                            <option value="">Sélectionner...</option>
+                            <option value="Bags">Sacs</option>
+                            <option value="Outerwear">Vêtements d'extérieur</option>
+                            <option value="Accessories">Accessoires</option>
+                            <option value="Footwear">Chaussures</option>
+                            <option value="Clothing">Vêtements</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <label for="cluster" class="form-label">Cluster</label>
+                        <select class="form-select" id="cluster" required>
+                            <option value="">Sélectionner...</option>
+                            <option value="0">0</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <label for="avgPrice" class="form-label">Prix Moyen ($)</label>
+                        <input type="number" class="form-control" id="avgPrice" min="0" step="0.01" required>
+                    </div>
+                </div>
+
+                <div class="text-center mb-4">
+                    <button type="submit" class="btn btn-primary btn-lg">
+                        <i class="fas fa-magic"></i> Analyser la Fidélité
+                    </button>
+                    <div class="loading">
+                        <div class="spinner-border" role="status"></div>
+                        <p class="mt-2">Analyse en cours...</p>
+                    </div>
+                </div>
+            </form>
+
+            <!-- Résultats -->
+            <div id="results" style="display: none;">
+                <div class="result-card text-center">
+                    <h3>📊 Résultats d'Analyse</h3>
+                    <div class="row text-center mt-3">
+                        <div class="col-md-3">
+                            <h5>Statut</h5>
+                            <span id="statusBadge" class="badge fs-6 p-2"></span>
+                        </div>
+                        <div class="col-md-3">
+                            <h5>Probabilité Fidélité</h5>
+                            <span id="probLoyalty" class="fs-4 fw-bold text-success"></span>
+                        </div>
+                        <div class="col-md-3">
+                            <h5>Probabilité Non-Fidélité</h5>
+                            <span id="probNonLoyalty" class="fs-4 fw-bold text-danger"></span>
+                        </div>
+                        <div class="col-md-3">
+                            <h5>Action Recommandée</h5>
+                            <span id="actionRecommended" class="badge bg-info fs-6 p-2"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-center mt-3">
+                    <button id="downloadReport" class="btn btn-success">
+                        <i class="fas fa-download"></i> Télécharger le Rapport PDF
+                    </button>
+                </div>
+            </div>
+
+            <!-- Visualisations -->
+            <div class="mt-5">
+                <h3 class="text-center mb-4">📈 Visualisations par Cluster</h3>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="chart-container">
+                            <h5>Dépenses Moyennes par Cluster</h5>
+                            <img id="spentChart" class="img-fluid mb-2" style="display:none;">
+                            <button id="loadSpentChart" class="btn btn-outline-primary btn-sm">Charger</button>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="chart-container">
+                            <h5>Âge Moyen par Cluster</h5>
+                            <img id="ageChart" class="img-fluid mb-2" style="display:none;">
+                            <button id="loadAgeChart" class="btn btn-outline-primary btn-sm">Charger</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Recommandations -->
+            <div class="mt-5">
+                <h3 class="text-center mb-4">💡 Recommandations par Cluster</h3>
+                <div id="recommendations" class="row g-3"></div>
+            </div>
+
+            <!-- Résumé des clusters -->
+            <div class="mt-5">
+                <h3 class="text-center mb-4">📋 Résumé des Clusters</h3>
+                <div class="table-responsive">
+                    <table id="clusterTable" class="table table-striped table-hover shadow-sm">
+                        <thead class="table-primary">
+                            <tr>
+                                <th>Cluster</th>
+                                <th>Nb clients</th>
+                                <th>Âge moyen</th>
+                                <th>Dépense moyenne ($)</th>
+                                <th>Dépense max ($)</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+    <script>
+        let currentPredictionData = null;
+
+        document.addEventListener('DOMContentLoaded', function() {
+            loadClusterSummary();
+            loadRecommendations();
+        });
+
+        document.getElementById('loyaltyForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+
+            const formData = {
+                Age: parseInt(document.getElementById('age').value),
+                Gender: document.getElementById('gender').value,
+                Total_Spent: parseFloat(document.getElementById('totalSpent').value),
+                Quantity: parseInt(document.getElementById('quantity').value),
+                Channel: document.getElementById('channel').value,
+                Category: document.getElementById('category').value,
+                Cluster: parseInt(document.getElementById('cluster').value),
+                Avg_Price: parseFloat(document.getElementById('avgPrice').value)
+            };
+
+            document.querySelector('.loading').style.display = 'block';
+            document.getElementById('results').style.display = 'none';
+
+            try {
+                const response = await fetch('/predict', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(formData)
+                });
+
+                if (response.ok) {
+                    const result = await response.json();
+                    currentPredictionData = formData;
+                    displayResults(result);
+                } else {
+                    const error = await response.json();
+                    alert('Erreur: ' + error.detail);
+                }
+            } catch (error) {
+                alert('Une erreur est survenue : ' + error);
+            } finally {
+                document.querySelector('.loading').style.display = 'none';
+            }
+        });
+
+        function displayResults(data) {
+            document.getElementById('results').style.display = 'block';
+            document.getElementById('statusBadge').textContent = data.status;
+            document.getElementById('probLoyalty').textContent = (data.prob_loyalty * 100).toFixed(2) + '%';
+            document.getElementById('probNonLoyalty').textContent = (data.prob_non_loyalty * 100).toFixed(2) + '%';
+            document.getElementById('actionRecommended').textContent = data.recommendation;
+            document.getElementById('statusBadge').className = 'badge fs-6 p-2 ' + (data.status === 'Fidèle' ? 'loyal' : 'non-loyal');
+        }
+
+        async function loadClusterSummary() {
+            const res = await fetch('/cluster_summary');
+            if (res.ok) {
+                const data = await res.json();
+                const tbody = document.querySelector('#clusterTable tbody');
+                tbody.innerHTML = '';
+                data.forEach(row => {
+                    tbody.innerHTML += `
+                        <tr>
+                            <td>${row.Cluster}</td>
+                            <td>${row.Nb_clients}</td>
+                            <td>${row.Age_moyen}</td>
+                            <td>${row.Depense_moyenne}</td>
+                            <td>${row.Depense_max}</td>
+                        </tr>
+                    `;
+                });
+            }
+        }
+
+        async function loadRecommendations() {
+            const res = await fetch('/recommendations');
+            if (res.ok) {
+                const data = await res.json();
+                const container = document.getElementById('recommendations');
+                container.innerHTML = '';
+                data.forEach(rec => {
+                    container.innerHTML += `
+                        <div class="col-md-4">
+                            <div class="card p-3 mb-3">
+                                <h5>Cluster ${rec.cluster}</h5>
+                                <p>${rec.recommendation}</p>
+                            </div>
+                        </div>
+                    `;
+                });
+            }
+        }
+
+        document.getElementById('downloadReport').addEventListener('click', async () => {
+            if (currentPredictionData) {
+                const res = await fetch('/download_report', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(currentPredictionData)
+                });
+                if (res.ok) {
+                    const blob = await res.blob();
+                    const url = URL.createObjectURL(blob);
+                    const a = document.createElement('a');
+                    a.href = url;
+                    a.download = 'rapport_fidelite.pdf';
+                    a.click();
+                    URL.revokeObjectURL(url);
+                } else {
+                    alert('Erreur lors du téléchargement');
+                }
+            } else {
+                alert('Veuillez d\'abord effectuer une analyse.');
+            }
+        });
+                            
+        // Charger graphiques
+        document.getElementById('loadSpentChart').addEventListener('click', async () => {
+            const res = await fetch('/charts/spent.png');
+            if (res.ok) {
+                const blob = await res.blob();
+                const url = URL.createObjectURL(blob);
+                const img = document.getElementById('spentChart');
+                img.src = url;
+                img.style.display = 'block';
+                document.getElementById('loadSpentChart').style.display = 'none';
+            }
+        });
+
+        document.getElementById('loadAgeChart').addEventListener('click', async () => {
+            const res = await fetch('/charts/age.png');
+            if (res.ok) {
+                const blob = await res.blob();
+                const url = URL.createObjectURL(blob);
+                const img = document.getElementById('ageChart');
+                img.src = url;
+                img.style.display = 'block';
+                document.getElementById('loadAgeChart').style.display = 'none';
+            }
+        });
+    </script>
+</body>
+</html>
